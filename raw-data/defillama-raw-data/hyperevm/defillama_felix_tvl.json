@@ -1,34 +1,18 @@
 {
-  "id": "6015",
+  "id": "parent#felix",
   "name": "Felix",
-  "address": null,
-  "symbol": "-",
-  "url": "https://usefelix.xyz/borrow",
-  "description": "Felix is a synthetic dollar protocol on Hyperliquid L1",
-  "chain": "Hyperliquid",
+  "url": "https://usefelix.xyz",
+  "description": "Borrow against blue-chip collateral and earn native yield with the Felix stablecoin, feUSD",
   "logo": "https://icons.llama.fi/felix.jpg",
-  "audits": "2",
-  "audit_note": null,
   "gecko_id": null,
   "cmcId": null,
-  "category": "CDP",
-  "chains": [
-    "Hyperliquid"
-  ],
-  "module": "felix/index.js",
+  "chains": [],
   "twitter": "felixprotocol",
-  "forkedFrom": [
-    "Liquity V2"
-  ],
-  "oracles": [
-    "RedStone"
-  ],
-  "audit_links": [
-    "https://usefelix.gitbook.io/felix-docs/advanced/smart-contract-audits#felix-audits"
-  ],
-  "listedAt": 1744135586,
+  "currentChainTvls": {
+    "Hyperliquid L1": 231719675.15289998
+  },
   "chainTvls": {
-    "Hyperliquid": {
+    "Hyperliquid L1": {
       "tvl": [
         {
           "date": 1744070400,
@@ -171,8 +155,72 @@
           "totalLiquidityUSD": 188927913.22415
         },
         {
-          "date": 1747053575,
-          "totalLiquidityUSD": 185915397.32197
+          "date": 1747094400,
+          "totalLiquidityUSD": 183629675.79748
+        },
+        {
+          "date": 1747180800,
+          "totalLiquidityUSD": 189658005.62068
+        },
+        {
+          "date": 1747267200,
+          "totalLiquidityUSD": 175011723.898
+        },
+        {
+          "date": 1747353600,
+          "totalLiquidityUSD": 176512445.09095
+        },
+        {
+          "date": 1747440000,
+          "totalLiquidityUSD": 174337548.30703
+        },
+        {
+          "date": 1747526400,
+          "totalLiquidityUSD": 168133674.70989
+        },
+        {
+          "date": 1747612800,
+          "totalLiquidityUSD": 170633740.11973
+        },
+        {
+          "date": 1747699200,
+          "totalLiquidityUSD": 164618899.85304
+        },
+        {
+          "date": 1747785600,
+          "totalLiquidityUSD": 155779234.46142
+        },
+        {
+          "date": 1747872000,
+          "totalLiquidityUSD": 167559447.20838
+        },
+        {
+          "date": 1747958400,
+          "totalLiquidityUSD": 189960832.69026
+        },
+        {
+          "date": 1748044800,
+          "totalLiquidityUSD": 186805548.55708
+        },
+        {
+          "date": 1748131200,
+          "totalLiquidityUSD": 193416154.64553
+        },
+        {
+          "date": 1748217600,
+          "totalLiquidityUSD": 216078424.57714
+        },
+        {
+          "date": 1748304000,
+          "totalLiquidityUSD": 208681506.92546
+        },
+        {
+          "date": 1748390400,
+          "totalLiquidityUSD": 240883895.93120998
+        },
+        {
+          "date": 1748455463,
+          "totalLiquidityUSD": 231719675.15289998
         }
       ],
       "tokensInUsd": [
@@ -387,9 +435,117 @@
           }
         },
         {
-          "date": 1747053575,
+          "date": 1747094400,
           "tokens": {
-            "WHYPE": 185915397.32197
+            "WHYPE": 183629675.79748
+          }
+        },
+        {
+          "date": 1747180800,
+          "tokens": {
+            "WHYPE": 189658005.62068
+          }
+        },
+        {
+          "date": 1747267200,
+          "tokens": {
+            "WHYPE": 175011723.898
+          }
+        },
+        {
+          "date": 1747353600,
+          "tokens": {
+            "WHYPE": 176512445.09095
+          }
+        },
+        {
+          "date": 1747440000,
+          "tokens": {
+            "WHYPE": 174337548.30703
+          }
+        },
+        {
+          "date": 1747526400,
+          "tokens": {
+            "WHYPE": 168133674.70989
+          }
+        },
+        {
+          "date": 1747612800,
+          "tokens": {
+            "WHYPE": 170633740.11973
+          }
+        },
+        {
+          "date": 1747699200,
+          "tokens": {
+            "WHYPE": 164618899.85304
+          }
+        },
+        {
+          "date": 1747785600,
+          "tokens": {
+            "WHYPE": 155779234.46142
+          }
+        },
+        {
+          "date": 1747872000,
+          "tokens": {
+            "WHYPE": 161041241.35904,
+            "FEUBTC": 6518205.84934
+          }
+        },
+        {
+          "date": 1747958400,
+          "tokens": {
+            "WHYPE": 181700634.83662,
+            "FEUBTC": 8260197.85364
+          }
+        },
+        {
+          "date": 1748044800,
+          "tokens": {
+            "WHYPE": 178473383.89318,
+            "FEUBTC": 8332164.6639
+          }
+        },
+        {
+          "date": 1748131200,
+          "tokens": {
+            "WHYPE": 184995981.45641,
+            "FEUBTC": 8420173.18911
+          }
+        },
+        {
+          "date": 1748217600,
+          "tokens": {
+            "WHYPE": 207169003.3182,
+            "FEUBTC": 8909421.25894
+          }
+        },
+        {
+          "date": 1748304000,
+          "tokens": {
+            "WHYPE": 198877709.40456,
+            "FEUBTC": 9803797.5209
+          }
+        },
+        {
+          "date": 1748390400,
+          "tokens": {
+            "WHYPE": 195178126.92019,
+            "FEUBTC": 10150386.48837,
+            "USDE": 9546176.39306,
+            "USD\u20ae0": 26009206.1296
+          }
+        },
+        {
+          "date": 1748455463,
+          "tokens": {
+            "WHYPE": 184770460.96979,
+            "FEUBTC": 10985561.88311,
+            "USD\u20ae0": 26387669.27378,
+            "USDE": 9575983.02622
           }
         }
       ],
@@ -605,158 +761,446 @@
           }
         },
         {
-          "date": 1747053575,
+          "date": 1747094400,
           "tokens": {
-            "WHYPE": 7490547.83731
+            "WHYPE": 7449479.74838
+          }
+        },
+        {
+          "date": 1747180800,
+          "tokens": {
+            "WHYPE": 7348237.33517
+          }
+        },
+        {
+          "date": 1747267200,
+          "tokens": {
+            "WHYPE": 6939402.21642
+          }
+        },
+        {
+          "date": 1747353600,
+          "tokens": {
+            "WHYPE": 6731977.31087
+          }
+        },
+        {
+          "date": 1747440000,
+          "tokens": {
+            "WHYPE": 6456946.23359
+          }
+        },
+        {
+          "date": 1747526400,
+          "tokens": {
+            "WHYPE": 6469167.93805
+          }
+        },
+        {
+          "date": 1747612800,
+          "tokens": {
+            "WHYPE": 6315090.30791
+          }
+        },
+        {
+          "date": 1747699200,
+          "tokens": {
+            "WHYPE": 6259273.75867
+          }
+        },
+        {
+          "date": 1747785600,
+          "tokens": {
+            "WHYPE": 5878461.67779
+          }
+        },
+        {
+          "date": 1747872000,
+          "tokens": {
+            "WHYPE": 5698557.72679,
+            "FEUBTC": 59.40872
+          }
+        },
+        {
+          "date": 1747958400,
+          "tokens": {
+            "WHYPE": 5464680.74697,
+            "FEUBTC": 74.2877
+          }
+        },
+        {
+          "date": 1748044800,
+          "tokens": {
+            "WHYPE": 5423074.56376,
+            "FEUBTC": 77.11397
+          }
+        },
+        {
+          "date": 1748131200,
+          "tokens": {
+            "WHYPE": 5373104.31183,
+            "FEUBTC": 77.87227
+          }
+        },
+        {
+          "date": 1748217600,
+          "tokens": {
+            "WHYPE": 5354587.83454,
+            "FEUBTC": 81.65316
+          }
+        },
+        {
+          "date": 1748304000,
+          "tokens": {
+            "WHYPE": 5336133.87187,
+            "FEUBTC": 89.00245
+          }
+        },
+        {
+          "date": 1748390400,
+          "tokens": {
+            "WHYPE": 5396132.89799,
+            "FEUBTC": 93.21346,
+            "USDE": 9536639.7533,
+            "USD\u20ae0": 26009206.1296
+          }
+        },
+        {
+          "date": 1748455463,
+          "tokens": {
+            "WHYPE": 5369673.37895,
+            "FEUBTC": 101.94376,
+            "USD\u20ae0": 26389305.41071,
+            "USDE": 9566416.60961
           }
         }
       ]
     }
   },
-  "tvl": [
+  "tokens": [
     {
       "date": 1744070400,
-      "totalLiquidityUSD": 15412529.83502
+      "tokens": {
+        "WHYPE": 1370002.652
+      }
     },
     {
       "date": 1744156800,
-      "totalLiquidityUSD": 15352412.67954
+      "tokens": {
+        "WHYPE": 1363446.952
+      }
     },
     {
       "date": 1744243200,
-      "totalLiquidityUSD": 33315913.36786
+      "tokens": {
+        "WHYPE": 2451502.08741
+      }
     },
     {
       "date": 1744329600,
-      "totalLiquidityUSD": 50303410.71705
+      "tokens": {
+        "WHYPE": 3605979.26287
+      }
     },
     {
       "date": 1744416000,
-      "totalLiquidityUSD": 79809911.68572
+      "tokens": {
+        "WHYPE": 5057662.3375
+      }
     },
     {
       "date": 1744502400,
-      "totalLiquidityUSD": 84850837.59475
+      "tokens": {
+        "WHYPE": 5117662.0986
+      }
     },
     {
       "date": 1744588800,
-      "totalLiquidityUSD": 87604083.89674
+      "tokens": {
+        "WHYPE": 5619248.486
+      }
     },
     {
       "date": 1744675200,
-      "totalLiquidityUSD": 97216278.0411
+      "tokens": {
+        "WHYPE": 6137391.29047
+      }
     },
     {
       "date": 1744761600,
-      "totalLiquidityUSD": 95101808.20472
+      "tokens": {
+        "WHYPE": 6289802.12994
+      }
     },
     {
       "date": 1744848000,
-      "totalLiquidityUSD": 103577580.42377
+      "tokens": {
+        "WHYPE": 6597298.11616
+      }
     },
     {
       "date": 1744934400,
-      "totalLiquidityUSD": 121847425.02475
+      "tokens": {
+        "WHYPE": 7104806.12389
+      }
     },
     {
       "date": 1745020800,
-      "totalLiquidityUSD": 130984548.5784
+      "tokens": {
+        "WHYPE": 7759748.13853
+      }
     },
     {
       "date": 1745107200,
-      "totalLiquidityUSD": 151193783.88469
+      "tokens": {
+        "WHYPE": 8325648.89233
+      }
     },
     {
       "date": 1745193600,
-      "totalLiquidityUSD": 145142270.22422
+      "tokens": {
+        "WHYPE": 8308086.44672
+      }
     },
     {
       "date": 1745280000,
-      "totalLiquidityUSD": 150392026.35768
+      "tokens": {
+        "WHYPE": 8336586.82692
+      }
     },
     {
       "date": 1745366400,
-      "totalLiquidityUSD": 162554900.44872
+      "tokens": {
+        "WHYPE": 8497381.1003
+      }
     },
     {
       "date": 1745452800,
-      "totalLiquidityUSD": 158817192.77156
+      "tokens": {
+        "WHYPE": 8631369.17237
+      }
     },
     {
       "date": 1745539200,
-      "totalLiquidityUSD": 171527810.38311
+      "tokens": {
+        "WHYPE": 9023030.53041
+      }
     },
     {
       "date": 1745625600,
-      "totalLiquidityUSD": 166059808.22129
+      "tokens": {
+        "WHYPE": 9039728.26463
+      }
     },
     {
       "date": 1745712000,
-      "totalLiquidityUSD": 175892418.62348
+      "tokens": {
+        "WHYPE": 9723185.10909
+      }
     },
     {
       "date": 1745798400,
-      "totalLiquidityUSD": 168768121.75287
+      "tokens": {
+        "WHYPE": 9772328.99553
+      }
     },
     {
       "date": 1745884800,
-      "totalLiquidityUSD": 188268352.27176
+      "tokens": {
+        "WHYPE": 9961288.47999
+      }
     },
     {
       "date": 1745971200,
-      "totalLiquidityUSD": 185911027.92413
+      "tokens": {
+        "WHYPE": 10016757.97005
+      }
     },
     {
       "date": 1746057600,
-      "totalLiquidityUSD": 203786544.14573
+      "tokens": {
+        "WHYPE": 10199526.73402
+      }
     },
     {
       "date": 1746144000,
-      "totalLiquidityUSD": 181044087.33867
+      "tokens": {
+        "WHYPE": 8949287.55999
+      }
     },
     {
       "date": 1746230400,
-      "totalLiquidityUSD": 187139816.26253
+      "tokens": {
+        "WHYPE": 9031844.41421
+      }
     },
     {
       "date": 1746316800,
-      "totalLiquidityUSD": 189169911.58021
+      "tokens": {
+        "WHYPE": 9038218.42237
+      }
     },
     {
       "date": 1746403200,
-      "totalLiquidityUSD": 180526397.91963
+      "tokens": {
+        "WHYPE": 9094528.86245
+      }
     },
     {
       "date": 1746489600,
-      "totalLiquidityUSD": 185780560.76374
+      "tokens": {
+        "WHYPE": 9138246.96329
+      }
     },
     {
       "date": 1746576000,
-      "totalLiquidityUSD": 193402214.00702
+      "tokens": {
+        "WHYPE": 9192120.4376
+      }
     },
     {
       "date": 1746662400,
-      "totalLiquidityUSD": 193918171.77145
+      "tokens": {
+        "WHYPE": 9225412.54859
+      }
     },
     {
       "date": 1746748800,
-      "totalLiquidityUSD": 208496772.36968
+      "tokens": {
+        "WHYPE": 8944520.47918
+      }
     },
     {
       "date": 1746835200,
-      "totalLiquidityUSD": 222463092.69275
+      "tokens": {
+        "WHYPE": 8916356.42055
+      }
     },
     {
       "date": 1746921600,
-      "totalLiquidityUSD": 205418251.25389
+      "tokens": {
+        "WHYPE": 7798718.72642
+      }
     },
     {
       "date": 1747008000,
-      "totalLiquidityUSD": 188927913.22415
+      "tokens": {
+        "WHYPE": 7575297.24235
+      }
     },
     {
-      "date": 1747053575,
-      "totalLiquidityUSD": 185915397.32197
+      "date": 1747094400,
+      "tokens": {
+        "WHYPE": 7449479.74838
+      }
+    },
+    {
+      "date": 1747180800,
+      "tokens": {
+        "WHYPE": 7348237.33517
+      }
+    },
+    {
+      "date": 1747267200,
+      "tokens": {
+        "WHYPE": 6939402.21642
+      }
+    },
+    {
+      "date": 1747353600,
+      "tokens": {
+        "WHYPE": 6731977.31087
+      }
+    },
+    {
+      "date": 1747440000,
+      "tokens": {
+        "WHYPE": 6456946.23359
+      }
+    },
+    {
+      "date": 1747526400,
+      "tokens": {
+        "WHYPE": 6469167.93805
+      }
+    },
+    {
+      "date": 1747612800,
+      "tokens": {
+        "WHYPE": 6315090.30791
+      }
+    },
+    {
+      "date": 1747699200,
+      "tokens": {
+        "WHYPE": 6259273.75867
+      }
+    },
+    {
+      "date": 1747785600,
+      "tokens": {
+        "WHYPE": 5878461.67779
+      }
+    },
+    {
+      "date": 1747872000,
+      "tokens": {
+        "WHYPE": 5698557.72679,
+        "FEUBTC": 59.40872
+      }
+    },
+    {
+      "date": 1747958400,
+      "tokens": {
+        "WHYPE": 5464680.74697,
+        "FEUBTC": 74.2877
+      }
+    },
+    {
+      "date": 1748044800,
+      "tokens": {
+        "WHYPE": 5423074.56376,
+        "FEUBTC": 77.11397
+      }
+    },
+    {
+      "date": 1748131200,
+      "tokens": {
+        "WHYPE": 5373104.31183,
+        "FEUBTC": 77.87227
+      }
+    },
+    {
+      "date": 1748217600,
+      "tokens": {
+        "WHYPE": 5354587.83454,
+        "FEUBTC": 81.65316
+      }
+    },
+    {
+      "date": 1748304000,
+      "tokens": {
+        "WHYPE": 5336133.87187,
+        "FEUBTC": 89.00245
+      }
+    },
+    {
+      "date": 1748390400,
+      "tokens": {
+        "WHYPE": 5396132.89799,
+        "FEUBTC": 93.21346,
+        "USDE": 9536639.7533,
+        "USD\u20ae0": 26009206.1296
+      }
+    },
+    {
+      "date": 1748455463,
+      "tokens": {
+        "WHYPE": 5369673.37895,
+        "FEUBTC": 101.94376,
+        "USD\u20ae0": 26389305.41071,
+        "USDE": 9566416.60961
+      }
     }
   ],
   "tokensInUsd": [
@@ -971,234 +1415,340 @@
       }
     },
     {
-      "date": 1747053575,
+      "date": 1747094400,
       "tokens": {
-        "WHYPE": 185915397.32197
+        "WHYPE": 183629675.79748
+      }
+    },
+    {
+      "date": 1747180800,
+      "tokens": {
+        "WHYPE": 189658005.62068
+      }
+    },
+    {
+      "date": 1747267200,
+      "tokens": {
+        "WHYPE": 175011723.898
+      }
+    },
+    {
+      "date": 1747353600,
+      "tokens": {
+        "WHYPE": 176512445.09095
+      }
+    },
+    {
+      "date": 1747440000,
+      "tokens": {
+        "WHYPE": 174337548.30703
+      }
+    },
+    {
+      "date": 1747526400,
+      "tokens": {
+        "WHYPE": 168133674.70989
+      }
+    },
+    {
+      "date": 1747612800,
+      "tokens": {
+        "WHYPE": 170633740.11973
+      }
+    },
+    {
+      "date": 1747699200,
+      "tokens": {
+        "WHYPE": 164618899.85304
+      }
+    },
+    {
+      "date": 1747785600,
+      "tokens": {
+        "WHYPE": 155779234.46142
+      }
+    },
+    {
+      "date": 1747872000,
+      "tokens": {
+        "WHYPE": 161041241.35904,
+        "FEUBTC": 6518205.84934
+      }
+    },
+    {
+      "date": 1747958400,
+      "tokens": {
+        "WHYPE": 181700634.83662,
+        "FEUBTC": 8260197.85364
+      }
+    },
+    {
+      "date": 1748044800,
+      "tokens": {
+        "WHYPE": 178473383.89318,
+        "FEUBTC": 8332164.6639
+      }
+    },
+    {
+      "date": 1748131200,
+      "tokens": {
+        "WHYPE": 184995981.45641,
+        "FEUBTC": 8420173.18911
+      }
+    },
+    {
+      "date": 1748217600,
+      "tokens": {
+        "WHYPE": 207169003.3182,
+        "FEUBTC": 8909421.25894
+      }
+    },
+    {
+      "date": 1748304000,
+      "tokens": {
+        "WHYPE": 198877709.40456,
+        "FEUBTC": 9803797.5209
+      }
+    },
+    {
+      "date": 1748390400,
+      "tokens": {
+        "WHYPE": 195178126.92019,
+        "FEUBTC": 10150386.48837,
+        "USDE": 9546176.39306,
+        "USD\u20ae0": 26009206.1296
+      }
+    },
+    {
+      "date": 1748455463,
+      "tokens": {
+        "WHYPE": 184770460.96979,
+        "FEUBTC": 10985561.88311,
+        "USD\u20ae0": 26387669.27378,
+        "USDE": 9575983.02622
       }
     }
   ],
-  "tokens": [
+  "tvl": [
     {
       "date": 1744070400,
-      "tokens": {
-        "WHYPE": 1370002.652
-      }
+      "totalLiquidityUSD": 15412529.83502
     },
     {
       "date": 1744156800,
-      "tokens": {
-        "WHYPE": 1363446.952
-      }
+      "totalLiquidityUSD": 15352412.67954
     },
     {
       "date": 1744243200,
-      "tokens": {
-        "WHYPE": 2451502.08741
-      }
+      "totalLiquidityUSD": 33315913.36786
     },
     {
       "date": 1744329600,
-      "tokens": {
-        "WHYPE": 3605979.26287
-      }
+      "totalLiquidityUSD": 50303410.71705
     },
     {
       "date": 1744416000,
-      "tokens": {
-        "WHYPE": 5057662.3375
-      }
+      "totalLiquidityUSD": 79809911.68572
     },
     {
       "date": 1744502400,
-      "tokens": {
-        "WHYPE": 5117662.0986
-      }
+      "totalLiquidityUSD": 84850837.59475
     },
     {
       "date": 1744588800,
-      "tokens": {
-        "WHYPE": 5619248.486
-      }
+      "totalLiquidityUSD": 87604083.89674
     },
     {
       "date": 1744675200,
-      "tokens": {
-        "WHYPE": 6137391.29047
-      }
+      "totalLiquidityUSD": 97216278.0411
     },
     {
       "date": 1744761600,
-      "tokens": {
-        "WHYPE": 6289802.12994
-      }
+      "totalLiquidityUSD": 95101808.20472
     },
     {
       "date": 1744848000,
-      "tokens": {
-        "WHYPE": 6597298.11616
-      }
+      "totalLiquidityUSD": 103577580.42377
     },
     {
       "date": 1744934400,
-      "tokens": {
-        "WHYPE": 7104806.12389
-      }
+      "totalLiquidityUSD": 121847425.02475
     },
     {
       "date": 1745020800,
-      "tokens": {
-        "WHYPE": 7759748.13853
-      }
+      "totalLiquidityUSD": 130984548.5784
     },
     {
       "date": 1745107200,
-      "tokens": {
-        "WHYPE": 8325648.89233
-      }
+      "totalLiquidityUSD": 151193783.88469
     },
     {
       "date": 1745193600,
-      "tokens": {
-        "WHYPE": 8308086.44672
-      }
+      "totalLiquidityUSD": 145142270.22422
     },
     {
       "date": 1745280000,
-      "tokens": {
-        "WHYPE": 8336586.82692
-      }
+      "totalLiquidityUSD": 150392026.35768
     },
     {
       "date": 1745366400,
-      "tokens": {
-        "WHYPE": 8497381.1003
-      }
+      "totalLiquidityUSD": 162554900.44872
     },
     {
       "date": 1745452800,
-      "tokens": {
-        "WHYPE": 8631369.17237
-      }
+      "totalLiquidityUSD": 158817192.77156
     },
     {
       "date": 1745539200,
-      "tokens": {
-        "WHYPE": 9023030.53041
-      }
+      "totalLiquidityUSD": 171527810.38311
     },
     {
       "date": 1745625600,
-      "tokens": {
-        "WHYPE": 9039728.26463
-      }
+      "totalLiquidityUSD": 166059808.22129
     },
     {
       "date": 1745712000,
-      "tokens": {
-        "WHYPE": 9723185.10909
-      }
+      "totalLiquidityUSD": 175892418.62348
     },
     {
       "date": 1745798400,
-      "tokens": {
-        "WHYPE": 9772328.99553
-      }
+      "totalLiquidityUSD": 168768121.75287
     },
     {
       "date": 1745884800,
-      "tokens": {
-        "WHYPE": 9961288.47999
-      }
+      "totalLiquidityUSD": 188268352.27176
     },
     {
       "date": 1745971200,
-      "tokens": {
-        "WHYPE": 10016757.97005
-      }
+      "totalLiquidityUSD": 185911027.92413
     },
     {
       "date": 1746057600,
-      "tokens": {
-        "WHYPE": 10199526.73402
-      }
+      "totalLiquidityUSD": 203786544.14573
     },
     {
       "date": 1746144000,
-      "tokens": {
-        "WHYPE": 8949287.55999
-      }
+      "totalLiquidityUSD": 181044087.33867
     },
     {
       "date": 1746230400,
-      "tokens": {
-        "WHYPE": 9031844.41421
-      }
+      "totalLiquidityUSD": 187139816.26253
     },
     {
       "date": 1746316800,
-      "tokens": {
-        "WHYPE": 9038218.42237
-      }
+      "totalLiquidityUSD": 189169911.58021
     },
     {
       "date": 1746403200,
-      "tokens": {
-        "WHYPE": 9094528.86245
-      }
+      "totalLiquidityUSD": 180526397.91963
     },
     {
       "date": 1746489600,
-      "tokens": {
-        "WHYPE": 9138246.96329
-      }
+      "totalLiquidityUSD": 185780560.76374
     },
     {
       "date": 1746576000,
-      "tokens": {
-        "WHYPE": 9192120.4376
-      }
+      "totalLiquidityUSD": 193402214.00702
     },
     {
       "date": 1746662400,
-      "tokens": {
-        "WHYPE": 9225412.54859
-      }
+      "totalLiquidityUSD": 193918171.77145
     },
     {
       "date": 1746748800,
-      "tokens": {
-        "WHYPE": 8944520.47918
-      }
+      "totalLiquidityUSD": 208496772.36968
     },
     {
       "date": 1746835200,
-      "tokens": {
-        "WHYPE": 8916356.42055
-      }
+      "totalLiquidityUSD": 222463092.69275
     },
     {
       "date": 1746921600,
-      "tokens": {
-        "WHYPE": 7798718.72642
-      }
+      "totalLiquidityUSD": 205418251.25389
     },
     {
       "date": 1747008000,
-      "tokens": {
-        "WHYPE": 7575297.24235
-      }
+      "totalLiquidityUSD": 188927913.22415
     },
     {
-      "date": 1747053575,
-      "tokens": {
-        "WHYPE": 7490547.83731
-      }
+      "date": 1747094400,
+      "totalLiquidityUSD": 183629675.79748
+    },
+    {
+      "date": 1747180800,
+      "totalLiquidityUSD": 189658005.62068
+    },
+    {
+      "date": 1747267200,
+      "totalLiquidityUSD": 175011723.898
+    },
+    {
+      "date": 1747353600,
+      "totalLiquidityUSD": 176512445.09095
+    },
+    {
+      "date": 1747440000,
+      "totalLiquidityUSD": 174337548.30703
+    },
+    {
+      "date": 1747526400,
+      "totalLiquidityUSD": 168133674.70989
+    },
+    {
+      "date": 1747612800,
+      "totalLiquidityUSD": 170633740.11973
+    },
+    {
+      "date": 1747699200,
+      "totalLiquidityUSD": 164618899.85304
+    },
+    {
+      "date": 1747785600,
+      "totalLiquidityUSD": 155779234.46142
+    },
+    {
+      "date": 1747872000,
+      "totalLiquidityUSD": 167559447.20838
+    },
+    {
+      "date": 1747958400,
+      "totalLiquidityUSD": 189960832.69026
+    },
+    {
+      "date": 1748044800,
+      "totalLiquidityUSD": 186805548.55708
+    },
+    {
+      "date": 1748131200,
+      "totalLiquidityUSD": 193416154.64553
+    },
+    {
+      "date": 1748217600,
+      "totalLiquidityUSD": 216078424.57714
+    },
+    {
+      "date": 1748304000,
+      "totalLiquidityUSD": 208681506.92546
+    },
+    {
+      "date": 1748390400,
+      "totalLiquidityUSD": 240883895.93120998
+    },
+    {
+      "date": 1748455463,
+      "totalLiquidityUSD": 231719675.15289998
     }
   ],
-  "currentChainTvls": {
-    "Hyperliquid": 185915397.32197
-  },
+  "isParentProtocol": true,
   "raises": [],
   "metrics": {},
-  "mcap": null
+  "symbol": null,
+  "treasury": null,
+  "mcap": null,
+  "otherProtocols": [
+    "Felix",
+    "Felix CDP",
+    "Felix Vaults"
+  ],
+  "hallmarks": []
 }

@@ -6,7 +6,7 @@
   "url": "https://hyperliquid.xyz",
   "referralUrl": "https://app.hyperliquid.xyz/join/DEFILLAMAO",
   "description": "Hyperliquidity Provider (HLP) is a protocol vault that does market making and liquidations and receives a portion of trading fees",
-  "chain": "Hyperliquid",
+  "chain": "Hyperliquid L1",
   "logo": "https://icons.llama.fi/hyperliquid.png",
   "audits": "0",
   "audit_note": null,
@@ -14,7 +14,7 @@
   "cmcId": null,
   "category": "Derivatives",
   "chains": [
-    "Hyperliquid"
+    "Hyperliquid L1"
   ],
   "oracles": [],
   "forkedFrom": [],
@@ -23,7 +23,7 @@
   "parentProtocol": "parent#hyperliquid",
   "listedAt": 1733089195,
   "chainTvls": {
-    "Hyperliquid": {
+    "Hyperliquid L1": {
       "tvl": [
         {
           "date": 1733011200,
@@ -678,8 +678,72 @@
           "totalLiquidityUSD": 260969008.46851
         },
         {
-          "date": 1747051955,
-          "totalLiquidityUSD": 263522404.96498
+          "date": 1747094400,
+          "totalLiquidityUSD": 270859073.53332
+        },
+        {
+          "date": 1747180800,
+          "totalLiquidityUSD": 275492898.63308
+        },
+        {
+          "date": 1747267200,
+          "totalLiquidityUSD": 277655555.48283
+        },
+        {
+          "date": 1747353600,
+          "totalLiquidityUSD": 288801486.64698
+        },
+        {
+          "date": 1747440000,
+          "totalLiquidityUSD": 295628673.45537
+        },
+        {
+          "date": 1747526400,
+          "totalLiquidityUSD": 306240841.06001
+        },
+        {
+          "date": 1747612800,
+          "totalLiquidityUSD": 312276553.88961
+        },
+        {
+          "date": 1747699200,
+          "totalLiquidityUSD": 325159007.13766
+        },
+        {
+          "date": 1747785600,
+          "totalLiquidityUSD": 331839163.91349
+        },
+        {
+          "date": 1747872000,
+          "totalLiquidityUSD": 332345600.17718
+        },
+        {
+          "date": 1747958400,
+          "totalLiquidityUSD": 333784118.61567
+        },
+        {
+          "date": 1748044800,
+          "totalLiquidityUSD": 334632304.59375
+        },
+        {
+          "date": 1748131200,
+          "totalLiquidityUSD": 333655119.09859
+        },
+        {
+          "date": 1748217600,
+          "totalLiquidityUSD": 337914571.22335
+        },
+        {
+          "date": 1748304000,
+          "totalLiquidityUSD": 350200026.91624
+        },
+        {
+          "date": 1748390400,
+          "totalLiquidityUSD": 357937207.86951
+        },
+        {
+          "date": 1748457503,
+          "totalLiquidityUSD": 361432109.98174
         }
       ],
       "tokensInUsd": [
@@ -1662,9 +1726,105 @@
           }
         },
         {
-          "date": 1747051955,
+          "date": 1747094400,
           "tokens": {
-            "USDT": 263522404.96498
+            "USDT": 270859073.53332
+          }
+        },
+        {
+          "date": 1747180800,
+          "tokens": {
+            "USDT": 275492898.63308
+          }
+        },
+        {
+          "date": 1747267200,
+          "tokens": {
+            "USDT": 277655555.48283
+          }
+        },
+        {
+          "date": 1747353600,
+          "tokens": {
+            "USDT": 288801486.64698
+          }
+        },
+        {
+          "date": 1747440000,
+          "tokens": {
+            "USDT": 295628673.45537
+          }
+        },
+        {
+          "date": 1747526400,
+          "tokens": {
+            "USDT": 306240841.06001
+          }
+        },
+        {
+          "date": 1747612800,
+          "tokens": {
+            "USDT": 312276553.88961
+          }
+        },
+        {
+          "date": 1747699200,
+          "tokens": {
+            "USDT": 325159007.13766
+          }
+        },
+        {
+          "date": 1747785600,
+          "tokens": {
+            "USDT": 331839163.91349
+          }
+        },
+        {
+          "date": 1747872000,
+          "tokens": {
+            "USDT": 332345600.17718
+          }
+        },
+        {
+          "date": 1747958400,
+          "tokens": {
+            "USDT": 333784118.61567
+          }
+        },
+        {
+          "date": 1748044800,
+          "tokens": {
+            "USDT": 334632304.59375
+          }
+        },
+        {
+          "date": 1748131200,
+          "tokens": {
+            "USDT": 333655119.09859
+          }
+        },
+        {
+          "date": 1748217600,
+          "tokens": {
+            "USDT": 337914571.22335
+          }
+        },
+        {
+          "date": 1748304000,
+          "tokens": {
+            "USDT": 350200026.91624
+          }
+        },
+        {
+          "date": 1748390400,
+          "tokens": {
+            "USDT": 357937207.86951
+          }
+        },
+        {
+          "date": 1748457503,
+          "tokens": {
+            "USDT": 361432109.98174
           }
         }
       ],
@@ -2648,9 +2808,105 @@
           }
         },
         {
-          "date": 1747051955,
+          "date": 1747094400,
           "tokens": {
-            "USDT": 263522404.96498
+            "USDT": 270859073.53332
+          }
+        },
+        {
+          "date": 1747180800,
+          "tokens": {
+            "USDT": 275492898.63308
+          }
+        },
+        {
+          "date": 1747267200,
+          "tokens": {
+            "USDT": 277655555.48283
+          }
+        },
+        {
+          "date": 1747353600,
+          "tokens": {
+            "USDT": 288801486.64698
+          }
+        },
+        {
+          "date": 1747440000,
+          "tokens": {
+            "USDT": 295628673.45537
+          }
+        },
+        {
+          "date": 1747526400,
+          "tokens": {
+            "USDT": 306240841.06001
+          }
+        },
+        {
+          "date": 1747612800,
+          "tokens": {
+            "USDT": 312276553.88961
+          }
+        },
+        {
+          "date": 1747699200,
+          "tokens": {
+            "USDT": 325159007.13766
+          }
+        },
+        {
+          "date": 1747785600,
+          "tokens": {
+            "USDT": 331839163.91349
+          }
+        },
+        {
+          "date": 1747872000,
+          "tokens": {
+            "USDT": 332345600.17718
+          }
+        },
+        {
+          "date": 1747958400,
+          "tokens": {
+            "USDT": 333784118.61567
+          }
+        },
+        {
+          "date": 1748044800,
+          "tokens": {
+            "USDT": 334632304.59375
+          }
+        },
+        {
+          "date": 1748131200,
+          "tokens": {
+            "USDT": 333655119.09859
+          }
+        },
+        {
+          "date": 1748217600,
+          "tokens": {
+            "USDT": 337914571.22335
+          }
+        },
+        {
+          "date": 1748304000,
+          "tokens": {
+            "USDT": 350200026.91624
+          }
+        },
+        {
+          "date": 1748390400,
+          "tokens": {
+            "USDT": 357937207.86951
+          }
+        },
+        {
+          "date": 1748457503,
+          "tokens": {
+            "USDT": 361432109.98174
           }
         }
       ]
@@ -3310,8 +3566,72 @@
       "totalLiquidityUSD": 260969008.46851
     },
     {
-      "date": 1747051955,
-      "totalLiquidityUSD": 263522404.96498
+      "date": 1747094400,
+      "totalLiquidityUSD": 270859073.53332
+    },
+    {
+      "date": 1747180800,
+      "totalLiquidityUSD": 275492898.63308
+    },
+    {
+      "date": 1747267200,
+      "totalLiquidityUSD": 277655555.48283
+    },
+    {
+      "date": 1747353600,
+      "totalLiquidityUSD": 288801486.64698
+    },
+    {
+      "date": 1747440000,
+      "totalLiquidityUSD": 295628673.45537
+    },
+    {
+      "date": 1747526400,
+      "totalLiquidityUSD": 306240841.06001
+    },
+    {
+      "date": 1747612800,
+      "totalLiquidityUSD": 312276553.88961
+    },
+    {
+      "date": 1747699200,
+      "totalLiquidityUSD": 325159007.13766
+    },
+    {
+      "date": 1747785600,
+      "totalLiquidityUSD": 331839163.91349
+    },
+    {
+      "date": 1747872000,
+      "totalLiquidityUSD": 332345600.17718
+    },
+    {
+      "date": 1747958400,
+      "totalLiquidityUSD": 333784118.61567
+    },
+    {
+      "date": 1748044800,
+      "totalLiquidityUSD": 334632304.59375
+    },
+    {
+      "date": 1748131200,
+      "totalLiquidityUSD": 333655119.09859
+    },
+    {
+      "date": 1748217600,
+      "totalLiquidityUSD": 337914571.22335
+    },
+    {
+      "date": 1748304000,
+      "totalLiquidityUSD": 350200026.91624
+    },
+    {
+      "date": 1748390400,
+      "totalLiquidityUSD": 357937207.86951
+    },
+    {
+      "date": 1748457503,
+      "totalLiquidityUSD": 361432109.98174
     }
   ],
   "tokensInUsd": [
@@ -4294,9 +4614,105 @@
       }
     },
     {
-      "date": 1747051955,
+      "date": 1747094400,
       "tokens": {
-        "USDT": 263522404.96498
+        "USDT": 270859073.53332
+      }
+    },
+    {
+      "date": 1747180800,
+      "tokens": {
+        "USDT": 275492898.63308
+      }
+    },
+    {
+      "date": 1747267200,
+      "tokens": {
+        "USDT": 277655555.48283
+      }
+    },
+    {
+      "date": 1747353600,
+      "tokens": {
+        "USDT": 288801486.64698
+      }
+    },
+    {
+      "date": 1747440000,
+      "tokens": {
+        "USDT": 295628673.45537
+      }
+    },
+    {
+      "date": 1747526400,
+      "tokens": {
+        "USDT": 306240841.06001
+      }
+    },
+    {
+      "date": 1747612800,
+      "tokens": {
+        "USDT": 312276553.88961
+      }
+    },
+    {
+      "date": 1747699200,
+      "tokens": {
+        "USDT": 325159007.13766
+      }
+    },
+    {
+      "date": 1747785600,
+      "tokens": {
+        "USDT": 331839163.91349
+      }
+    },
+    {
+      "date": 1747872000,
+      "tokens": {
+        "USDT": 332345600.17718
+      }
+    },
+    {
+      "date": 1747958400,
+      "tokens": {
+        "USDT": 333784118.61567
+      }
+    },
+    {
+      "date": 1748044800,
+      "tokens": {
+        "USDT": 334632304.59375
+      }
+    },
+    {
+      "date": 1748131200,
+      "tokens": {
+        "USDT": 333655119.09859
+      }
+    },
+    {
+      "date": 1748217600,
+      "tokens": {
+        "USDT": 337914571.22335
+      }
+    },
+    {
+      "date": 1748304000,
+      "tokens": {
+        "USDT": 350200026.91624
+      }
+    },
+    {
+      "date": 1748390400,
+      "tokens": {
+        "USDT": 357937207.86951
+      }
+    },
+    {
+      "date": 1748457503,
+      "tokens": {
+        "USDT": 361432109.98174
       }
     }
   ],
@@ -5280,14 +5696,110 @@
       }
     },
     {
-      "date": 1747051955,
+      "date": 1747094400,
       "tokens": {
-        "USDT": 263522404.96498
+        "USDT": 270859073.53332
+      }
+    },
+    {
+      "date": 1747180800,
+      "tokens": {
+        "USDT": 275492898.63308
+      }
+    },
+    {
+      "date": 1747267200,
+      "tokens": {
+        "USDT": 277655555.48283
+      }
+    },
+    {
+      "date": 1747353600,
+      "tokens": {
+        "USDT": 288801486.64698
+      }
+    },
+    {
+      "date": 1747440000,
+      "tokens": {
+        "USDT": 295628673.45537
+      }
+    },
+    {
+      "date": 1747526400,
+      "tokens": {
+        "USDT": 306240841.06001
+      }
+    },
+    {
+      "date": 1747612800,
+      "tokens": {
+        "USDT": 312276553.88961
+      }
+    },
+    {
+      "date": 1747699200,
+      "tokens": {
+        "USDT": 325159007.13766
+      }
+    },
+    {
+      "date": 1747785600,
+      "tokens": {
+        "USDT": 331839163.91349
+      }
+    },
+    {
+      "date": 1747872000,
+      "tokens": {
+        "USDT": 332345600.17718
+      }
+    },
+    {
+      "date": 1747958400,
+      "tokens": {
+        "USDT": 333784118.61567
+      }
+    },
+    {
+      "date": 1748044800,
+      "tokens": {
+        "USDT": 334632304.59375
+      }
+    },
+    {
+      "date": 1748131200,
+      "tokens": {
+        "USDT": 333655119.09859
+      }
+    },
+    {
+      "date": 1748217600,
+      "tokens": {
+        "USDT": 337914571.22335
+      }
+    },
+    {
+      "date": 1748304000,
+      "tokens": {
+        "USDT": 350200026.91624
+      }
+    },
+    {
+      "date": 1748390400,
+      "tokens": {
+        "USDT": 357937207.86951
+      }
+    },
+    {
+      "date": 1748457503,
+      "tokens": {
+        "USDT": 361432109.98174
       }
     }
   ],
   "currentChainTvls": {
-    "Hyperliquid": 263522404.96498
+    "Hyperliquid L1": 361432109.98174
   },
   "raises": [],
   "metrics": {},

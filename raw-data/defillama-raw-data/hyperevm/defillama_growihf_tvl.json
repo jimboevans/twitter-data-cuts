@@ -5,7 +5,7 @@
   "symbol": "-",
   "url": "https://hf.growi.fi/",
   "description": "Growi is a quantitative asset management protocol that leverages mathematical modeling to fine-tune trading strategies and maximize yield. Our approach ensures efficient capital allocation, advanced risk management, and consistent returns for investors",
-  "chain": "Hyperliquid",
+  "chain": "Hyperliquid L1",
   "logo": "https://icons.llama.fi/growihf.jpg",
   "audits": "0",
   "audit_note": null,
@@ -13,7 +13,7 @@
   "cmcId": null,
   "category": "Yield",
   "chains": [
-    "Hyperliquid"
+    "Hyperliquid L1"
   ],
   "forkedFrom": [],
   "module": "growi-hf/index.js",
@@ -23,7 +23,7 @@
   ],
   "listedAt": 1741613264,
   "chainTvls": {
-    "Hyperliquid": {
+    "Hyperliquid L1": {
       "tvl": [
         {
           "date": 1741564800,
@@ -282,8 +282,72 @@
           "totalLiquidityUSD": 2819147.84552
         },
         {
-          "date": 1747054079,
-          "totalLiquidityUSD": 2811223.31423
+          "date": 1747094400,
+          "totalLiquidityUSD": 2811274.33779
+        },
+        {
+          "date": 1747180800,
+          "totalLiquidityUSD": 2789303.03614
+        },
+        {
+          "date": 1747267200,
+          "totalLiquidityUSD": 2793504.65015
+        },
+        {
+          "date": 1747353600,
+          "totalLiquidityUSD": 2786789.14933
+        },
+        {
+          "date": 1747440000,
+          "totalLiquidityUSD": 2786671.19511
+        },
+        {
+          "date": 1747526400,
+          "totalLiquidityUSD": 2786649.77194
+        },
+        {
+          "date": 1747612800,
+          "totalLiquidityUSD": 2788152.27708
+        },
+        {
+          "date": 1747699200,
+          "totalLiquidityUSD": 2791898.67684
+        },
+        {
+          "date": 1747785600,
+          "totalLiquidityUSD": 2802587.30752
+        },
+        {
+          "date": 1747872000,
+          "totalLiquidityUSD": 2817704.03622
+        },
+        {
+          "date": 1747958400,
+          "totalLiquidityUSD": 2842480.69607
+        },
+        {
+          "date": 1748044800,
+          "totalLiquidityUSD": 2831863.65739
+        },
+        {
+          "date": 1748131200,
+          "totalLiquidityUSD": 2833486.80726
+        },
+        {
+          "date": 1748217600,
+          "totalLiquidityUSD": 2844631.918
+        },
+        {
+          "date": 1748304000,
+          "totalLiquidityUSD": 2843673.84315
+        },
+        {
+          "date": 1748390400,
+          "totalLiquidityUSD": 2851226.69424
+        },
+        {
+          "date": 1748453723,
+          "totalLiquidityUSD": 2980973.87291
         }
       ],
       "tokensInUsd": [
@@ -672,9 +736,105 @@
           }
         },
         {
-          "date": 1747054079,
+          "date": 1747094400,
           "tokens": {
-            "USDC": 2811223.31423
+            "USDC": 2811274.33779
+          }
+        },
+        {
+          "date": 1747180800,
+          "tokens": {
+            "USDC": 2789303.03614
+          }
+        },
+        {
+          "date": 1747267200,
+          "tokens": {
+            "USDC": 2793504.65015
+          }
+        },
+        {
+          "date": 1747353600,
+          "tokens": {
+            "USDC": 2786789.14933
+          }
+        },
+        {
+          "date": 1747440000,
+          "tokens": {
+            "USDC": 2786671.19511
+          }
+        },
+        {
+          "date": 1747526400,
+          "tokens": {
+            "USDC": 2786649.77194
+          }
+        },
+        {
+          "date": 1747612800,
+          "tokens": {
+            "USDC": 2788152.27708
+          }
+        },
+        {
+          "date": 1747699200,
+          "tokens": {
+            "USDC": 2791898.67684
+          }
+        },
+        {
+          "date": 1747785600,
+          "tokens": {
+            "USDC": 2802587.30752
+          }
+        },
+        {
+          "date": 1747872000,
+          "tokens": {
+            "USDC": 2817704.03622
+          }
+        },
+        {
+          "date": 1747958400,
+          "tokens": {
+            "USDC": 2842480.69607
+          }
+        },
+        {
+          "date": 1748044800,
+          "tokens": {
+            "USDC": 2831863.65739
+          }
+        },
+        {
+          "date": 1748131200,
+          "tokens": {
+            "USDC": 2833486.80726
+          }
+        },
+        {
+          "date": 1748217600,
+          "tokens": {
+            "USDC": 2844631.918
+          }
+        },
+        {
+          "date": 1748304000,
+          "tokens": {
+            "USDC": 2843673.84315
+          }
+        },
+        {
+          "date": 1748390400,
+          "tokens": {
+            "USDC": 2851226.69424
+          }
+        },
+        {
+          "date": 1748453723,
+          "tokens": {
+            "USDC": 2980973.87291
           }
         }
       ],
@@ -1064,9 +1224,105 @@
           }
         },
         {
-          "date": 1747054079,
+          "date": 1747094400,
           "tokens": {
-            "USDC": 2811242.99293
+            "USDC": 2811274.33779
+          }
+        },
+        {
+          "date": 1747180800,
+          "tokens": {
+            "USDC": 2789303.03614
+          }
+        },
+        {
+          "date": 1747267200,
+          "tokens": {
+            "USDC": 2793594.04516
+          }
+        },
+        {
+          "date": 1747353600,
+          "tokens": {
+            "USDC": 2787062.28143
+          }
+        },
+        {
+          "date": 1747440000,
+          "tokens": {
+            "USDC": 2787016.78519
+          }
+        },
+        {
+          "date": 1747526400,
+          "tokens": {
+            "USDC": 2786931.252
+          }
+        },
+        {
+          "date": 1747612800,
+          "tokens": {
+            "USDC": 2788489.68433
+          }
+        },
+        {
+          "date": 1747699200,
+          "tokens": {
+            "USDC": 2792384.55175
+          }
+        },
+        {
+          "date": 1747785600,
+          "tokens": {
+            "USDC": 2802960.10122
+          }
+        },
+        {
+          "date": 1747872000,
+          "tokens": {
+            "USDC": 2818527.04612
+          }
+        },
+        {
+          "date": 1747958400,
+          "tokens": {
+            "USDC": 2843054.99318
+          }
+        },
+        {
+          "date": 1748044800,
+          "tokens": {
+            "USDC": 2832447.14151
+          }
+        },
+        {
+          "date": 1748131200,
+          "tokens": {
+            "USDC": 2834019.60295
+          }
+        },
+        {
+          "date": 1748217600,
+          "tokens": {
+            "USDC": 2845200.9582
+          }
+        },
+        {
+          "date": 1748304000,
+          "tokens": {
+            "USDC": 2844262.60551
+          }
+        },
+        {
+          "date": 1748390400,
+          "tokens": {
+            "USDC": 2851916.85812
+          }
+        },
+        {
+          "date": 1748453723,
+          "tokens": {
+            "USDC": 2981650.70762
           }
         }
       ]
@@ -1330,8 +1586,72 @@
       "totalLiquidityUSD": 2819147.84552
     },
     {
-      "date": 1747054079,
-      "totalLiquidityUSD": 2811223.31423
+      "date": 1747094400,
+      "totalLiquidityUSD": 2811274.33779
+    },
+    {
+      "date": 1747180800,
+      "totalLiquidityUSD": 2789303.03614
+    },
+    {
+      "date": 1747267200,
+      "totalLiquidityUSD": 2793504.65015
+    },
+    {
+      "date": 1747353600,
+      "totalLiquidityUSD": 2786789.14933
+    },
+    {
+      "date": 1747440000,
+      "totalLiquidityUSD": 2786671.19511
+    },
+    {
+      "date": 1747526400,
+      "totalLiquidityUSD": 2786649.77194
+    },
+    {
+      "date": 1747612800,
+      "totalLiquidityUSD": 2788152.27708
+    },
+    {
+      "date": 1747699200,
+      "totalLiquidityUSD": 2791898.67684
+    },
+    {
+      "date": 1747785600,
+      "totalLiquidityUSD": 2802587.30752
+    },
+    {
+      "date": 1747872000,
+      "totalLiquidityUSD": 2817704.03622
+    },
+    {
+      "date": 1747958400,
+      "totalLiquidityUSD": 2842480.69607
+    },
+    {
+      "date": 1748044800,
+      "totalLiquidityUSD": 2831863.65739
+    },
+    {
+      "date": 1748131200,
+      "totalLiquidityUSD": 2833486.80726
+    },
+    {
+      "date": 1748217600,
+      "totalLiquidityUSD": 2844631.918
+    },
+    {
+      "date": 1748304000,
+      "totalLiquidityUSD": 2843673.84315
+    },
+    {
+      "date": 1748390400,
+      "totalLiquidityUSD": 2851226.69424
+    },
+    {
+      "date": 1748453723,
+      "totalLiquidityUSD": 2980973.87291
     }
   ],
   "tokensInUsd": [
@@ -1720,9 +2040,105 @@
       }
     },
     {
-      "date": 1747054079,
+      "date": 1747094400,
       "tokens": {
-        "USDC": 2811223.31423
+        "USDC": 2811274.33779
+      }
+    },
+    {
+      "date": 1747180800,
+      "tokens": {
+        "USDC": 2789303.03614
+      }
+    },
+    {
+      "date": 1747267200,
+      "tokens": {
+        "USDC": 2793504.65015
+      }
+    },
+    {
+      "date": 1747353600,
+      "tokens": {
+        "USDC": 2786789.14933
+      }
+    },
+    {
+      "date": 1747440000,
+      "tokens": {
+        "USDC": 2786671.19511
+      }
+    },
+    {
+      "date": 1747526400,
+      "tokens": {
+        "USDC": 2786649.77194
+      }
+    },
+    {
+      "date": 1747612800,
+      "tokens": {
+        "USDC": 2788152.27708
+      }
+    },
+    {
+      "date": 1747699200,
+      "tokens": {
+        "USDC": 2791898.67684
+      }
+    },
+    {
+      "date": 1747785600,
+      "tokens": {
+        "USDC": 2802587.30752
+      }
+    },
+    {
+      "date": 1747872000,
+      "tokens": {
+        "USDC": 2817704.03622
+      }
+    },
+    {
+      "date": 1747958400,
+      "tokens": {
+        "USDC": 2842480.69607
+      }
+    },
+    {
+      "date": 1748044800,
+      "tokens": {
+        "USDC": 2831863.65739
+      }
+    },
+    {
+      "date": 1748131200,
+      "tokens": {
+        "USDC": 2833486.80726
+      }
+    },
+    {
+      "date": 1748217600,
+      "tokens": {
+        "USDC": 2844631.918
+      }
+    },
+    {
+      "date": 1748304000,
+      "tokens": {
+        "USDC": 2843673.84315
+      }
+    },
+    {
+      "date": 1748390400,
+      "tokens": {
+        "USDC": 2851226.69424
+      }
+    },
+    {
+      "date": 1748453723,
+      "tokens": {
+        "USDC": 2980973.87291
       }
     }
   ],
@@ -2112,14 +2528,110 @@
       }
     },
     {
-      "date": 1747054079,
+      "date": 1747094400,
       "tokens": {
-        "USDC": 2811242.99293
+        "USDC": 2811274.33779
+      }
+    },
+    {
+      "date": 1747180800,
+      "tokens": {
+        "USDC": 2789303.03614
+      }
+    },
+    {
+      "date": 1747267200,
+      "tokens": {
+        "USDC": 2793594.04516
+      }
+    },
+    {
+      "date": 1747353600,
+      "tokens": {
+        "USDC": 2787062.28143
+      }
+    },
+    {
+      "date": 1747440000,
+      "tokens": {
+        "USDC": 2787016.78519
+      }
+    },
+    {
+      "date": 1747526400,
+      "tokens": {
+        "USDC": 2786931.252
+      }
+    },
+    {
+      "date": 1747612800,
+      "tokens": {
+        "USDC": 2788489.68433
+      }
+    },
+    {
+      "date": 1747699200,
+      "tokens": {
+        "USDC": 2792384.55175
+      }
+    },
+    {
+      "date": 1747785600,
+      "tokens": {
+        "USDC": 2802960.10122
+      }
+    },
+    {
+      "date": 1747872000,
+      "tokens": {
+        "USDC": 2818527.04612
+      }
+    },
+    {
+      "date": 1747958400,
+      "tokens": {
+        "USDC": 2843054.99318
+      }
+    },
+    {
+      "date": 1748044800,
+      "tokens": {
+        "USDC": 2832447.14151
+      }
+    },
+    {
+      "date": 1748131200,
+      "tokens": {
+        "USDC": 2834019.60295
+      }
+    },
+    {
+      "date": 1748217600,
+      "tokens": {
+        "USDC": 2845200.9582
+      }
+    },
+    {
+      "date": 1748304000,
+      "tokens": {
+        "USDC": 2844262.60551
+      }
+    },
+    {
+      "date": 1748390400,
+      "tokens": {
+        "USDC": 2851916.85812
+      }
+    },
+    {
+      "date": 1748453723,
+      "tokens": {
+        "USDC": 2981650.70762
       }
     }
   ],
   "currentChainTvls": {
-    "Hyperliquid": 2811223.31423
+    "Hyperliquid L1": 2980973.87291
   },
   "raises": [],
   "metrics": {},

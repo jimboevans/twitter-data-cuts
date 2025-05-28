@@ -39,10 +39,10 @@
   "latestFetchIsOk": true,
   "slug": "polygon",
   "protocolType": "chain",
-  "total24h": 16644,
-  "total48hto24h": 9935,
-  "total7d": 71194,
-  "totalAllTime": 78053129,
+  "total24h": 7550,
+  "total48hto24h": 8065,
+  "total7d": 56926,
+  "totalAllTime": 78083476,
   "totalDataChart": [
     [
       1616716800,
@@ -6115,6 +6115,22 @@
     [
       1747958400,
       16644
+    ],
+    [
+      1748044800,
+      8311
+    ],
+    [
+      1748131200,
+      6421
+    ],
+    [
+      1748217600,
+      8065
+    ],
+    [
+      1748304000,
+      7550
     ]
   ],
   "totalDataChartBreakdown": [
@@ -18261,7 +18277,39 @@
           "Polygon": 16644
         }
       }
+    ],
+    [
+      1748044800,
+      {
+        "polygon": {
+          "Polygon": 8311
+        }
+      }
+    ],
+    [
+      1748131200,
+      {
+        "polygon": {
+          "Polygon": 6421
+        }
+      }
+    ],
+    [
+      1748217600,
+      {
+        "polygon": {
+          "Polygon": 8065
+        }
+      }
+    ],
+    [
+      1748304000,
+      {
+        "polygon": {
+          "Polygon": 7550
+        }
+      }
     ]
   ],
-  "change_1d": 67.53
+  "change_1d": -6.39
 }

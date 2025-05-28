@@ -45,11 +45,15 @@
   "latestFetchIsOk": true,
   "slug": "jupiter",
   "protocolType": "protocol",
-  "total24h": 243293,
-  "total48hto24h": 293402,
-  "total7d": 1448055,
-  "totalAllTime": 195219149,
+  "total24h": 144851,
+  "total48hto24h": 168270,
+  "total7d": 1474314,
+  "totalAllTime": 196632433,
   "totalDataChart": [
+    [
+      1695945600,
+      0
+    ],
     [
       1696118400,
       0
@@ -1592,7 +1596,7 @@
     ],
     [
       1729555200,
-      190101
+      234847
     ],
     [
       1729641600,
@@ -1776,7 +1780,7 @@
     ],
     [
       1733529600,
-      5688
+      319406
     ],
     [
       1733616000,
@@ -1928,7 +1932,7 @@
     ],
     [
       1736812800,
-      307709
+      85429
     ],
     [
       1736899200,
@@ -1936,7 +1940,7 @@
     ],
     [
       1736985600,
-      45349
+      464504
     ],
     [
       1737072000,
@@ -2200,7 +2204,7 @@
     ],
     [
       1742688000,
-      358894
+      216958
     ],
     [
       1742774400,
@@ -2445,9 +2449,37 @@
     [
       1747958400,
       243293
+    ],
+    [
+      1748044800,
+      254482
+    ],
+    [
+      1748131200,
+      153975
+    ],
+    [
+      1748217600,
+      168270
+    ],
+    [
+      1748304000,
+      144851
+    ],
+    [
+      1748390400,
+      278303
     ]
   ],
   "totalDataChartBreakdown": [
+    [
+      1695945600,
+      {
+        "solana": {
+          "Jupiter Perpetual Exchange": 0
+        }
+      }
+    ],
     [
       1696118400,
       {
@@ -5952,7 +5984,6 @@
         "solana": {
           "Jupiter Aggregator": 10390,
           "Jupiter Perpetual Exchange": 203378,
-          "Ape Jupiter": 0,
           "Jupiter DCA": 33426
         }
       }
@@ -5972,8 +6003,10 @@
       1729555200,
       {
         "solana": {
+          "Jupiter Aggregator": 7086,
           "Jupiter Perpetual Exchange": 190101,
-          "Ape Jupiter": 0
+          "Ape Jupiter": 0,
+          "Jupiter DCA": 37660
         }
       }
     ],
@@ -6474,7 +6507,9 @@
       {
         "solana": {
           "Jupiter Aggregator": 5688,
-          "Ape Jupiter": 0
+          "Jupiter Perpetual Exchange": 270949,
+          "Ape Jupiter": 0,
+          "Jupiter DCA": 42769
         }
       }
     ],
@@ -6890,8 +6925,6 @@
       {
         "solana": {
           "Jupiter Aggregator": 25066,
-          "Jupiter Perpetual Exchange": 222280,
-          "Ape Jupiter": 0,
           "Jupiter DCA": 60363
         }
       }
@@ -6911,6 +6944,9 @@
       1736985600,
       {
         "solana": {
+          "Jupiter Aggregator": 14792,
+          "Jupiter Perpetual Exchange": 404363,
+          "Ape Jupiter": 0,
           "Jupiter DCA": 45349
         }
       }
@@ -7633,9 +7669,7 @@
       1742688000,
       {
         "solana": {
-          "Jupiter Aggregator": 141936,
           "Jupiter Perpetual Exchange": 209412,
-          "Ape Jupiter": 0,
           "Jupiter DCA": 7546
         }
       }
@@ -8310,7 +8344,60 @@
           "Jupiter DCA": 19640
         }
       }
+    ],
+    [
+      1748044800,
+      {
+        "solana": {
+          "Jupiter Aggregator": 110452,
+          "Jupiter Perpetual Exchange": 135804,
+          "Ape Jupiter": 362,
+          "Jupiter DCA": 7864
+        }
+      }
+    ],
+    [
+      1748131200,
+      {
+        "solana": {
+          "Jupiter Aggregator": 122156,
+          "Jupiter Perpetual Exchange": 22551,
+          "Ape Jupiter": 668,
+          "Jupiter DCA": 8600
+        }
+      }
+    ],
+    [
+      1748217600,
+      {
+        "solana": {
+          "Jupiter Aggregator": 129983,
+          "Jupiter Perpetual Exchange": 28889,
+          "Ape Jupiter": 593,
+          "Jupiter DCA": 8805
+        }
+      }
+    ],
+    [
+      1748304000,
+      {
+        "solana": {
+          "Jupiter Aggregator": 127157,
+          "Jupiter Perpetual Exchange": 7735,
+          "Ape Jupiter": 479,
+          "Jupiter DCA": 9480
+        }
+      }
+    ],
+    [
+      1748390400,
+      {
+        "solana": {
+          "Jupiter Perpetual Exchange": 269699,
+          "Jupiter DCA": 8604
+        }
+      }
     ]
   ],
-  "change_1d": -17.08
+  "change_1d": -13.92
 }
