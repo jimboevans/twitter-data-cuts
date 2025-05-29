@@ -36,10 +36,10 @@
   "latestFetchIsOk": true,
   "slug": "solana",
   "protocolType": "chain",
-  "total24h": 153824,
-  "total48hto24h": 154501,
-  "total7d": 1089814,
-  "totalAllTime": 540058724,
+  "total24h": 149415,
+  "total48hto24h": 155817,
+  "total7d": 1085171,
+  "totalAllTime": 540202515,
   "totalDataChart": [
     [
       1610841600,
@@ -6403,7 +6403,11 @@
     ],
     [
       1748390400,
-      153824
+      148200
+    ],
+    [
+      1748476800,
+      149415
     ]
   ],
   "totalDataChartBreakdown": [
@@ -19131,10 +19135,18 @@
       1748390400,
       {
         "solana": {
-          "Solana": 153824
+          "Solana": 148200
+        }
+      }
+    ],
+    [
+      1748476800,
+      {
+        "solana": {
+          "Solana": 149415
         }
       }
     ]
   ],
-  "change_1d": -0.44
+  "change_1d": -4.11
 }

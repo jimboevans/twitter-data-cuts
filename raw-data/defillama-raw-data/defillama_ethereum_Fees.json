@@ -45,10 +45,10 @@
   "latestFetchIsOk": true,
   "slug": "ethereum",
   "protocolType": "chain",
-  "total24h": 2113359,
-  "total48hto24h": 923119,
-  "total7d": 8957135,
-  "totalAllTime": 20149846862,
+  "total24h": 1756350,
+  "total48hto24h": 2200566,
+  "total7d": 9863492,
+  "totalAllTime": 20151295636,
   "totalDataChart": [
     [
       1438300800,
@@ -14408,7 +14408,11 @@
     ],
     [
       1748390400,
-      2113359
+      1805783
+    ],
+    [
+      1748476800,
+      1756350
     ]
   ],
   "totalDataChartBreakdown": [
@@ -43128,10 +43132,18 @@
       1748390400,
       {
         "ethereum": {
-          "Ethereum": 2113359
+          "Ethereum": 1805783
+        }
+      }
+    ],
+    [
+      1748476800,
+      {
+        "ethereum": {
+          "Ethereum": 1756350
         }
       }
     ]
   ],
-  "change_1d": 128.94
+  "change_1d": -20.19
 }

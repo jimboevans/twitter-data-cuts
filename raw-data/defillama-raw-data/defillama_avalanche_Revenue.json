@@ -36,10 +36,10 @@
   "latestFetchIsOk": true,
   "slug": "avalanche",
   "protocolType": "chain",
-  "total24h": 7677,
-  "total48hto24h": 5508,
-  "total7d": 71246,
-  "totalAllTime": 84286988,
+  "total24h": 13545,
+  "total48hto24h": 7175,
+  "total7d": 69164,
+  "totalAllTime": 84301774,
   "totalDataChart": [
     [
       1667865600,
@@ -3771,7 +3771,11 @@
     ],
     [
       1748390400,
-      7677
+      8918
+    ],
+    [
+      1748476800,
+      13545
     ]
   ],
   "totalDataChartBreakdown": [
@@ -11235,10 +11239,18 @@
       1748390400,
       {
         "avax": {
-          "Avalanche": 7677
+          "Avalanche": 8918
+        }
+      }
+    ],
+    [
+      1748476800,
+      {
+        "avax": {
+          "Avalanche": 13545
         }
       }
     ]
   ],
-  "change_1d": 39.38
+  "change_1d": 88.78
 }
