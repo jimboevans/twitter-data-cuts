@@ -38,10 +38,10 @@
   "latestFetchIsOk": true,
   "slug": "soltradingbot",
   "protocolType": "protocol",
-  "total24h": 23751,
-  "total48hto24h": 26027,
-  "total7d": 185224,
-  "totalAllTime": 26482525,
+  "total24h": 23534,
+  "total48hto24h": 23548,
+  "total7d": 169364,
+  "totalAllTime": 26527994,
   "totalDataChart": [
     [
       1721260800,
@@ -1281,7 +1281,15 @@
     ],
     [
       1748476800,
-      23751
+      23548
+    ],
+    [
+      1748563200,
+      22138
+    ],
+    [
+      1748649600,
+      23534
     ]
   ],
   "totalDataChartBreakdown": [
@@ -3761,10 +3769,26 @@
       1748476800,
       {
         "solana": {
-          "SolTradingBot": 23751
+          "SolTradingBot": 23548
+        }
+      }
+    ],
+    [
+      1748563200,
+      {
+        "solana": {
+          "SolTradingBot": 22138
+        }
+      }
+    ],
+    [
+      1748649600,
+      {
+        "solana": {
+          "SolTradingBot": 23534
         }
       }
     ]
   ],
-  "change_1d": -8.74
+  "change_1d": -0.06
 }

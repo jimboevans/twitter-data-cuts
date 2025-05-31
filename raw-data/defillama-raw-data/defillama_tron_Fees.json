@@ -36,10 +36,10 @@
   "latestFetchIsOk": true,
   "slug": "tron",
   "protocolType": "chain",
-  "total24h": 1969681,
-  "total48hto24h": 2131826,
-  "total7d": 13104412,
-  "totalAllTime": 1570234190,
+  "total24h": 1998014,
+  "total48hto24h": 1998324,
+  "total7d": 12946407,
+  "totalAllTime": 1574230528,
   "totalDataChart": [
     [
       1581724800,
@@ -7760,6 +7760,14 @@
     [
       1748390400,
       1969681
+    ],
+    [
+      1748476800,
+      1998324
+    ],
+    [
+      1748563200,
+      1998014
     ]
   ],
   "totalDataChartBreakdown": [
@@ -23202,7 +23210,23 @@
           "Tron": 1969681
         }
       }
+    ],
+    [
+      1748476800,
+      {
+        "tron": {
+          "Tron": 1998324
+        }
+      }
+    ],
+    [
+      1748563200,
+      {
+        "tron": {
+          "Tron": 1998014
+        }
+      }
     ]
   ],
-  "change_1d": -7.61
+  "change_1d": -0.02
 }
