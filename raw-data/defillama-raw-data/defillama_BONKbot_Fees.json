@@ -39,10 +39,10 @@
   "latestFetchIsOk": true,
   "slug": "bonkbot",
   "protocolType": "protocol",
-  "total24h": 149611,
-  "total48hto24h": 580581,
-  "total7d": 1647386,
-  "totalAllTime": 188975182,
+  "total24h": 168825,
+  "total48hto24h": 147782,
+  "total7d": 1599614,
+  "totalAllTime": 189303825,
   "totalDataChart": [
     [
       1692748800,
@@ -2626,7 +2626,15 @@
     ],
     [
       1748649600,
-      149611
+      147782
+    ],
+    [
+      1748736000,
+      161647
+    ],
+    [
+      1748822400,
+      168825
     ]
   ],
   "totalDataChartBreakdown": [
@@ -7794,10 +7802,26 @@
       1748649600,
       {
         "solana": {
-          "BONKbot": 149611
+          "BONKbot": 147782
+        }
+      }
+    ],
+    [
+      1748736000,
+      {
+        "solana": {
+          "BONKbot": 161647
+        }
+      }
+    ],
+    [
+      1748822400,
+      {
+        "solana": {
+          "BONKbot": 168825
         }
       }
     ]
   ],
-  "change_1d": -74.23
+  "change_1d": 14.24
 }

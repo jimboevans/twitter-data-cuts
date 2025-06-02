@@ -39,10 +39,10 @@
   "latestFetchIsOk": true,
   "slug": "drift",
   "protocolType": "protocol",
-  "total24h": 60641,
-  "total48hto24h": 26865,
-  "total7d": 257643,
-  "totalAllTime": 15502439,
+  "total24h": 20357,
+  "total48hto24h": 27127,
+  "total7d": 228698,
+  "totalAllTime": 15549923,
   "totalDataChart": [
     [
       1717113600,
@@ -1499,6 +1499,14 @@
     [
       1748563200,
       60641
+    ],
+    [
+      1748649600,
+      27127
+    ],
+    [
+      1748736000,
+      20357
     ]
   ],
   "totalDataChartBreakdown": [
@@ -4413,7 +4421,23 @@
           "Drift Trade": 60641
         }
       }
+    ],
+    [
+      1748649600,
+      {
+        "solana": {
+          "Drift Trade": 27127
+        }
+      }
+    ],
+    [
+      1748736000,
+      {
+        "solana": {
+          "Drift Trade": 20357
+        }
+      }
     ]
   ],
-  "change_1d": 125.72
+  "change_1d": -24.96
 }

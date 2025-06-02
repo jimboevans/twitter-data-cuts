@@ -36,10 +36,10 @@
   "latestFetchIsOk": true,
   "slug": "ton",
   "protocolType": "chain",
-  "total24h": 21212,
-  "total48hto24h": 21672,
-  "total7d": 127677,
-  "totalAllTime": 5106594,
+  "total24h": 17387,
+  "total48hto24h": 21964,
+  "total7d": 141595,
+  "totalAllTime": 5145945,
   "totalDataChart": [
     [
       1734480000,
@@ -696,6 +696,14 @@
     [
       1748563200,
       21212
+    ],
+    [
+      1748649600,
+      21964
+    ],
+    [
+      1748736000,
+      17387
     ]
   ],
   "totalDataChartBreakdown": [
@@ -2010,7 +2018,23 @@
           "TON": 21212
         }
       }
+    ],
+    [
+      1748649600,
+      {
+        "ton": {
+          "TON": 21964
+        }
+      }
+    ],
+    [
+      1748736000,
+      {
+        "ton": {
+          "TON": 17387
+        }
+      }
     ]
   ],
-  "change_1d": -2.12
+  "change_1d": -20.84
 }

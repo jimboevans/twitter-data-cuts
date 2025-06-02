@@ -51,10 +51,10 @@
     "ApeX Pro",
     "Apex Omni"
   ],
-  "total24h": 0,
+  "total24h": 10,
   "total48hto24h": 0,
-  "total7d": 0,
-  "totalAllTime": 11616989,
+  "total7d": 10,
+  "totalAllTime": 11616999,
   "totalDataChart": [
     [
       1693440000,
@@ -2611,6 +2611,14 @@
     [
       1748563200,
       0
+    ],
+    [
+      1748649600,
+      0
+    ],
+    [
+      1748736000,
+      10
     ]
   ],
   "totalDataChartBreakdown": [
@@ -7723,6 +7731,22 @@
       {
         "ethereum": {
           "ApeX Pro": 0
+        }
+      }
+    ],
+    [
+      1748649600,
+      {
+        "ethereum": {
+          "ApeX Pro": 0
+        }
+      }
+    ],
+    [
+      1748736000,
+      {
+        "ethereum": {
+          "ApeX Pro": 10
         }
       }
     ]
