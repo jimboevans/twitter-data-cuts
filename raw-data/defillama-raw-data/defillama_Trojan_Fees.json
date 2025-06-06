@@ -15,7 +15,6 @@
   "chains": [
     "Solana"
   ],
-  "oracles": [],
   "forkedFrom": [],
   "module": "primordium",
   "twitter": "PrimordiumGroup",
@@ -37,10 +36,10 @@
   "latestFetchIsOk": true,
   "slug": "trojan",
   "protocolType": "protocol",
-  "total24h": 167180,
-  "total48hto24h": 147591,
-  "total7d": 1182523,
-  "totalAllTime": 186995975,
+  "total24h": 193796,
+  "total48hto24h": 148297,
+  "total7d": 1147999,
+  "totalAllTime": 187719005,
   "totalDataChart": [
     [
       1708732800,
@@ -1888,7 +1887,23 @@
     ],
     [
       1748822400,
-      167180
+      165056
+    ],
+    [
+      1748908800,
+      193979
+    ],
+    [
+      1748995200,
+      148297
+    ],
+    [
+      1749081600,
+      189082
+    ],
+    [
+      1749168000,
+      193796
     ]
   ],
   "totalDataChartBreakdown": [
@@ -5584,10 +5599,42 @@
       1748822400,
       {
         "solana": {
-          "Trojan": 167180
+          "Trojan": 165056
+        }
+      }
+    ],
+    [
+      1748908800,
+      {
+        "solana": {
+          "Trojan": 193979
+        }
+      }
+    ],
+    [
+      1748995200,
+      {
+        "solana": {
+          "Trojan": 148297
+        }
+      }
+    ],
+    [
+      1749081600,
+      {
+        "solana": {
+          "Trojan": 189082
+        }
+      }
+    ],
+    [
+      1749168000,
+      {
+        "solana": {
+          "Trojan": 193796
         }
       }
     ]
   ],
-  "change_1d": 13.27
+  "change_1d": 30.68
 }

@@ -17,13 +17,14 @@
   ],
   "module": "paal-ai",
   "forkedFrom": [],
-  "oracles": [],
   "twitter": "PaalMind",
   "defillamaId": "3723",
   "disabled": false,
   "displayName": "PAAL AI",
   "methodologyURL": "https://github.com/DefiLlama/dimension-adapters/blob/master/fees/paal-ai",
-  "methodology": {},
+  "methodology": {
+    "Fees": "Fees paid by users for using PAAL AI services."
+  },
   "audit_links": null,
   "versionKey": null,
   "github": null,
@@ -34,10 +35,10 @@
   "latestFetchIsOk": true,
   "slug": "paal-ai",
   "protocolType": "protocol",
-  "total24h": 0,
-  "total48hto24h": 53,
-  "total7d": 54,
-  "totalAllTime": 13493165,
+  "total24h": 3744,
+  "total48hto24h": 0,
+  "total7d": 89811,
+  "totalAllTime": 13586667,
   "totalDataChart": [
     [
       1690070400,
@@ -2738,6 +2739,22 @@
     [
       1748822400,
       0
+    ],
+    [
+      1748908800,
+      86117
+    ],
+    [
+      1748995200,
+      0
+    ],
+    [
+      1749081600,
+      3641
+    ],
+    [
+      1749168000,
+      3744
     ]
   ],
   "totalDataChartBreakdown": [
@@ -8138,6 +8155,38 @@
       {
         "ethereum": {
           "PAAL AI": 0
+        }
+      }
+    ],
+    [
+      1748908800,
+      {
+        "ethereum": {
+          "PAAL AI": 86117
+        }
+      }
+    ],
+    [
+      1748995200,
+      {
+        "ethereum": {
+          "PAAL AI": 0
+        }
+      }
+    ],
+    [
+      1749081600,
+      {
+        "ethereum": {
+          "PAAL AI": 3641
+        }
+      }
+    ],
+    [
+      1749168000,
+      {
+        "ethereum": {
+          "PAAL AI": 3744
         }
       }
     ]

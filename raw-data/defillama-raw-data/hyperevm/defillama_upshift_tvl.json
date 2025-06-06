@@ -14,12 +14,11 @@
   "category": "Onchain Capital Allocator",
   "chains": [
     "Ethereum",
-    "Base",
     "Binance",
     "Hyperliquid L1",
-    "Avalanche"
+    "Avalanche",
+    "Base"
   ],
-  "oracles": [],
   "forkedFrom": [],
   "module": "upshift/index.js",
   "twitter": "upshift_fi",
@@ -755,8 +754,24 @@
           "totalLiquidityUSD": 214297675.55595
         },
         {
-          "date": 1748886431,
-          "totalLiquidityUSD": 214880152.38743
+          "date": 1748908800,
+          "totalLiquidityUSD": 217977822.04857
+        },
+        {
+          "date": 1748995200,
+          "totalLiquidityUSD": 216856355.06978
+        },
+        {
+          "date": 1749081600,
+          "totalLiquidityUSD": 217732564.07524
+        },
+        {
+          "date": 1749168000,
+          "totalLiquidityUSD": 206992804.95626
+        },
+        {
+          "date": 1749237791,
+          "totalLiquidityUSD": 214095353.139
         }
       ],
       "tokensInUsd": [
@@ -2725,17 +2740,73 @@
           }
         },
         {
-          "date": 1748886431,
+          "date": 1748908800,
           "tokens": {
-            "USDC": 49239423.45284,
-            "LBTC": 142039.19646,
-            "CBBTC": 18254000.32268,
+            "USDC": 49238317.28932,
+            "LBTC": 144372.20346,
+            "CBBTC": 18510200.49762,
             "SUSDE": 1775.81104,
-            "WSTETH": 23863473.72399,
-            "RSETH": 119717580.33523,
-            "WETH": 6469.61446,
-            "CUSDO": 1111175.93026,
-            "USR": 2544214.00046
+            "WSTETH": 24415739.72676,
+            "RSETH": 122002324.46057,
+            "WETH": 6626.60493,
+            "CUSDO": 1110088.67397,
+            "USR": 2548376.78088
+          }
+        },
+        {
+          "date": 1748995200,
+          "tokens": {
+            "USDC": 48823550.88612,
+            "LBTC": 132168.43324,
+            "CBBTC": 18404994.1502,
+            "SUSDE": 1775.81104,
+            "WSTETH": 24374870.14382,
+            "RSETH": 121257852.98323,
+            "WETH": 6576.38725,
+            "CUSDO": 1100337.21459,
+            "USR": 2754229.06029
+          }
+        },
+        {
+          "date": 1749081600,
+          "tokens": {
+            "USDC": 49124097.77236,
+            "LBTC": 131087.58666,
+            "CBBTC": 18331769.13431,
+            "SUSDE": 1775.66515,
+            "WSTETH": 24401878.65911,
+            "RSETH": 121882936.84066,
+            "WETH": 6617.83395,
+            "CUSDO": 1099166.02733,
+            "USR": 2753234.55572
+          }
+        },
+        {
+          "date": 1749168000,
+          "tokens": {
+            "USDC": 49528996.81528,
+            "LBTC": 127618.36939,
+            "CBBTC": 17777426.05455,
+            "SUSDE": 1775.59213,
+            "WSTETH": 22638444.23352,
+            "RSETH": 113072211.48495,
+            "WETH": 6137.43247,
+            "CUSDO": 1087886.52867,
+            "USR": 2752308.44529
+          }
+        },
+        {
+          "date": 1749237791,
+          "tokens": {
+            "USDC": 49723877.30507,
+            "LBTC": 131317.0329,
+            "CBBTC": 18278292.15373,
+            "SUSDE": 1775.5192,
+            "WSTETH": 23419637.14619,
+            "RSETH": 118692329.43803,
+            "WETH": 6322.96666,
+            "CUSDO": 1088912.54389,
+            "USR": 2752889.03334
           }
         }
       ],
@@ -4705,2937 +4776,73 @@
           }
         },
         {
-          "date": 1748886431,
+          "date": 1748908800,
           "tokens": {
-            "USDC": 49248386.65921,
+            "USDC": 49248265.43894,
             "LBTC": 1.36433,
             "CBBTC": 174.76137,
             "SUSDE": 1504.92461,
-            "WSTETH": 7786.2562,
-            "RSETH": 44998.31998,
+            "WSTETH": 7794.5045,
+            "RSETH": 44782.67034,
             "WETH": 2.53497,
             "CUSDO": 1087256.29184,
-            "USR": 2549455.68134
+            "USR": 2549355.73348
           }
-        }
-      ]
-    },
-    "Base": {
-      "tvl": [
-        {
-          "date": 1733270400,
-          "totalLiquidityUSD": 36317928.14397
-        },
-        {
-          "date": 1733356800,
-          "totalLiquidityUSD": 37294127.06234
-        },
-        {
-          "date": 1733443200,
-          "totalLiquidityUSD": 37519927.43206
-        },
-        {
-          "date": 1733529600,
-          "totalLiquidityUSD": 37636042.53006
-        },
-        {
-          "date": 1733616000,
-          "totalLiquidityUSD": 37762369.70509
-        },
-        {
-          "date": 1733702400,
-          "totalLiquidityUSD": 37902702.10894
-        },
-        {
-          "date": 1733788800,
-          "totalLiquidityUSD": 36644952.49181
-        },
-        {
-          "date": 1733875200,
-          "totalLiquidityUSD": 36698483.19163
-        },
-        {
-          "date": 1733961600,
-          "totalLiquidityUSD": 38494335.83106
-        },
-        {
-          "date": 1734048000,
-          "totalLiquidityUSD": 38044746.16003
-        },
-        {
-          "date": 1734134400,
-          "totalLiquidityUSD": 38312909.28806
-        },
-        {
-          "date": 1734220800,
-          "totalLiquidityUSD": 38250442.38554
-        },
-        {
-          "date": 1734307200,
-          "totalLiquidityUSD": 39387133.76789
-        },
-        {
-          "date": 1734393600,
-          "totalLiquidityUSD": 39944207.227
-        },
-        {
-          "date": 1734480000,
-          "totalLiquidityUSD": 40035437.04554
-        },
-        {
-          "date": 1734566400,
-          "totalLiquidityUSD": 38026963.09001
-        },
-        {
-          "date": 1734652800,
-          "totalLiquidityUSD": 36543020.50975
-        },
-        {
-          "date": 1734739200,
-          "totalLiquidityUSD": 36736087.18257
-        },
-        {
-          "date": 1734825600,
-          "totalLiquidityUSD": 36839735.34749
-        },
-        {
-          "date": 1734912000,
-          "totalLiquidityUSD": 36041703.98618
-        },
-        {
-          "date": 1734998400,
-          "totalLiquidityUSD": 35922974.83465
-        },
-        {
-          "date": 1735084800,
-          "totalLiquidityUSD": 37167972.73036
-        },
-        {
-          "date": 1735171200,
-          "totalLiquidityUSD": 37315152.84407
-        },
-        {
-          "date": 1735257600,
-          "totalLiquidityUSD": 36255907.16158
-        },
-        {
-          "date": 1735344000,
-          "totalLiquidityUSD": 35636818.02962
-        },
-        {
-          "date": 1735430400,
-          "totalLiquidityUSD": 35918691.49031
-        },
-        {
-          "date": 1735516800,
-          "totalLiquidityUSD": 35625288.25699
-        },
-        {
-          "date": 1735603200,
-          "totalLiquidityUSD": 34995856.6033
-        },
-        {
-          "date": 1735689600,
-          "totalLiquidityUSD": 35296841.52482
-        },
-        {
-          "date": 1735776000,
-          "totalLiquidityUSD": 35905421.57414
-        },
-        {
-          "date": 1735862400,
-          "totalLiquidityUSD": 36809592.30635
-        },
-        {
-          "date": 1735948800,
-          "totalLiquidityUSD": 37142191.68891
-        },
-        {
-          "date": 1736035200,
-          "totalLiquidityUSD": 37159918.19897
-        },
-        {
-          "date": 1736121600,
-          "totalLiquidityUSD": 37236361.63196
-        },
-        {
-          "date": 1736208000,
-          "totalLiquidityUSD": 38372220.21243
-        },
-        {
-          "date": 1736294400,
-          "totalLiquidityUSD": 36797059.91513
-        },
-        {
-          "date": 1736380800,
-          "totalLiquidityUSD": 36082259.25674
-        },
-        {
-          "date": 1736467200,
-          "totalLiquidityUSD": 35054201.43509
-        },
-        {
-          "date": 1736553600,
-          "totalLiquidityUSD": 35973858.40774
-        },
-        {
-          "date": 1736640000,
-          "totalLiquidityUSD": 35912540.49443
-        },
-        {
-          "date": 1736726400,
-          "totalLiquidityUSD": 35552255.05655
-        },
-        {
-          "date": 1736812800,
-          "totalLiquidityUSD": 35878460.60564
-        },
-        {
-          "date": 1736899200,
-          "totalLiquidityUSD": 36625113.7176
-        },
-        {
-          "date": 1736985600,
-          "totalLiquidityUSD": 37831443.5438
-        },
-        {
-          "date": 1737072000,
-          "totalLiquidityUSD": 37844501.03443
-        },
-        {
-          "date": 1737158400,
-          "totalLiquidityUSD": 39442239.20689
-        },
-        {
-          "date": 1737244800,
-          "totalLiquidityUSD": 39576743.31808
-        },
-        {
-          "date": 1737331200,
-          "totalLiquidityUSD": 38519030.22536
-        },
-        {
-          "date": 1737417600,
-          "totalLiquidityUSD": 39046485.51709
-        },
-        {
-          "date": 1737504000,
-          "totalLiquidityUSD": 40296689.78033
-        },
-        {
-          "date": 1737590400,
-          "totalLiquidityUSD": 39378942.46151
-        },
-        {
-          "date": 1737676800,
-          "totalLiquidityUSD": 39346663.1162
-        },
-        {
-          "date": 1737763200,
-          "totalLiquidityUSD": 39559944.04963
-        },
-        {
-          "date": 1737849600,
-          "totalLiquidityUSD": 39776240.18472
-        },
-        {
-          "date": 1737936000,
-          "totalLiquidityUSD": 39084493.4952
-        },
-        {
-          "date": 1738022400,
-          "totalLiquidityUSD": 38696973.94815
-        },
-        {
-          "date": 1738108800,
-          "totalLiquidityUSD": 38378736.36196
-        },
-        {
-          "date": 1738195200,
-          "totalLiquidityUSD": 39280320.66365
-        },
-        {
-          "date": 1738281600,
-          "totalLiquidityUSD": 39657089.2637
-        },
-        {
-          "date": 1738368000,
-          "totalLiquidityUSD": 39303217.05162
-        },
-        {
-          "date": 1738454400,
-          "totalLiquidityUSD": 38523265.06793
-        },
-        {
-          "date": 1738540800,
-          "totalLiquidityUSD": 36684459.14748
-        },
-        {
-          "date": 1738627200,
-          "totalLiquidityUSD": 38529876.00185
-        },
-        {
-          "date": 1738713600,
-          "totalLiquidityUSD": 37192715.88002
-        },
-        {
-          "date": 1738800000,
-          "totalLiquidityUSD": 36747536.10795
-        },
-        {
-          "date": 1738886400,
-          "totalLiquidityUSD": 36715301.58795
-        },
-        {
-          "date": 1738972800,
-          "totalLiquidityUSD": 36669462.94062
-        },
-        {
-          "date": 1739059200,
-          "totalLiquidityUSD": 36613335.88667
-        },
-        {
-          "date": 1739145600,
-          "totalLiquidityUSD": 37532621.06757
-        },
-        {
-          "date": 1739232000,
-          "totalLiquidityUSD": 38006110.63269
-        },
-        {
-          "date": 1739318400,
-          "totalLiquidityUSD": 37145898.66671
-        },
-        {
-          "date": 1739404800,
-          "totalLiquidityUSD": 37944508.20374
-        },
-        {
-          "date": 1739491200,
-          "totalLiquidityUSD": 37711307.94654
-        },
-        {
-          "date": 1739577600,
-          "totalLiquidityUSD": 38047073.20659
-        },
-        {
-          "date": 1739664000,
-          "totalLiquidityUSD": 38069047.74178
-        },
-        {
-          "date": 1739750400,
-          "totalLiquidityUSD": 37546978.26545
-        },
-        {
-          "date": 1739836800,
-          "totalLiquidityUSD": 37153434.74993
-        },
-        {
-          "date": 1739923200,
-          "totalLiquidityUSD": 37053851.14636
-        },
-        {
-          "date": 1740009600,
-          "totalLiquidityUSD": 37427612.59065
-        },
-        {
-          "date": 1740096000,
-          "totalLiquidityUSD": 38265119.32687
-        },
-        {
-          "date": 1740182400,
-          "totalLiquidityUSD": 37197703.66852
-        },
-        {
-          "date": 1740268800,
-          "totalLiquidityUSD": 37429462.09616
-        },
-        {
-          "date": 1740355200,
-          "totalLiquidityUSD": 37456305.57511
-        },
-        {
-          "date": 1740441600,
-          "totalLiquidityUSD": 35778006.30152
-        },
-        {
-          "date": 1740528000,
-          "totalLiquidityUSD": 34909142.29017
-        },
-        {
-          "date": 1740614400,
-          "totalLiquidityUSD": 32686181.97693
-        },
-        {
-          "date": 1740700800,
-          "totalLiquidityUSD": 32923370.77666
-        },
-        {
-          "date": 1740787200,
-          "totalLiquidityUSD": 32593857.9913
-        },
-        {
-          "date": 1740873600,
-          "totalLiquidityUSD": 33360992.40645
-        },
-        {
-          "date": 1740960000,
-          "totalLiquidityUSD": 36677040.3853
-        },
-        {
-          "date": 1741046400,
-          "totalLiquidityUSD": 33290463.69198
-        },
-        {
-          "date": 1741132800,
-          "totalLiquidityUSD": 34038726.34401
-        },
-        {
-          "date": 1741219200,
-          "totalLiquidityUSD": 35271839.75133
-        },
-        {
-          "date": 1741305600,
-          "totalLiquidityUSD": 34991904.62658
-        },
-        {
-          "date": 1741392000,
-          "totalLiquidityUSD": 33666283.13056
-        },
-        {
-          "date": 1741478400,
-          "totalLiquidityUSD": 33563937.70497
-        },
-        {
-          "date": 1741564800,
-          "totalLiquidityUSD": 31249759.20606
-        },
-        {
-          "date": 1741651200,
-          "totalLiquidityUSD": 30687706.65646
-        },
-        {
-          "date": 1741737600,
-          "totalLiquidityUSD": 32127964.11352
-        },
-        {
-          "date": 1741824000,
-          "totalLiquidityUSD": 32552038.25299
-        },
-        {
-          "date": 1741910400,
-          "totalLiquidityUSD": 31449690.23962
-        },
-        {
-          "date": 1741996800,
-          "totalLiquidityUSD": 32713924.95169
-        },
-        {
-          "date": 1742083200,
-          "totalLiquidityUSD": 32761687.83345
-        },
-        {
-          "date": 1742169600,
-          "totalLiquidityUSD": 32079301.08997
-        },
-        {
-          "date": 1742256000,
-          "totalLiquidityUSD": 32567363.42784
-        },
-        {
-          "date": 1742342400,
-          "totalLiquidityUSD": 32239832.03266
-        },
-        {
-          "date": 1742428800,
-          "totalLiquidityUSD": 33510801.43887
-        },
-        {
-          "date": 1742515200,
-          "totalLiquidityUSD": 32734704.781
-        },
-        {
-          "date": 1742601600,
-          "totalLiquidityUSD": 32726518.63683
-        },
-        {
-          "date": 1742688000,
-          "totalLiquidityUSD": 32609548.71561
-        },
-        {
-          "date": 1742774400,
-          "totalLiquidityUSD": 33721236.11322
-        },
-        {
-          "date": 1742860800,
-          "totalLiquidityUSD": 34084896.29824
-        },
-        {
-          "date": 1742947200,
-          "totalLiquidityUSD": 34025448.34578
-        },
-        {
-          "date": 1743033600,
-          "totalLiquidityUSD": 33914583.68006
-        },
-        {
-          "date": 1743120000,
-          "totalLiquidityUSD": 33932215.94739
-        },
-        {
-          "date": 1743206400,
-          "totalLiquidityUSD": 32836772.84422
-        },
-        {
-          "date": 1743292800,
-          "totalLiquidityUSD": 31933590.34637
-        },
-        {
-          "date": 1743379200,
-          "totalLiquidityUSD": 31968368.07025
-        },
-        {
-          "date": 1743465600,
-          "totalLiquidityUSD": 32128956.47792
-        },
-        {
-          "date": 1743552000,
-          "totalLiquidityUSD": 33089722.17405
-        },
-        {
-          "date": 1743638400,
-          "totalLiquidityUSD": 31905093.45168
-        },
-        {
-          "date": 1743724800,
-          "totalLiquidityUSD": 32272994.55758
-        },
-        {
-          "date": 1743811200,
-          "totalLiquidityUSD": 32508200.45337
-        },
-        {
-          "date": 1743897600,
-          "totalLiquidityUSD": 32438963.64928
-        },
-        {
-          "date": 1743984000,
-          "totalLiquidityUSD": 29935244.1867
-        },
-        {
-          "date": 1744070400,
-          "totalLiquidityUSD": 30763723.43438
-        },
-        {
-          "date": 1744156800,
-          "totalLiquidityUSD": 29688900.35104
-        },
-        {
-          "date": 1744243200,
-          "totalLiquidityUSD": 32072718.16262
-        },
-        {
-          "date": 1744329600,
-          "totalLiquidityUSD": 30962696.642
-        },
-        {
-          "date": 1744416000,
-          "totalLiquidityUSD": 32388479.77608
-        },
-        {
-          "date": 1744502400,
-          "totalLiquidityUSD": 33070772.40467
-        },
-        {
-          "date": 1744588800,
-          "totalLiquidityUSD": 32406801.13231
-        },
-        {
-          "date": 1744675200,
-          "totalLiquidityUSD": 32976978.71653
-        },
-        {
-          "date": 1744761600,
-          "totalLiquidityUSD": 32473850.88269
-        },
-        {
-          "date": 1744848000,
-          "totalLiquidityUSD": 1068738.55857
-        },
-        {
-          "date": 1744934400,
-          "totalLiquidityUSD": 1073665.04573
-        },
-        {
-          "date": 1745020800,
-          "totalLiquidityUSD": 1061818.6616
-        },
-        {
-          "date": 1745107200,
-          "totalLiquidityUSD": 1079374.77136
-        },
-        {
-          "date": 1745193600,
-          "totalLiquidityUSD": 1091976.42611
-        },
-        {
-          "date": 1745280000,
-          "totalLiquidityUSD": 1103755.94043
-        },
-        {
-          "date": 1745366400,
-          "totalLiquidityUSD": 1179957.25702
-        },
-        {
-          "date": 1745452800,
-          "totalLiquidityUSD": 1183145.87949
-        },
-        {
-          "date": 1745539200,
-          "totalLiquidityUSD": 1185169.70696
-        },
-        {
-          "date": 1745625600,
-          "totalLiquidityUSD": 149594.81607
-        },
-        {
-          "date": 1745712000,
-          "totalLiquidityUSD": 136893.55152
-        },
-        {
-          "date": 1745798400,
-          "totalLiquidityUSD": 134782.73377
-        },
-        {
-          "date": 1745884800,
-          "totalLiquidityUSD": 173560.5111
-        },
-        {
-          "date": 1745971200,
-          "totalLiquidityUSD": 171676.68027
-        },
-        {
-          "date": 1746057600,
-          "totalLiquidityUSD": 169770.24109
-        },
-        {
-          "date": 1746144000,
-          "totalLiquidityUSD": 171764.34009
-        },
-        {
-          "date": 1746230400,
-          "totalLiquidityUSD": 171675.70009
-        },
-        {
-          "date": 1746316800,
-          "totalLiquidityUSD": 169692.89621
-        },
-        {
-          "date": 1746403200,
-          "totalLiquidityUSD": 165396.78838
-        },
-        {
-          "date": 1746489600,
-          "totalLiquidityUSD": 161186.87837
-        },
-        {
-          "date": 1746576000,
-          "totalLiquidityUSD": 163356.25235
-        },
-        {
-          "date": 1746662400,
-          "totalLiquidityUSD": 163856.21602
-        },
-        {
-          "date": 1746748800,
-          "totalLiquidityUSD": 57091.20394
-        },
-        {
-          "date": 1746835200,
-          "totalLiquidityUSD": 189165.66075
-        },
-        {
-          "date": 1746921600,
-          "totalLiquidityUSD": 177631.15224
-        },
-        {
-          "date": 1747008000,
-          "totalLiquidityUSD": 164195.08181
-        },
-        {
-          "date": 1747094400,
-          "totalLiquidityUSD": 160765.0115
-        },
-        {
-          "date": 1747180800,
-          "totalLiquidityUSD": 163914.38531
-        },
-        {
-          "date": 1747267200,
-          "totalLiquidityUSD": 160907.72128
-        },
-        {
-          "date": 1747353600,
-          "totalLiquidityUSD": 161298.75848
-        },
-        {
-          "date": 1747440000,
-          "totalLiquidityUSD": 161669.60954
-        },
-        {
-          "date": 1747526400,
-          "totalLiquidityUSD": 160293.00269
-        },
-        {
-          "date": 1747612800,
-          "totalLiquidityUSD": 164003.96493
-        },
-        {
-          "date": 1747699200,
-          "totalLiquidityUSD": 164334.03201
-        },
-        {
-          "date": 1747785600,
-          "totalLiquidityUSD": 165888.083
-        },
-        {
-          "date": 1747872000,
-          "totalLiquidityUSD": 163370.51283
-        },
-        {
-          "date": 1747958400,
-          "totalLiquidityUSD": 163639.74326
-        },
-        {
-          "date": 1748044800,
-          "totalLiquidityUSD": 158725.2753
-        },
-        {
-          "date": 1748131200,
-          "totalLiquidityUSD": 160780.60519
-        },
-        {
-          "date": 1748217600,
-          "totalLiquidityUSD": 154856.47103
-        },
-        {
-          "date": 1748304000,
-          "totalLiquidityUSD": 155236.31765
-        },
-        {
-          "date": 1748390400,
-          "totalLiquidityUSD": 155288.53777
-        },
-        {
-          "date": 1748476800,
-          "totalLiquidityUSD": 153426.44799
-        },
-        {
-          "date": 1748563200,
-          "totalLiquidityUSD": 150968.22953
-        },
-        {
-          "date": 1748649600,
-          "totalLiquidityUSD": 146675.28629
-        },
-        {
-          "date": 1748736000,
-          "totalLiquidityUSD": 148885.91085
-        },
-        {
-          "date": 1748822400,
-          "totalLiquidityUSD": 150106.30423
-        },
-        {
-          "date": 1748886431,
-          "totalLiquidityUSD": 102578.57167
-        }
-      ],
-      "tokensInUsd": [
-        {
-          "date": 1733270400,
-          "tokens": {
-            "LBTC": 36317928.14397
-          }
-        },
-        {
-          "date": 1733356800,
-          "tokens": {
-            "LBTC": 37294127.06234
-          }
-        },
-        {
-          "date": 1733443200,
-          "tokens": {
-            "LBTC": 37519927.43206
-          }
-        },
-        {
-          "date": 1733529600,
-          "tokens": {
-            "LBTC": 37636042.53006
-          }
-        },
-        {
-          "date": 1733616000,
-          "tokens": {
-            "LBTC": 37762369.70509
-          }
-        },
-        {
-          "date": 1733702400,
-          "tokens": {
-            "LBTC": 37902702.10894
-          }
-        },
-        {
-          "date": 1733788800,
-          "tokens": {
-            "LBTC": 36644952.49181
-          }
-        },
-        {
-          "date": 1733875200,
-          "tokens": {
-            "LBTC": 36698483.19163
-          }
-        },
-        {
-          "date": 1733961600,
-          "tokens": {
-            "LBTC": 38494335.83106
-          }
-        },
-        {
-          "date": 1734048000,
-          "tokens": {
-            "LBTC": 38044746.16003
-          }
-        },
-        {
-          "date": 1734134400,
-          "tokens": {
-            "LBTC": 38312909.28806
-          }
-        },
-        {
-          "date": 1734220800,
-          "tokens": {
-            "LBTC": 38250442.38554
-          }
-        },
-        {
-          "date": 1734307200,
-          "tokens": {
-            "LBTC": 39387133.76789
-          }
-        },
-        {
-          "date": 1734393600,
-          "tokens": {
-            "LBTC": 39944207.227
-          }
-        },
-        {
-          "date": 1734480000,
-          "tokens": {
-            "LBTC": 40035437.04554
-          }
-        },
-        {
-          "date": 1734566400,
-          "tokens": {
-            "LBTC": 38026963.09001
-          }
-        },
-        {
-          "date": 1734652800,
-          "tokens": {
-            "LBTC": 36543020.50975
-          }
-        },
-        {
-          "date": 1734739200,
-          "tokens": {
-            "LBTC": 36736087.18257
-          }
-        },
-        {
-          "date": 1734825600,
-          "tokens": {
-            "LBTC": 36839735.34749
-          }
-        },
-        {
-          "date": 1734912000,
-          "tokens": {
-            "LBTC": 36041703.98618
-          }
-        },
-        {
-          "date": 1734998400,
-          "tokens": {
-            "LBTC": 35922974.83465
-          }
-        },
-        {
-          "date": 1735084800,
-          "tokens": {
-            "LBTC": 37167972.73036
-          }
-        },
-        {
-          "date": 1735171200,
-          "tokens": {
-            "LBTC": 37315152.84407
-          }
-        },
-        {
-          "date": 1735257600,
-          "tokens": {
-            "LBTC": 36255907.16158
-          }
-        },
-        {
-          "date": 1735344000,
-          "tokens": {
-            "LBTC": 35636818.02962
-          }
-        },
-        {
-          "date": 1735430400,
-          "tokens": {
-            "LBTC": 35918691.49031
-          }
-        },
-        {
-          "date": 1735516800,
-          "tokens": {
-            "LBTC": 35625288.25699
-          }
-        },
-        {
-          "date": 1735603200,
-          "tokens": {
-            "LBTC": 34995856.6033
-          }
-        },
-        {
-          "date": 1735689600,
-          "tokens": {
-            "LBTC": 35296841.52482
-          }
-        },
-        {
-          "date": 1735776000,
-          "tokens": {
-            "LBTC": 35905421.57414
-          }
-        },
-        {
-          "date": 1735862400,
-          "tokens": {
-            "LBTC": 36809592.30635
-          }
-        },
-        {
-          "date": 1735948800,
-          "tokens": {
-            "LBTC": 37142191.68891
-          }
-        },
-        {
-          "date": 1736035200,
-          "tokens": {
-            "LBTC": 37159918.19897
-          }
-        },
-        {
-          "date": 1736121600,
-          "tokens": {
-            "LBTC": 37236361.63196
-          }
-        },
-        {
-          "date": 1736208000,
-          "tokens": {
-            "LBTC": 38372220.21243
-          }
-        },
-        {
-          "date": 1736294400,
-          "tokens": {
-            "LBTC": 36797059.91513
-          }
-        },
-        {
-          "date": 1736380800,
-          "tokens": {
-            "LBTC": 36082259.25674
-          }
-        },
-        {
-          "date": 1736467200,
-          "tokens": {
-            "LBTC": 35054201.43509
-          }
-        },
-        {
-          "date": 1736553600,
-          "tokens": {
-            "LBTC": 35973858.40774
-          }
-        },
-        {
-          "date": 1736640000,
-          "tokens": {
-            "LBTC": 35912540.49443
-          }
-        },
-        {
-          "date": 1736726400,
-          "tokens": {
-            "LBTC": 35552255.05655
-          }
-        },
-        {
-          "date": 1736812800,
-          "tokens": {
-            "LBTC": 35878460.60564
-          }
-        },
-        {
-          "date": 1736899200,
-          "tokens": {
-            "LBTC": 36625113.7176
-          }
-        },
-        {
-          "date": 1736985600,
-          "tokens": {
-            "LBTC": 37831443.5438
-          }
-        },
-        {
-          "date": 1737072000,
-          "tokens": {
-            "LBTC": 37844501.03443
-          }
-        },
-        {
-          "date": 1737158400,
-          "tokens": {
-            "LBTC": 39442239.20689
-          }
-        },
-        {
-          "date": 1737244800,
-          "tokens": {
-            "LBTC": 39576743.31808
-          }
-        },
-        {
-          "date": 1737331200,
-          "tokens": {
-            "LBTC": 38519030.22536
-          }
-        },
-        {
-          "date": 1737417600,
-          "tokens": {
-            "LBTC": 39046485.51709
-          }
-        },
-        {
-          "date": 1737504000,
-          "tokens": {
-            "LBTC": 40296689.78033
-          }
-        },
-        {
-          "date": 1737590400,
-          "tokens": {
-            "LBTC": 39378942.46151
-          }
-        },
-        {
-          "date": 1737676800,
-          "tokens": {
-            "LBTC": 39346663.1162
-          }
-        },
-        {
-          "date": 1737763200,
-          "tokens": {
-            "LBTC": 39559944.04963
-          }
-        },
-        {
-          "date": 1737849600,
-          "tokens": {
-            "LBTC": 39776240.18472
-          }
-        },
-        {
-          "date": 1737936000,
-          "tokens": {
-            "LBTC": 39084493.4952
-          }
-        },
-        {
-          "date": 1738022400,
-          "tokens": {
-            "LBTC": 38696973.94815
-          }
-        },
-        {
-          "date": 1738108800,
-          "tokens": {
-            "LBTC": 38378736.36196
-          }
-        },
-        {
-          "date": 1738195200,
-          "tokens": {
-            "LBTC": 39280320.66365
-          }
-        },
-        {
-          "date": 1738281600,
-          "tokens": {
-            "LBTC": 39657089.2637
-          }
-        },
-        {
-          "date": 1738368000,
-          "tokens": {
-            "LBTC": 39303217.05162
-          }
-        },
-        {
-          "date": 1738454400,
-          "tokens": {
-            "LBTC": 38523265.06793
-          }
-        },
-        {
-          "date": 1738540800,
-          "tokens": {
-            "LBTC": 36684459.14748
-          }
-        },
-        {
-          "date": 1738627200,
-          "tokens": {
-            "LBTC": 38529876.00185
-          }
-        },
-        {
-          "date": 1738713600,
-          "tokens": {
-            "LBTC": 37192715.88002
-          }
-        },
-        {
-          "date": 1738800000,
-          "tokens": {
-            "LBTC": 36747536.10795
-          }
-        },
-        {
-          "date": 1738886400,
-          "tokens": {
-            "LBTC": 36715301.58795
-          }
-        },
-        {
-          "date": 1738972800,
-          "tokens": {
-            "LBTC": 36669462.94062
-          }
-        },
-        {
-          "date": 1739059200,
-          "tokens": {
-            "LBTC": 36613335.88667
-          }
-        },
-        {
-          "date": 1739145600,
-          "tokens": {
-            "LBTC": 37532621.06757
-          }
-        },
-        {
-          "date": 1739232000,
-          "tokens": {
-            "LBTC": 38006110.63269
-          }
-        },
-        {
-          "date": 1739318400,
-          "tokens": {
-            "LBTC": 37145898.66671
-          }
-        },
-        {
-          "date": 1739404800,
-          "tokens": {
-            "LBTC": 37944508.20374
-          }
-        },
-        {
-          "date": 1739491200,
-          "tokens": {
-            "LBTC": 37711307.94654
-          }
-        },
-        {
-          "date": 1739577600,
-          "tokens": {
-            "LBTC": 38047073.20659
-          }
-        },
-        {
-          "date": 1739664000,
-          "tokens": {
-            "LBTC": 38069047.74178
-          }
-        },
-        {
-          "date": 1739750400,
-          "tokens": {
-            "LBTC": 37546978.26545
-          }
-        },
-        {
-          "date": 1739836800,
-          "tokens": {
-            "LBTC": 37153434.74993
-          }
-        },
-        {
-          "date": 1739923200,
-          "tokens": {
-            "LBTC": 37053851.14636
-          }
-        },
-        {
-          "date": 1740009600,
-          "tokens": {
-            "LBTC": 37427612.59065
-          }
-        },
-        {
-          "date": 1740096000,
-          "tokens": {
-            "LBTC": 38265119.32687
-          }
-        },
-        {
-          "date": 1740182400,
-          "tokens": {
-            "LBTC": 37197703.66852
-          }
-        },
-        {
-          "date": 1740268800,
-          "tokens": {
-            "LBTC": 37429462.09616
-          }
-        },
-        {
-          "date": 1740355200,
-          "tokens": {
-            "LBTC": 37456305.57511
-          }
-        },
-        {
-          "date": 1740441600,
-          "tokens": {
-            "LBTC": 35778006.30152
-          }
-        },
-        {
-          "date": 1740528000,
-          "tokens": {
-            "LBTC": 34909142.29017
-          }
-        },
-        {
-          "date": 1740614400,
-          "tokens": {
-            "LBTC": 32686181.97693
-          }
-        },
-        {
-          "date": 1740700800,
-          "tokens": {
-            "LBTC": 32923370.77666
-          }
-        },
-        {
-          "date": 1740787200,
-          "tokens": {
-            "LBTC": 32593857.9913
-          }
-        },
-        {
-          "date": 1740873600,
-          "tokens": {
-            "LBTC": 33360992.40645
-          }
-        },
-        {
-          "date": 1740960000,
-          "tokens": {
-            "LBTC": 36677040.3853
-          }
-        },
-        {
-          "date": 1741046400,
-          "tokens": {
-            "LBTC": 33290463.69198
-          }
-        },
-        {
-          "date": 1741132800,
-          "tokens": {
-            "LBTC": 34038726.34401
-          }
-        },
-        {
-          "date": 1741219200,
-          "tokens": {
-            "LBTC": 35271839.75133
-          }
-        },
-        {
-          "date": 1741305600,
-          "tokens": {
-            "LBTC": 34991904.62658
-          }
-        },
-        {
-          "date": 1741392000,
-          "tokens": {
-            "LBTC": 33666283.13056
-          }
-        },
-        {
-          "date": 1741478400,
-          "tokens": {
-            "LBTC": 33563937.70497
-          }
-        },
-        {
-          "date": 1741564800,
-          "tokens": {
-            "LBTC": 31249759.20606
-          }
-        },
-        {
-          "date": 1741651200,
-          "tokens": {
-            "LBTC": 30687706.65646
-          }
-        },
-        {
-          "date": 1741737600,
-          "tokens": {
-            "LBTC": 32127964.11352
-          }
-        },
-        {
-          "date": 1741824000,
-          "tokens": {
-            "LBTC": 32552038.25299
-          }
-        },
-        {
-          "date": 1741910400,
-          "tokens": {
-            "LBTC": 31449690.23962
-          }
-        },
-        {
-          "date": 1741996800,
-          "tokens": {
-            "LBTC": 32713924.95169
-          }
-        },
-        {
-          "date": 1742083200,
-          "tokens": {
-            "LBTC": 32761687.83345
-          }
-        },
-        {
-          "date": 1742169600,
-          "tokens": {
-            "LBTC": 32079301.08997
-          }
-        },
-        {
-          "date": 1742256000,
-          "tokens": {
-            "LBTC": 32567363.42784
-          }
-        },
-        {
-          "date": 1742342400,
-          "tokens": {
-            "LBTC": 32239832.03266
-          }
-        },
-        {
-          "date": 1742428800,
-          "tokens": {
-            "LBTC": 33510801.43887
-          }
-        },
-        {
-          "date": 1742515200,
-          "tokens": {
-            "LBTC": 32734704.781
-          }
-        },
-        {
-          "date": 1742601600,
-          "tokens": {
-            "LBTC": 32726518.63683
-          }
-        },
-        {
-          "date": 1742688000,
-          "tokens": {
-            "LBTC": 32609548.71561
-          }
-        },
-        {
-          "date": 1742774400,
-          "tokens": {
-            "LBTC": 33721236.11322
-          }
-        },
-        {
-          "date": 1742860800,
-          "tokens": {
-            "LBTC": 34084896.29824
-          }
-        },
-        {
-          "date": 1742947200,
-          "tokens": {
-            "LBTC": 34025448.34578
-          }
-        },
-        {
-          "date": 1743033600,
-          "tokens": {
-            "LBTC": 33914583.68006
-          }
-        },
-        {
-          "date": 1743120000,
-          "tokens": {
-            "LBTC": 33932215.94739
-          }
-        },
-        {
-          "date": 1743206400,
-          "tokens": {
-            "LBTC": 32836772.84422
-          }
-        },
-        {
-          "date": 1743292800,
-          "tokens": {
-            "LBTC": 31933590.34637
-          }
-        },
-        {
-          "date": 1743379200,
-          "tokens": {
-            "LBTC": 31968368.07025
-          }
-        },
-        {
-          "date": 1743465600,
-          "tokens": {
-            "LBTC": 32128956.47792
-          }
-        },
-        {
-          "date": 1743552000,
-          "tokens": {
-            "LBTC": 33089722.17405
-          }
-        },
-        {
-          "date": 1743638400,
-          "tokens": {
-            "LBTC": 31905093.45168
-          }
-        },
-        {
-          "date": 1743724800,
-          "tokens": {
-            "LBTC": 32272994.55758
-          }
-        },
-        {
-          "date": 1743811200,
-          "tokens": {
-            "LBTC": 32508200.45337
-          }
-        },
-        {
-          "date": 1743897600,
-          "tokens": {
-            "LBTC": 32438963.64928
-          }
-        },
-        {
-          "date": 1743984000,
-          "tokens": {
-            "LBTC": 29935244.1867
-          }
-        },
-        {
-          "date": 1744070400,
-          "tokens": {
-            "LBTC": 30763723.43438
-          }
-        },
-        {
-          "date": 1744156800,
-          "tokens": {
-            "LBTC": 29688900.35104
-          }
-        },
-        {
-          "date": 1744243200,
-          "tokens": {
-            "LBTC": 32072718.16262
-          }
-        },
-        {
-          "date": 1744329600,
-          "tokens": {
-            "LBTC": 30962696.642
-          }
-        },
-        {
-          "date": 1744416000,
-          "tokens": {
-            "LBTC": 32388479.77608
-          }
-        },
-        {
-          "date": 1744502400,
-          "tokens": {
-            "LBTC": 33070772.40467
-          }
-        },
-        {
-          "date": 1744588800,
-          "tokens": {
-            "LBTC": 32406801.13231
-          }
-        },
-        {
-          "date": 1744675200,
-          "tokens": {
-            "LBTC": 32976978.71653
-          }
-        },
-        {
-          "date": 1744761600,
-          "tokens": {
-            "LBTC": 32473850.88269
-          }
-        },
-        {
-          "date": 1744848000,
-          "tokens": {
-            "LBTC": 1068738.55857
-          }
-        },
-        {
-          "date": 1744934400,
-          "tokens": {
-            "LBTC": 1073665.04573
-          }
-        },
-        {
-          "date": 1745020800,
-          "tokens": {
-            "LBTC": 1061818.6616
-          }
-        },
-        {
-          "date": 1745107200,
-          "tokens": {
-            "LBTC": 1079374.77136
-          }
-        },
-        {
-          "date": 1745193600,
-          "tokens": {
-            "LBTC": 1091976.42611
-          }
-        },
-        {
-          "date": 1745280000,
-          "tokens": {
-            "LBTC": 1103755.94043
-          }
-        },
-        {
-          "date": 1745366400,
-          "tokens": {
-            "LBTC": 1179957.25702
-          }
-        },
-        {
-          "date": 1745452800,
-          "tokens": {
-            "LBTC": 1183145.87949
-          }
-        },
-        {
-          "date": 1745539200,
-          "tokens": {
-            "LBTC": 1185169.70696
-          }
-        },
-        {
-          "date": 1745625600,
-          "tokens": {
-            "LBTC": 149594.81607
-          }
-        },
-        {
-          "date": 1745712000,
-          "tokens": {
-            "LBTC": 136893.55152
-          }
-        },
-        {
-          "date": 1745798400,
-          "tokens": {
-            "LBTC": 134782.73377
-          }
-        },
-        {
-          "date": 1745884800,
-          "tokens": {
-            "LBTC": 173560.5111
-          }
-        },
-        {
-          "date": 1745971200,
-          "tokens": {
-            "LBTC": 171676.68027
-          }
-        },
-        {
-          "date": 1746057600,
-          "tokens": {
-            "LBTC": 169770.24109
-          }
-        },
-        {
-          "date": 1746144000,
-          "tokens": {
-            "LBTC": 171764.34009
-          }
-        },
-        {
-          "date": 1746230400,
-          "tokens": {
-            "LBTC": 171675.70009
-          }
-        },
-        {
-          "date": 1746316800,
-          "tokens": {
-            "LBTC": 169692.89621
-          }
-        },
-        {
-          "date": 1746403200,
-          "tokens": {
-            "LBTC": 165396.78838
-          }
-        },
-        {
-          "date": 1746489600,
-          "tokens": {
-            "LBTC": 161186.87837
-          }
-        },
-        {
-          "date": 1746576000,
-          "tokens": {
-            "LBTC": 163356.25235
-          }
-        },
-        {
-          "date": 1746662400,
-          "tokens": {
-            "LBTC": 163856.21602
-          }
-        },
-        {
-          "date": 1746748800,
-          "tokens": {
-            "LBTC": 57091.20394
-          }
-        },
-        {
-          "date": 1746835200,
-          "tokens": {
-            "LBTC": 189165.66075
-          }
-        },
-        {
-          "date": 1746921600,
-          "tokens": {
-            "LBTC": 177631.15224
-          }
-        },
-        {
-          "date": 1747008000,
-          "tokens": {
-            "LBTC": 164195.08181
-          }
-        },
-        {
-          "date": 1747094400,
-          "tokens": {
-            "LBTC": 160765.0115
-          }
-        },
-        {
-          "date": 1747180800,
-          "tokens": {
-            "LBTC": 163914.38531
-          }
-        },
-        {
-          "date": 1747267200,
-          "tokens": {
-            "LBTC": 160907.72128
-          }
-        },
-        {
-          "date": 1747353600,
-          "tokens": {
-            "LBTC": 161298.75848
-          }
-        },
-        {
-          "date": 1747440000,
-          "tokens": {
-            "LBTC": 161669.60954
-          }
-        },
-        {
-          "date": 1747526400,
-          "tokens": {
-            "LBTC": 160293.00269
-          }
-        },
-        {
-          "date": 1747612800,
-          "tokens": {
-            "LBTC": 164003.96493
-          }
-        },
-        {
-          "date": 1747699200,
-          "tokens": {
-            "LBTC": 164334.03201
-          }
-        },
-        {
-          "date": 1747785600,
-          "tokens": {
-            "LBTC": 165888.083
-          }
-        },
-        {
-          "date": 1747872000,
-          "tokens": {
-            "LBTC": 163370.51283
-          }
-        },
-        {
-          "date": 1747958400,
-          "tokens": {
-            "LBTC": 163639.74326
-          }
-        },
-        {
-          "date": 1748044800,
-          "tokens": {
-            "LBTC": 158725.2753
-          }
-        },
-        {
-          "date": 1748131200,
-          "tokens": {
-            "LBTC": 160780.60519
-          }
-        },
-        {
-          "date": 1748217600,
-          "tokens": {
-            "LBTC": 154856.47103
-          }
-        },
-        {
-          "date": 1748304000,
-          "tokens": {
-            "LBTC": 155236.31765
-          }
-        },
-        {
-          "date": 1748390400,
-          "tokens": {
-            "LBTC": 155288.53777
-          }
-        },
-        {
-          "date": 1748476800,
-          "tokens": {
-            "LBTC": 153426.44799
-          }
-        },
-        {
-          "date": 1748563200,
-          "tokens": {
-            "LBTC": 150968.22953
-          }
-        },
-        {
-          "date": 1748649600,
-          "tokens": {
-            "LBTC": 146675.28629
-          }
-        },
-        {
-          "date": 1748736000,
-          "tokens": {
-            "LBTC": 148885.91085
-          }
-        },
-        {
-          "date": 1748822400,
-          "tokens": {
-            "LBTC": 150106.30423
-          }
-        },
-        {
-          "date": 1748886431,
-          "tokens": {
-            "LBTC": 102578.57167
-          }
-        }
-      ],
-      "tokens": [
-        {
-          "date": 1733270400,
-          "tokens": {
-            "LBTC": 378.22507
-          }
-        },
-        {
-          "date": 1733356800,
-          "tokens": {
-            "LBTC": 378.22507
-          }
-        },
-        {
-          "date": 1733443200,
-          "tokens": {
-            "LBTC": 378.22507
-          }
-        },
-        {
-          "date": 1733529600,
-          "tokens": {
-            "LBTC": 378.22507
-          }
-        },
-        {
-          "date": 1733616000,
-          "tokens": {
-            "LBTC": 378.22507
-          }
-        },
-        {
-          "date": 1733702400,
-          "tokens": {
-            "LBTC": 378.22518
-          }
-        },
-        {
-          "date": 1733788800,
-          "tokens": {
-            "LBTC": 378.23143
-          }
-        },
-        {
-          "date": 1733875200,
-          "tokens": {
-            "LBTC": 378.2335
-          }
-        },
-        {
-          "date": 1733961600,
-          "tokens": {
-            "LBTC": 378.2335
-          }
-        },
-        {
-          "date": 1734048000,
-          "tokens": {
-            "LBTC": 378.23479
-          }
-        },
-        {
-          "date": 1734134400,
-          "tokens": {
-            "LBTC": 378.2422
-          }
-        },
-        {
-          "date": 1734220800,
-          "tokens": {
-            "LBTC": 378.25286
-          }
-        },
-        {
-          "date": 1734307200,
-          "tokens": {
-            "LBTC": 378.26053
-          }
-        },
-        {
-          "date": 1734393600,
-          "tokens": {
-            "LBTC": 378.27387
-          }
-        },
-        {
-          "date": 1734480000,
-          "tokens": {
-            "LBTC": 378.28164
-          }
-        },
-        {
-          "date": 1734566400,
-          "tokens": {
-            "LBTC": 378.27612
-          }
-        },
-        {
-          "date": 1734652800,
-          "tokens": {
-            "LBTC": 378.27647
-          }
-        },
-        {
-          "date": 1734739200,
-          "tokens": {
-            "LBTC": 378.27797
-          }
-        },
-        {
-          "date": 1734825600,
-          "tokens": {
-            "LBTC": 378.27797
-          }
-        },
-        {
-          "date": 1734912000,
-          "tokens": {
-            "LBTC": 378.30322
-          }
-        },
-        {
-          "date": 1734998400,
-          "tokens": {
-            "LBTC": 378.30383
-          }
-        },
-        {
-          "date": 1735084800,
-          "tokens": {
-            "LBTC": 378.30383
-          }
-        },
-        {
-          "date": 1735171200,
-          "tokens": {
-            "LBTC": 378.30403
-          }
-        },
-        {
-          "date": 1735257600,
-          "tokens": {
-            "LBTC": 378.31198
-          }
-        },
-        {
-          "date": 1735344000,
-          "tokens": {
-            "LBTC": 378.31419
-          }
-        },
-        {
-          "date": 1735430400,
-          "tokens": {
-            "LBTC": 378.31848
-          }
-        },
-        {
-          "date": 1735516800,
-          "tokens": {
-            "LBTC": 378.32031
-          }
-        },
-        {
-          "date": 1735603200,
-          "tokens": {
-            "LBTC": 378.32132
-          }
-        },
-        {
-          "date": 1735689600,
-          "tokens": {
-            "LBTC": 378.32367
-          }
-        },
-        {
-          "date": 1735776000,
-          "tokens": {
-            "LBTC": 378.32216
-          }
-        },
-        {
-          "date": 1735862400,
-          "tokens": {
-            "LBTC": 378.32585
-          }
-        },
-        {
-          "date": 1735948800,
-          "tokens": {
-            "LBTC": 378.32637
-          }
-        },
-        {
-          "date": 1736035200,
-          "tokens": {
-            "LBTC": 378.32581
-          }
-        },
-        {
-          "date": 1736121600,
-          "tokens": {
-            "LBTC": 378.33372
-          }
-        },
-        {
-          "date": 1736208000,
-          "tokens": {
-            "LBTC": 378.42426
-          }
-        },
-        {
-          "date": 1736294400,
-          "tokens": {
-            "LBTC": 378.90972
-          }
-        },
-        {
-          "date": 1736380800,
-          "tokens": {
-            "LBTC": 378.91184
-          }
-        },
-        {
-          "date": 1736467200,
-          "tokens": {
-            "LBTC": 378.92747
-          }
-        },
-        {
-          "date": 1736553600,
-          "tokens": {
-            "LBTC": 378.92747
-          }
-        },
-        {
-          "date": 1736640000,
-          "tokens": {
-            "LBTC": 378.93619
-          }
-        },
-        {
-          "date": 1736726400,
-          "tokens": {
-            "LBTC": 378.96131
-          }
-        },
-        {
-          "date": 1736812800,
-          "tokens": {
-            "LBTC": 378.96046
-          }
-        },
-        {
-          "date": 1736899200,
-          "tokens": {
-            "LBTC": 379.11057
-          }
-        },
-        {
-          "date": 1736985600,
-          "tokens": {
-            "LBTC": 379.11057
-          }
-        },
-        {
-          "date": 1737072000,
-          "tokens": {
-            "LBTC": 379.13504
-          }
-        },
-        {
-          "date": 1737158400,
-          "tokens": {
-            "LBTC": 379.25959
-          }
-        },
-        {
-          "date": 1737244800,
-          "tokens": {
-            "LBTC": 379.26559
-          }
-        },
-        {
-          "date": 1737331200,
-          "tokens": {
-            "LBTC": 379.26616
-          }
-        },
-        {
-          "date": 1737417600,
-          "tokens": {
-            "LBTC": 379.16572
-          }
-        },
-        {
-          "date": 1737504000,
-          "tokens": {
-            "LBTC": 379.18088
-          }
-        },
-        {
-          "date": 1737590400,
-          "tokens": {
-            "LBTC": 379.12852
-          }
-        },
-        {
-          "date": 1737676800,
-          "tokens": {
-            "LBTC": 379.14262
-          }
-        },
-        {
-          "date": 1737763200,
-          "tokens": {
-            "LBTC": 379.15183
-          }
-        },
-        {
-          "date": 1737849600,
-          "tokens": {
-            "LBTC": 379.14993
-          }
-        },
-        {
-          "date": 1737936000,
-          "tokens": {
-            "LBTC": 379.17764
-          }
-        },
-        {
-          "date": 1738022400,
-          "tokens": {
-            "LBTC": 379.17764
-          }
-        },
-        {
-          "date": 1738108800,
-          "tokens": {
-            "LBTC": 379.17658
-          }
-        },
-        {
-          "date": 1738195200,
-          "tokens": {
-            "LBTC": 379.37705
-          }
-        },
-        {
-          "date": 1738281600,
-          "tokens": {
-            "LBTC": 379.35936
-          }
-        },
-        {
-          "date": 1738368000,
-          "tokens": {
-            "LBTC": 379.73756
-          }
-        },
-        {
-          "date": 1738454400,
-          "tokens": {
-            "LBTC": 379.74907
-          }
-        },
-        {
-          "date": 1738540800,
-          "tokens": {
-            "LBTC": 379.57556
-          }
-        },
-        {
-          "date": 1738627200,
-          "tokens": {
-            "LBTC": 379.57477
-          }
-        },
-        {
-          "date": 1738713600,
-          "tokens": {
-            "LBTC": 379.57948
-          }
-        },
-        {
-          "date": 1738800000,
-          "tokens": {
-            "LBTC": 379.69391
-          }
-        },
-        {
-          "date": 1738886400,
-          "tokens": {
-            "LBTC": 379.7061
-          }
-        },
-        {
-          "date": 1738972800,
-          "tokens": {
-            "LBTC": 379.73472
-          }
-        },
-        {
-          "date": 1739059200,
-          "tokens": {
-            "LBTC": 379.73548
-          }
-        },
-        {
-          "date": 1739145600,
-          "tokens": {
-            "LBTC": 389.74684
-          }
-        },
-        {
-          "date": 1739232000,
-          "tokens": {
-            "LBTC": 389.76629
-          }
-        },
-        {
-          "date": 1739318400,
-          "tokens": {
-            "LBTC": 389.76631
-          }
-        },
-        {
-          "date": 1739404800,
-          "tokens": {
-            "LBTC": 389.7741
-          }
-        },
-        {
-          "date": 1739491200,
-          "tokens": {
-            "LBTC": 390.13581
-          }
-        },
-        {
-          "date": 1739577600,
-          "tokens": {
-            "LBTC": 390.14236
-          }
-        },
-        {
-          "date": 1739664000,
-          "tokens": {
-            "LBTC": 390.21564
-          }
-        },
-        {
-          "date": 1739750400,
-          "tokens": {
-            "LBTC": 390.48795
-          }
-        },
-        {
-          "date": 1739836800,
-          "tokens": {
-            "LBTC": 389.09824
-          }
-        },
-        {
-          "date": 1739923200,
-          "tokens": {
-            "LBTC": 389.08217
-          }
-        },
-        {
-          "date": 1740009600,
-          "tokens": {
-            "LBTC": 389.07256
-          }
-        },
-        {
-          "date": 1740096000,
-          "tokens": {
-            "LBTC": 389.01549
-          }
-        },
-        {
-          "date": 1740182400,
-          "tokens": {
-            "LBTC": 388.82888
-          }
-        },
-        {
-          "date": 1740268800,
-          "tokens": {
-            "LBTC": 388.81289
-          }
-        },
-        {
-          "date": 1740355200,
-          "tokens": {
-            "LBTC": 388.79691
-          }
-        },
-        {
-          "date": 1740441600,
-          "tokens": {
-            "LBTC": 388.7815
-          }
-        },
-        {
-          "date": 1740528000,
-          "tokens": {
-            "LBTC": 388.74323
-          }
-        },
-        {
-          "date": 1740614400,
-          "tokens": {
-            "LBTC": 388.72786
-          }
-        },
-        {
-          "date": 1740700800,
-          "tokens": {
-            "LBTC": 388.82962
-          }
-        },
-        {
-          "date": 1740787200,
-          "tokens": {
-            "LBTC": 388.81363
-          }
-        },
-        {
-          "date": 1740873600,
-          "tokens": {
-            "LBTC": 388.80463
-          }
-        },
-        {
-          "date": 1740960000,
-          "tokens": {
-            "LBTC": 388.79156
-          }
-        },
-        {
-          "date": 1741046400,
-          "tokens": {
-            "LBTC": 388.77557
-          }
-        },
-        {
-          "date": 1741132800,
-          "tokens": {
-            "LBTC": 388.76077
-          }
-        },
-        {
-          "date": 1741219200,
-          "tokens": {
-            "LBTC": 388.70468
-          }
-        },
-        {
-          "date": 1741305600,
-          "tokens": {
-            "LBTC": 388.68665
-          }
-        },
-        {
-          "date": 1741392000,
-          "tokens": {
-            "LBTC": 388.67088
-          }
-        },
-        {
-          "date": 1741478400,
-          "tokens": {
-            "LBTC": 388.66043
-          }
-        },
-        {
-          "date": 1741564800,
-          "tokens": {
-            "LBTC": 388.64476
-          }
-        },
-        {
-          "date": 1741651200,
-          "tokens": {
-            "LBTC": 388.17191
-          }
-        },
-        {
-          "date": 1741737600,
-          "tokens": {
-            "LBTC": 388.15953
-          }
-        },
-        {
-          "date": 1741824000,
-          "tokens": {
-            "LBTC": 388.12956
-          }
-        },
-        {
-          "date": 1741910400,
-          "tokens": {
-            "LBTC": 388.11445
-          }
-        },
-        {
-          "date": 1741996800,
-          "tokens": {
-            "LBTC": 388.05633
-          }
-        },
-        {
-          "date": 1742083200,
-          "tokens": {
-            "LBTC": 388.03833
-          }
-        },
-        {
-          "date": 1742169600,
-          "tokens": {
-            "LBTC": 388.72222
-          }
-        },
-        {
-          "date": 1742256000,
-          "tokens": {
-            "LBTC": 388.70624
-          }
-        },
-        {
-          "date": 1742342400,
-          "tokens": {
-            "LBTC": 388.68928
-          }
-        },
-        {
-          "date": 1742428800,
-          "tokens": {
-            "LBTC": 389.6922
-          }
-        },
-        {
-          "date": 1742515200,
-          "tokens": {
-            "LBTC": 389.67567
-          }
-        },
-        {
-          "date": 1742601600,
-          "tokens": {
-            "LBTC": 389.65708
-          }
-        },
-        {
-          "date": 1742688000,
-          "tokens": {
-            "LBTC": 389.62827
-          }
-        },
-        {
-          "date": 1742774400,
-          "tokens": {
-            "LBTC": 389.60667
-          }
-        },
-        {
-          "date": 1742860800,
-          "tokens": {
-            "LBTC": 389.59065
-          }
-        },
-        {
-          "date": 1742947200,
-          "tokens": {
-            "LBTC": 389.57463
-          }
-        },
-        {
-          "date": 1743033600,
-          "tokens": {
-            "LBTC": 389.55862
-          }
-        },
-        {
-          "date": 1743120000,
-          "tokens": {
-            "LBTC": 389.55532
-          }
-        },
-        {
-          "date": 1743206400,
-          "tokens": {
-            "LBTC": 389.52281
-          }
-        },
-        {
-          "date": 1743292800,
-          "tokens": {
-            "LBTC": 389.50528
-          }
-        },
-        {
-          "date": 1743379200,
-          "tokens": {
-            "LBTC": 389.23158
-          }
-        },
-        {
-          "date": 1743465600,
-          "tokens": {
-            "LBTC": 389.21544
-          }
-        },
-        {
-          "date": 1743552000,
-          "tokens": {
-            "LBTC": 389.21758
-          }
-        },
-        {
-          "date": 1743638400,
-          "tokens": {
-            "LBTC": 389.52353
-          }
-        },
-        {
-          "date": 1743724800,
-          "tokens": {
-            "LBTC": 389.54464
-          }
-        },
-        {
-          "date": 1743811200,
-          "tokens": {
-            "LBTC": 389.52969
-          }
-        },
-        {
-          "date": 1743897600,
-          "tokens": {
-            "LBTC": 389.67126
-          }
-        },
-        {
-          "date": 1743984000,
-          "tokens": {
-            "LBTC": 389.66006
-          }
-        },
-        {
-          "date": 1744070400,
-          "tokens": {
-            "LBTC": 388.99076
-          }
-        },
-        {
-          "date": 1744156800,
-          "tokens": {
-            "LBTC": 388.96983
-          }
-        },
-        {
-          "date": 1744243200,
-          "tokens": {
-            "LBTC": 388.9488
-          }
-        },
-        {
-          "date": 1744329600,
-          "tokens": {
-            "LBTC": 388.92974
-          }
-        },
-        {
-          "date": 1744416000,
-          "tokens": {
-            "LBTC": 388.94335
-          }
-        },
-        {
-          "date": 1744502400,
-          "tokens": {
-            "LBTC": 388.94436
-          }
-        },
-        {
-          "date": 1744588800,
-          "tokens": {
-            "LBTC": 389.0419
-          }
-        },
-        {
-          "date": 1744675200,
-          "tokens": {
-            "LBTC": 389.21452
-          }
-        },
-        {
-          "date": 1744761600,
-          "tokens": {
-            "LBTC": 389.29069
-          }
-        },
-        {
-          "date": 1744848000,
-          "tokens": {
-            "LBTC": 12.70674
-          }
-        },
-        {
-          "date": 1744934400,
-          "tokens": {
-            "LBTC": 12.70174
-          }
-        },
-        {
-          "date": 1745020800,
-          "tokens": {
-            "LBTC": 12.69875
-          }
-        },
-        {
-          "date": 1745107200,
-          "tokens": {
-            "LBTC": 12.69823
-          }
-        },
-        {
-          "date": 1745193600,
-          "tokens": {
-            "LBTC": 12.69622
-          }
-        },
-        {
-          "date": 1745280000,
-          "tokens": {
-            "LBTC": 12.69561
-          }
-        },
-        {
-          "date": 1745366400,
-          "tokens": {
-            "LBTC": 12.69508
-          }
-        },
-        {
-          "date": 1745452800,
-          "tokens": {
-            "LBTC": 12.69456
-          }
-        },
-        {
-          "date": 1745539200,
-          "tokens": {
-            "LBTC": 12.70292
-          }
-        },
-        {
-          "date": 1745625600,
-          "tokens": {
-            "LBTC": 1.58219
-          }
-        },
-        {
-          "date": 1745712000,
-          "tokens": {
-            "LBTC": 1.44
-          }
-        },
-        {
-          "date": 1745798400,
-          "tokens": {
-            "LBTC": 1.43994
-          }
-        },
-        {
-          "date": 1745884800,
-          "tokens": {
-            "LBTC": 1.82969
-          }
-        },
-        {
-          "date": 1745971200,
-          "tokens": {
-            "LBTC": 1.82319
-          }
-        },
-        {
-          "date": 1746057600,
-          "tokens": {
-            "LBTC": 1.80795
-          }
-        },
-        {
-          "date": 1746144000,
-          "tokens": {
-            "LBTC": 1.78147
-          }
-        },
-        {
-          "date": 1746230400,
-          "tokens": {
-            "LBTC": 1.77353
-          }
-        },
-        {
-          "date": 1746316800,
-          "tokens": {
-            "LBTC": 1.77353
-          }
-        },
-        {
-          "date": 1746403200,
-          "tokens": {
-            "LBTC": 1.77346
-          }
-        },
-        {
-          "date": 1746489600,
-          "tokens": {
-            "LBTC": 1.70716
-          }
-        },
-        {
-          "date": 1746576000,
-          "tokens": {
-            "LBTC": 1.69464
-          }
-        },
-        {
-          "date": 1746662400,
-          "tokens": {
-            "LBTC": 1.69457
-          }
-        },
-        {
-          "date": 1746748800,
-          "tokens": {
-            "LBTC": 0.55676
-          }
-        },
-        {
-          "date": 1746835200,
-          "tokens": {
-            "LBTC": 1.83795
-          }
-        },
-        {
-          "date": 1746921600,
-          "tokens": {
-            "LBTC": 1.70383
-          }
-        },
-        {
-          "date": 1747008000,
-          "tokens": {
-            "LBTC": 1.57982
-          }
-        },
-        {
-          "date": 1747094400,
-          "tokens": {
-            "LBTC": 1.57975
-          }
-        },
-        {
-          "date": 1747180800,
-          "tokens": {
-            "LBTC": 1.57876
-          }
-        },
-        {
-          "date": 1747267200,
-          "tokens": {
-            "LBTC": 1.5632
-          }
-        },
-        {
-          "date": 1747353600,
-          "tokens": {
-            "LBTC": 1.5599
-          }
-        },
-        {
-          "date": 1747440000,
-          "tokens": {
-            "LBTC": 1.55984
-          }
-        },
-        {
-          "date": 1747526400,
-          "tokens": {
-            "LBTC": 1.55944
-          }
-        },
-        {
-          "date": 1747612800,
-          "tokens": {
-            "LBTC": 1.55937
-          }
-        },
-        {
-          "date": 1747699200,
-          "tokens": {
-            "LBTC": 1.55931
-          }
-        },
-        {
-          "date": 1747785600,
-          "tokens": {
-            "LBTC": 1.55925
-          }
-        },
-        {
-          "date": 1747872000,
-          "tokens": {
-            "LBTC": 1.49033
-          }
-        },
-        {
-          "date": 1747958400,
-          "tokens": {
-            "LBTC": 1.48454
-          }
-        },
-        {
-          "date": 1748044800,
-          "tokens": {
-            "LBTC": 1.48448
-          }
-        },
-        {
-          "date": 1748131200,
-          "tokens": {
-            "LBTC": 1.48442
-          }
-        },
-        {
-          "date": 1748217600,
-          "tokens": {
-            "LBTC": 1.42523
-          }
-        },
-        {
-          "date": 1748304000,
-          "tokens": {
-            "LBTC": 1.42517
-          }
-        },
-        {
-          "date": 1748390400,
-          "tokens": {
-            "LBTC": 1.42487
-          }
-        },
-        {
-          "date": 1748476800,
-          "tokens": {
-            "LBTC": 1.42476
-          }
-        },
-        {
-          "date": 1748563200,
-          "tokens": {
-            "LBTC": 1.4247
-          }
         },
         {
-          "date": 1748649600,
+          "date": 1748995200,
           "tokens": {
-            "LBTC": 1.42464
+            "USDC": 48833073.33542,
+            "LBTC": 1.25785,
+            "CBBTC": 174.76137,
+            "SUSDE": 1504.92461,
+            "WSTETH": 7799.30954,
+            "RSETH": 44759.62518,
+            "WETH": 2.53497,
+            "CUSDO": 1080881.35029,
+            "USR": 2754229.06029
           }
         },
         {
-          "date": 1748736000,
+          "date": 1749081600,
           "tokens": {
-            "LBTC": 1.42458
+            "USDC": 49135104.03566,
+            "LBTC": 1.2578,
+            "CBBTC": 174.76137,
+            "SUSDE": 1504.80098,
+            "WSTETH": 7779.79725,
+            "RSETH": 44663.7608,
+            "WETH": 2.53497,
+            "CUSDO": 1080792.55391,
+            "USR": 2754115.87279
           }
         },
         {
-          "date": 1748822400,
+          "date": 1749168000,
           "tokens": {
-            "LBTC": 1.42452
+            "USDC": 49538805.49877,
+            "LBTC": 1.25775,
+            "CBBTC": 174.76137,
+            "SUSDE": 1504.73909,
+            "WSTETH": 7791.55612,
+            "RSETH": 44697.34378,
+            "WETH": 2.53497,
+            "CUSDO": 1070754.45736,
+            "USR": 2753002.20184
           }
         },
         {
-          "date": 1748886431,
+          "date": 1749237791,
           "tokens": {
-            "LBTC": 0.9853
+            "USDC": 49734122.53431,
+            "LBTC": 1.25769,
+            "CBBTC": 174.76137,
+            "SUSDE": 1504.67729,
+            "WSTETH": 7791.87102,
+            "RSETH": 45449.86768,
+            "WETH": 2.53497,
+            "CUSDO": 1070710.46597,
+            "USR": 2752889.03334
           }
         }
       ]
@@ -7803,8 +5010,24 @@
           "totalLiquidityUSD": 1018984.36166
         },
         {
-          "date": 1748886431,
-          "totalLiquidityUSD": 1017818.61889
+          "date": 1748908800,
+          "totalLiquidityUSD": 1019288.43281
+        },
+        {
+          "date": 1748995200,
+          "totalLiquidityUSD": 1018947.05417
+        },
+        {
+          "date": 1749081600,
+          "totalLiquidityUSD": 1020331.97943
+        },
+        {
+          "date": 1749168000,
+          "totalLiquidityUSD": 1016613.46197
+        },
+        {
+          "date": 1749237791,
+          "totalLiquidityUSD": 1019256.50295
         }
       ],
       "tokensInUsd": [
@@ -8049,9 +5272,33 @@
           }
         },
         {
-          "date": 1748886431,
+          "date": 1748908800,
           "tokens": {
-            "USDT": 1017818.61889
+            "USDT": 1019288.43281
+          }
+        },
+        {
+          "date": 1748995200,
+          "tokens": {
+            "USDT": 1018947.05417
+          }
+        },
+        {
+          "date": 1749081600,
+          "tokens": {
+            "USDT": 1020331.97943
+          }
+        },
+        {
+          "date": 1749168000,
+          "tokens": {
+            "USDT": 1016613.46197
+          }
+        },
+        {
+          "date": 1749237791,
+          "tokens": {
+            "USDT": 1019256.50295
           }
         }
       ],
@@ -8297,9 +5544,33 @@
           }
         },
         {
-          "date": 1748886431,
+          "date": 1748908800,
           "tokens": {
             "USDT": 1019288.43281
+          }
+        },
+        {
+          "date": 1748995200,
+          "tokens": {
+            "USDT": 1019312.98753
+          }
+        },
+        {
+          "date": 1749081600,
+          "tokens": {
+            "USDT": 1019312.66676
+          }
+        },
+        {
+          "date": 1749168000,
+          "tokens": {
+            "USDT": 1019313.62376
+          }
+        },
+        {
+          "date": 1749237791,
+          "tokens": {
+            "USDT": 1019312.56514
           }
         }
       ]
@@ -8467,8 +5738,24 @@
           "totalLiquidityUSD": 41654967.14707
         },
         {
-          "date": 1748886431,
-          "totalLiquidityUSD": 41334548.69841
+          "date": 1748908800,
+          "totalLiquidityUSD": 45437437.83
+        },
+        {
+          "date": 1748995200,
+          "totalLiquidityUSD": 47348617.05664
+        },
+        {
+          "date": 1749081600,
+          "totalLiquidityUSD": 48386860.76105
+        },
+        {
+          "date": 1749168000,
+          "totalLiquidityUSD": 46049265.17204
+        },
+        {
+          "date": 1749237791,
+          "totalLiquidityUSD": 46378875.28605
         }
       ],
       "tokensInUsd": [
@@ -8713,9 +6000,33 @@
           }
         },
         {
-          "date": 1748886431,
+          "date": 1748908800,
           "tokens": {
-            "WHYPE": 41334548.69841
+            "WHYPE": 45437437.83
+          }
+        },
+        {
+          "date": 1748995200,
+          "tokens": {
+            "WHYPE": 47348617.05664
+          }
+        },
+        {
+          "date": 1749081600,
+          "tokens": {
+            "WHYPE": 48386860.76105
+          }
+        },
+        {
+          "date": 1749168000,
+          "tokens": {
+            "WHYPE": 46049265.17204
+          }
+        },
+        {
+          "date": 1749237791,
+          "tokens": {
+            "WHYPE": 46378875.28605
           }
         }
       ],
@@ -8961,9 +6272,33 @@
           }
         },
         {
-          "date": 1748886431,
+          "date": 1748908800,
           "tokens": {
-            "WHYPE": 1237931.97659
+            "WHYPE": 1250342.2628
+          }
+        },
+        {
+          "date": 1748995200,
+          "tokens": {
+            "WHYPE": 1313050.94444
+          }
+        },
+        {
+          "date": 1749081600,
+          "tokens": {
+            "WHYPE": 1364162.97607
+          }
+        },
+        {
+          "date": 1749168000,
+          "tokens": {
+            "WHYPE": 1350814.46677
+          }
+        },
+        {
+          "date": 1749237791,
+          "tokens": {
+            "WHYPE": 1358490.78167
           }
         }
       ]
@@ -9695,8 +7030,24 @@
           "totalLiquidityUSD": 12384236.23833
         },
         {
-          "date": 1748886431,
-          "totalLiquidityUSD": 12312433.07557
+          "date": 1748908800,
+          "totalLiquidityUSD": 12489555.97358
+        },
+        {
+          "date": 1748995200,
+          "totalLiquidityUSD": 12455425.72215
+        },
+        {
+          "date": 1749081600,
+          "totalLiquidityUSD": 12269234.90432
+        },
+        {
+          "date": 1749168000,
+          "totalLiquidityUSD": 12000051.69387
+        },
+        {
+          "date": 1749237791,
+          "totalLiquidityUSD": 12125037.58616
         }
       ],
       "tokensInUsd": [
@@ -10870,10 +8221,38 @@
           }
         },
         {
-          "date": 1748886431,
+          "date": 1748908800,
           "tokens": {
-            "AUSD": 8137487.61233,
-            "WAVAX": 4174945.46323
+            "AUSD": 8168049.77248,
+            "WAVAX": 4321506.20109
+          }
+        },
+        {
+          "date": 1748995200,
+          "tokens": {
+            "AUSD": 8148396.76566,
+            "WAVAX": 4307028.95649
+          }
+        },
+        {
+          "date": 1749081600,
+          "tokens": {
+            "AUSD": 8161851.67109,
+            "WAVAX": 4107383.23323
+          }
+        },
+        {
+          "date": 1749168000,
+          "tokens": {
+            "AUSD": 8171671.83881,
+            "WAVAX": 3828379.85505
+          }
+        },
+        {
+          "date": 1749237791,
+          "tokens": {
+            "AUSD": 8172628.53958,
+            "WAVAX": 3952409.04659
           }
         }
       ],
@@ -12048,10 +9427,3022 @@
           }
         },
         {
-          "date": 1748886431,
+          "date": 1748908800,
           "tokens": {
-            "AUSD": 8143815.35687,
+            "AUSD": 8151746.27992,
             "WAVAX": 203556.58036
+          }
+        },
+        {
+          "date": 1748995200,
+          "tokens": {
+            "AUSD": 8153247.94819,
+            "WAVAX": 203545.79189
+          }
+        },
+        {
+          "date": 1749081600,
+          "tokens": {
+            "AUSD": 8168206.53578,
+            "WAVAX": 203537.32573
+          }
+        },
+        {
+          "date": 1749168000,
+          "tokens": {
+            "AUSD": 8176929.60455,
+            "WAVAX": 203528.96624
+          }
+        },
+        {
+          "date": 1749237791,
+          "tokens": {
+            "AUSD": 8176929.60455,
+            "WAVAX": 203522.60796
+          }
+        }
+      ]
+    },
+    "Base": {
+      "tvl": [
+        {
+          "date": 1733270400,
+          "totalLiquidityUSD": 36317928.14397
+        },
+        {
+          "date": 1733356800,
+          "totalLiquidityUSD": 37294127.06234
+        },
+        {
+          "date": 1733443200,
+          "totalLiquidityUSD": 37519927.43206
+        },
+        {
+          "date": 1733529600,
+          "totalLiquidityUSD": 37636042.53006
+        },
+        {
+          "date": 1733616000,
+          "totalLiquidityUSD": 37762369.70509
+        },
+        {
+          "date": 1733702400,
+          "totalLiquidityUSD": 37902702.10894
+        },
+        {
+          "date": 1733788800,
+          "totalLiquidityUSD": 36644952.49181
+        },
+        {
+          "date": 1733875200,
+          "totalLiquidityUSD": 36698483.19163
+        },
+        {
+          "date": 1733961600,
+          "totalLiquidityUSD": 38494335.83106
+        },
+        {
+          "date": 1734048000,
+          "totalLiquidityUSD": 38044746.16003
+        },
+        {
+          "date": 1734134400,
+          "totalLiquidityUSD": 38312909.28806
+        },
+        {
+          "date": 1734220800,
+          "totalLiquidityUSD": 38250442.38554
+        },
+        {
+          "date": 1734307200,
+          "totalLiquidityUSD": 39387133.76789
+        },
+        {
+          "date": 1734393600,
+          "totalLiquidityUSD": 39944207.227
+        },
+        {
+          "date": 1734480000,
+          "totalLiquidityUSD": 40035437.04554
+        },
+        {
+          "date": 1734566400,
+          "totalLiquidityUSD": 38026963.09001
+        },
+        {
+          "date": 1734652800,
+          "totalLiquidityUSD": 36543020.50975
+        },
+        {
+          "date": 1734739200,
+          "totalLiquidityUSD": 36736087.18257
+        },
+        {
+          "date": 1734825600,
+          "totalLiquidityUSD": 36839735.34749
+        },
+        {
+          "date": 1734912000,
+          "totalLiquidityUSD": 36041703.98618
+        },
+        {
+          "date": 1734998400,
+          "totalLiquidityUSD": 35922974.83465
+        },
+        {
+          "date": 1735084800,
+          "totalLiquidityUSD": 37167972.73036
+        },
+        {
+          "date": 1735171200,
+          "totalLiquidityUSD": 37315152.84407
+        },
+        {
+          "date": 1735257600,
+          "totalLiquidityUSD": 36255907.16158
+        },
+        {
+          "date": 1735344000,
+          "totalLiquidityUSD": 35636818.02962
+        },
+        {
+          "date": 1735430400,
+          "totalLiquidityUSD": 35918691.49031
+        },
+        {
+          "date": 1735516800,
+          "totalLiquidityUSD": 35625288.25699
+        },
+        {
+          "date": 1735603200,
+          "totalLiquidityUSD": 34995856.6033
+        },
+        {
+          "date": 1735689600,
+          "totalLiquidityUSD": 35296841.52482
+        },
+        {
+          "date": 1735776000,
+          "totalLiquidityUSD": 35905421.57414
+        },
+        {
+          "date": 1735862400,
+          "totalLiquidityUSD": 36809592.30635
+        },
+        {
+          "date": 1735948800,
+          "totalLiquidityUSD": 37142191.68891
+        },
+        {
+          "date": 1736035200,
+          "totalLiquidityUSD": 37159918.19897
+        },
+        {
+          "date": 1736121600,
+          "totalLiquidityUSD": 37236361.63196
+        },
+        {
+          "date": 1736208000,
+          "totalLiquidityUSD": 38372220.21243
+        },
+        {
+          "date": 1736294400,
+          "totalLiquidityUSD": 36797059.91513
+        },
+        {
+          "date": 1736380800,
+          "totalLiquidityUSD": 36082259.25674
+        },
+        {
+          "date": 1736467200,
+          "totalLiquidityUSD": 35054201.43509
+        },
+        {
+          "date": 1736553600,
+          "totalLiquidityUSD": 35973858.40774
+        },
+        {
+          "date": 1736640000,
+          "totalLiquidityUSD": 35912540.49443
+        },
+        {
+          "date": 1736726400,
+          "totalLiquidityUSD": 35552255.05655
+        },
+        {
+          "date": 1736812800,
+          "totalLiquidityUSD": 35878460.60564
+        },
+        {
+          "date": 1736899200,
+          "totalLiquidityUSD": 36625113.7176
+        },
+        {
+          "date": 1736985600,
+          "totalLiquidityUSD": 37831443.5438
+        },
+        {
+          "date": 1737072000,
+          "totalLiquidityUSD": 37844501.03443
+        },
+        {
+          "date": 1737158400,
+          "totalLiquidityUSD": 39442239.20689
+        },
+        {
+          "date": 1737244800,
+          "totalLiquidityUSD": 39576743.31808
+        },
+        {
+          "date": 1737331200,
+          "totalLiquidityUSD": 38519030.22536
+        },
+        {
+          "date": 1737417600,
+          "totalLiquidityUSD": 39046485.51709
+        },
+        {
+          "date": 1737504000,
+          "totalLiquidityUSD": 40296689.78033
+        },
+        {
+          "date": 1737590400,
+          "totalLiquidityUSD": 39378942.46151
+        },
+        {
+          "date": 1737676800,
+          "totalLiquidityUSD": 39346663.1162
+        },
+        {
+          "date": 1737763200,
+          "totalLiquidityUSD": 39559944.04963
+        },
+        {
+          "date": 1737849600,
+          "totalLiquidityUSD": 39776240.18472
+        },
+        {
+          "date": 1737936000,
+          "totalLiquidityUSD": 39084493.4952
+        },
+        {
+          "date": 1738022400,
+          "totalLiquidityUSD": 38696973.94815
+        },
+        {
+          "date": 1738108800,
+          "totalLiquidityUSD": 38378736.36196
+        },
+        {
+          "date": 1738195200,
+          "totalLiquidityUSD": 39280320.66365
+        },
+        {
+          "date": 1738281600,
+          "totalLiquidityUSD": 39657089.2637
+        },
+        {
+          "date": 1738368000,
+          "totalLiquidityUSD": 39303217.05162
+        },
+        {
+          "date": 1738454400,
+          "totalLiquidityUSD": 38523265.06793
+        },
+        {
+          "date": 1738540800,
+          "totalLiquidityUSD": 36684459.14748
+        },
+        {
+          "date": 1738627200,
+          "totalLiquidityUSD": 38529876.00185
+        },
+        {
+          "date": 1738713600,
+          "totalLiquidityUSD": 37192715.88002
+        },
+        {
+          "date": 1738800000,
+          "totalLiquidityUSD": 36747536.10795
+        },
+        {
+          "date": 1738886400,
+          "totalLiquidityUSD": 36715301.58795
+        },
+        {
+          "date": 1738972800,
+          "totalLiquidityUSD": 36669462.94062
+        },
+        {
+          "date": 1739059200,
+          "totalLiquidityUSD": 36613335.88667
+        },
+        {
+          "date": 1739145600,
+          "totalLiquidityUSD": 37532621.06757
+        },
+        {
+          "date": 1739232000,
+          "totalLiquidityUSD": 38006110.63269
+        },
+        {
+          "date": 1739318400,
+          "totalLiquidityUSD": 37145898.66671
+        },
+        {
+          "date": 1739404800,
+          "totalLiquidityUSD": 37944508.20374
+        },
+        {
+          "date": 1739491200,
+          "totalLiquidityUSD": 37711307.94654
+        },
+        {
+          "date": 1739577600,
+          "totalLiquidityUSD": 38047073.20659
+        },
+        {
+          "date": 1739664000,
+          "totalLiquidityUSD": 38069047.74178
+        },
+        {
+          "date": 1739750400,
+          "totalLiquidityUSD": 37546978.26545
+        },
+        {
+          "date": 1739836800,
+          "totalLiquidityUSD": 37153434.74993
+        },
+        {
+          "date": 1739923200,
+          "totalLiquidityUSD": 37053851.14636
+        },
+        {
+          "date": 1740009600,
+          "totalLiquidityUSD": 37427612.59065
+        },
+        {
+          "date": 1740096000,
+          "totalLiquidityUSD": 38265119.32687
+        },
+        {
+          "date": 1740182400,
+          "totalLiquidityUSD": 37197703.66852
+        },
+        {
+          "date": 1740268800,
+          "totalLiquidityUSD": 37429462.09616
+        },
+        {
+          "date": 1740355200,
+          "totalLiquidityUSD": 37456305.57511
+        },
+        {
+          "date": 1740441600,
+          "totalLiquidityUSD": 35778006.30152
+        },
+        {
+          "date": 1740528000,
+          "totalLiquidityUSD": 34909142.29017
+        },
+        {
+          "date": 1740614400,
+          "totalLiquidityUSD": 32686181.97693
+        },
+        {
+          "date": 1740700800,
+          "totalLiquidityUSD": 32923370.77666
+        },
+        {
+          "date": 1740787200,
+          "totalLiquidityUSD": 32593857.9913
+        },
+        {
+          "date": 1740873600,
+          "totalLiquidityUSD": 33360992.40645
+        },
+        {
+          "date": 1740960000,
+          "totalLiquidityUSD": 36677040.3853
+        },
+        {
+          "date": 1741046400,
+          "totalLiquidityUSD": 33290463.69198
+        },
+        {
+          "date": 1741132800,
+          "totalLiquidityUSD": 34038726.34401
+        },
+        {
+          "date": 1741219200,
+          "totalLiquidityUSD": 35271839.75133
+        },
+        {
+          "date": 1741305600,
+          "totalLiquidityUSD": 34991904.62658
+        },
+        {
+          "date": 1741392000,
+          "totalLiquidityUSD": 33666283.13056
+        },
+        {
+          "date": 1741478400,
+          "totalLiquidityUSD": 33563937.70497
+        },
+        {
+          "date": 1741564800,
+          "totalLiquidityUSD": 31249759.20606
+        },
+        {
+          "date": 1741651200,
+          "totalLiquidityUSD": 30687706.65646
+        },
+        {
+          "date": 1741737600,
+          "totalLiquidityUSD": 32127964.11352
+        },
+        {
+          "date": 1741824000,
+          "totalLiquidityUSD": 32552038.25299
+        },
+        {
+          "date": 1741910400,
+          "totalLiquidityUSD": 31449690.23962
+        },
+        {
+          "date": 1741996800,
+          "totalLiquidityUSD": 32713924.95169
+        },
+        {
+          "date": 1742083200,
+          "totalLiquidityUSD": 32761687.83345
+        },
+        {
+          "date": 1742169600,
+          "totalLiquidityUSD": 32079301.08997
+        },
+        {
+          "date": 1742256000,
+          "totalLiquidityUSD": 32567363.42784
+        },
+        {
+          "date": 1742342400,
+          "totalLiquidityUSD": 32239832.03266
+        },
+        {
+          "date": 1742428800,
+          "totalLiquidityUSD": 33510801.43887
+        },
+        {
+          "date": 1742515200,
+          "totalLiquidityUSD": 32734704.781
+        },
+        {
+          "date": 1742601600,
+          "totalLiquidityUSD": 32726518.63683
+        },
+        {
+          "date": 1742688000,
+          "totalLiquidityUSD": 32609548.71561
+        },
+        {
+          "date": 1742774400,
+          "totalLiquidityUSD": 33721236.11322
+        },
+        {
+          "date": 1742860800,
+          "totalLiquidityUSD": 34084896.29824
+        },
+        {
+          "date": 1742947200,
+          "totalLiquidityUSD": 34025448.34578
+        },
+        {
+          "date": 1743033600,
+          "totalLiquidityUSD": 33914583.68006
+        },
+        {
+          "date": 1743120000,
+          "totalLiquidityUSD": 33932215.94739
+        },
+        {
+          "date": 1743206400,
+          "totalLiquidityUSD": 32836772.84422
+        },
+        {
+          "date": 1743292800,
+          "totalLiquidityUSD": 31933590.34637
+        },
+        {
+          "date": 1743379200,
+          "totalLiquidityUSD": 31968368.07025
+        },
+        {
+          "date": 1743465600,
+          "totalLiquidityUSD": 32128956.47792
+        },
+        {
+          "date": 1743552000,
+          "totalLiquidityUSD": 33089722.17405
+        },
+        {
+          "date": 1743638400,
+          "totalLiquidityUSD": 31905093.45168
+        },
+        {
+          "date": 1743724800,
+          "totalLiquidityUSD": 32272994.55758
+        },
+        {
+          "date": 1743811200,
+          "totalLiquidityUSD": 32508200.45337
+        },
+        {
+          "date": 1743897600,
+          "totalLiquidityUSD": 32438963.64928
+        },
+        {
+          "date": 1743984000,
+          "totalLiquidityUSD": 29935244.1867
+        },
+        {
+          "date": 1744070400,
+          "totalLiquidityUSD": 30763723.43438
+        },
+        {
+          "date": 1744156800,
+          "totalLiquidityUSD": 29688900.35104
+        },
+        {
+          "date": 1744243200,
+          "totalLiquidityUSD": 32072718.16262
+        },
+        {
+          "date": 1744329600,
+          "totalLiquidityUSD": 30962696.642
+        },
+        {
+          "date": 1744416000,
+          "totalLiquidityUSD": 32388479.77608
+        },
+        {
+          "date": 1744502400,
+          "totalLiquidityUSD": 33070772.40467
+        },
+        {
+          "date": 1744588800,
+          "totalLiquidityUSD": 32406801.13231
+        },
+        {
+          "date": 1744675200,
+          "totalLiquidityUSD": 32976978.71653
+        },
+        {
+          "date": 1744761600,
+          "totalLiquidityUSD": 32473850.88269
+        },
+        {
+          "date": 1744848000,
+          "totalLiquidityUSD": 1068738.55857
+        },
+        {
+          "date": 1744934400,
+          "totalLiquidityUSD": 1073665.04573
+        },
+        {
+          "date": 1745020800,
+          "totalLiquidityUSD": 1061818.6616
+        },
+        {
+          "date": 1745107200,
+          "totalLiquidityUSD": 1079374.77136
+        },
+        {
+          "date": 1745193600,
+          "totalLiquidityUSD": 1091976.42611
+        },
+        {
+          "date": 1745280000,
+          "totalLiquidityUSD": 1103755.94043
+        },
+        {
+          "date": 1745366400,
+          "totalLiquidityUSD": 1179957.25702
+        },
+        {
+          "date": 1745452800,
+          "totalLiquidityUSD": 1183145.87949
+        },
+        {
+          "date": 1745539200,
+          "totalLiquidityUSD": 1185169.70696
+        },
+        {
+          "date": 1745625600,
+          "totalLiquidityUSD": 149594.81607
+        },
+        {
+          "date": 1745712000,
+          "totalLiquidityUSD": 136893.55152
+        },
+        {
+          "date": 1745798400,
+          "totalLiquidityUSD": 134782.73377
+        },
+        {
+          "date": 1745884800,
+          "totalLiquidityUSD": 173560.5111
+        },
+        {
+          "date": 1745971200,
+          "totalLiquidityUSD": 171676.68027
+        },
+        {
+          "date": 1746057600,
+          "totalLiquidityUSD": 169770.24109
+        },
+        {
+          "date": 1746144000,
+          "totalLiquidityUSD": 171764.34009
+        },
+        {
+          "date": 1746230400,
+          "totalLiquidityUSD": 171675.70009
+        },
+        {
+          "date": 1746316800,
+          "totalLiquidityUSD": 169692.89621
+        },
+        {
+          "date": 1746403200,
+          "totalLiquidityUSD": 165396.78838
+        },
+        {
+          "date": 1746489600,
+          "totalLiquidityUSD": 161186.87837
+        },
+        {
+          "date": 1746576000,
+          "totalLiquidityUSD": 163356.25235
+        },
+        {
+          "date": 1746662400,
+          "totalLiquidityUSD": 163856.21602
+        },
+        {
+          "date": 1746748800,
+          "totalLiquidityUSD": 57091.20394
+        },
+        {
+          "date": 1746835200,
+          "totalLiquidityUSD": 189165.66075
+        },
+        {
+          "date": 1746921600,
+          "totalLiquidityUSD": 177631.15224
+        },
+        {
+          "date": 1747008000,
+          "totalLiquidityUSD": 164195.08181
+        },
+        {
+          "date": 1747094400,
+          "totalLiquidityUSD": 160765.0115
+        },
+        {
+          "date": 1747180800,
+          "totalLiquidityUSD": 163914.38531
+        },
+        {
+          "date": 1747267200,
+          "totalLiquidityUSD": 160907.72128
+        },
+        {
+          "date": 1747353600,
+          "totalLiquidityUSD": 161298.75848
+        },
+        {
+          "date": 1747440000,
+          "totalLiquidityUSD": 161669.60954
+        },
+        {
+          "date": 1747526400,
+          "totalLiquidityUSD": 160293.00269
+        },
+        {
+          "date": 1747612800,
+          "totalLiquidityUSD": 164003.96493
+        },
+        {
+          "date": 1747699200,
+          "totalLiquidityUSD": 164334.03201
+        },
+        {
+          "date": 1747785600,
+          "totalLiquidityUSD": 165888.083
+        },
+        {
+          "date": 1747872000,
+          "totalLiquidityUSD": 163370.51283
+        },
+        {
+          "date": 1747958400,
+          "totalLiquidityUSD": 163639.74326
+        },
+        {
+          "date": 1748044800,
+          "totalLiquidityUSD": 158725.2753
+        },
+        {
+          "date": 1748131200,
+          "totalLiquidityUSD": 160780.60519
+        },
+        {
+          "date": 1748217600,
+          "totalLiquidityUSD": 154856.47103
+        },
+        {
+          "date": 1748304000,
+          "totalLiquidityUSD": 155236.31765
+        },
+        {
+          "date": 1748390400,
+          "totalLiquidityUSD": 155288.53777
+        },
+        {
+          "date": 1748476800,
+          "totalLiquidityUSD": 153426.44799
+        },
+        {
+          "date": 1748563200,
+          "totalLiquidityUSD": 150968.22953
+        },
+        {
+          "date": 1748649600,
+          "totalLiquidityUSD": 146675.28629
+        },
+        {
+          "date": 1748736000,
+          "totalLiquidityUSD": 148885.91085
+        },
+        {
+          "date": 1748822400,
+          "totalLiquidityUSD": 150106.30423
+        },
+        {
+          "date": 1748908800,
+          "totalLiquidityUSD": 104033.8594
+        },
+        {
+          "date": 1748995200,
+          "totalLiquidityUSD": 103530.37123
+        },
+        {
+          "date": 1749081600,
+          "totalLiquidityUSD": 68023.20725
+        },
+        {
+          "date": 1749168000,
+          "totalLiquidityUSD": 66203.28866
+        },
+        {
+          "date": 1749237791,
+          "totalLiquidityUSD": 67703.69458
+        }
+      ],
+      "tokensInUsd": [
+        {
+          "date": 1733270400,
+          "tokens": {
+            "LBTC": 36317928.14397
+          }
+        },
+        {
+          "date": 1733356800,
+          "tokens": {
+            "LBTC": 37294127.06234
+          }
+        },
+        {
+          "date": 1733443200,
+          "tokens": {
+            "LBTC": 37519927.43206
+          }
+        },
+        {
+          "date": 1733529600,
+          "tokens": {
+            "LBTC": 37636042.53006
+          }
+        },
+        {
+          "date": 1733616000,
+          "tokens": {
+            "LBTC": 37762369.70509
+          }
+        },
+        {
+          "date": 1733702400,
+          "tokens": {
+            "LBTC": 37902702.10894
+          }
+        },
+        {
+          "date": 1733788800,
+          "tokens": {
+            "LBTC": 36644952.49181
+          }
+        },
+        {
+          "date": 1733875200,
+          "tokens": {
+            "LBTC": 36698483.19163
+          }
+        },
+        {
+          "date": 1733961600,
+          "tokens": {
+            "LBTC": 38494335.83106
+          }
+        },
+        {
+          "date": 1734048000,
+          "tokens": {
+            "LBTC": 38044746.16003
+          }
+        },
+        {
+          "date": 1734134400,
+          "tokens": {
+            "LBTC": 38312909.28806
+          }
+        },
+        {
+          "date": 1734220800,
+          "tokens": {
+            "LBTC": 38250442.38554
+          }
+        },
+        {
+          "date": 1734307200,
+          "tokens": {
+            "LBTC": 39387133.76789
+          }
+        },
+        {
+          "date": 1734393600,
+          "tokens": {
+            "LBTC": 39944207.227
+          }
+        },
+        {
+          "date": 1734480000,
+          "tokens": {
+            "LBTC": 40035437.04554
+          }
+        },
+        {
+          "date": 1734566400,
+          "tokens": {
+            "LBTC": 38026963.09001
+          }
+        },
+        {
+          "date": 1734652800,
+          "tokens": {
+            "LBTC": 36543020.50975
+          }
+        },
+        {
+          "date": 1734739200,
+          "tokens": {
+            "LBTC": 36736087.18257
+          }
+        },
+        {
+          "date": 1734825600,
+          "tokens": {
+            "LBTC": 36839735.34749
+          }
+        },
+        {
+          "date": 1734912000,
+          "tokens": {
+            "LBTC": 36041703.98618
+          }
+        },
+        {
+          "date": 1734998400,
+          "tokens": {
+            "LBTC": 35922974.83465
+          }
+        },
+        {
+          "date": 1735084800,
+          "tokens": {
+            "LBTC": 37167972.73036
+          }
+        },
+        {
+          "date": 1735171200,
+          "tokens": {
+            "LBTC": 37315152.84407
+          }
+        },
+        {
+          "date": 1735257600,
+          "tokens": {
+            "LBTC": 36255907.16158
+          }
+        },
+        {
+          "date": 1735344000,
+          "tokens": {
+            "LBTC": 35636818.02962
+          }
+        },
+        {
+          "date": 1735430400,
+          "tokens": {
+            "LBTC": 35918691.49031
+          }
+        },
+        {
+          "date": 1735516800,
+          "tokens": {
+            "LBTC": 35625288.25699
+          }
+        },
+        {
+          "date": 1735603200,
+          "tokens": {
+            "LBTC": 34995856.6033
+          }
+        },
+        {
+          "date": 1735689600,
+          "tokens": {
+            "LBTC": 35296841.52482
+          }
+        },
+        {
+          "date": 1735776000,
+          "tokens": {
+            "LBTC": 35905421.57414
+          }
+        },
+        {
+          "date": 1735862400,
+          "tokens": {
+            "LBTC": 36809592.30635
+          }
+        },
+        {
+          "date": 1735948800,
+          "tokens": {
+            "LBTC": 37142191.68891
+          }
+        },
+        {
+          "date": 1736035200,
+          "tokens": {
+            "LBTC": 37159918.19897
+          }
+        },
+        {
+          "date": 1736121600,
+          "tokens": {
+            "LBTC": 37236361.63196
+          }
+        },
+        {
+          "date": 1736208000,
+          "tokens": {
+            "LBTC": 38372220.21243
+          }
+        },
+        {
+          "date": 1736294400,
+          "tokens": {
+            "LBTC": 36797059.91513
+          }
+        },
+        {
+          "date": 1736380800,
+          "tokens": {
+            "LBTC": 36082259.25674
+          }
+        },
+        {
+          "date": 1736467200,
+          "tokens": {
+            "LBTC": 35054201.43509
+          }
+        },
+        {
+          "date": 1736553600,
+          "tokens": {
+            "LBTC": 35973858.40774
+          }
+        },
+        {
+          "date": 1736640000,
+          "tokens": {
+            "LBTC": 35912540.49443
+          }
+        },
+        {
+          "date": 1736726400,
+          "tokens": {
+            "LBTC": 35552255.05655
+          }
+        },
+        {
+          "date": 1736812800,
+          "tokens": {
+            "LBTC": 35878460.60564
+          }
+        },
+        {
+          "date": 1736899200,
+          "tokens": {
+            "LBTC": 36625113.7176
+          }
+        },
+        {
+          "date": 1736985600,
+          "tokens": {
+            "LBTC": 37831443.5438
+          }
+        },
+        {
+          "date": 1737072000,
+          "tokens": {
+            "LBTC": 37844501.03443
+          }
+        },
+        {
+          "date": 1737158400,
+          "tokens": {
+            "LBTC": 39442239.20689
+          }
+        },
+        {
+          "date": 1737244800,
+          "tokens": {
+            "LBTC": 39576743.31808
+          }
+        },
+        {
+          "date": 1737331200,
+          "tokens": {
+            "LBTC": 38519030.22536
+          }
+        },
+        {
+          "date": 1737417600,
+          "tokens": {
+            "LBTC": 39046485.51709
+          }
+        },
+        {
+          "date": 1737504000,
+          "tokens": {
+            "LBTC": 40296689.78033
+          }
+        },
+        {
+          "date": 1737590400,
+          "tokens": {
+            "LBTC": 39378942.46151
+          }
+        },
+        {
+          "date": 1737676800,
+          "tokens": {
+            "LBTC": 39346663.1162
+          }
+        },
+        {
+          "date": 1737763200,
+          "tokens": {
+            "LBTC": 39559944.04963
+          }
+        },
+        {
+          "date": 1737849600,
+          "tokens": {
+            "LBTC": 39776240.18472
+          }
+        },
+        {
+          "date": 1737936000,
+          "tokens": {
+            "LBTC": 39084493.4952
+          }
+        },
+        {
+          "date": 1738022400,
+          "tokens": {
+            "LBTC": 38696973.94815
+          }
+        },
+        {
+          "date": 1738108800,
+          "tokens": {
+            "LBTC": 38378736.36196
+          }
+        },
+        {
+          "date": 1738195200,
+          "tokens": {
+            "LBTC": 39280320.66365
+          }
+        },
+        {
+          "date": 1738281600,
+          "tokens": {
+            "LBTC": 39657089.2637
+          }
+        },
+        {
+          "date": 1738368000,
+          "tokens": {
+            "LBTC": 39303217.05162
+          }
+        },
+        {
+          "date": 1738454400,
+          "tokens": {
+            "LBTC": 38523265.06793
+          }
+        },
+        {
+          "date": 1738540800,
+          "tokens": {
+            "LBTC": 36684459.14748
+          }
+        },
+        {
+          "date": 1738627200,
+          "tokens": {
+            "LBTC": 38529876.00185
+          }
+        },
+        {
+          "date": 1738713600,
+          "tokens": {
+            "LBTC": 37192715.88002
+          }
+        },
+        {
+          "date": 1738800000,
+          "tokens": {
+            "LBTC": 36747536.10795
+          }
+        },
+        {
+          "date": 1738886400,
+          "tokens": {
+            "LBTC": 36715301.58795
+          }
+        },
+        {
+          "date": 1738972800,
+          "tokens": {
+            "LBTC": 36669462.94062
+          }
+        },
+        {
+          "date": 1739059200,
+          "tokens": {
+            "LBTC": 36613335.88667
+          }
+        },
+        {
+          "date": 1739145600,
+          "tokens": {
+            "LBTC": 37532621.06757
+          }
+        },
+        {
+          "date": 1739232000,
+          "tokens": {
+            "LBTC": 38006110.63269
+          }
+        },
+        {
+          "date": 1739318400,
+          "tokens": {
+            "LBTC": 37145898.66671
+          }
+        },
+        {
+          "date": 1739404800,
+          "tokens": {
+            "LBTC": 37944508.20374
+          }
+        },
+        {
+          "date": 1739491200,
+          "tokens": {
+            "LBTC": 37711307.94654
+          }
+        },
+        {
+          "date": 1739577600,
+          "tokens": {
+            "LBTC": 38047073.20659
+          }
+        },
+        {
+          "date": 1739664000,
+          "tokens": {
+            "LBTC": 38069047.74178
+          }
+        },
+        {
+          "date": 1739750400,
+          "tokens": {
+            "LBTC": 37546978.26545
+          }
+        },
+        {
+          "date": 1739836800,
+          "tokens": {
+            "LBTC": 37153434.74993
+          }
+        },
+        {
+          "date": 1739923200,
+          "tokens": {
+            "LBTC": 37053851.14636
+          }
+        },
+        {
+          "date": 1740009600,
+          "tokens": {
+            "LBTC": 37427612.59065
+          }
+        },
+        {
+          "date": 1740096000,
+          "tokens": {
+            "LBTC": 38265119.32687
+          }
+        },
+        {
+          "date": 1740182400,
+          "tokens": {
+            "LBTC": 37197703.66852
+          }
+        },
+        {
+          "date": 1740268800,
+          "tokens": {
+            "LBTC": 37429462.09616
+          }
+        },
+        {
+          "date": 1740355200,
+          "tokens": {
+            "LBTC": 37456305.57511
+          }
+        },
+        {
+          "date": 1740441600,
+          "tokens": {
+            "LBTC": 35778006.30152
+          }
+        },
+        {
+          "date": 1740528000,
+          "tokens": {
+            "LBTC": 34909142.29017
+          }
+        },
+        {
+          "date": 1740614400,
+          "tokens": {
+            "LBTC": 32686181.97693
+          }
+        },
+        {
+          "date": 1740700800,
+          "tokens": {
+            "LBTC": 32923370.77666
+          }
+        },
+        {
+          "date": 1740787200,
+          "tokens": {
+            "LBTC": 32593857.9913
+          }
+        },
+        {
+          "date": 1740873600,
+          "tokens": {
+            "LBTC": 33360992.40645
+          }
+        },
+        {
+          "date": 1740960000,
+          "tokens": {
+            "LBTC": 36677040.3853
+          }
+        },
+        {
+          "date": 1741046400,
+          "tokens": {
+            "LBTC": 33290463.69198
+          }
+        },
+        {
+          "date": 1741132800,
+          "tokens": {
+            "LBTC": 34038726.34401
+          }
+        },
+        {
+          "date": 1741219200,
+          "tokens": {
+            "LBTC": 35271839.75133
+          }
+        },
+        {
+          "date": 1741305600,
+          "tokens": {
+            "LBTC": 34991904.62658
+          }
+        },
+        {
+          "date": 1741392000,
+          "tokens": {
+            "LBTC": 33666283.13056
+          }
+        },
+        {
+          "date": 1741478400,
+          "tokens": {
+            "LBTC": 33563937.70497
+          }
+        },
+        {
+          "date": 1741564800,
+          "tokens": {
+            "LBTC": 31249759.20606
+          }
+        },
+        {
+          "date": 1741651200,
+          "tokens": {
+            "LBTC": 30687706.65646
+          }
+        },
+        {
+          "date": 1741737600,
+          "tokens": {
+            "LBTC": 32127964.11352
+          }
+        },
+        {
+          "date": 1741824000,
+          "tokens": {
+            "LBTC": 32552038.25299
+          }
+        },
+        {
+          "date": 1741910400,
+          "tokens": {
+            "LBTC": 31449690.23962
+          }
+        },
+        {
+          "date": 1741996800,
+          "tokens": {
+            "LBTC": 32713924.95169
+          }
+        },
+        {
+          "date": 1742083200,
+          "tokens": {
+            "LBTC": 32761687.83345
+          }
+        },
+        {
+          "date": 1742169600,
+          "tokens": {
+            "LBTC": 32079301.08997
+          }
+        },
+        {
+          "date": 1742256000,
+          "tokens": {
+            "LBTC": 32567363.42784
+          }
+        },
+        {
+          "date": 1742342400,
+          "tokens": {
+            "LBTC": 32239832.03266
+          }
+        },
+        {
+          "date": 1742428800,
+          "tokens": {
+            "LBTC": 33510801.43887
+          }
+        },
+        {
+          "date": 1742515200,
+          "tokens": {
+            "LBTC": 32734704.781
+          }
+        },
+        {
+          "date": 1742601600,
+          "tokens": {
+            "LBTC": 32726518.63683
+          }
+        },
+        {
+          "date": 1742688000,
+          "tokens": {
+            "LBTC": 32609548.71561
+          }
+        },
+        {
+          "date": 1742774400,
+          "tokens": {
+            "LBTC": 33721236.11322
+          }
+        },
+        {
+          "date": 1742860800,
+          "tokens": {
+            "LBTC": 34084896.29824
+          }
+        },
+        {
+          "date": 1742947200,
+          "tokens": {
+            "LBTC": 34025448.34578
+          }
+        },
+        {
+          "date": 1743033600,
+          "tokens": {
+            "LBTC": 33914583.68006
+          }
+        },
+        {
+          "date": 1743120000,
+          "tokens": {
+            "LBTC": 33932215.94739
+          }
+        },
+        {
+          "date": 1743206400,
+          "tokens": {
+            "LBTC": 32836772.84422
+          }
+        },
+        {
+          "date": 1743292800,
+          "tokens": {
+            "LBTC": 31933590.34637
+          }
+        },
+        {
+          "date": 1743379200,
+          "tokens": {
+            "LBTC": 31968368.07025
+          }
+        },
+        {
+          "date": 1743465600,
+          "tokens": {
+            "LBTC": 32128956.47792
+          }
+        },
+        {
+          "date": 1743552000,
+          "tokens": {
+            "LBTC": 33089722.17405
+          }
+        },
+        {
+          "date": 1743638400,
+          "tokens": {
+            "LBTC": 31905093.45168
+          }
+        },
+        {
+          "date": 1743724800,
+          "tokens": {
+            "LBTC": 32272994.55758
+          }
+        },
+        {
+          "date": 1743811200,
+          "tokens": {
+            "LBTC": 32508200.45337
+          }
+        },
+        {
+          "date": 1743897600,
+          "tokens": {
+            "LBTC": 32438963.64928
+          }
+        },
+        {
+          "date": 1743984000,
+          "tokens": {
+            "LBTC": 29935244.1867
+          }
+        },
+        {
+          "date": 1744070400,
+          "tokens": {
+            "LBTC": 30763723.43438
+          }
+        },
+        {
+          "date": 1744156800,
+          "tokens": {
+            "LBTC": 29688900.35104
+          }
+        },
+        {
+          "date": 1744243200,
+          "tokens": {
+            "LBTC": 32072718.16262
+          }
+        },
+        {
+          "date": 1744329600,
+          "tokens": {
+            "LBTC": 30962696.642
+          }
+        },
+        {
+          "date": 1744416000,
+          "tokens": {
+            "LBTC": 32388479.77608
+          }
+        },
+        {
+          "date": 1744502400,
+          "tokens": {
+            "LBTC": 33070772.40467
+          }
+        },
+        {
+          "date": 1744588800,
+          "tokens": {
+            "LBTC": 32406801.13231
+          }
+        },
+        {
+          "date": 1744675200,
+          "tokens": {
+            "LBTC": 32976978.71653
+          }
+        },
+        {
+          "date": 1744761600,
+          "tokens": {
+            "LBTC": 32473850.88269
+          }
+        },
+        {
+          "date": 1744848000,
+          "tokens": {
+            "LBTC": 1068738.55857
+          }
+        },
+        {
+          "date": 1744934400,
+          "tokens": {
+            "LBTC": 1073665.04573
+          }
+        },
+        {
+          "date": 1745020800,
+          "tokens": {
+            "LBTC": 1061818.6616
+          }
+        },
+        {
+          "date": 1745107200,
+          "tokens": {
+            "LBTC": 1079374.77136
+          }
+        },
+        {
+          "date": 1745193600,
+          "tokens": {
+            "LBTC": 1091976.42611
+          }
+        },
+        {
+          "date": 1745280000,
+          "tokens": {
+            "LBTC": 1103755.94043
+          }
+        },
+        {
+          "date": 1745366400,
+          "tokens": {
+            "LBTC": 1179957.25702
+          }
+        },
+        {
+          "date": 1745452800,
+          "tokens": {
+            "LBTC": 1183145.87949
+          }
+        },
+        {
+          "date": 1745539200,
+          "tokens": {
+            "LBTC": 1185169.70696
+          }
+        },
+        {
+          "date": 1745625600,
+          "tokens": {
+            "LBTC": 149594.81607
+          }
+        },
+        {
+          "date": 1745712000,
+          "tokens": {
+            "LBTC": 136893.55152
+          }
+        },
+        {
+          "date": 1745798400,
+          "tokens": {
+            "LBTC": 134782.73377
+          }
+        },
+        {
+          "date": 1745884800,
+          "tokens": {
+            "LBTC": 173560.5111
+          }
+        },
+        {
+          "date": 1745971200,
+          "tokens": {
+            "LBTC": 171676.68027
+          }
+        },
+        {
+          "date": 1746057600,
+          "tokens": {
+            "LBTC": 169770.24109
+          }
+        },
+        {
+          "date": 1746144000,
+          "tokens": {
+            "LBTC": 171764.34009
+          }
+        },
+        {
+          "date": 1746230400,
+          "tokens": {
+            "LBTC": 171675.70009
+          }
+        },
+        {
+          "date": 1746316800,
+          "tokens": {
+            "LBTC": 169692.89621
+          }
+        },
+        {
+          "date": 1746403200,
+          "tokens": {
+            "LBTC": 165396.78838
+          }
+        },
+        {
+          "date": 1746489600,
+          "tokens": {
+            "LBTC": 161186.87837
+          }
+        },
+        {
+          "date": 1746576000,
+          "tokens": {
+            "LBTC": 163356.25235
+          }
+        },
+        {
+          "date": 1746662400,
+          "tokens": {
+            "LBTC": 163856.21602
+          }
+        },
+        {
+          "date": 1746748800,
+          "tokens": {
+            "LBTC": 57091.20394
+          }
+        },
+        {
+          "date": 1746835200,
+          "tokens": {
+            "LBTC": 189165.66075
+          }
+        },
+        {
+          "date": 1746921600,
+          "tokens": {
+            "LBTC": 177631.15224
+          }
+        },
+        {
+          "date": 1747008000,
+          "tokens": {
+            "LBTC": 164195.08181
+          }
+        },
+        {
+          "date": 1747094400,
+          "tokens": {
+            "LBTC": 160765.0115
+          }
+        },
+        {
+          "date": 1747180800,
+          "tokens": {
+            "LBTC": 163914.38531
+          }
+        },
+        {
+          "date": 1747267200,
+          "tokens": {
+            "LBTC": 160907.72128
+          }
+        },
+        {
+          "date": 1747353600,
+          "tokens": {
+            "LBTC": 161298.75848
+          }
+        },
+        {
+          "date": 1747440000,
+          "tokens": {
+            "LBTC": 161669.60954
+          }
+        },
+        {
+          "date": 1747526400,
+          "tokens": {
+            "LBTC": 160293.00269
+          }
+        },
+        {
+          "date": 1747612800,
+          "tokens": {
+            "LBTC": 164003.96493
+          }
+        },
+        {
+          "date": 1747699200,
+          "tokens": {
+            "LBTC": 164334.03201
+          }
+        },
+        {
+          "date": 1747785600,
+          "tokens": {
+            "LBTC": 165888.083
+          }
+        },
+        {
+          "date": 1747872000,
+          "tokens": {
+            "LBTC": 163370.51283
+          }
+        },
+        {
+          "date": 1747958400,
+          "tokens": {
+            "LBTC": 163639.74326
+          }
+        },
+        {
+          "date": 1748044800,
+          "tokens": {
+            "LBTC": 158725.2753
+          }
+        },
+        {
+          "date": 1748131200,
+          "tokens": {
+            "LBTC": 160780.60519
+          }
+        },
+        {
+          "date": 1748217600,
+          "tokens": {
+            "LBTC": 154856.47103
+          }
+        },
+        {
+          "date": 1748304000,
+          "tokens": {
+            "LBTC": 155236.31765
+          }
+        },
+        {
+          "date": 1748390400,
+          "tokens": {
+            "LBTC": 155288.53777
+          }
+        },
+        {
+          "date": 1748476800,
+          "tokens": {
+            "LBTC": 153426.44799
+          }
+        },
+        {
+          "date": 1748563200,
+          "tokens": {
+            "LBTC": 150968.22953
+          }
+        },
+        {
+          "date": 1748649600,
+          "tokens": {
+            "LBTC": 146675.28629
+          }
+        },
+        {
+          "date": 1748736000,
+          "tokens": {
+            "LBTC": 148885.91085
+          }
+        },
+        {
+          "date": 1748822400,
+          "tokens": {
+            "LBTC": 150106.30423
+          }
+        },
+        {
+          "date": 1748908800,
+          "tokens": {
+            "LBTC": 104033.8594
+          }
+        },
+        {
+          "date": 1748995200,
+          "tokens": {
+            "LBTC": 103530.37123
+          }
+        },
+        {
+          "date": 1749081600,
+          "tokens": {
+            "LBTC": 68023.20725
+          }
+        },
+        {
+          "date": 1749168000,
+          "tokens": {
+            "LBTC": 66203.28866
+          }
+        },
+        {
+          "date": 1749237791,
+          "tokens": {
+            "LBTC": 67703.69458
+          }
+        }
+      ],
+      "tokens": [
+        {
+          "date": 1733270400,
+          "tokens": {
+            "LBTC": 378.22507
+          }
+        },
+        {
+          "date": 1733356800,
+          "tokens": {
+            "LBTC": 378.22507
+          }
+        },
+        {
+          "date": 1733443200,
+          "tokens": {
+            "LBTC": 378.22507
+          }
+        },
+        {
+          "date": 1733529600,
+          "tokens": {
+            "LBTC": 378.22507
+          }
+        },
+        {
+          "date": 1733616000,
+          "tokens": {
+            "LBTC": 378.22507
+          }
+        },
+        {
+          "date": 1733702400,
+          "tokens": {
+            "LBTC": 378.22518
+          }
+        },
+        {
+          "date": 1733788800,
+          "tokens": {
+            "LBTC": 378.23143
+          }
+        },
+        {
+          "date": 1733875200,
+          "tokens": {
+            "LBTC": 378.2335
+          }
+        },
+        {
+          "date": 1733961600,
+          "tokens": {
+            "LBTC": 378.2335
+          }
+        },
+        {
+          "date": 1734048000,
+          "tokens": {
+            "LBTC": 378.23479
+          }
+        },
+        {
+          "date": 1734134400,
+          "tokens": {
+            "LBTC": 378.2422
+          }
+        },
+        {
+          "date": 1734220800,
+          "tokens": {
+            "LBTC": 378.25286
+          }
+        },
+        {
+          "date": 1734307200,
+          "tokens": {
+            "LBTC": 378.26053
+          }
+        },
+        {
+          "date": 1734393600,
+          "tokens": {
+            "LBTC": 378.27387
+          }
+        },
+        {
+          "date": 1734480000,
+          "tokens": {
+            "LBTC": 378.28164
+          }
+        },
+        {
+          "date": 1734566400,
+          "tokens": {
+            "LBTC": 378.27612
+          }
+        },
+        {
+          "date": 1734652800,
+          "tokens": {
+            "LBTC": 378.27647
+          }
+        },
+        {
+          "date": 1734739200,
+          "tokens": {
+            "LBTC": 378.27797
+          }
+        },
+        {
+          "date": 1734825600,
+          "tokens": {
+            "LBTC": 378.27797
+          }
+        },
+        {
+          "date": 1734912000,
+          "tokens": {
+            "LBTC": 378.30322
+          }
+        },
+        {
+          "date": 1734998400,
+          "tokens": {
+            "LBTC": 378.30383
+          }
+        },
+        {
+          "date": 1735084800,
+          "tokens": {
+            "LBTC": 378.30383
+          }
+        },
+        {
+          "date": 1735171200,
+          "tokens": {
+            "LBTC": 378.30403
+          }
+        },
+        {
+          "date": 1735257600,
+          "tokens": {
+            "LBTC": 378.31198
+          }
+        },
+        {
+          "date": 1735344000,
+          "tokens": {
+            "LBTC": 378.31419
+          }
+        },
+        {
+          "date": 1735430400,
+          "tokens": {
+            "LBTC": 378.31848
+          }
+        },
+        {
+          "date": 1735516800,
+          "tokens": {
+            "LBTC": 378.32031
+          }
+        },
+        {
+          "date": 1735603200,
+          "tokens": {
+            "LBTC": 378.32132
+          }
+        },
+        {
+          "date": 1735689600,
+          "tokens": {
+            "LBTC": 378.32367
+          }
+        },
+        {
+          "date": 1735776000,
+          "tokens": {
+            "LBTC": 378.32216
+          }
+        },
+        {
+          "date": 1735862400,
+          "tokens": {
+            "LBTC": 378.32585
+          }
+        },
+        {
+          "date": 1735948800,
+          "tokens": {
+            "LBTC": 378.32637
+          }
+        },
+        {
+          "date": 1736035200,
+          "tokens": {
+            "LBTC": 378.32581
+          }
+        },
+        {
+          "date": 1736121600,
+          "tokens": {
+            "LBTC": 378.33372
+          }
+        },
+        {
+          "date": 1736208000,
+          "tokens": {
+            "LBTC": 378.42426
+          }
+        },
+        {
+          "date": 1736294400,
+          "tokens": {
+            "LBTC": 378.90972
+          }
+        },
+        {
+          "date": 1736380800,
+          "tokens": {
+            "LBTC": 378.91184
+          }
+        },
+        {
+          "date": 1736467200,
+          "tokens": {
+            "LBTC": 378.92747
+          }
+        },
+        {
+          "date": 1736553600,
+          "tokens": {
+            "LBTC": 378.92747
+          }
+        },
+        {
+          "date": 1736640000,
+          "tokens": {
+            "LBTC": 378.93619
+          }
+        },
+        {
+          "date": 1736726400,
+          "tokens": {
+            "LBTC": 378.96131
+          }
+        },
+        {
+          "date": 1736812800,
+          "tokens": {
+            "LBTC": 378.96046
+          }
+        },
+        {
+          "date": 1736899200,
+          "tokens": {
+            "LBTC": 379.11057
+          }
+        },
+        {
+          "date": 1736985600,
+          "tokens": {
+            "LBTC": 379.11057
+          }
+        },
+        {
+          "date": 1737072000,
+          "tokens": {
+            "LBTC": 379.13504
+          }
+        },
+        {
+          "date": 1737158400,
+          "tokens": {
+            "LBTC": 379.25959
+          }
+        },
+        {
+          "date": 1737244800,
+          "tokens": {
+            "LBTC": 379.26559
+          }
+        },
+        {
+          "date": 1737331200,
+          "tokens": {
+            "LBTC": 379.26616
+          }
+        },
+        {
+          "date": 1737417600,
+          "tokens": {
+            "LBTC": 379.16572
+          }
+        },
+        {
+          "date": 1737504000,
+          "tokens": {
+            "LBTC": 379.18088
+          }
+        },
+        {
+          "date": 1737590400,
+          "tokens": {
+            "LBTC": 379.12852
+          }
+        },
+        {
+          "date": 1737676800,
+          "tokens": {
+            "LBTC": 379.14262
+          }
+        },
+        {
+          "date": 1737763200,
+          "tokens": {
+            "LBTC": 379.15183
+          }
+        },
+        {
+          "date": 1737849600,
+          "tokens": {
+            "LBTC": 379.14993
+          }
+        },
+        {
+          "date": 1737936000,
+          "tokens": {
+            "LBTC": 379.17764
+          }
+        },
+        {
+          "date": 1738022400,
+          "tokens": {
+            "LBTC": 379.17764
+          }
+        },
+        {
+          "date": 1738108800,
+          "tokens": {
+            "LBTC": 379.17658
+          }
+        },
+        {
+          "date": 1738195200,
+          "tokens": {
+            "LBTC": 379.37705
+          }
+        },
+        {
+          "date": 1738281600,
+          "tokens": {
+            "LBTC": 379.35936
+          }
+        },
+        {
+          "date": 1738368000,
+          "tokens": {
+            "LBTC": 379.73756
+          }
+        },
+        {
+          "date": 1738454400,
+          "tokens": {
+            "LBTC": 379.74907
+          }
+        },
+        {
+          "date": 1738540800,
+          "tokens": {
+            "LBTC": 379.57556
+          }
+        },
+        {
+          "date": 1738627200,
+          "tokens": {
+            "LBTC": 379.57477
+          }
+        },
+        {
+          "date": 1738713600,
+          "tokens": {
+            "LBTC": 379.57948
+          }
+        },
+        {
+          "date": 1738800000,
+          "tokens": {
+            "LBTC": 379.69391
+          }
+        },
+        {
+          "date": 1738886400,
+          "tokens": {
+            "LBTC": 379.7061
+          }
+        },
+        {
+          "date": 1738972800,
+          "tokens": {
+            "LBTC": 379.73472
+          }
+        },
+        {
+          "date": 1739059200,
+          "tokens": {
+            "LBTC": 379.73548
+          }
+        },
+        {
+          "date": 1739145600,
+          "tokens": {
+            "LBTC": 389.74684
+          }
+        },
+        {
+          "date": 1739232000,
+          "tokens": {
+            "LBTC": 389.76629
+          }
+        },
+        {
+          "date": 1739318400,
+          "tokens": {
+            "LBTC": 389.76631
+          }
+        },
+        {
+          "date": 1739404800,
+          "tokens": {
+            "LBTC": 389.7741
+          }
+        },
+        {
+          "date": 1739491200,
+          "tokens": {
+            "LBTC": 390.13581
+          }
+        },
+        {
+          "date": 1739577600,
+          "tokens": {
+            "LBTC": 390.14236
+          }
+        },
+        {
+          "date": 1739664000,
+          "tokens": {
+            "LBTC": 390.21564
+          }
+        },
+        {
+          "date": 1739750400,
+          "tokens": {
+            "LBTC": 390.48795
+          }
+        },
+        {
+          "date": 1739836800,
+          "tokens": {
+            "LBTC": 389.09824
+          }
+        },
+        {
+          "date": 1739923200,
+          "tokens": {
+            "LBTC": 389.08217
+          }
+        },
+        {
+          "date": 1740009600,
+          "tokens": {
+            "LBTC": 389.07256
+          }
+        },
+        {
+          "date": 1740096000,
+          "tokens": {
+            "LBTC": 389.01549
+          }
+        },
+        {
+          "date": 1740182400,
+          "tokens": {
+            "LBTC": 388.82888
+          }
+        },
+        {
+          "date": 1740268800,
+          "tokens": {
+            "LBTC": 388.81289
+          }
+        },
+        {
+          "date": 1740355200,
+          "tokens": {
+            "LBTC": 388.79691
+          }
+        },
+        {
+          "date": 1740441600,
+          "tokens": {
+            "LBTC": 388.7815
+          }
+        },
+        {
+          "date": 1740528000,
+          "tokens": {
+            "LBTC": 388.74323
+          }
+        },
+        {
+          "date": 1740614400,
+          "tokens": {
+            "LBTC": 388.72786
+          }
+        },
+        {
+          "date": 1740700800,
+          "tokens": {
+            "LBTC": 388.82962
+          }
+        },
+        {
+          "date": 1740787200,
+          "tokens": {
+            "LBTC": 388.81363
+          }
+        },
+        {
+          "date": 1740873600,
+          "tokens": {
+            "LBTC": 388.80463
+          }
+        },
+        {
+          "date": 1740960000,
+          "tokens": {
+            "LBTC": 388.79156
+          }
+        },
+        {
+          "date": 1741046400,
+          "tokens": {
+            "LBTC": 388.77557
+          }
+        },
+        {
+          "date": 1741132800,
+          "tokens": {
+            "LBTC": 388.76077
+          }
+        },
+        {
+          "date": 1741219200,
+          "tokens": {
+            "LBTC": 388.70468
+          }
+        },
+        {
+          "date": 1741305600,
+          "tokens": {
+            "LBTC": 388.68665
+          }
+        },
+        {
+          "date": 1741392000,
+          "tokens": {
+            "LBTC": 388.67088
+          }
+        },
+        {
+          "date": 1741478400,
+          "tokens": {
+            "LBTC": 388.66043
+          }
+        },
+        {
+          "date": 1741564800,
+          "tokens": {
+            "LBTC": 388.64476
+          }
+        },
+        {
+          "date": 1741651200,
+          "tokens": {
+            "LBTC": 388.17191
+          }
+        },
+        {
+          "date": 1741737600,
+          "tokens": {
+            "LBTC": 388.15953
+          }
+        },
+        {
+          "date": 1741824000,
+          "tokens": {
+            "LBTC": 388.12956
+          }
+        },
+        {
+          "date": 1741910400,
+          "tokens": {
+            "LBTC": 388.11445
+          }
+        },
+        {
+          "date": 1741996800,
+          "tokens": {
+            "LBTC": 388.05633
+          }
+        },
+        {
+          "date": 1742083200,
+          "tokens": {
+            "LBTC": 388.03833
+          }
+        },
+        {
+          "date": 1742169600,
+          "tokens": {
+            "LBTC": 388.72222
+          }
+        },
+        {
+          "date": 1742256000,
+          "tokens": {
+            "LBTC": 388.70624
+          }
+        },
+        {
+          "date": 1742342400,
+          "tokens": {
+            "LBTC": 388.68928
+          }
+        },
+        {
+          "date": 1742428800,
+          "tokens": {
+            "LBTC": 389.6922
+          }
+        },
+        {
+          "date": 1742515200,
+          "tokens": {
+            "LBTC": 389.67567
+          }
+        },
+        {
+          "date": 1742601600,
+          "tokens": {
+            "LBTC": 389.65708
+          }
+        },
+        {
+          "date": 1742688000,
+          "tokens": {
+            "LBTC": 389.62827
+          }
+        },
+        {
+          "date": 1742774400,
+          "tokens": {
+            "LBTC": 389.60667
+          }
+        },
+        {
+          "date": 1742860800,
+          "tokens": {
+            "LBTC": 389.59065
+          }
+        },
+        {
+          "date": 1742947200,
+          "tokens": {
+            "LBTC": 389.57463
+          }
+        },
+        {
+          "date": 1743033600,
+          "tokens": {
+            "LBTC": 389.55862
+          }
+        },
+        {
+          "date": 1743120000,
+          "tokens": {
+            "LBTC": 389.55532
+          }
+        },
+        {
+          "date": 1743206400,
+          "tokens": {
+            "LBTC": 389.52281
+          }
+        },
+        {
+          "date": 1743292800,
+          "tokens": {
+            "LBTC": 389.50528
+          }
+        },
+        {
+          "date": 1743379200,
+          "tokens": {
+            "LBTC": 389.23158
+          }
+        },
+        {
+          "date": 1743465600,
+          "tokens": {
+            "LBTC": 389.21544
+          }
+        },
+        {
+          "date": 1743552000,
+          "tokens": {
+            "LBTC": 389.21758
+          }
+        },
+        {
+          "date": 1743638400,
+          "tokens": {
+            "LBTC": 389.52353
+          }
+        },
+        {
+          "date": 1743724800,
+          "tokens": {
+            "LBTC": 389.54464
+          }
+        },
+        {
+          "date": 1743811200,
+          "tokens": {
+            "LBTC": 389.52969
+          }
+        },
+        {
+          "date": 1743897600,
+          "tokens": {
+            "LBTC": 389.67126
+          }
+        },
+        {
+          "date": 1743984000,
+          "tokens": {
+            "LBTC": 389.66006
+          }
+        },
+        {
+          "date": 1744070400,
+          "tokens": {
+            "LBTC": 388.99076
+          }
+        },
+        {
+          "date": 1744156800,
+          "tokens": {
+            "LBTC": 388.96983
+          }
+        },
+        {
+          "date": 1744243200,
+          "tokens": {
+            "LBTC": 388.9488
+          }
+        },
+        {
+          "date": 1744329600,
+          "tokens": {
+            "LBTC": 388.92974
+          }
+        },
+        {
+          "date": 1744416000,
+          "tokens": {
+            "LBTC": 388.94335
+          }
+        },
+        {
+          "date": 1744502400,
+          "tokens": {
+            "LBTC": 388.94436
+          }
+        },
+        {
+          "date": 1744588800,
+          "tokens": {
+            "LBTC": 389.0419
+          }
+        },
+        {
+          "date": 1744675200,
+          "tokens": {
+            "LBTC": 389.21452
+          }
+        },
+        {
+          "date": 1744761600,
+          "tokens": {
+            "LBTC": 389.29069
+          }
+        },
+        {
+          "date": 1744848000,
+          "tokens": {
+            "LBTC": 12.70674
+          }
+        },
+        {
+          "date": 1744934400,
+          "tokens": {
+            "LBTC": 12.70174
+          }
+        },
+        {
+          "date": 1745020800,
+          "tokens": {
+            "LBTC": 12.69875
+          }
+        },
+        {
+          "date": 1745107200,
+          "tokens": {
+            "LBTC": 12.69823
+          }
+        },
+        {
+          "date": 1745193600,
+          "tokens": {
+            "LBTC": 12.69622
+          }
+        },
+        {
+          "date": 1745280000,
+          "tokens": {
+            "LBTC": 12.69561
+          }
+        },
+        {
+          "date": 1745366400,
+          "tokens": {
+            "LBTC": 12.69508
+          }
+        },
+        {
+          "date": 1745452800,
+          "tokens": {
+            "LBTC": 12.69456
+          }
+        },
+        {
+          "date": 1745539200,
+          "tokens": {
+            "LBTC": 12.70292
+          }
+        },
+        {
+          "date": 1745625600,
+          "tokens": {
+            "LBTC": 1.58219
+          }
+        },
+        {
+          "date": 1745712000,
+          "tokens": {
+            "LBTC": 1.44
+          }
+        },
+        {
+          "date": 1745798400,
+          "tokens": {
+            "LBTC": 1.43994
+          }
+        },
+        {
+          "date": 1745884800,
+          "tokens": {
+            "LBTC": 1.82969
+          }
+        },
+        {
+          "date": 1745971200,
+          "tokens": {
+            "LBTC": 1.82319
+          }
+        },
+        {
+          "date": 1746057600,
+          "tokens": {
+            "LBTC": 1.80795
+          }
+        },
+        {
+          "date": 1746144000,
+          "tokens": {
+            "LBTC": 1.78147
+          }
+        },
+        {
+          "date": 1746230400,
+          "tokens": {
+            "LBTC": 1.77353
+          }
+        },
+        {
+          "date": 1746316800,
+          "tokens": {
+            "LBTC": 1.77353
+          }
+        },
+        {
+          "date": 1746403200,
+          "tokens": {
+            "LBTC": 1.77346
+          }
+        },
+        {
+          "date": 1746489600,
+          "tokens": {
+            "LBTC": 1.70716
+          }
+        },
+        {
+          "date": 1746576000,
+          "tokens": {
+            "LBTC": 1.69464
+          }
+        },
+        {
+          "date": 1746662400,
+          "tokens": {
+            "LBTC": 1.69457
+          }
+        },
+        {
+          "date": 1746748800,
+          "tokens": {
+            "LBTC": 0.55676
+          }
+        },
+        {
+          "date": 1746835200,
+          "tokens": {
+            "LBTC": 1.83795
+          }
+        },
+        {
+          "date": 1746921600,
+          "tokens": {
+            "LBTC": 1.70383
+          }
+        },
+        {
+          "date": 1747008000,
+          "tokens": {
+            "LBTC": 1.57982
+          }
+        },
+        {
+          "date": 1747094400,
+          "tokens": {
+            "LBTC": 1.57975
+          }
+        },
+        {
+          "date": 1747180800,
+          "tokens": {
+            "LBTC": 1.57876
+          }
+        },
+        {
+          "date": 1747267200,
+          "tokens": {
+            "LBTC": 1.5632
+          }
+        },
+        {
+          "date": 1747353600,
+          "tokens": {
+            "LBTC": 1.5599
+          }
+        },
+        {
+          "date": 1747440000,
+          "tokens": {
+            "LBTC": 1.55984
+          }
+        },
+        {
+          "date": 1747526400,
+          "tokens": {
+            "LBTC": 1.55944
+          }
+        },
+        {
+          "date": 1747612800,
+          "tokens": {
+            "LBTC": 1.55937
+          }
+        },
+        {
+          "date": 1747699200,
+          "tokens": {
+            "LBTC": 1.55931
+          }
+        },
+        {
+          "date": 1747785600,
+          "tokens": {
+            "LBTC": 1.55925
+          }
+        },
+        {
+          "date": 1747872000,
+          "tokens": {
+            "LBTC": 1.49033
+          }
+        },
+        {
+          "date": 1747958400,
+          "tokens": {
+            "LBTC": 1.48454
+          }
+        },
+        {
+          "date": 1748044800,
+          "tokens": {
+            "LBTC": 1.48448
+          }
+        },
+        {
+          "date": 1748131200,
+          "tokens": {
+            "LBTC": 1.48442
+          }
+        },
+        {
+          "date": 1748217600,
+          "tokens": {
+            "LBTC": 1.42523
+          }
+        },
+        {
+          "date": 1748304000,
+          "tokens": {
+            "LBTC": 1.42517
+          }
+        },
+        {
+          "date": 1748390400,
+          "tokens": {
+            "LBTC": 1.42487
+          }
+        },
+        {
+          "date": 1748476800,
+          "tokens": {
+            "LBTC": 1.42476
+          }
+        },
+        {
+          "date": 1748563200,
+          "tokens": {
+            "LBTC": 1.4247
+          }
+        },
+        {
+          "date": 1748649600,
+          "tokens": {
+            "LBTC": 1.42464
+          }
+        },
+        {
+          "date": 1748736000,
+          "tokens": {
+            "LBTC": 1.42458
+          }
+        },
+        {
+          "date": 1748822400,
+          "tokens": {
+            "LBTC": 1.42452
+          }
+        },
+        {
+          "date": 1748908800,
+          "tokens": {
+            "LBTC": 0.9853
+          }
+        },
+        {
+          "date": 1748995200,
+          "tokens": {
+            "LBTC": 0.9853
+          }
+        },
+        {
+          "date": 1749081600,
+          "tokens": {
+            "LBTC": 0.65249
+          }
+        },
+        {
+          "date": 1749168000,
+          "tokens": {
+            "LBTC": 0.65247
+          }
+        },
+        {
+          "date": 1749237791,
+          "tokens": {
+            "LBTC": 0.64843
           }
         }
       ]
@@ -12783,8 +13174,24 @@
       "totalLiquidityUSD": 269505969.60724
     },
     {
-      "date": 1748886431,
-      "totalLiquidityUSD": 269647531.35197
+      "date": 1748908800,
+      "totalLiquidityUSD": 277028138.14436
+    },
+    {
+      "date": 1748995200,
+      "totalLiquidityUSD": 277782875.27397
+    },
+    {
+      "date": 1749081600,
+      "totalLiquidityUSD": 279477014.92728
+    },
+    {
+      "date": 1749168000,
+      "totalLiquidityUSD": 266124938.5728
+    },
+    {
+      "date": 1749237791,
+      "totalLiquidityUSD": 273686226.20874
     }
   ],
   "tokensInUsd": [
@@ -15097,21 +15504,93 @@
       }
     },
     {
-      "date": 1748886431,
+      "date": 1748908800,
       "tokens": {
-        "USDC": 49239423.45284,
-        "LBTC": 244617.76813,
-        "CBBTC": 18254000.32268,
+        "USDC": 49238317.28932,
+        "LBTC": 248406.06287,
+        "CBBTC": 18510200.49762,
         "SUSDE": 1775.81104,
-        "WSTETH": 23863473.72399,
-        "RSETH": 119717580.33523,
-        "WETH": 6469.61446,
-        "CUSDO": 1111175.93026,
-        "USR": 2544214.00046,
-        "USDT": 1017818.61889,
-        "WHYPE": 41334548.69841,
-        "AUSD": 8137487.61233,
-        "WAVAX": 4174945.46323
+        "WSTETH": 24415739.72676,
+        "RSETH": 122002324.46057,
+        "WETH": 6626.60493,
+        "CUSDO": 1110088.67397,
+        "USR": 2548376.78088,
+        "AUSD": 8168049.77248,
+        "WAVAX": 4321506.20109,
+        "USDT": 1019288.43281,
+        "WHYPE": 45437437.83
+      }
+    },
+    {
+      "date": 1748995200,
+      "tokens": {
+        "USDC": 48823550.88612,
+        "LBTC": 235698.80447,
+        "CBBTC": 18404994.1502,
+        "SUSDE": 1775.81104,
+        "WSTETH": 24374870.14382,
+        "RSETH": 121257852.98323,
+        "WETH": 6576.38725,
+        "CUSDO": 1100337.21459,
+        "USR": 2754229.06029,
+        "AUSD": 8148396.76566,
+        "WAVAX": 4307028.95649,
+        "USDT": 1018947.05417,
+        "WHYPE": 47348617.05664
+      }
+    },
+    {
+      "date": 1749081600,
+      "tokens": {
+        "USDC": 49124097.77236,
+        "LBTC": 199110.79391,
+        "CBBTC": 18331769.13431,
+        "SUSDE": 1775.66515,
+        "WSTETH": 24401878.65911,
+        "RSETH": 121882936.84066,
+        "WETH": 6617.83395,
+        "CUSDO": 1099166.02733,
+        "USR": 2753234.55572,
+        "USDT": 1020331.97943,
+        "AUSD": 8161851.67109,
+        "WAVAX": 4107383.23323,
+        "WHYPE": 48386860.76105
+      }
+    },
+    {
+      "date": 1749168000,
+      "tokens": {
+        "USDC": 49528996.81528,
+        "LBTC": 193821.65805,
+        "CBBTC": 17777426.05455,
+        "SUSDE": 1775.59213,
+        "WSTETH": 22638444.23352,
+        "RSETH": 113072211.48495,
+        "WETH": 6137.43247,
+        "CUSDO": 1087886.52867,
+        "USR": 2752308.44529,
+        "AUSD": 8171671.83881,
+        "WAVAX": 3828379.85505,
+        "USDT": 1016613.46197,
+        "WHYPE": 46049265.17204
+      }
+    },
+    {
+      "date": 1749237791,
+      "tokens": {
+        "USDC": 49723877.30507,
+        "LBTC": 199020.72748,
+        "CBBTC": 18278292.15373,
+        "SUSDE": 1775.5192,
+        "WSTETH": 23419637.14619,
+        "RSETH": 118692329.43803,
+        "WETH": 6322.96666,
+        "CUSDO": 1088912.54389,
+        "USR": 2752889.03334,
+        "USDT": 1019256.50295,
+        "WHYPE": 46378875.28605,
+        "AUSD": 8172628.53958,
+        "WAVAX": 3952409.04659
       }
     }
   ],
@@ -17425,30 +17904,102 @@
       }
     },
     {
-      "date": 1748886431,
+      "date": 1748908800,
       "tokens": {
-        "USDC": 49248386.65921,
+        "USDC": 49248265.43894,
         "LBTC": 2.34963,
         "CBBTC": 174.76137,
         "SUSDE": 1504.92461,
-        "WSTETH": 7786.2562,
-        "RSETH": 44998.31998,
+        "WSTETH": 7794.5045,
+        "RSETH": 44782.67034,
         "WETH": 2.53497,
         "CUSDO": 1087256.29184,
-        "USR": 2549455.68134,
+        "USR": 2549355.73348,
+        "AUSD": 8151746.27992,
+        "WAVAX": 203556.58036,
         "USDT": 1019288.43281,
-        "WHYPE": 1237931.97659,
-        "AUSD": 8143815.35687,
-        "WAVAX": 203556.58036
+        "WHYPE": 1250342.2628
+      }
+    },
+    {
+      "date": 1748995200,
+      "tokens": {
+        "USDC": 48833073.33542,
+        "LBTC": 2.24315,
+        "CBBTC": 174.76137,
+        "SUSDE": 1504.92461,
+        "WSTETH": 7799.30954,
+        "RSETH": 44759.62518,
+        "WETH": 2.53497,
+        "CUSDO": 1080881.35029,
+        "USR": 2754229.06029,
+        "AUSD": 8153247.94819,
+        "WAVAX": 203545.79189,
+        "USDT": 1019312.98753,
+        "WHYPE": 1313050.94444
+      }
+    },
+    {
+      "date": 1749081600,
+      "tokens": {
+        "USDC": 49135104.03566,
+        "LBTC": 1.91029,
+        "CBBTC": 174.76137,
+        "SUSDE": 1504.80098,
+        "WSTETH": 7779.79725,
+        "RSETH": 44663.7608,
+        "WETH": 2.53497,
+        "CUSDO": 1080792.55391,
+        "USR": 2754115.87279,
+        "USDT": 1019312.66676,
+        "AUSD": 8168206.53578,
+        "WAVAX": 203537.32573,
+        "WHYPE": 1364162.97607
+      }
+    },
+    {
+      "date": 1749168000,
+      "tokens": {
+        "USDC": 49538805.49877,
+        "LBTC": 1.91021,
+        "CBBTC": 174.76137,
+        "SUSDE": 1504.73909,
+        "WSTETH": 7791.55612,
+        "RSETH": 44697.34378,
+        "WETH": 2.53497,
+        "CUSDO": 1070754.45736,
+        "USR": 2753002.20184,
+        "AUSD": 8176929.60455,
+        "WAVAX": 203528.96624,
+        "USDT": 1019313.62376,
+        "WHYPE": 1350814.46677
+      }
+    },
+    {
+      "date": 1749237791,
+      "tokens": {
+        "USDC": 49734122.53431,
+        "LBTC": 1.90613,
+        "CBBTC": 174.76137,
+        "SUSDE": 1504.67729,
+        "WSTETH": 7791.87102,
+        "RSETH": 45449.86768,
+        "WETH": 2.53497,
+        "CUSDO": 1070710.46597,
+        "USR": 2752889.03334,
+        "USDT": 1019312.56514,
+        "WHYPE": 1358490.78167,
+        "AUSD": 8176929.60455,
+        "WAVAX": 203522.60796
       }
     }
   ],
   "currentChainTvls": {
-    "Ethereum": 214880152.38743,
-    "Base": 102578.57167,
-    "Binance": 1017818.61889,
-    "Hyperliquid L1": 41334548.69841,
-    "Avalanche": 12312433.07557
+    "Ethereum": 214095353.139,
+    "Binance": 1019256.50295,
+    "Hyperliquid L1": 46378875.28605,
+    "Avalanche": 12125037.58616,
+    "Base": 67703.69458
   },
   "raises": [],
   "metrics": {},

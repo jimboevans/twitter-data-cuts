@@ -16,14 +16,16 @@
     "Base"
   ],
   "module": "blazebot",
-  "oracles": [],
   "forkedFrom": [],
   "twitter": "Blazebot_io",
   "defillamaId": "3527",
   "disabled": true,
   "displayName": "BlazeBot",
   "methodologyURL": "https://github.com/DefiLlama/dimension-adapters/blob/master/fees/blazebot.ts",
-  "methodology": {},
+  "methodology": {
+    "Fees": "All trading fees paid by users while using trading bot.",
+    "Revenue": "All trading fees paid by users while using trading bot."
+  },
   "audit_links": null,
   "versionKey": null,
   "github": null,

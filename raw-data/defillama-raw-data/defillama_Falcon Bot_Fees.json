@@ -18,12 +18,15 @@
   "module": "botfalcon",
   "twitter": "blchead",
   "forkedFrom": [],
-  "oracles": [],
   "defillamaId": "5237",
   "disabled": false,
   "displayName": "Falcon Bot",
   "methodologyURL": "https://github.com/DefiLlama/dimension-adapters/blob/master/fees/botfalcon.ts",
-  "methodology": {},
+  "methodology": {
+    "Fees": "All trading fees paid by users while using bot.",
+    "Revenue": "Trading fees are collected by Falcon Bot protocol.",
+    "ProtocolRevenue": "Trading fees are collected by Falcon Bot protocol."
+  },
   "audit_links": null,
   "versionKey": null,
   "github": null,
@@ -36,8 +39,8 @@
   "protocolType": "protocol",
   "total24h": 0,
   "total48hto24h": 0,
-  "total7d": 6,
-  "totalAllTime": 2783,
+  "total7d": 8,
+  "totalAllTime": 2785,
   "totalDataChart": [
     [
       1728172800,
@@ -985,6 +988,22 @@
     ],
     [
       1748822400,
+      2
+    ],
+    [
+      1748908800,
+      0
+    ],
+    [
+      1748995200,
+      0
+    ],
+    [
+      1749081600,
+      0
+    ],
+    [
+      1749168000,
       0
     ]
   ],
@@ -2879,6 +2898,38 @@
     ],
     [
       1748822400,
+      {
+        "solana": {
+          "Falcon Bot": 2
+        }
+      }
+    ],
+    [
+      1748908800,
+      {
+        "solana": {
+          "Falcon Bot": 0
+        }
+      }
+    ],
+    [
+      1748995200,
+      {
+        "solana": {
+          "Falcon Bot": 0
+        }
+      }
+    ],
+    [
+      1749081600,
+      {
+        "solana": {
+          "Falcon Bot": 0
+        }
+      }
+    ],
+    [
+      1749168000,
       {
         "solana": {
           "Falcon Bot": 0

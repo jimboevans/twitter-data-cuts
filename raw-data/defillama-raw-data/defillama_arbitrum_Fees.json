@@ -39,10 +39,10 @@
   "latestFetchIsOk": true,
   "slug": "arbitrum",
   "protocolType": "chain",
-  "total24h": 8849,
-  "total48hto24h": 15406,
-  "total7d": 202987,
-  "totalAllTime": 154123798,
+  "total24h": 72170,
+  "total48hto24h": 12513,
+  "total7d": 179250,
+  "totalAllTime": 154234630,
   "totalDataChart": [
     [
       1628553600,
@@ -5443,6 +5443,22 @@
     [
       1748736000,
       8849
+    ],
+    [
+      1748822400,
+      13244
+    ],
+    [
+      1748908800,
+      12905
+    ],
+    [
+      1748995200,
+      12513
+    ],
+    [
+      1749081600,
+      72170
     ]
   ],
   "totalDataChartBreakdown": [
@@ -16245,7 +16261,39 @@
           "Arbitrum": 8849
         }
       }
+    ],
+    [
+      1748822400,
+      {
+        "arbitrum": {
+          "Arbitrum": 13244
+        }
+      }
+    ],
+    [
+      1748908800,
+      {
+        "arbitrum": {
+          "Arbitrum": 12905
+        }
+      }
+    ],
+    [
+      1748995200,
+      {
+        "arbitrum": {
+          "Arbitrum": 12513
+        }
+      }
+    ],
+    [
+      1749081600,
+      {
+        "arbitrum": {
+          "Arbitrum": 72170
+        }
+      }
     ]
   ],
-  "change_1d": -42.56
+  "change_1d": 476.76
 }

@@ -1,0 +1,3624 @@
+{
+  "id": "5679",
+  "name": "Reservoir Tools CLMM",
+  "address": null,
+  "symbol": "-",
+  "url": "https://swap.reservoir.tools/#/swap",
+  "description": "Uniswap V3 fork",
+  "chain": "Abstract",
+  "logo": "https://icons.llamao.fi/icons/protocols/reservoir-tools.png",
+  "audits": "0",
+  "audit_note": null,
+  "gecko_id": null,
+  "cmcId": null,
+  "category": "Dexs",
+  "chains": [
+    "Abstract",
+    "Zero Network",
+    "Shape"
+  ],
+  "module": "reservoir-tools-clmm",
+  "twitter": "reservoir0x",
+  "forkedFromIds": [
+    "2198"
+  ],
+  "parentProtocol": "parent#reservoir-tools",
+  "listedAt": 1738007759,
+  "defillamaId": "5679",
+  "disabled": false,
+  "displayName": "Reservoir Tools CLMM",
+  "methodologyURL": "https://github.com/DefiLlama/dimension-adapters/blob/master/dexs/reservoir-tools-clmm.ts",
+  "methodology": {
+    "UserFees": "Swap fees paid by users",
+    "Fees": "Swap fees paid by users",
+    "Revenue": "Percentage of swap fees going to treasury and/or token holders",
+    "ProtocolRevenue": "Percentage of swap fees going to treasury",
+    "HoldersRevenue": "Money going to governance token holders",
+    "SupplySideRevenue": "Liquidity providers revenue"
+  },
+  "forkedFrom": null,
+  "audit_links": null,
+  "versionKey": null,
+  "github": null,
+  "governanceID": null,
+  "treasury": null,
+  "previousNames": null,
+  "latestFetchIsOk": true,
+  "slug": "reservoir-tools-clmm",
+  "protocolType": "protocol",
+  "linkedProtocols": [
+    "Reservoir Tools",
+    "Reservoir Tools AMM",
+    "Reservoir Tools CLMM"
+  ],
+  "total24h": 8021,
+  "total48hto24h": 7183,
+  "total7d": 65560,
+  "totalAllTime": 1524751,
+  "totalDataChart": [
+    [
+      1734480000,
+      1302
+    ],
+    [
+      1734566400,
+      869
+    ],
+    [
+      1734652800,
+      285
+    ],
+    [
+      1734739200,
+      525
+    ],
+    [
+      1734825600,
+      412
+    ],
+    [
+      1734912000,
+      453
+    ],
+    [
+      1734998400,
+      535
+    ],
+    [
+      1735084800,
+      442
+    ],
+    [
+      1735171200,
+      638
+    ],
+    [
+      1735257600,
+      1223
+    ],
+    [
+      1735344000,
+      418
+    ],
+    [
+      1735430400,
+      456
+    ],
+    [
+      1735516800,
+      544
+    ],
+    [
+      1735603200,
+      467
+    ],
+    [
+      1735689600,
+      445
+    ],
+    [
+      1735776000,
+      342
+    ],
+    [
+      1735862400,
+      453
+    ],
+    [
+      1735948800,
+      321
+    ],
+    [
+      1736035200,
+      440
+    ],
+    [
+      1736121600,
+      662
+    ],
+    [
+      1736208000,
+      531
+    ],
+    [
+      1736294400,
+      616
+    ],
+    [
+      1736380800,
+      664
+    ],
+    [
+      1736467200,
+      406
+    ],
+    [
+      1736553600,
+      332
+    ],
+    [
+      1736640000,
+      313
+    ],
+    [
+      1736726400,
+      518
+    ],
+    [
+      1736812800,
+      396
+    ],
+    [
+      1736899200,
+      514
+    ],
+    [
+      1736985600,
+      439
+    ],
+    [
+      1737072000,
+      432
+    ],
+    [
+      1737158400,
+      551
+    ],
+    [
+      1737244800,
+      777
+    ],
+    [
+      1737331200,
+      677
+    ],
+    [
+      1737417600,
+      306
+    ],
+    [
+      1737504000,
+      502
+    ],
+    [
+      1737590400,
+      461
+    ],
+    [
+      1737676800,
+      374
+    ],
+    [
+      1737763200,
+      233
+    ],
+    [
+      1737849600,
+      287
+    ],
+    [
+      1737936000,
+      5860
+    ],
+    [
+      1738022400,
+      9747
+    ],
+    [
+      1738108800,
+      4758
+    ],
+    [
+      1738195200,
+      4212
+    ],
+    [
+      1738281600,
+      6767
+    ],
+    [
+      1738368000,
+      9344
+    ],
+    [
+      1738454400,
+      7684
+    ],
+    [
+      1738540800,
+      12961
+    ],
+    [
+      1738627200,
+      11593
+    ],
+    [
+      1738713600,
+      11552
+    ],
+    [
+      1738800000,
+      6033
+    ],
+    [
+      1738886400,
+      7279
+    ],
+    [
+      1738972800,
+      4886
+    ],
+    [
+      1739059200,
+      4575
+    ],
+    [
+      1739145600,
+      5441
+    ],
+    [
+      1739232000,
+      4796
+    ],
+    [
+      1739318400,
+      5798
+    ],
+    [
+      1739404800,
+      7476
+    ],
+    [
+      1739491200,
+      5778
+    ],
+    [
+      1739577600,
+      3106
+    ],
+    [
+      1739664000,
+      2500
+    ],
+    [
+      1739750400,
+      4236
+    ],
+    [
+      1739836800,
+      4704
+    ],
+    [
+      1739923200,
+      2739
+    ],
+    [
+      1740009600,
+      3231
+    ],
+    [
+      1740096000,
+      6565
+    ],
+    [
+      1740182400,
+      6924
+    ],
+    [
+      1740268800,
+      4947
+    ],
+    [
+      1740355200,
+      6457
+    ],
+    [
+      1740441600,
+      7676
+    ],
+    [
+      1740528000,
+      6174
+    ],
+    [
+      1740614400,
+      5683
+    ],
+    [
+      1740700800,
+      6928
+    ],
+    [
+      1740787200,
+      6937
+    ],
+    [
+      1740873600,
+      7648
+    ],
+    [
+      1740960000,
+      11615
+    ],
+    [
+      1741046400,
+      10601
+    ],
+    [
+      1741132800,
+      5227
+    ],
+    [
+      1741219200,
+      5932
+    ],
+    [
+      1741305600,
+      7759
+    ],
+    [
+      1741392000,
+      3894
+    ],
+    [
+      1741478400,
+      4872
+    ],
+    [
+      1741564800,
+      5744
+    ],
+    [
+      1741651200,
+      4217
+    ],
+    [
+      1741737600,
+      4825
+    ],
+    [
+      1741824000,
+      3060
+    ],
+    [
+      1741910400,
+      2839
+    ],
+    [
+      1741996800,
+      1970
+    ],
+    [
+      1742083200,
+      2842
+    ],
+    [
+      1742169600,
+      2720
+    ],
+    [
+      1742256000,
+      2489
+    ],
+    [
+      1742342400,
+      3102
+    ],
+    [
+      1742428800,
+      3287
+    ],
+    [
+      1742515200,
+      1708
+    ],
+    [
+      1742601600,
+      1909
+    ],
+    [
+      1742688000,
+      1674
+    ],
+    [
+      1742774400,
+      2826
+    ],
+    [
+      1742860800,
+      2623
+    ],
+    [
+      1742947200,
+      3762
+    ],
+    [
+      1743033600,
+      3512
+    ],
+    [
+      1743120000,
+      3171
+    ],
+    [
+      1743206400,
+      2888
+    ],
+    [
+      1743292800,
+      3139
+    ],
+    [
+      1743379200,
+      2523
+    ],
+    [
+      1743465600,
+      3825
+    ],
+    [
+      1743552000,
+      6201
+    ],
+    [
+      1743638400,
+      5881
+    ],
+    [
+      1743724800,
+      3797
+    ],
+    [
+      1743811200,
+      2489
+    ],
+    [
+      1743897600,
+      3938
+    ],
+    [
+      1743984000,
+      5339
+    ],
+    [
+      1744070400,
+      33815
+    ],
+    [
+      1744156800,
+      43002
+    ],
+    [
+      1744243200,
+      55551
+    ],
+    [
+      1744329600,
+      135769
+    ],
+    [
+      1744416000,
+      102070
+    ],
+    [
+      1744502400,
+      40244
+    ],
+    [
+      1744588800,
+      33213
+    ],
+    [
+      1744675200,
+      27815
+    ],
+    [
+      1744761600,
+      19230
+    ],
+    [
+      1744848000,
+      25285
+    ],
+    [
+      1744934400,
+      17896
+    ],
+    [
+      1745020800,
+      11426
+    ],
+    [
+      1745107200,
+      12387
+    ],
+    [
+      1745193600,
+      14665
+    ],
+    [
+      1745280000,
+      13418
+    ],
+    [
+      1745366400,
+      11969
+    ],
+    [
+      1745452800,
+      10519
+    ],
+    [
+      1745539200,
+      16314
+    ],
+    [
+      1745625600,
+      7963
+    ],
+    [
+      1745712000,
+      12734
+    ],
+    [
+      1745798400,
+      15697
+    ],
+    [
+      1745884800,
+      9737
+    ],
+    [
+      1745971200,
+      8586
+    ],
+    [
+      1746057600,
+      9149
+    ],
+    [
+      1746144000,
+      11686
+    ],
+    [
+      1746230400,
+      6573
+    ],
+    [
+      1746316800,
+      6949
+    ],
+    [
+      1746403200,
+      7878
+    ],
+    [
+      1746489600,
+      8339
+    ],
+    [
+      1746576000,
+      7652
+    ],
+    [
+      1746662400,
+      11234
+    ],
+    [
+      1746748800,
+      14289
+    ],
+    [
+      1746835200,
+      11083
+    ],
+    [
+      1746921600,
+      11704
+    ],
+    [
+      1747008000,
+      31336
+    ],
+    [
+      1747094400,
+      19339
+    ],
+    [
+      1747180800,
+      26274
+    ],
+    [
+      1747267200,
+      14164
+    ],
+    [
+      1747353600,
+      13589
+    ],
+    [
+      1747440000,
+      13112
+    ],
+    [
+      1747526400,
+      11168
+    ],
+    [
+      1747612800,
+      11521
+    ],
+    [
+      1747699200,
+      13173
+    ],
+    [
+      1747785600,
+      15795
+    ],
+    [
+      1747872000,
+      24449
+    ],
+    [
+      1747958400,
+      18946
+    ],
+    [
+      1748044800,
+      6262
+    ],
+    [
+      1748131200,
+      6617
+    ],
+    [
+      1748217600,
+      9437
+    ],
+    [
+      1748304000,
+      10777
+    ],
+    [
+      1748390400,
+      7816
+    ],
+    [
+      1748476800,
+      9582
+    ],
+    [
+      1748563200,
+      9416
+    ],
+    [
+      1748649600,
+      8705
+    ],
+    [
+      1748736000,
+      12725
+    ],
+    [
+      1748822400,
+      10710
+    ],
+    [
+      1748908800,
+      7192
+    ],
+    [
+      1748995200,
+      7183
+    ],
+    [
+      1749081600,
+      9629
+    ],
+    [
+      1749168000,
+      8021
+    ]
+  ],
+  "totalDataChartBreakdown": [
+    [
+      1734480000,
+      {
+        "abstract": {
+          "Reservoir Tools CLMM": 0
+        },
+        "zero_network": {
+          "Reservoir Tools CLMM": 1300
+        },
+        "shape": {
+          "Reservoir Tools CLMM": 0
+        },
+        "redstone": {
+          "Reservoir Tools CLMM": 2
+        }
+      }
+    ],
+    [
+      1734566400,
+      {
+        "abstract": {
+          "Reservoir Tools CLMM": 0
+        },
+        "zero_network": {
+          "Reservoir Tools CLMM": 866
+        },
+        "shape": {
+          "Reservoir Tools CLMM": 0
+        },
+        "redstone": {
+          "Reservoir Tools CLMM": 3
+        }
+      }
+    ],
+    [
+      1734652800,
+      {
+        "abstract": {
+          "Reservoir Tools CLMM": 0
+        },
+        "zero_network": {
+          "Reservoir Tools CLMM": 270
+        },
+        "shape": {
+          "Reservoir Tools CLMM": 0
+        },
+        "redstone": {
+          "Reservoir Tools CLMM": 15
+        }
+      }
+    ],
+    [
+      1734739200,
+      {
+        "abstract": {
+          "Reservoir Tools CLMM": 0
+        },
+        "zero_network": {
+          "Reservoir Tools CLMM": 525
+        },
+        "shape": {
+          "Reservoir Tools CLMM": 0
+        },
+        "redstone": {
+          "Reservoir Tools CLMM": 0
+        }
+      }
+    ],
+    [
+      1734825600,
+      {
+        "abstract": {
+          "Reservoir Tools CLMM": 0
+        },
+        "zero_network": {
+          "Reservoir Tools CLMM": 412
+        },
+        "shape": {
+          "Reservoir Tools CLMM": 0
+        },
+        "redstone": {
+          "Reservoir Tools CLMM": 0
+        }
+      }
+    ],
+    [
+      1734912000,
+      {
+        "abstract": {
+          "Reservoir Tools CLMM": 0
+        },
+        "zero_network": {
+          "Reservoir Tools CLMM": 451
+        },
+        "shape": {
+          "Reservoir Tools CLMM": 0
+        },
+        "redstone": {
+          "Reservoir Tools CLMM": 2
+        }
+      }
+    ],
+    [
+      1734998400,
+      {
+        "abstract": {
+          "Reservoir Tools CLMM": 0
+        },
+        "zero_network": {
+          "Reservoir Tools CLMM": 531
+        },
+        "shape": {
+          "Reservoir Tools CLMM": 0
+        },
+        "redstone": {
+          "Reservoir Tools CLMM": 4
+        }
+      }
+    ],
+    [
+      1735084800,
+      {
+        "abstract": {
+          "Reservoir Tools CLMM": 0
+        },
+        "zero_network": {
+          "Reservoir Tools CLMM": 441
+        },
+        "shape": {
+          "Reservoir Tools CLMM": 0
+        },
+        "redstone": {
+          "Reservoir Tools CLMM": 1
+        }
+      }
+    ],
+    [
+      1735171200,
+      {
+        "abstract": {
+          "Reservoir Tools CLMM": 0
+        },
+        "zero_network": {
+          "Reservoir Tools CLMM": 637
+        },
+        "shape": {
+          "Reservoir Tools CLMM": 0
+        },
+        "redstone": {
+          "Reservoir Tools CLMM": 1
+        }
+      }
+    ],
+    [
+      1735257600,
+      {
+        "abstract": {
+          "Reservoir Tools CLMM": 0
+        },
+        "zero_network": {
+          "Reservoir Tools CLMM": 1223
+        },
+        "shape": {
+          "Reservoir Tools CLMM": 0
+        },
+        "redstone": {
+          "Reservoir Tools CLMM": 0
+        }
+      }
+    ],
+    [
+      1735344000,
+      {
+        "abstract": {
+          "Reservoir Tools CLMM": 0
+        },
+        "zero_network": {
+          "Reservoir Tools CLMM": 416
+        },
+        "shape": {
+          "Reservoir Tools CLMM": 0
+        },
+        "redstone": {
+          "Reservoir Tools CLMM": 2
+        }
+      }
+    ],
+    [
+      1735430400,
+      {
+        "abstract": {
+          "Reservoir Tools CLMM": 0
+        },
+        "zero_network": {
+          "Reservoir Tools CLMM": 453
+        },
+        "shape": {
+          "Reservoir Tools CLMM": 0
+        },
+        "redstone": {
+          "Reservoir Tools CLMM": 3
+        }
+      }
+    ],
+    [
+      1735516800,
+      {
+        "abstract": {
+          "Reservoir Tools CLMM": 0
+        },
+        "zero_network": {
+          "Reservoir Tools CLMM": 541
+        },
+        "shape": {
+          "Reservoir Tools CLMM": 0
+        },
+        "redstone": {
+          "Reservoir Tools CLMM": 3
+        }
+      }
+    ],
+    [
+      1735603200,
+      {
+        "abstract": {
+          "Reservoir Tools CLMM": 0
+        },
+        "zero_network": {
+          "Reservoir Tools CLMM": 467
+        },
+        "shape": {
+          "Reservoir Tools CLMM": 0
+        },
+        "redstone": {
+          "Reservoir Tools CLMM": 0
+        }
+      }
+    ],
+    [
+      1735689600,
+      {
+        "abstract": {
+          "Reservoir Tools CLMM": 0
+        },
+        "zero_network": {
+          "Reservoir Tools CLMM": 444
+        },
+        "shape": {
+          "Reservoir Tools CLMM": 0
+        },
+        "redstone": {
+          "Reservoir Tools CLMM": 1
+        }
+      }
+    ],
+    [
+      1735776000,
+      {
+        "abstract": {
+          "Reservoir Tools CLMM": 0
+        },
+        "zero_network": {
+          "Reservoir Tools CLMM": 342
+        },
+        "shape": {
+          "Reservoir Tools CLMM": 0
+        },
+        "redstone": {
+          "Reservoir Tools CLMM": 0
+        }
+      }
+    ],
+    [
+      1735862400,
+      {
+        "abstract": {
+          "Reservoir Tools CLMM": 0
+        },
+        "zero_network": {
+          "Reservoir Tools CLMM": 447
+        },
+        "shape": {
+          "Reservoir Tools CLMM": 0
+        },
+        "redstone": {
+          "Reservoir Tools CLMM": 6
+        }
+      }
+    ],
+    [
+      1735948800,
+      {
+        "abstract": {
+          "Reservoir Tools CLMM": 0
+        },
+        "zero_network": {
+          "Reservoir Tools CLMM": 319
+        },
+        "shape": {
+          "Reservoir Tools CLMM": 0
+        },
+        "redstone": {
+          "Reservoir Tools CLMM": 2
+        }
+      }
+    ],
+    [
+      1736035200,
+      {
+        "abstract": {
+          "Reservoir Tools CLMM": 0
+        },
+        "zero_network": {
+          "Reservoir Tools CLMM": 440
+        },
+        "shape": {
+          "Reservoir Tools CLMM": 0
+        },
+        "redstone": {
+          "Reservoir Tools CLMM": 0
+        }
+      }
+    ],
+    [
+      1736121600,
+      {
+        "abstract": {
+          "Reservoir Tools CLMM": 0
+        },
+        "zero_network": {
+          "Reservoir Tools CLMM": 660
+        },
+        "shape": {
+          "Reservoir Tools CLMM": 0
+        },
+        "redstone": {
+          "Reservoir Tools CLMM": 2
+        }
+      }
+    ],
+    [
+      1736208000,
+      {
+        "abstract": {
+          "Reservoir Tools CLMM": 0
+        },
+        "zero_network": {
+          "Reservoir Tools CLMM": 528
+        },
+        "shape": {
+          "Reservoir Tools CLMM": 0
+        },
+        "redstone": {
+          "Reservoir Tools CLMM": 3
+        }
+      }
+    ],
+    [
+      1736294400,
+      {
+        "abstract": {
+          "Reservoir Tools CLMM": 0
+        },
+        "zero_network": {
+          "Reservoir Tools CLMM": 609
+        },
+        "shape": {
+          "Reservoir Tools CLMM": 0
+        },
+        "redstone": {
+          "Reservoir Tools CLMM": 7
+        }
+      }
+    ],
+    [
+      1736380800,
+      {
+        "abstract": {
+          "Reservoir Tools CLMM": 0
+        },
+        "zero_network": {
+          "Reservoir Tools CLMM": 663
+        },
+        "shape": {
+          "Reservoir Tools CLMM": 0
+        },
+        "redstone": {
+          "Reservoir Tools CLMM": 1
+        }
+      }
+    ],
+    [
+      1736467200,
+      {
+        "abstract": {
+          "Reservoir Tools CLMM": 0
+        },
+        "zero_network": {
+          "Reservoir Tools CLMM": 404
+        },
+        "shape": {
+          "Reservoir Tools CLMM": 0
+        },
+        "redstone": {
+          "Reservoir Tools CLMM": 2
+        }
+      }
+    ],
+    [
+      1736553600,
+      {
+        "abstract": {
+          "Reservoir Tools CLMM": 0
+        },
+        "zero_network": {
+          "Reservoir Tools CLMM": 331
+        },
+        "shape": {
+          "Reservoir Tools CLMM": 0
+        },
+        "redstone": {
+          "Reservoir Tools CLMM": 1
+        }
+      }
+    ],
+    [
+      1736640000,
+      {
+        "abstract": {
+          "Reservoir Tools CLMM": 0
+        },
+        "zero_network": {
+          "Reservoir Tools CLMM": 313
+        },
+        "shape": {
+          "Reservoir Tools CLMM": 0
+        },
+        "redstone": {
+          "Reservoir Tools CLMM": 0
+        }
+      }
+    ],
+    [
+      1736726400,
+      {
+        "abstract": {
+          "Reservoir Tools CLMM": 0
+        },
+        "zero_network": {
+          "Reservoir Tools CLMM": 510
+        },
+        "shape": {
+          "Reservoir Tools CLMM": 0
+        },
+        "redstone": {
+          "Reservoir Tools CLMM": 8
+        }
+      }
+    ],
+    [
+      1736812800,
+      {
+        "abstract": {
+          "Reservoir Tools CLMM": 0
+        },
+        "zero_network": {
+          "Reservoir Tools CLMM": 391
+        },
+        "shape": {
+          "Reservoir Tools CLMM": 1
+        },
+        "redstone": {
+          "Reservoir Tools CLMM": 4
+        }
+      }
+    ],
+    [
+      1736899200,
+      {
+        "abstract": {
+          "Reservoir Tools CLMM": 0
+        },
+        "zero_network": {
+          "Reservoir Tools CLMM": 509
+        },
+        "shape": {
+          "Reservoir Tools CLMM": 0
+        },
+        "redstone": {
+          "Reservoir Tools CLMM": 5
+        }
+      }
+    ],
+    [
+      1736985600,
+      {
+        "abstract": {
+          "Reservoir Tools CLMM": 0
+        },
+        "zero_network": {
+          "Reservoir Tools CLMM": 437
+        },
+        "shape": {
+          "Reservoir Tools CLMM": 1
+        },
+        "redstone": {
+          "Reservoir Tools CLMM": 1
+        }
+      }
+    ],
+    [
+      1737072000,
+      {
+        "abstract": {
+          "Reservoir Tools CLMM": 0
+        },
+        "zero_network": {
+          "Reservoir Tools CLMM": 427
+        },
+        "shape": {
+          "Reservoir Tools CLMM": 2
+        },
+        "redstone": {
+          "Reservoir Tools CLMM": 3
+        }
+      }
+    ],
+    [
+      1737158400,
+      {
+        "abstract": {
+          "Reservoir Tools CLMM": 0
+        },
+        "zero_network": {
+          "Reservoir Tools CLMM": 551
+        },
+        "shape": {
+          "Reservoir Tools CLMM": 0
+        },
+        "redstone": {
+          "Reservoir Tools CLMM": 0
+        }
+      }
+    ],
+    [
+      1737244800,
+      {
+        "abstract": {
+          "Reservoir Tools CLMM": 0
+        },
+        "zero_network": {
+          "Reservoir Tools CLMM": 776
+        },
+        "shape": {
+          "Reservoir Tools CLMM": 1
+        },
+        "redstone": {
+          "Reservoir Tools CLMM": 0
+        }
+      }
+    ],
+    [
+      1737331200,
+      {
+        "abstract": {
+          "Reservoir Tools CLMM": 0
+        },
+        "zero_network": {
+          "Reservoir Tools CLMM": 677
+        },
+        "shape": {
+          "Reservoir Tools CLMM": 0
+        },
+        "redstone": {
+          "Reservoir Tools CLMM": 0
+        }
+      }
+    ],
+    [
+      1737417600,
+      {
+        "abstract": {
+          "Reservoir Tools CLMM": 0
+        },
+        "zero_network": {
+          "Reservoir Tools CLMM": 302
+        },
+        "shape": {
+          "Reservoir Tools CLMM": 1
+        },
+        "redstone": {
+          "Reservoir Tools CLMM": 3
+        }
+      }
+    ],
+    [
+      1737504000,
+      {
+        "abstract": {
+          "Reservoir Tools CLMM": 0
+        },
+        "zero_network": {
+          "Reservoir Tools CLMM": 496
+        },
+        "shape": {
+          "Reservoir Tools CLMM": 6
+        },
+        "redstone": {
+          "Reservoir Tools CLMM": 0
+        }
+      }
+    ],
+    [
+      1737590400,
+      {
+        "abstract": {
+          "Reservoir Tools CLMM": 0
+        },
+        "zero_network": {
+          "Reservoir Tools CLMM": 458
+        },
+        "shape": {
+          "Reservoir Tools CLMM": 3
+        },
+        "redstone": {
+          "Reservoir Tools CLMM": 0
+        }
+      }
+    ],
+    [
+      1737676800,
+      {
+        "abstract": {
+          "Reservoir Tools CLMM": 0
+        },
+        "zero_network": {
+          "Reservoir Tools CLMM": 367
+        },
+        "shape": {
+          "Reservoir Tools CLMM": 7
+        },
+        "redstone": {
+          "Reservoir Tools CLMM": 0
+        }
+      }
+    ],
+    [
+      1737763200,
+      {
+        "abstract": {
+          "Reservoir Tools CLMM": 0
+        },
+        "zero_network": {
+          "Reservoir Tools CLMM": 231
+        },
+        "shape": {
+          "Reservoir Tools CLMM": 1
+        },
+        "redstone": {
+          "Reservoir Tools CLMM": 1
+        }
+      }
+    ],
+    [
+      1737849600,
+      {
+        "abstract": {
+          "Reservoir Tools CLMM": 0
+        },
+        "zero_network": {
+          "Reservoir Tools CLMM": 287
+        },
+        "shape": {
+          "Reservoir Tools CLMM": 0
+        },
+        "redstone": {
+          "Reservoir Tools CLMM": 0
+        }
+      }
+    ],
+    [
+      1737936000,
+      {
+        "abstract": {
+          "Reservoir Tools CLMM": 5416
+        },
+        "zero_network": {
+          "Reservoir Tools CLMM": 427
+        },
+        "shape": {
+          "Reservoir Tools CLMM": 8
+        },
+        "redstone": {
+          "Reservoir Tools CLMM": 9
+        }
+      }
+    ],
+    [
+      1738022400,
+      {
+        "abstract": {
+          "Reservoir Tools CLMM": 9523
+        },
+        "zero_network": {
+          "Reservoir Tools CLMM": 219
+        },
+        "shape": {
+          "Reservoir Tools CLMM": 2
+        },
+        "redstone": {
+          "Reservoir Tools CLMM": 3
+        }
+      }
+    ],
+    [
+      1738108800,
+      {
+        "abstract": {
+          "Reservoir Tools CLMM": 4434
+        },
+        "zero_network": {
+          "Reservoir Tools CLMM": 319
+        },
+        "shape": {
+          "Reservoir Tools CLMM": 2
+        },
+        "redstone": {
+          "Reservoir Tools CLMM": 3
+        }
+      }
+    ],
+    [
+      1738195200,
+      {
+        "abstract": {
+          "Reservoir Tools CLMM": 4009
+        },
+        "zero_network": {
+          "Reservoir Tools CLMM": 197
+        },
+        "shape": {
+          "Reservoir Tools CLMM": 1
+        },
+        "redstone": {
+          "Reservoir Tools CLMM": 5
+        }
+      }
+    ],
+    [
+      1738281600,
+      {
+        "abstract": {
+          "Reservoir Tools CLMM": 6400
+        },
+        "zero_network": {
+          "Reservoir Tools CLMM": 359
+        },
+        "shape": {
+          "Reservoir Tools CLMM": 6
+        },
+        "redstone": {
+          "Reservoir Tools CLMM": 2
+        }
+      }
+    ],
+    [
+      1738368000,
+      {
+        "abstract": {
+          "Reservoir Tools CLMM": 9176
+        },
+        "zero_network": {
+          "Reservoir Tools CLMM": 168
+        },
+        "shape": {
+          "Reservoir Tools CLMM": 0
+        },
+        "redstone": {
+          "Reservoir Tools CLMM": 0
+        }
+      }
+    ],
+    [
+      1738454400,
+      {
+        "abstract": {
+          "Reservoir Tools CLMM": 7402
+        },
+        "zero_network": {
+          "Reservoir Tools CLMM": 273
+        },
+        "shape": {
+          "Reservoir Tools CLMM": 1
+        },
+        "redstone": {
+          "Reservoir Tools CLMM": 8
+        }
+      }
+    ],
+    [
+      1738540800,
+      {
+        "abstract": {
+          "Reservoir Tools CLMM": 12738
+        },
+        "zero_network": {
+          "Reservoir Tools CLMM": 197
+        },
+        "shape": {
+          "Reservoir Tools CLMM": 4
+        },
+        "redstone": {
+          "Reservoir Tools CLMM": 22
+        }
+      }
+    ],
+    [
+      1738627200,
+      {
+        "abstract": {
+          "Reservoir Tools CLMM": 11367
+        },
+        "zero_network": {
+          "Reservoir Tools CLMM": 222
+        },
+        "shape": {
+          "Reservoir Tools CLMM": 1
+        },
+        "redstone": {
+          "Reservoir Tools CLMM": 3
+        }
+      }
+    ],
+    [
+      1738713600,
+      {
+        "abstract": {
+          "Reservoir Tools CLMM": 11363
+        },
+        "zero_network": {
+          "Reservoir Tools CLMM": 177
+        },
+        "shape": {
+          "Reservoir Tools CLMM": 11
+        },
+        "redstone": {
+          "Reservoir Tools CLMM": 1
+        }
+      }
+    ],
+    [
+      1738800000,
+      {
+        "abstract": {
+          "Reservoir Tools CLMM": 5889
+        },
+        "zero_network": {
+          "Reservoir Tools CLMM": 141
+        },
+        "shape": {
+          "Reservoir Tools CLMM": 0
+        },
+        "redstone": {
+          "Reservoir Tools CLMM": 3
+        }
+      }
+    ],
+    [
+      1738886400,
+      {
+        "abstract": {
+          "Reservoir Tools CLMM": 7185
+        },
+        "zero_network": {
+          "Reservoir Tools CLMM": 88
+        },
+        "shape": {
+          "Reservoir Tools CLMM": 2
+        },
+        "redstone": {
+          "Reservoir Tools CLMM": 4
+        }
+      }
+    ],
+    [
+      1738972800,
+      {
+        "abstract": {
+          "Reservoir Tools CLMM": 4689
+        },
+        "zero_network": {
+          "Reservoir Tools CLMM": 170
+        },
+        "shape": {
+          "Reservoir Tools CLMM": 12
+        },
+        "redstone": {
+          "Reservoir Tools CLMM": 15
+        }
+      }
+    ],
+    [
+      1739059200,
+      {
+        "abstract": {
+          "Reservoir Tools CLMM": 4375
+        },
+        "zero_network": {
+          "Reservoir Tools CLMM": 200
+        },
+        "shape": {
+          "Reservoir Tools CLMM": 0
+        },
+        "redstone": {
+          "Reservoir Tools CLMM": 0
+        }
+      }
+    ],
+    [
+      1739145600,
+      {
+        "abstract": {
+          "Reservoir Tools CLMM": 5232
+        },
+        "zero_network": {
+          "Reservoir Tools CLMM": 204
+        },
+        "shape": {
+          "Reservoir Tools CLMM": 1
+        },
+        "redstone": {
+          "Reservoir Tools CLMM": 4
+        }
+      }
+    ],
+    [
+      1739232000,
+      {
+        "abstract": {
+          "Reservoir Tools CLMM": 4603
+        },
+        "zero_network": {
+          "Reservoir Tools CLMM": 191
+        },
+        "shape": {
+          "Reservoir Tools CLMM": 2
+        },
+        "redstone": {
+          "Reservoir Tools CLMM": 0
+        }
+      }
+    ],
+    [
+      1739318400,
+      {
+        "abstract": {
+          "Reservoir Tools CLMM": 5563
+        },
+        "zero_network": {
+          "Reservoir Tools CLMM": 227
+        },
+        "shape": {
+          "Reservoir Tools CLMM": 3
+        },
+        "redstone": {
+          "Reservoir Tools CLMM": 5
+        }
+      }
+    ],
+    [
+      1739404800,
+      {
+        "abstract": {
+          "Reservoir Tools CLMM": 7189
+        },
+        "zero_network": {
+          "Reservoir Tools CLMM": 244
+        },
+        "shape": {
+          "Reservoir Tools CLMM": 38
+        },
+        "redstone": {
+          "Reservoir Tools CLMM": 5
+        }
+      }
+    ],
+    [
+      1739491200,
+      {
+        "abstract": {
+          "Reservoir Tools CLMM": 5515
+        },
+        "zero_network": {
+          "Reservoir Tools CLMM": 260
+        },
+        "shape": {
+          "Reservoir Tools CLMM": 1
+        },
+        "redstone": {
+          "Reservoir Tools CLMM": 2
+        }
+      }
+    ],
+    [
+      1739577600,
+      {
+        "abstract": {
+          "Reservoir Tools CLMM": 2980
+        },
+        "zero_network": {
+          "Reservoir Tools CLMM": 115
+        },
+        "shape": {
+          "Reservoir Tools CLMM": 11
+        },
+        "redstone": {
+          "Reservoir Tools CLMM": 0
+        }
+      }
+    ],
+    [
+      1739664000,
+      {
+        "abstract": {
+          "Reservoir Tools CLMM": 2340
+        },
+        "zero_network": {
+          "Reservoir Tools CLMM": 149
+        },
+        "shape": {
+          "Reservoir Tools CLMM": 10
+        },
+        "redstone": {
+          "Reservoir Tools CLMM": 1
+        }
+      }
+    ],
+    [
+      1739750400,
+      {
+        "abstract": {
+          "Reservoir Tools CLMM": 3924
+        },
+        "zero_network": {
+          "Reservoir Tools CLMM": 303
+        },
+        "shape": {
+          "Reservoir Tools CLMM": 5
+        },
+        "redstone": {
+          "Reservoir Tools CLMM": 4
+        }
+      }
+    ],
+    [
+      1739836800,
+      {
+        "abstract": {
+          "Reservoir Tools CLMM": 4463
+        },
+        "zero_network": {
+          "Reservoir Tools CLMM": 234
+        },
+        "shape": {
+          "Reservoir Tools CLMM": 0
+        },
+        "redstone": {
+          "Reservoir Tools CLMM": 7
+        }
+      }
+    ],
+    [
+      1739923200,
+      {
+        "abstract": {
+          "Reservoir Tools CLMM": 2564
+        },
+        "zero_network": {
+          "Reservoir Tools CLMM": 172
+        },
+        "shape": {
+          "Reservoir Tools CLMM": 1
+        },
+        "redstone": {
+          "Reservoir Tools CLMM": 2
+        }
+      }
+    ],
+    [
+      1740009600,
+      {
+        "abstract": {
+          "Reservoir Tools CLMM": 3075
+        },
+        "zero_network": {
+          "Reservoir Tools CLMM": 155
+        },
+        "shape": {
+          "Reservoir Tools CLMM": 1
+        },
+        "redstone": {
+          "Reservoir Tools CLMM": 0
+        }
+      }
+    ],
+    [
+      1740096000,
+      {
+        "abstract": {
+          "Reservoir Tools CLMM": 6160
+        },
+        "zero_network": {
+          "Reservoir Tools CLMM": 397
+        },
+        "shape": {
+          "Reservoir Tools CLMM": 2
+        },
+        "redstone": {
+          "Reservoir Tools CLMM": 6
+        }
+      }
+    ],
+    [
+      1740182400,
+      {
+        "abstract": {
+          "Reservoir Tools CLMM": 6767
+        },
+        "zero_network": {
+          "Reservoir Tools CLMM": 155
+        },
+        "shape": {
+          "Reservoir Tools CLMM": 0
+        },
+        "redstone": {
+          "Reservoir Tools CLMM": 2
+        }
+      }
+    ],
+    [
+      1740268800,
+      {
+        "abstract": {
+          "Reservoir Tools CLMM": 4721
+        },
+        "zero_network": {
+          "Reservoir Tools CLMM": 220
+        },
+        "shape": {
+          "Reservoir Tools CLMM": 4
+        },
+        "redstone": {
+          "Reservoir Tools CLMM": 2
+        }
+      }
+    ],
+    [
+      1740355200,
+      {
+        "abstract": {
+          "Reservoir Tools CLMM": 6197
+        },
+        "zero_network": {
+          "Reservoir Tools CLMM": 247
+        },
+        "shape": {
+          "Reservoir Tools CLMM": 7
+        },
+        "redstone": {
+          "Reservoir Tools CLMM": 6
+        }
+      }
+    ],
+    [
+      1740441600,
+      {
+        "abstract": {
+          "Reservoir Tools CLMM": 7504
+        },
+        "zero_network": {
+          "Reservoir Tools CLMM": 149
+        },
+        "shape": {
+          "Reservoir Tools CLMM": 13
+        },
+        "redstone": {
+          "Reservoir Tools CLMM": 10
+        }
+      }
+    ],
+    [
+      1740528000,
+      {
+        "abstract": {
+          "Reservoir Tools CLMM": 5999
+        },
+        "zero_network": {
+          "Reservoir Tools CLMM": 164
+        },
+        "shape": {
+          "Reservoir Tools CLMM": 4
+        },
+        "redstone": {
+          "Reservoir Tools CLMM": 7
+        }
+      }
+    ],
+    [
+      1740614400,
+      {
+        "abstract": {
+          "Reservoir Tools CLMM": 5496
+        },
+        "zero_network": {
+          "Reservoir Tools CLMM": 178
+        },
+        "shape": {
+          "Reservoir Tools CLMM": 4
+        },
+        "redstone": {
+          "Reservoir Tools CLMM": 5
+        }
+      }
+    ],
+    [
+      1740700800,
+      {
+        "abstract": {
+          "Reservoir Tools CLMM": 6708
+        },
+        "zero_network": {
+          "Reservoir Tools CLMM": 189
+        },
+        "shape": {
+          "Reservoir Tools CLMM": 21
+        },
+        "redstone": {
+          "Reservoir Tools CLMM": 10
+        }
+      }
+    ],
+    [
+      1740787200,
+      {
+        "abstract": {
+          "Reservoir Tools CLMM": 6779
+        },
+        "zero_network": {
+          "Reservoir Tools CLMM": 151
+        },
+        "shape": {
+          "Reservoir Tools CLMM": 3
+        },
+        "redstone": {
+          "Reservoir Tools CLMM": 4
+        }
+      }
+    ],
+    [
+      1740873600,
+      {
+        "abstract": {
+          "Reservoir Tools CLMM": 7399
+        },
+        "zero_network": {
+          "Reservoir Tools CLMM": 214
+        },
+        "shape": {
+          "Reservoir Tools CLMM": 25
+        },
+        "redstone": {
+          "Reservoir Tools CLMM": 10
+        }
+      }
+    ],
+    [
+      1740960000,
+      {
+        "abstract": {
+          "Reservoir Tools CLMM": 11387
+        },
+        "zero_network": {
+          "Reservoir Tools CLMM": 204
+        },
+        "shape": {
+          "Reservoir Tools CLMM": 16
+        },
+        "redstone": {
+          "Reservoir Tools CLMM": 8
+        }
+      }
+    ],
+    [
+      1741046400,
+      {
+        "abstract": {
+          "Reservoir Tools CLMM": 10389
+        },
+        "zero_network": {
+          "Reservoir Tools CLMM": 175
+        },
+        "shape": {
+          "Reservoir Tools CLMM": 26
+        },
+        "redstone": {
+          "Reservoir Tools CLMM": 11
+        }
+      }
+    ],
+    [
+      1741132800,
+      {
+        "abstract": {
+          "Reservoir Tools CLMM": 5072
+        },
+        "zero_network": {
+          "Reservoir Tools CLMM": 143
+        },
+        "shape": {
+          "Reservoir Tools CLMM": 7
+        },
+        "redstone": {
+          "Reservoir Tools CLMM": 5
+        }
+      }
+    ],
+    [
+      1741219200,
+      {
+        "abstract": {
+          "Reservoir Tools CLMM": 5713
+        },
+        "zero_network": {
+          "Reservoir Tools CLMM": 210
+        },
+        "shape": {
+          "Reservoir Tools CLMM": 4
+        },
+        "redstone": {
+          "Reservoir Tools CLMM": 5
+        }
+      }
+    ],
+    [
+      1741305600,
+      {
+        "abstract": {
+          "Reservoir Tools CLMM": 7270
+        },
+        "zero_network": {
+          "Reservoir Tools CLMM": 481
+        },
+        "shape": {
+          "Reservoir Tools CLMM": 4
+        },
+        "redstone": {
+          "Reservoir Tools CLMM": 4
+        }
+      }
+    ],
+    [
+      1741392000,
+      {
+        "abstract": {
+          "Reservoir Tools CLMM": 3472
+        },
+        "zero_network": {
+          "Reservoir Tools CLMM": 415
+        },
+        "shape": {
+          "Reservoir Tools CLMM": 5
+        },
+        "redstone": {
+          "Reservoir Tools CLMM": 2
+        }
+      }
+    ],
+    [
+      1741478400,
+      {
+        "abstract": {
+          "Reservoir Tools CLMM": 4015
+        },
+        "zero_network": {
+          "Reservoir Tools CLMM": 849
+        },
+        "shape": {
+          "Reservoir Tools CLMM": 6
+        },
+        "redstone": {
+          "Reservoir Tools CLMM": 2
+        }
+      }
+    ],
+    [
+      1741564800,
+      {
+        "abstract": {
+          "Reservoir Tools CLMM": 4963
+        },
+        "zero_network": {
+          "Reservoir Tools CLMM": 763
+        },
+        "shape": {
+          "Reservoir Tools CLMM": 7
+        },
+        "redstone": {
+          "Reservoir Tools CLMM": 11
+        }
+      }
+    ],
+    [
+      1741651200,
+      {
+        "abstract": {
+          "Reservoir Tools CLMM": 3864
+        },
+        "zero_network": {
+          "Reservoir Tools CLMM": 336
+        },
+        "shape": {
+          "Reservoir Tools CLMM": 13
+        },
+        "redstone": {
+          "Reservoir Tools CLMM": 4
+        }
+      }
+    ],
+    [
+      1741737600,
+      {
+        "abstract": {
+          "Reservoir Tools CLMM": 4467
+        },
+        "zero_network": {
+          "Reservoir Tools CLMM": 354
+        },
+        "shape": {
+          "Reservoir Tools CLMM": 3
+        },
+        "redstone": {
+          "Reservoir Tools CLMM": 1
+        }
+      }
+    ],
+    [
+      1741824000,
+      {
+        "abstract": {
+          "Reservoir Tools CLMM": 2878
+        },
+        "zero_network": {
+          "Reservoir Tools CLMM": 181
+        },
+        "shape": {
+          "Reservoir Tools CLMM": 0
+        },
+        "redstone": {
+          "Reservoir Tools CLMM": 1
+        }
+      }
+    ],
+    [
+      1741910400,
+      {
+        "abstract": {
+          "Reservoir Tools CLMM": 2631
+        },
+        "zero_network": {
+          "Reservoir Tools CLMM": 207
+        },
+        "shape": {
+          "Reservoir Tools CLMM": 0
+        },
+        "redstone": {
+          "Reservoir Tools CLMM": 1
+        }
+      }
+    ],
+    [
+      1741996800,
+      {
+        "abstract": {
+          "Reservoir Tools CLMM": 1679
+        },
+        "zero_network": {
+          "Reservoir Tools CLMM": 289
+        },
+        "shape": {
+          "Reservoir Tools CLMM": 2
+        },
+        "redstone": {
+          "Reservoir Tools CLMM": 0
+        }
+      }
+    ],
+    [
+      1742083200,
+      {
+        "abstract": {
+          "Reservoir Tools CLMM": 2562
+        },
+        "zero_network": {
+          "Reservoir Tools CLMM": 276
+        },
+        "shape": {
+          "Reservoir Tools CLMM": 2
+        },
+        "redstone": {
+          "Reservoir Tools CLMM": 2
+        }
+      }
+    ],
+    [
+      1742169600,
+      {
+        "abstract": {
+          "Reservoir Tools CLMM": 2423
+        },
+        "zero_network": {
+          "Reservoir Tools CLMM": 295
+        },
+        "shape": {
+          "Reservoir Tools CLMM": 0
+        },
+        "redstone": {
+          "Reservoir Tools CLMM": 2
+        }
+      }
+    ],
+    [
+      1742256000,
+      {
+        "abstract": {
+          "Reservoir Tools CLMM": 2242
+        },
+        "zero_network": {
+          "Reservoir Tools CLMM": 245
+        },
+        "shape": {
+          "Reservoir Tools CLMM": 1
+        },
+        "redstone": {
+          "Reservoir Tools CLMM": 1
+        }
+      }
+    ],
+    [
+      1742342400,
+      {
+        "abstract": {
+          "Reservoir Tools CLMM": 2731
+        },
+        "zero_network": {
+          "Reservoir Tools CLMM": 362
+        },
+        "shape": {
+          "Reservoir Tools CLMM": 6
+        },
+        "redstone": {
+          "Reservoir Tools CLMM": 3
+        }
+      }
+    ],
+    [
+      1742428800,
+      {
+        "abstract": {
+          "Reservoir Tools CLMM": 3032
+        },
+        "zero_network": {
+          "Reservoir Tools CLMM": 253
+        },
+        "shape": {
+          "Reservoir Tools CLMM": 2
+        },
+        "redstone": {
+          "Reservoir Tools CLMM": 0
+        }
+      }
+    ],
+    [
+      1742515200,
+      {
+        "abstract": {
+          "Reservoir Tools CLMM": 1480
+        },
+        "zero_network": {
+          "Reservoir Tools CLMM": 220
+        },
+        "shape": {
+          "Reservoir Tools CLMM": 6
+        },
+        "redstone": {
+          "Reservoir Tools CLMM": 2
+        }
+      }
+    ],
+    [
+      1742601600,
+      {
+        "abstract": {
+          "Reservoir Tools CLMM": 1672
+        },
+        "zero_network": {
+          "Reservoir Tools CLMM": 234
+        },
+        "shape": {
+          "Reservoir Tools CLMM": 1
+        },
+        "redstone": {
+          "Reservoir Tools CLMM": 2
+        }
+      }
+    ],
+    [
+      1742688000,
+      {
+        "abstract": {
+          "Reservoir Tools CLMM": 1417
+        },
+        "zero_network": {
+          "Reservoir Tools CLMM": 255
+        },
+        "shape": {
+          "Reservoir Tools CLMM": 2
+        },
+        "redstone": {
+          "Reservoir Tools CLMM": 0
+        }
+      }
+    ],
+    [
+      1742774400,
+      {
+        "abstract": {
+          "Reservoir Tools CLMM": 2536
+        },
+        "zero_network": {
+          "Reservoir Tools CLMM": 283
+        },
+        "shape": {
+          "Reservoir Tools CLMM": 5
+        },
+        "redstone": {
+          "Reservoir Tools CLMM": 2
+        }
+      }
+    ],
+    [
+      1742860800,
+      {
+        "abstract": {
+          "Reservoir Tools CLMM": 2304
+        },
+        "zero_network": {
+          "Reservoir Tools CLMM": 311
+        },
+        "shape": {
+          "Reservoir Tools CLMM": 8
+        },
+        "redstone": {
+          "Reservoir Tools CLMM": 0
+        }
+      }
+    ],
+    [
+      1742947200,
+      {
+        "abstract": {
+          "Reservoir Tools CLMM": 3436
+        },
+        "zero_network": {
+          "Reservoir Tools CLMM": 309
+        },
+        "shape": {
+          "Reservoir Tools CLMM": 16
+        },
+        "redstone": {
+          "Reservoir Tools CLMM": 1
+        }
+      }
+    ],
+    [
+      1743033600,
+      {
+        "abstract": {
+          "Reservoir Tools CLMM": 3035
+        },
+        "zero_network": {
+          "Reservoir Tools CLMM": 466
+        },
+        "shape": {
+          "Reservoir Tools CLMM": 11
+        },
+        "redstone": {
+          "Reservoir Tools CLMM": 0
+        }
+      }
+    ],
+    [
+      1743120000,
+      {
+        "abstract": {
+          "Reservoir Tools CLMM": 2834
+        },
+        "zero_network": {
+          "Reservoir Tools CLMM": 324
+        },
+        "shape": {
+          "Reservoir Tools CLMM": 9
+        },
+        "redstone": {
+          "Reservoir Tools CLMM": 4
+        }
+      }
+    ],
+    [
+      1743206400,
+      {
+        "abstract": {
+          "Reservoir Tools CLMM": 2638
+        },
+        "zero_network": {
+          "Reservoir Tools CLMM": 221
+        },
+        "shape": {
+          "Reservoir Tools CLMM": 27
+        },
+        "redstone": {
+          "Reservoir Tools CLMM": 2
+        }
+      }
+    ],
+    [
+      1743292800,
+      {
+        "abstract": {
+          "Reservoir Tools CLMM": 2944
+        },
+        "zero_network": {
+          "Reservoir Tools CLMM": 192
+        },
+        "shape": {
+          "Reservoir Tools CLMM": 2
+        },
+        "redstone": {
+          "Reservoir Tools CLMM": 1
+        }
+      }
+    ],
+    [
+      1743379200,
+      {
+        "abstract": {
+          "Reservoir Tools CLMM": 2306
+        },
+        "zero_network": {
+          "Reservoir Tools CLMM": 212
+        },
+        "shape": {
+          "Reservoir Tools CLMM": 3
+        },
+        "redstone": {
+          "Reservoir Tools CLMM": 2
+        }
+      }
+    ],
+    [
+      1743465600,
+      {
+        "abstract": {
+          "Reservoir Tools CLMM": 3594
+        },
+        "zero_network": {
+          "Reservoir Tools CLMM": 215
+        },
+        "shape": {
+          "Reservoir Tools CLMM": 13
+        },
+        "redstone": {
+          "Reservoir Tools CLMM": 3
+        }
+      }
+    ],
+    [
+      1743552000,
+      {
+        "abstract": {
+          "Reservoir Tools CLMM": 5912
+        },
+        "zero_network": {
+          "Reservoir Tools CLMM": 286
+        },
+        "shape": {
+          "Reservoir Tools CLMM": 3
+        },
+        "redstone": {
+          "Reservoir Tools CLMM": 0
+        }
+      }
+    ],
+    [
+      1743638400,
+      {
+        "abstract": {
+          "Reservoir Tools CLMM": 5601
+        },
+        "zero_network": {
+          "Reservoir Tools CLMM": 266
+        },
+        "shape": {
+          "Reservoir Tools CLMM": 10
+        },
+        "redstone": {
+          "Reservoir Tools CLMM": 4
+        }
+      }
+    ],
+    [
+      1743724800,
+      {
+        "abstract": {
+          "Reservoir Tools CLMM": 3546
+        },
+        "zero_network": {
+          "Reservoir Tools CLMM": 243
+        },
+        "shape": {
+          "Reservoir Tools CLMM": 8
+        },
+        "redstone": {
+          "Reservoir Tools CLMM": 0
+        }
+      }
+    ],
+    [
+      1743811200,
+      {
+        "abstract": {
+          "Reservoir Tools CLMM": 2308
+        },
+        "zero_network": {
+          "Reservoir Tools CLMM": 172
+        },
+        "shape": {
+          "Reservoir Tools CLMM": 9
+        },
+        "redstone": {
+          "Reservoir Tools CLMM": 0
+        }
+      }
+    ],
+    [
+      1743897600,
+      {
+        "abstract": {
+          "Reservoir Tools CLMM": 3708
+        },
+        "zero_network": {
+          "Reservoir Tools CLMM": 217
+        },
+        "shape": {
+          "Reservoir Tools CLMM": 9
+        },
+        "redstone": {
+          "Reservoir Tools CLMM": 4
+        }
+      }
+    ],
+    [
+      1743984000,
+      {
+        "abstract": {
+          "Reservoir Tools CLMM": 4955
+        },
+        "zero_network": {
+          "Reservoir Tools CLMM": 363
+        },
+        "shape": {
+          "Reservoir Tools CLMM": 16
+        },
+        "redstone": {
+          "Reservoir Tools CLMM": 5
+        }
+      }
+    ],
+    [
+      1744070400,
+      {
+        "abstract": {
+          "Reservoir Tools CLMM": 33547
+        },
+        "zero_network": {
+          "Reservoir Tools CLMM": 262
+        },
+        "shape": {
+          "Reservoir Tools CLMM": 5
+        },
+        "redstone": {
+          "Reservoir Tools CLMM": 1
+        }
+      }
+    ],
+    [
+      1744156800,
+      {
+        "abstract": {
+          "Reservoir Tools CLMM": 42691
+        },
+        "zero_network": {
+          "Reservoir Tools CLMM": 288
+        },
+        "shape": {
+          "Reservoir Tools CLMM": 19
+        },
+        "redstone": {
+          "Reservoir Tools CLMM": 4
+        }
+      }
+    ],
+    [
+      1744243200,
+      {
+        "abstract": {
+          "Reservoir Tools CLMM": 55289
+        },
+        "zero_network": {
+          "Reservoir Tools CLMM": 251
+        },
+        "shape": {
+          "Reservoir Tools CLMM": 8
+        },
+        "redstone": {
+          "Reservoir Tools CLMM": 3
+        }
+      }
+    ],
+    [
+      1744329600,
+      {
+        "abstract": {
+          "Reservoir Tools CLMM": 135550
+        },
+        "zero_network": {
+          "Reservoir Tools CLMM": 215
+        },
+        "shape": {
+          "Reservoir Tools CLMM": 4
+        },
+        "redstone": {
+          "Reservoir Tools CLMM": 0
+        }
+      }
+    ],
+    [
+      1744416000,
+      {
+        "abstract": {
+          "Reservoir Tools CLMM": 101759
+        },
+        "zero_network": {
+          "Reservoir Tools CLMM": 300
+        },
+        "shape": {
+          "Reservoir Tools CLMM": 9
+        },
+        "redstone": {
+          "Reservoir Tools CLMM": 2
+        }
+      }
+    ],
+    [
+      1744502400,
+      {
+        "abstract": {
+          "Reservoir Tools CLMM": 39995
+        },
+        "zero_network": {
+          "Reservoir Tools CLMM": 243
+        },
+        "shape": {
+          "Reservoir Tools CLMM": 5
+        },
+        "redstone": {
+          "Reservoir Tools CLMM": 1
+        }
+      }
+    ],
+    [
+      1744588800,
+      {
+        "abstract": {
+          "Reservoir Tools CLMM": 32926
+        },
+        "zero_network": {
+          "Reservoir Tools CLMM": 279
+        },
+        "shape": {
+          "Reservoir Tools CLMM": 7
+        },
+        "redstone": {
+          "Reservoir Tools CLMM": 1
+        }
+      }
+    ],
+    [
+      1744675200,
+      {
+        "abstract": {
+          "Reservoir Tools CLMM": 27621
+        },
+        "zero_network": {
+          "Reservoir Tools CLMM": 191
+        },
+        "shape": {
+          "Reservoir Tools CLMM": 3
+        },
+        "redstone": {
+          "Reservoir Tools CLMM": 0
+        }
+      }
+    ],
+    [
+      1744761600,
+      {
+        "abstract": {
+          "Reservoir Tools CLMM": 19041
+        },
+        "zero_network": {
+          "Reservoir Tools CLMM": 185
+        },
+        "shape": {
+          "Reservoir Tools CLMM": 3
+        },
+        "redstone": {
+          "Reservoir Tools CLMM": 1
+        }
+      }
+    ],
+    [
+      1744848000,
+      {
+        "abstract": {
+          "Reservoir Tools CLMM": 25096
+        },
+        "zero_network": {
+          "Reservoir Tools CLMM": 188
+        },
+        "shape": {
+          "Reservoir Tools CLMM": 1
+        },
+        "redstone": {
+          "Reservoir Tools CLMM": 0
+        }
+      }
+    ],
+    [
+      1744934400,
+      {
+        "abstract": {
+          "Reservoir Tools CLMM": 17773
+        },
+        "zero_network": {
+          "Reservoir Tools CLMM": 123
+        },
+        "shape": {
+          "Reservoir Tools CLMM": 0
+        },
+        "redstone": {
+          "Reservoir Tools CLMM": 0
+        }
+      }
+    ],
+    [
+      1745020800,
+      {
+        "abstract": {
+          "Reservoir Tools CLMM": 11293
+        },
+        "zero_network": {
+          "Reservoir Tools CLMM": 133
+        },
+        "shape": {
+          "Reservoir Tools CLMM": 0
+        },
+        "redstone": {
+          "Reservoir Tools CLMM": 0
+        }
+      }
+    ],
+    [
+      1745107200,
+      {
+        "abstract": {
+          "Reservoir Tools CLMM": 12262
+        },
+        "zero_network": {
+          "Reservoir Tools CLMM": 124
+        },
+        "shape": {
+          "Reservoir Tools CLMM": 0
+        },
+        "redstone": {
+          "Reservoir Tools CLMM": 1
+        }
+      }
+    ],
+    [
+      1745193600,
+      {
+        "abstract": {
+          "Reservoir Tools CLMM": 14452
+        },
+        "zero_network": {
+          "Reservoir Tools CLMM": 207
+        },
+        "shape": {
+          "Reservoir Tools CLMM": 4
+        },
+        "redstone": {
+          "Reservoir Tools CLMM": 2
+        }
+      }
+    ],
+    [
+      1745280000,
+      {
+        "abstract": {
+          "Reservoir Tools CLMM": 13067
+        },
+        "zero_network": {
+          "Reservoir Tools CLMM": 343
+        },
+        "shape": {
+          "Reservoir Tools CLMM": 8
+        },
+        "redstone": {
+          "Reservoir Tools CLMM": 0
+        }
+      }
+    ],
+    [
+      1745366400,
+      {
+        "abstract": {
+          "Reservoir Tools CLMM": 11660
+        },
+        "zero_network": {
+          "Reservoir Tools CLMM": 292
+        },
+        "shape": {
+          "Reservoir Tools CLMM": 14
+        },
+        "redstone": {
+          "Reservoir Tools CLMM": 3
+        }
+      }
+    ],
+    [
+      1745452800,
+      {
+        "abstract": {
+          "Reservoir Tools CLMM": 10272
+        },
+        "zero_network": {
+          "Reservoir Tools CLMM": 240
+        },
+        "shape": {
+          "Reservoir Tools CLMM": 7
+        },
+        "redstone": {
+          "Reservoir Tools CLMM": 0
+        }
+      }
+    ],
+    [
+      1745539200,
+      {
+        "abstract": {
+          "Reservoir Tools CLMM": 16098
+        },
+        "zero_network": {
+          "Reservoir Tools CLMM": 212
+        },
+        "shape": {
+          "Reservoir Tools CLMM": 4
+        },
+        "redstone": {
+          "Reservoir Tools CLMM": 0
+        }
+      }
+    ],
+    [
+      1745625600,
+      {
+        "abstract": {
+          "Reservoir Tools CLMM": 7781
+        },
+        "zero_network": {
+          "Reservoir Tools CLMM": 181
+        },
+        "shape": {
+          "Reservoir Tools CLMM": 1
+        },
+        "redstone": {
+          "Reservoir Tools CLMM": 0
+        }
+      }
+    ],
+    [
+      1745712000,
+      {
+        "abstract": {
+          "Reservoir Tools CLMM": 12509
+        },
+        "zero_network": {
+          "Reservoir Tools CLMM": 224
+        },
+        "shape": {
+          "Reservoir Tools CLMM": 1
+        },
+        "redstone": {
+          "Reservoir Tools CLMM": 0
+        }
+      }
+    ],
+    [
+      1745798400,
+      {
+        "abstract": {
+          "Reservoir Tools CLMM": 15524
+        },
+        "zero_network": {
+          "Reservoir Tools CLMM": 172
+        },
+        "shape": {
+          "Reservoir Tools CLMM": 1
+        },
+        "redstone": {
+          "Reservoir Tools CLMM": 0
+        }
+      }
+    ],
+    [
+      1745884800,
+      {
+        "abstract": {
+          "Reservoir Tools CLMM": 9582
+        },
+        "zero_network": {
+          "Reservoir Tools CLMM": 154
+        },
+        "shape": {
+          "Reservoir Tools CLMM": 1
+        },
+        "redstone": {
+          "Reservoir Tools CLMM": 0
+        }
+      }
+    ],
+    [
+      1745971200,
+      {
+        "abstract": {
+          "Reservoir Tools CLMM": 8328
+        },
+        "zero_network": {
+          "Reservoir Tools CLMM": 255
+        },
+        "shape": {
+          "Reservoir Tools CLMM": 3
+        },
+        "redstone": {
+          "Reservoir Tools CLMM": 0
+        }
+      }
+    ],
+    [
+      1746057600,
+      {
+        "abstract": {
+          "Reservoir Tools CLMM": 8980
+        },
+        "zero_network": {
+          "Reservoir Tools CLMM": 163
+        },
+        "shape": {
+          "Reservoir Tools CLMM": 5
+        },
+        "redstone": {
+          "Reservoir Tools CLMM": 1
+        }
+      }
+    ],
+    [
+      1746144000,
+      {
+        "abstract": {
+          "Reservoir Tools CLMM": 11544
+        },
+        "zero_network": {
+          "Reservoir Tools CLMM": 142
+        },
+        "shape": {
+          "Reservoir Tools CLMM": 0
+        },
+        "redstone": {
+          "Reservoir Tools CLMM": 0
+        }
+      }
+    ],
+    [
+      1746230400,
+      {
+        "abstract": {
+          "Reservoir Tools CLMM": 6417
+        },
+        "zero_network": {
+          "Reservoir Tools CLMM": 156
+        },
+        "shape": {
+          "Reservoir Tools CLMM": 0
+        },
+        "redstone": {
+          "Reservoir Tools CLMM": 0
+        }
+      }
+    ],
+    [
+      1746316800,
+      {
+        "abstract": {
+          "Reservoir Tools CLMM": 6799
+        },
+        "zero_network": {
+          "Reservoir Tools CLMM": 150
+        },
+        "shape": {
+          "Reservoir Tools CLMM": 0
+        },
+        "redstone": {
+          "Reservoir Tools CLMM": 0
+        }
+      }
+    ],
+    [
+      1746403200,
+      {
+        "abstract": {
+          "Reservoir Tools CLMM": 7727
+        },
+        "zero_network": {
+          "Reservoir Tools CLMM": 150
+        },
+        "shape": {
+          "Reservoir Tools CLMM": 1
+        },
+        "redstone": {
+          "Reservoir Tools CLMM": 0
+        }
+      }
+    ],
+    [
+      1746489600,
+      {
+        "abstract": {
+          "Reservoir Tools CLMM": 8184
+        },
+        "zero_network": {
+          "Reservoir Tools CLMM": 152
+        },
+        "shape": {
+          "Reservoir Tools CLMM": 3
+        },
+        "redstone": {
+          "Reservoir Tools CLMM": 0
+        }
+      }
+    ],
+    [
+      1746576000,
+      {
+        "abstract": {
+          "Reservoir Tools CLMM": 7476
+        },
+        "zero_network": {
+          "Reservoir Tools CLMM": 170
+        },
+        "shape": {
+          "Reservoir Tools CLMM": 6
+        },
+        "redstone": {
+          "Reservoir Tools CLMM": 0
+        }
+      }
+    ],
+    [
+      1746662400,
+      {
+        "abstract": {
+          "Reservoir Tools CLMM": 10983
+        },
+        "zero_network": {
+          "Reservoir Tools CLMM": 221
+        },
+        "shape": {
+          "Reservoir Tools CLMM": 24
+        },
+        "redstone": {
+          "Reservoir Tools CLMM": 6
+        }
+      }
+    ],
+    [
+      1746748800,
+      {
+        "abstract": {
+          "Reservoir Tools CLMM": 14005
+        },
+        "zero_network": {
+          "Reservoir Tools CLMM": 255
+        },
+        "shape": {
+          "Reservoir Tools CLMM": 22
+        },
+        "redstone": {
+          "Reservoir Tools CLMM": 7
+        }
+      }
+    ],
+    [
+      1746835200,
+      {
+        "abstract": {
+          "Reservoir Tools CLMM": 10835
+        },
+        "zero_network": {
+          "Reservoir Tools CLMM": 238
+        },
+        "shape": {
+          "Reservoir Tools CLMM": 6
+        },
+        "redstone": {
+          "Reservoir Tools CLMM": 4
+        }
+      }
+    ],
+    [
+      1746921600,
+      {
+        "abstract": {
+          "Reservoir Tools CLMM": 11375
+        },
+        "zero_network": {
+          "Reservoir Tools CLMM": 311
+        },
+        "shape": {
+          "Reservoir Tools CLMM": 17
+        },
+        "redstone": {
+          "Reservoir Tools CLMM": 1
+        }
+      }
+    ],
+    [
+      1747008000,
+      {
+        "abstract": {
+          "Reservoir Tools CLMM": 31038
+        },
+        "zero_network": {
+          "Reservoir Tools CLMM": 294
+        },
+        "shape": {
+          "Reservoir Tools CLMM": 4
+        },
+        "redstone": {
+          "Reservoir Tools CLMM": 0
+        }
+      }
+    ],
+    [
+      1747094400,
+      {
+        "abstract": {
+          "Reservoir Tools CLMM": 19117
+        },
+        "zero_network": {
+          "Reservoir Tools CLMM": 211
+        },
+        "shape": {
+          "Reservoir Tools CLMM": 11
+        },
+        "redstone": {
+          "Reservoir Tools CLMM": 0
+        }
+      }
+    ],
+    [
+      1747180800,
+      {
+        "abstract": {
+          "Reservoir Tools CLMM": 26036
+        },
+        "zero_network": {
+          "Reservoir Tools CLMM": 231
+        },
+        "shape": {
+          "Reservoir Tools CLMM": 4
+        },
+        "redstone": {
+          "Reservoir Tools CLMM": 3
+        }
+      }
+    ],
+    [
+      1747267200,
+      {
+        "abstract": {
+          "Reservoir Tools CLMM": 13874
+        },
+        "zero_network": {
+          "Reservoir Tools CLMM": 286
+        },
+        "shape": {
+          "Reservoir Tools CLMM": 3
+        },
+        "redstone": {
+          "Reservoir Tools CLMM": 1
+        }
+      }
+    ],
+    [
+      1747353600,
+      {
+        "abstract": {
+          "Reservoir Tools CLMM": 13364
+        },
+        "zero_network": {
+          "Reservoir Tools CLMM": 223
+        },
+        "shape": {
+          "Reservoir Tools CLMM": 2
+        },
+        "redstone": {
+          "Reservoir Tools CLMM": 0
+        }
+      }
+    ],
+    [
+      1747440000,
+      {
+        "abstract": {
+          "Reservoir Tools CLMM": 12867
+        },
+        "zero_network": {
+          "Reservoir Tools CLMM": 238
+        },
+        "shape": {
+          "Reservoir Tools CLMM": 5
+        },
+        "redstone": {
+          "Reservoir Tools CLMM": 2
+        }
+      }
+    ],
+    [
+      1747526400,
+      {
+        "abstract": {
+          "Reservoir Tools CLMM": 10846
+        },
+        "zero_network": {
+          "Reservoir Tools CLMM": 317
+        },
+        "shape": {
+          "Reservoir Tools CLMM": 4
+        },
+        "redstone": {
+          "Reservoir Tools CLMM": 1
+        }
+      }
+    ],
+    [
+      1747612800,
+      {
+        "abstract": {
+          "Reservoir Tools CLMM": 11189
+        },
+        "zero_network": {
+          "Reservoir Tools CLMM": 321
+        },
+        "shape": {
+          "Reservoir Tools CLMM": 8
+        },
+        "redstone": {
+          "Reservoir Tools CLMM": 3
+        }
+      }
+    ],
+    [
+      1747699200,
+      {
+        "abstract": {
+          "Reservoir Tools CLMM": 12852
+        },
+        "zero_network": {
+          "Reservoir Tools CLMM": 307
+        },
+        "shape": {
+          "Reservoir Tools CLMM": 10
+        },
+        "redstone": {
+          "Reservoir Tools CLMM": 4
+        }
+      }
+    ],
+    [
+      1747785600,
+      {
+        "abstract": {
+          "Reservoir Tools CLMM": 15424
+        },
+        "zero_network": {
+          "Reservoir Tools CLMM": 365
+        },
+        "shape": {
+          "Reservoir Tools CLMM": 4
+        },
+        "redstone": {
+          "Reservoir Tools CLMM": 2
+        }
+      }
+    ],
+    [
+      1747872000,
+      {
+        "abstract": {
+          "Reservoir Tools CLMM": 24086
+        },
+        "zero_network": {
+          "Reservoir Tools CLMM": 357
+        },
+        "shape": {
+          "Reservoir Tools CLMM": 4
+        },
+        "redstone": {
+          "Reservoir Tools CLMM": 2
+        }
+      }
+    ],
+    [
+      1747958400,
+      {
+        "abstract": {
+          "Reservoir Tools CLMM": 18511
+        },
+        "zero_network": {
+          "Reservoir Tools CLMM": 420
+        },
+        "shape": {
+          "Reservoir Tools CLMM": 9
+        },
+        "redstone": {
+          "Reservoir Tools CLMM": 6
+        }
+      }
+    ],
+    [
+      1748044800,
+      {
+        "abstract": {
+          "Reservoir Tools CLMM": 6078
+        },
+        "zero_network": {
+          "Reservoir Tools CLMM": 184
+        },
+        "shape": {
+          "Reservoir Tools CLMM": 0
+        },
+        "redstone": {
+          "Reservoir Tools CLMM": 0
+        }
+      }
+    ],
+    [
+      1748131200,
+      {
+        "abstract": {
+          "Reservoir Tools CLMM": 6438
+        },
+        "zero_network": {
+          "Reservoir Tools CLMM": 174
+        },
+        "shape": {
+          "Reservoir Tools CLMM": 3
+        },
+        "redstone": {
+          "Reservoir Tools CLMM": 2
+        }
+      }
+    ],
+    [
+      1748217600,
+      {
+        "abstract": {
+          "Reservoir Tools CLMM": 9210
+        },
+        "zero_network": {
+          "Reservoir Tools CLMM": 223
+        },
+        "shape": {
+          "Reservoir Tools CLMM": 3
+        },
+        "redstone": {
+          "Reservoir Tools CLMM": 1
+        }
+      }
+    ],
+    [
+      1748304000,
+      {
+        "abstract": {
+          "Reservoir Tools CLMM": 10517
+        },
+        "zero_network": {
+          "Reservoir Tools CLMM": 255
+        },
+        "shape": {
+          "Reservoir Tools CLMM": 3
+        },
+        "redstone": {
+          "Reservoir Tools CLMM": 2
+        }
+      }
+    ],
+    [
+      1748390400,
+      {
+        "abstract": {
+          "Reservoir Tools CLMM": 7613
+        },
+        "zero_network": {
+          "Reservoir Tools CLMM": 202
+        },
+        "shape": {
+          "Reservoir Tools CLMM": 1
+        }
+      }
+    ],
+    [
+      1748476800,
+      {
+        "abstract": {
+          "Reservoir Tools CLMM": 9314
+        },
+        "zero_network": {
+          "Reservoir Tools CLMM": 259
+        },
+        "shape": {
+          "Reservoir Tools CLMM": 9
+        }
+      }
+    ],
+    [
+      1748563200,
+      {
+        "abstract": {
+          "Reservoir Tools CLMM": 9145
+        },
+        "zero_network": {
+          "Reservoir Tools CLMM": 264
+        },
+        "shape": {
+          "Reservoir Tools CLMM": 7
+        }
+      }
+    ],
+    [
+      1748649600,
+      {
+        "abstract": {
+          "Reservoir Tools CLMM": 8550
+        },
+        "zero_network": {
+          "Reservoir Tools CLMM": 155
+        },
+        "shape": {
+          "Reservoir Tools CLMM": 0
+        }
+      }
+    ],
+    [
+      1748736000,
+      {
+        "abstract": {
+          "Reservoir Tools CLMM": 12558
+        },
+        "zero_network": {
+          "Reservoir Tools CLMM": 161
+        },
+        "shape": {
+          "Reservoir Tools CLMM": 6
+        }
+      }
+    ],
+    [
+      1748822400,
+      {
+        "abstract": {
+          "Reservoir Tools CLMM": 10516
+        },
+        "zero_network": {
+          "Reservoir Tools CLMM": 194
+        },
+        "shape": {
+          "Reservoir Tools CLMM": 0
+        }
+      }
+    ],
+    [
+      1748908800,
+      {
+        "abstract": {
+          "Reservoir Tools CLMM": 7007
+        },
+        "zero_network": {
+          "Reservoir Tools CLMM": 181
+        },
+        "shape": {
+          "Reservoir Tools CLMM": 4
+        }
+      }
+    ],
+    [
+      1748995200,
+      {
+        "abstract": {
+          "Reservoir Tools CLMM": 6989
+        },
+        "zero_network": {
+          "Reservoir Tools CLMM": 192
+        },
+        "shape": {
+          "Reservoir Tools CLMM": 2
+        }
+      }
+    ],
+    [
+      1749081600,
+      {
+        "abstract": {
+          "Reservoir Tools CLMM": 9320
+        },
+        "zero_network": {
+          "Reservoir Tools CLMM": 306
+        },
+        "shape": {
+          "Reservoir Tools CLMM": 3
+        }
+      }
+    ],
+    [
+      1749168000,
+      {
+        "abstract": {
+          "Reservoir Tools CLMM": 7716
+        },
+        "zero_network": {
+          "Reservoir Tools CLMM": 292
+        },
+        "shape": {
+          "Reservoir Tools CLMM": 13
+        }
+      }
+    ]
+  ],
+  "change_1d": 11.67
+}

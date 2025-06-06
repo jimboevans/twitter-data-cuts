@@ -24,8 +24,12 @@
     "https://security.makerdao.com/"
   ],
   "parentProtocol": "parent#maker",
-  "oracles": [
-    "Chronicle"
+  "oraclesBreakdown": [
+    {
+      "name": "Chronicle",
+      "type": "Primary",
+      "proof": []
+    }
   ],
   "defillamaId": "118",
   "disabled": false,
@@ -49,10 +53,10 @@
     "Sky",
     "Sky Lending"
   ],
-  "total24h": 905987,
-  "total48hto24h": 899029,
-  "total7d": 6264227,
-  "totalAllTime": 733713866,
+  "total24h": 931942,
+  "total48hto24h": 936285,
+  "total7d": 6419224,
+  "totalAllTime": 737428762,
   "totalDataChart": [
     [
       1573776000,
@@ -8157,6 +8161,22 @@
     [
       1748736000,
       905987
+    ],
+    [
+      1748822400,
+      921666
+    ],
+    [
+      1748908800,
+      925003
+    ],
+    [
+      1748995200,
+      936285
+    ],
+    [
+      1749081600,
+      931942
     ]
   ],
   "totalDataChartBreakdown": [
@@ -24367,7 +24387,39 @@
           "Sky Lending": 905987
         }
       }
+    ],
+    [
+      1748822400,
+      {
+        "ethereum": {
+          "Sky Lending": 921666
+        }
+      }
+    ],
+    [
+      1748908800,
+      {
+        "ethereum": {
+          "Sky Lending": 925003
+        }
+      }
+    ],
+    [
+      1748995200,
+      {
+        "ethereum": {
+          "Sky Lending": 936285
+        }
+      }
+    ],
+    [
+      1749081600,
+      {
+        "ethereum": {
+          "Sky Lending": 931942
+        }
+      }
     ]
   ],
-  "change_1d": 0.77
+  "change_1d": -0.46
 }

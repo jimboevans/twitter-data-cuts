@@ -12,8 +12,9 @@
   "methodologyURL": "https://github.com/DefiLlama/dimension-adapters/blob/master/fees/ethereum",
   "methodology": {
     "UserFees": "Gas fees paid by users",
-    "Fees": "Gas fees paid by users",
-    "Revenue": "Burned coins"
+    "Fees": "Total ETH gas fees paid by users",
+    "Revenue": "Amount of ETH base fees that were burned",
+    "HoldersRevenue": "Amount of ETH base fees that were burned"
   },
   "gecko_id": "ethereum",
   "forkedFrom": null,
@@ -45,10 +46,10 @@
   "latestFetchIsOk": true,
   "slug": "ethereum",
   "protocolType": "chain",
-  "total24h": 1298783,
-  "total48hto24h": 875892,
-  "total7d": 10477019,
-  "totalAllTime": 20156385620,
+  "total24h": 1856271,
+  "total48hto24h": 1595938,
+  "total7d": 10791170,
+  "totalAllTime": 20164095066,
   "totalDataChart": [
     [
       1438300800,
@@ -14428,7 +14429,23 @@
     ],
     [
       1748822400,
-      1298783
+      1582174
+    ],
+    [
+      1748908800,
+      1790136
+    ],
+    [
+      1748995200,
+      1595938
+    ],
+    [
+      1749081600,
+      2183710
+    ],
+    [
+      1749168000,
+      1856271
     ]
   ],
   "totalDataChartBreakdown": [
@@ -43188,10 +43205,42 @@
       1748822400,
       {
         "ethereum": {
-          "Ethereum": 1298783
+          "Ethereum": 1582174
+        }
+      }
+    ],
+    [
+      1748908800,
+      {
+        "ethereum": {
+          "Ethereum": 1790136
+        }
+      }
+    ],
+    [
+      1748995200,
+      {
+        "ethereum": {
+          "Ethereum": 1595938
+        }
+      }
+    ],
+    [
+      1749081600,
+      {
+        "ethereum": {
+          "Ethereum": 2183710
+        }
+      }
+    ],
+    [
+      1749168000,
+      {
+        "ethereum": {
+          "Ethereum": 1856271
         }
       }
     ]
   ],
-  "change_1d": 48.28
+  "change_1d": 16.31
 }

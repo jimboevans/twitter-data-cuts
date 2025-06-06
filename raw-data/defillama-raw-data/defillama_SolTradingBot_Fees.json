@@ -15,7 +15,6 @@
   "chains": [
     "Solana"
   ],
-  "oracles": [],
   "forkedFrom": [],
   "module": "stbot",
   "twitter": "SolTradingBot",
@@ -38,10 +37,10 @@
   "latestFetchIsOk": true,
   "slug": "soltradingbot",
   "protocolType": "protocol",
-  "total24h": 23045,
-  "total48hto24h": 22025,
-  "total7d": 164811,
-  "totalAllTime": 26571312,
+  "total24h": 27102,
+  "total48hto24h": 22229,
+  "total7d": 162189,
+  "totalAllTime": 26671613,
   "totalDataChart": [
     [
       1721260800,
@@ -1297,7 +1296,23 @@
     ],
     [
       1748822400,
-      23045
+      23013
+    ],
+    [
+      1748908800,
+      24888
+    ],
+    [
+      1748995200,
+      22229
+    ],
+    [
+      1749081600,
+      26114
+    ],
+    [
+      1749168000,
+      27102
     ]
   ],
   "totalDataChartBreakdown": [
@@ -3809,10 +3824,42 @@
       1748822400,
       {
         "solana": {
-          "SolTradingBot": 23045
+          "SolTradingBot": 23013
+        }
+      }
+    ],
+    [
+      1748908800,
+      {
+        "solana": {
+          "SolTradingBot": 24888
+        }
+      }
+    ],
+    [
+      1748995200,
+      {
+        "solana": {
+          "SolTradingBot": 22229
+        }
+      }
+    ],
+    [
+      1749081600,
+      {
+        "solana": {
+          "SolTradingBot": 26114
+        }
+      }
+    ],
+    [
+      1749168000,
+      {
+        "solana": {
+          "SolTradingBot": 27102
         }
       }
     ]
   ],
-  "change_1d": 4.63
+  "change_1d": 21.92
 }

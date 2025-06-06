@@ -15,7 +15,6 @@
   "chains": [
     "Solana"
   ],
-  "oracles": [],
   "forkedFrom": [],
   "module": "raybot",
   "twitter": "RayBot_sol",
@@ -38,10 +37,10 @@
   "latestFetchIsOk": true,
   "slug": "raybot",
   "protocolType": "protocol",
-  "total24h": 8751,
-  "total48hto24h": 6092,
-  "total7d": 67434,
-  "totalAllTime": 4488281,
+  "total24h": 10643,
+  "total48hto24h": 9605,
+  "total7d": 69132,
+  "totalAllTime": 4537003,
   "totalDataChart": [
     [
       1707609600,
@@ -1937,7 +1936,23 @@
     ],
     [
       1748822400,
-      8751
+      18869
+    ],
+    [
+      1748908800,
+      9587
+    ],
+    [
+      1748995200,
+      9605
+    ],
+    [
+      1749081600,
+      8769
+    ],
+    [
+      1749168000,
+      10643
     ]
   ],
   "totalDataChartBreakdown": [
@@ -5729,10 +5744,42 @@
       1748822400,
       {
         "solana": {
-          "RayBot": 8751
+          "RayBot": 18869
+        }
+      }
+    ],
+    [
+      1748908800,
+      {
+        "solana": {
+          "RayBot": 9587
+        }
+      }
+    ],
+    [
+      1748995200,
+      {
+        "solana": {
+          "RayBot": 9605
+        }
+      }
+    ],
+    [
+      1749081600,
+      {
+        "solana": {
+          "RayBot": 8769
+        }
+      }
+    ],
+    [
+      1749168000,
+      {
+        "solana": {
+          "RayBot": 10643
         }
       }
     ]
   ],
-  "change_1d": 43.65
+  "change_1d": 10.81
 }

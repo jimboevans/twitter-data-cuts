@@ -1,0 +1,2716 @@
+{
+  "id": "5491",
+  "name": "Balancer V3",
+  "address": "0xba100000625a3754423978a60c9317c58a424e3d",
+  "symbol": "BAL",
+  "url": "https://balancer.finance/",
+  "description": "Balancer V3 is a decentralized AMM protocol featuring a flexible vault architecture and customizable pools with dynamic swap fees and hooks for tailored liquidity management.",
+  "chain": "Ethereum",
+  "logo": "https://icons.llamao.fi/icons/protocols/balancer-v3.jpg",
+  "audits": "0",
+  "audit_note": null,
+  "gecko_id": null,
+  "cmcId": null,
+  "category": "Dexs",
+  "chains": [
+    "Ethereum",
+    "Gnosis"
+  ],
+  "module": "balancer-v3",
+  "twitter": "Balancer",
+  "parentProtocol": "parent#balancer",
+  "listedAt": 1733938643,
+  "defillamaId": "5491",
+  "disabled": false,
+  "displayName": "Balancer V3",
+  "methodologyURL": "https://github.com/DefiLlama/dimension-adapters/blob/master/fees/balancer-v3.ts",
+  "methodology": {
+    "UserFees": "Swap fees paid by users",
+    "Fees": "Total fees earned from all the trades and yield in the last 24 hours.",
+    "Revenue": "Total revenue earned by the protocol in the last 24 hours, which is 50% of the trade fees and 10% of the yield capture.",
+    "ProtocolRevenue": "Percentage of swap fees going to treasury",
+    "HoldersRevenue": "Money going to governance token holders",
+    "SupplySideRevenue": "Liquidity providers revenue",
+    "Volume": "Total volume is the sum of all trades in the last 24 hours."
+  },
+  "forkedFrom": null,
+  "audit_links": null,
+  "versionKey": null,
+  "github": null,
+  "governanceID": null,
+  "treasury": null,
+  "previousNames": null,
+  "latestFetchIsOk": true,
+  "slug": "balancer-v3",
+  "protocolType": "protocol",
+  "linkedProtocols": [
+    "Balancer",
+    "Balancer V1",
+    "Balancer V2",
+    "Balancer V3"
+  ],
+  "total24h": 5060,
+  "total48hto24h": 4425,
+  "total7d": 32244,
+  "totalAllTime": 403408,
+  "totalDataChart": [
+    [
+      1733875200,
+      800
+    ],
+    [
+      1733961600,
+      147
+    ],
+    [
+      1734048000,
+      120
+    ],
+    [
+      1734134400,
+      100
+    ],
+    [
+      1734220800,
+      326
+    ],
+    [
+      1734307200,
+      359
+    ],
+    [
+      1734393600,
+      243
+    ],
+    [
+      1734480000,
+      684
+    ],
+    [
+      1734566400,
+      255
+    ],
+    [
+      1734652800,
+      442
+    ],
+    [
+      1734739200,
+      464
+    ],
+    [
+      1734825600,
+      91
+    ],
+    [
+      1734912000,
+      116
+    ],
+    [
+      1734998400,
+      212
+    ],
+    [
+      1735084800,
+      166
+    ],
+    [
+      1735171200,
+      187
+    ],
+    [
+      1735257600,
+      148
+    ],
+    [
+      1735344000,
+      85
+    ],
+    [
+      1735430400,
+      232
+    ],
+    [
+      1735516800,
+      247
+    ],
+    [
+      1735603200,
+      333
+    ],
+    [
+      1735689600,
+      301
+    ],
+    [
+      1735776000,
+      445
+    ],
+    [
+      1735862400,
+      695
+    ],
+    [
+      1735948800,
+      136
+    ],
+    [
+      1736035200,
+      173
+    ],
+    [
+      1736121600,
+      183
+    ],
+    [
+      1736208000,
+      182
+    ],
+    [
+      1736294400,
+      217
+    ],
+    [
+      1736380800,
+      286
+    ],
+    [
+      1736467200,
+      221
+    ],
+    [
+      1736553600,
+      194
+    ],
+    [
+      1736640000,
+      93
+    ],
+    [
+      1736726400,
+      300
+    ],
+    [
+      1736812800,
+      128
+    ],
+    [
+      1736899200,
+      258
+    ],
+    [
+      1736985600,
+      206
+    ],
+    [
+      1737072000,
+      176
+    ],
+    [
+      1737158400,
+      307
+    ],
+    [
+      1737244800,
+      538
+    ],
+    [
+      1737331200,
+      555
+    ],
+    [
+      1737417600,
+      155
+    ],
+    [
+      1737504000,
+      199
+    ],
+    [
+      1737590400,
+      315
+    ],
+    [
+      1737676800,
+      191
+    ],
+    [
+      1737763200,
+      101
+    ],
+    [
+      1737849600,
+      253
+    ],
+    [
+      1737936000,
+      665
+    ],
+    [
+      1738022400,
+      246
+    ],
+    [
+      1738108800,
+      365
+    ],
+    [
+      1738195200,
+      328
+    ],
+    [
+      1738281600,
+      257
+    ],
+    [
+      1738368000,
+      250
+    ],
+    [
+      1738454400,
+      801
+    ],
+    [
+      1738540800,
+      968
+    ],
+    [
+      1738627200,
+      973
+    ],
+    [
+      1738713600,
+      492
+    ],
+    [
+      1738800000,
+      548
+    ],
+    [
+      1738886400,
+      471
+    ],
+    [
+      1738972800,
+      199
+    ],
+    [
+      1739059200,
+      301
+    ],
+    [
+      1739145600,
+      320
+    ],
+    [
+      1739232000,
+      364
+    ],
+    [
+      1739318400,
+      1340
+    ],
+    [
+      1739404800,
+      1056
+    ],
+    [
+      1739491200,
+      1065
+    ],
+    [
+      1739577600,
+      436
+    ],
+    [
+      1739664000,
+      528
+    ],
+    [
+      1739750400,
+      457
+    ],
+    [
+      1739836800,
+      732
+    ],
+    [
+      1739923200,
+      5621
+    ],
+    [
+      1740009600,
+      964
+    ],
+    [
+      1740096000,
+      2474
+    ],
+    [
+      1740182400,
+      1082
+    ],
+    [
+      1740268800,
+      1211
+    ],
+    [
+      1740355200,
+      1934
+    ],
+    [
+      1740441600,
+      3200
+    ],
+    [
+      1740528000,
+      1919
+    ],
+    [
+      1740614400,
+      1958
+    ],
+    [
+      1740700800,
+      2464
+    ],
+    [
+      1740787200,
+      917
+    ],
+    [
+      1740873600,
+      2024
+    ],
+    [
+      1740960000,
+      1253
+    ],
+    [
+      1741046400,
+      2100
+    ],
+    [
+      1741132800,
+      819
+    ],
+    [
+      1741219200,
+      949
+    ],
+    [
+      1741305600,
+      1127
+    ],
+    [
+      1741392000,
+      589
+    ],
+    [
+      1741478400,
+      1063
+    ],
+    [
+      1741564800,
+      2163
+    ],
+    [
+      1741651200,
+      1343
+    ],
+    [
+      1741737600,
+      1088
+    ],
+    [
+      1741824000,
+      1085
+    ],
+    [
+      1741910400,
+      522
+    ],
+    [
+      1741996800,
+      2494
+    ],
+    [
+      1742083200,
+      2908
+    ],
+    [
+      1742169600,
+      3069
+    ],
+    [
+      1742256000,
+      2707
+    ],
+    [
+      1742342400,
+      3503
+    ],
+    [
+      1742428800,
+      3057
+    ],
+    [
+      1742515200,
+      3082
+    ],
+    [
+      1742601600,
+      2841
+    ],
+    [
+      1742774400,
+      3024
+    ],
+    [
+      1742860800,
+      3289
+    ],
+    [
+      1742947200,
+      3534
+    ],
+    [
+      1743033600,
+      3863
+    ],
+    [
+      1743120000,
+      4811
+    ],
+    [
+      1743206400,
+      3552
+    ],
+    [
+      1743292800,
+      3425
+    ],
+    [
+      1743379200,
+      3595
+    ],
+    [
+      1743465600,
+      3951
+    ],
+    [
+      1743552000,
+      3287
+    ],
+    [
+      1743638400,
+      4245
+    ],
+    [
+      1743724800,
+      3619
+    ],
+    [
+      1743811200,
+      2777
+    ],
+    [
+      1743897600,
+      3963
+    ],
+    [
+      1743984000,
+      4665
+    ],
+    [
+      1744070400,
+      3441
+    ],
+    [
+      1744156800,
+      4554
+    ],
+    [
+      1744243200,
+      4692
+    ],
+    [
+      1744329600,
+      3398
+    ],
+    [
+      1744416000,
+      3320
+    ],
+    [
+      1744502400,
+      3330
+    ],
+    [
+      1744588800,
+      2901
+    ],
+    [
+      1744675200,
+      2971
+    ],
+    [
+      1744761600,
+      3364
+    ],
+    [
+      1744848000,
+      4438
+    ],
+    [
+      1744934400,
+      2737
+    ],
+    [
+      1745020800,
+      2329
+    ],
+    [
+      1745107200,
+      2469
+    ],
+    [
+      1745193600,
+      2765
+    ],
+    [
+      1745280000,
+      3217
+    ],
+    [
+      1745366400,
+      3185
+    ],
+    [
+      1745452800,
+      3476
+    ],
+    [
+      1745539200,
+      3181
+    ],
+    [
+      1745625600,
+      5428
+    ],
+    [
+      1745712000,
+      3377
+    ],
+    [
+      1745798400,
+      3450
+    ],
+    [
+      1745884800,
+      2882
+    ],
+    [
+      1745971200,
+      4126
+    ],
+    [
+      1746057600,
+      3143
+    ],
+    [
+      1746144000,
+      4042
+    ],
+    [
+      1746230400,
+      3795
+    ],
+    [
+      1746316800,
+      2640
+    ],
+    [
+      1746403200,
+      3233
+    ],
+    [
+      1746489600,
+      3373
+    ],
+    [
+      1746576000,
+      3297
+    ],
+    [
+      1746662400,
+      4368
+    ],
+    [
+      1746748800,
+      7908
+    ],
+    [
+      1746835200,
+      4370
+    ],
+    [
+      1746921600,
+      3904
+    ],
+    [
+      1747008000,
+      5709
+    ],
+    [
+      1747094400,
+      5717
+    ],
+    [
+      1747180800,
+      5258
+    ],
+    [
+      1747267200,
+      5044
+    ],
+    [
+      1747353600,
+      6311
+    ],
+    [
+      1747440000,
+      4085
+    ],
+    [
+      1747526400,
+      4404
+    ],
+    [
+      1747612800,
+      4677
+    ],
+    [
+      1747699200,
+      5549
+    ],
+    [
+      1747785600,
+      6004
+    ],
+    [
+      1747872000,
+      6102
+    ],
+    [
+      1747958400,
+      6171
+    ],
+    [
+      1748044800,
+      6740
+    ],
+    [
+      1748131200,
+      5795
+    ],
+    [
+      1748217600,
+      5378
+    ],
+    [
+      1748304000,
+      4779
+    ],
+    [
+      1748390400,
+      4577
+    ],
+    [
+      1748476800,
+      5843
+    ],
+    [
+      1748563200,
+      4767
+    ],
+    [
+      1748649600,
+      4522
+    ],
+    [
+      1748736000,
+      4621
+    ],
+    [
+      1748822400,
+      4537
+    ],
+    [
+      1748908800,
+      4574
+    ],
+    [
+      1748995200,
+      4425
+    ],
+    [
+      1749081600,
+      4798
+    ],
+    [
+      1749168000,
+      5060
+    ]
+  ],
+  "totalDataChartBreakdown": [
+    [
+      1733875200,
+      {
+        "ethereum": {
+          "Balancer V3": 0
+        },
+        "xdai": {
+          "Balancer V3": 800
+        }
+      }
+    ],
+    [
+      1733961600,
+      {
+        "ethereum": {
+          "Balancer V3": 41
+        },
+        "xdai": {
+          "Balancer V3": 106
+        }
+      }
+    ],
+    [
+      1734048000,
+      {
+        "ethereum": {
+          "Balancer V3": 119
+        },
+        "xdai": {
+          "Balancer V3": 1
+        }
+      }
+    ],
+    [
+      1734134400,
+      {
+        "ethereum": {
+          "Balancer V3": 83
+        },
+        "xdai": {
+          "Balancer V3": 17
+        }
+      }
+    ],
+    [
+      1734220800,
+      {
+        "ethereum": {
+          "Balancer V3": 46
+        },
+        "xdai": {
+          "Balancer V3": 280
+        }
+      }
+    ],
+    [
+      1734307200,
+      {
+        "ethereum": {
+          "Balancer V3": 120
+        },
+        "xdai": {
+          "Balancer V3": 239
+        }
+      }
+    ],
+    [
+      1734393600,
+      {
+        "ethereum": {
+          "Balancer V3": 124
+        },
+        "xdai": {
+          "Balancer V3": 119
+        }
+      }
+    ],
+    [
+      1734480000,
+      {
+        "ethereum": {
+          "Balancer V3": 518
+        },
+        "xdai": {
+          "Balancer V3": 166
+        }
+      }
+    ],
+    [
+      1734566400,
+      {
+        "ethereum": {
+          "Balancer V3": 30
+        },
+        "xdai": {
+          "Balancer V3": 225
+        }
+      }
+    ],
+    [
+      1734652800,
+      {
+        "ethereum": {
+          "Balancer V3": 12
+        },
+        "xdai": {
+          "Balancer V3": 430
+        }
+      }
+    ],
+    [
+      1734739200,
+      {
+        "ethereum": {
+          "Balancer V3": 240
+        },
+        "xdai": {
+          "Balancer V3": 224
+        }
+      }
+    ],
+    [
+      1734825600,
+      {
+        "ethereum": {
+          "Balancer V3": 71
+        },
+        "xdai": {
+          "Balancer V3": 20
+        }
+      }
+    ],
+    [
+      1734912000,
+      {
+        "ethereum": {
+          "Balancer V3": 12
+        },
+        "xdai": {
+          "Balancer V3": 104
+        }
+      }
+    ],
+    [
+      1734998400,
+      {
+        "ethereum": {
+          "Balancer V3": 42
+        },
+        "xdai": {
+          "Balancer V3": 170
+        }
+      }
+    ],
+    [
+      1735084800,
+      {
+        "ethereum": {
+          "Balancer V3": 36
+        },
+        "xdai": {
+          "Balancer V3": 130
+        }
+      }
+    ],
+    [
+      1735171200,
+      {
+        "ethereum": {
+          "Balancer V3": 100
+        },
+        "xdai": {
+          "Balancer V3": 87
+        }
+      }
+    ],
+    [
+      1735257600,
+      {
+        "ethereum": {
+          "Balancer V3": 15
+        },
+        "xdai": {
+          "Balancer V3": 133
+        }
+      }
+    ],
+    [
+      1735344000,
+      {
+        "ethereum": {
+          "Balancer V3": 27
+        },
+        "xdai": {
+          "Balancer V3": 58
+        }
+      }
+    ],
+    [
+      1735430400,
+      {
+        "ethereum": {
+          "Balancer V3": 19
+        },
+        "xdai": {
+          "Balancer V3": 213
+        }
+      }
+    ],
+    [
+      1735516800,
+      {
+        "ethereum": {
+          "Balancer V3": 21
+        },
+        "xdai": {
+          "Balancer V3": 226
+        }
+      }
+    ],
+    [
+      1735603200,
+      {
+        "ethereum": {
+          "Balancer V3": 124
+        },
+        "xdai": {
+          "Balancer V3": 209
+        }
+      }
+    ],
+    [
+      1735689600,
+      {
+        "ethereum": {
+          "Balancer V3": 26
+        },
+        "xdai": {
+          "Balancer V3": 275
+        }
+      }
+    ],
+    [
+      1735776000,
+      {
+        "ethereum": {
+          "Balancer V3": 42
+        },
+        "xdai": {
+          "Balancer V3": 403
+        }
+      }
+    ],
+    [
+      1735862400,
+      {
+        "ethereum": {
+          "Balancer V3": 62
+        },
+        "xdai": {
+          "Balancer V3": 633
+        }
+      }
+    ],
+    [
+      1735948800,
+      {
+        "ethereum": {
+          "Balancer V3": 21
+        },
+        "xdai": {
+          "Balancer V3": 115
+        }
+      }
+    ],
+    [
+      1736035200,
+      {
+        "ethereum": {
+          "Balancer V3": 47
+        },
+        "xdai": {
+          "Balancer V3": 126
+        }
+      }
+    ],
+    [
+      1736121600,
+      {
+        "ethereum": {
+          "Balancer V3": 10
+        },
+        "xdai": {
+          "Balancer V3": 173
+        }
+      }
+    ],
+    [
+      1736208000,
+      {
+        "ethereum": {
+          "Balancer V3": 25
+        },
+        "xdai": {
+          "Balancer V3": 157
+        }
+      }
+    ],
+    [
+      1736294400,
+      {
+        "ethereum": {
+          "Balancer V3": 27
+        },
+        "xdai": {
+          "Balancer V3": 190
+        }
+      }
+    ],
+    [
+      1736380800,
+      {
+        "ethereum": {
+          "Balancer V3": 43
+        },
+        "xdai": {
+          "Balancer V3": 243
+        }
+      }
+    ],
+    [
+      1736467200,
+      {
+        "ethereum": {
+          "Balancer V3": 64
+        },
+        "xdai": {
+          "Balancer V3": 157
+        }
+      }
+    ],
+    [
+      1736553600,
+      {
+        "ethereum": {
+          "Balancer V3": 144
+        },
+        "xdai": {
+          "Balancer V3": 50
+        }
+      }
+    ],
+    [
+      1736640000,
+      {
+        "ethereum": {
+          "Balancer V3": 30
+        },
+        "xdai": {
+          "Balancer V3": 63
+        }
+      }
+    ],
+    [
+      1736726400,
+      {
+        "ethereum": {
+          "Balancer V3": 41
+        },
+        "xdai": {
+          "Balancer V3": 259
+        }
+      }
+    ],
+    [
+      1736812800,
+      {
+        "ethereum": {
+          "Balancer V3": 16
+        },
+        "xdai": {
+          "Balancer V3": 112
+        }
+      }
+    ],
+    [
+      1736899200,
+      {
+        "ethereum": {
+          "Balancer V3": 29
+        },
+        "xdai": {
+          "Balancer V3": 229
+        }
+      }
+    ],
+    [
+      1736985600,
+      {
+        "ethereum": {
+          "Balancer V3": 49
+        },
+        "xdai": {
+          "Balancer V3": 157
+        }
+      }
+    ],
+    [
+      1737072000,
+      {
+        "ethereum": {
+          "Balancer V3": 18
+        },
+        "xdai": {
+          "Balancer V3": 158
+        }
+      }
+    ],
+    [
+      1737158400,
+      {
+        "ethereum": {
+          "Balancer V3": 70
+        },
+        "xdai": {
+          "Balancer V3": 237
+        }
+      }
+    ],
+    [
+      1737244800,
+      {
+        "ethereum": {
+          "Balancer V3": 28
+        },
+        "xdai": {
+          "Balancer V3": 510
+        }
+      }
+    ],
+    [
+      1737331200,
+      {
+        "ethereum": {
+          "Balancer V3": 69
+        },
+        "xdai": {
+          "Balancer V3": 486
+        }
+      }
+    ],
+    [
+      1737417600,
+      {
+        "ethereum": {
+          "Balancer V3": 37
+        },
+        "xdai": {
+          "Balancer V3": 118
+        }
+      }
+    ],
+    [
+      1737504000,
+      {
+        "ethereum": {
+          "Balancer V3": 37
+        },
+        "xdai": {
+          "Balancer V3": 162
+        }
+      }
+    ],
+    [
+      1737590400,
+      {
+        "ethereum": {
+          "Balancer V3": 65
+        },
+        "xdai": {
+          "Balancer V3": 250
+        }
+      }
+    ],
+    [
+      1737676800,
+      {
+        "ethereum": {
+          "Balancer V3": 29
+        },
+        "xdai": {
+          "Balancer V3": 162
+        }
+      }
+    ],
+    [
+      1737763200,
+      {
+        "ethereum": {
+          "Balancer V3": 22
+        },
+        "xdai": {
+          "Balancer V3": 79
+        }
+      }
+    ],
+    [
+      1737849600,
+      {
+        "ethereum": {
+          "Balancer V3": 11
+        },
+        "xdai": {
+          "Balancer V3": 242
+        }
+      }
+    ],
+    [
+      1737936000,
+      {
+        "ethereum": {
+          "Balancer V3": 114
+        },
+        "xdai": {
+          "Balancer V3": 551
+        }
+      }
+    ],
+    [
+      1738022400,
+      {
+        "ethereum": {
+          "Balancer V3": 53
+        },
+        "xdai": {
+          "Balancer V3": 193
+        }
+      }
+    ],
+    [
+      1738108800,
+      {
+        "ethereum": {
+          "Balancer V3": 223
+        },
+        "xdai": {
+          "Balancer V3": 142
+        }
+      }
+    ],
+    [
+      1738195200,
+      {
+        "ethereum": {
+          "Balancer V3": 216
+        },
+        "xdai": {
+          "Balancer V3": 112
+        }
+      }
+    ],
+    [
+      1738281600,
+      {
+        "ethereum": {
+          "Balancer V3": 58
+        },
+        "xdai": {
+          "Balancer V3": 199
+        }
+      }
+    ],
+    [
+      1738368000,
+      {
+        "ethereum": {
+          "Balancer V3": 86
+        },
+        "xdai": {
+          "Balancer V3": 164
+        }
+      }
+    ],
+    [
+      1738454400,
+      {
+        "ethereum": {
+          "Balancer V3": 110
+        },
+        "xdai": {
+          "Balancer V3": 691
+        }
+      }
+    ],
+    [
+      1738540800,
+      {
+        "ethereum": {
+          "Balancer V3": 161
+        },
+        "xdai": {
+          "Balancer V3": 807
+        }
+      }
+    ],
+    [
+      1738627200,
+      {
+        "ethereum": {
+          "Balancer V3": 392
+        },
+        "xdai": {
+          "Balancer V3": 581
+        }
+      }
+    ],
+    [
+      1738713600,
+      {
+        "ethereum": {
+          "Balancer V3": 256
+        },
+        "xdai": {
+          "Balancer V3": 236
+        }
+      }
+    ],
+    [
+      1738800000,
+      {
+        "ethereum": {
+          "Balancer V3": 364
+        },
+        "xdai": {
+          "Balancer V3": 184
+        }
+      }
+    ],
+    [
+      1738886400,
+      {
+        "ethereum": {
+          "Balancer V3": 240
+        },
+        "xdai": {
+          "Balancer V3": 231
+        }
+      }
+    ],
+    [
+      1738972800,
+      {
+        "ethereum": {
+          "Balancer V3": 108
+        },
+        "xdai": {
+          "Balancer V3": 91
+        }
+      }
+    ],
+    [
+      1739059200,
+      {
+        "ethereum": {
+          "Balancer V3": 131
+        },
+        "xdai": {
+          "Balancer V3": 170
+        }
+      }
+    ],
+    [
+      1739145600,
+      {
+        "ethereum": {
+          "Balancer V3": 173
+        },
+        "xdai": {
+          "Balancer V3": 147
+        }
+      }
+    ],
+    [
+      1739232000,
+      {
+        "ethereum": {
+          "Balancer V3": 133
+        },
+        "xdai": {
+          "Balancer V3": 231
+        }
+      }
+    ],
+    [
+      1739318400,
+      {
+        "ethereum": {
+          "Balancer V3": 820
+        },
+        "xdai": {
+          "Balancer V3": 520
+        }
+      }
+    ],
+    [
+      1739404800,
+      {
+        "ethereum": {
+          "Balancer V3": 730
+        },
+        "xdai": {
+          "Balancer V3": 326
+        }
+      }
+    ],
+    [
+      1739491200,
+      {
+        "ethereum": {
+          "Balancer V3": 874
+        },
+        "xdai": {
+          "Balancer V3": 191
+        }
+      }
+    ],
+    [
+      1739577600,
+      {
+        "ethereum": {
+          "Balancer V3": 386
+        },
+        "xdai": {
+          "Balancer V3": 50
+        }
+      }
+    ],
+    [
+      1739664000,
+      {
+        "ethereum": {
+          "Balancer V3": 478
+        },
+        "xdai": {
+          "Balancer V3": 50
+        }
+      }
+    ],
+    [
+      1739750400,
+      {
+        "ethereum": {
+          "Balancer V3": 295
+        },
+        "xdai": {
+          "Balancer V3": 162
+        }
+      }
+    ],
+    [
+      1739836800,
+      {
+        "ethereum": {
+          "Balancer V3": 568
+        },
+        "xdai": {
+          "Balancer V3": 164
+        }
+      }
+    ],
+    [
+      1739923200,
+      {
+        "ethereum": {
+          "Balancer V3": 551
+        },
+        "xdai": {
+          "Balancer V3": 5070
+        }
+      }
+    ],
+    [
+      1740009600,
+      {
+        "ethereum": {
+          "Balancer V3": 742
+        },
+        "xdai": {
+          "Balancer V3": 222
+        }
+      }
+    ],
+    [
+      1740096000,
+      {
+        "ethereum": {
+          "Balancer V3": 2148
+        },
+        "xdai": {
+          "Balancer V3": 326
+        }
+      }
+    ],
+    [
+      1740182400,
+      {
+        "ethereum": {
+          "Balancer V3": 940
+        },
+        "xdai": {
+          "Balancer V3": 142
+        }
+      }
+    ],
+    [
+      1740268800,
+      {
+        "ethereum": {
+          "Balancer V3": 1054
+        },
+        "xdai": {
+          "Balancer V3": 157
+        }
+      }
+    ],
+    [
+      1740355200,
+      {
+        "ethereum": {
+          "Balancer V3": 984
+        },
+        "xdai": {
+          "Balancer V3": 950
+        }
+      }
+    ],
+    [
+      1740441600,
+      {
+        "ethereum": {
+          "Balancer V3": 1839
+        },
+        "xdai": {
+          "Balancer V3": 1361
+        }
+      }
+    ],
+    [
+      1740528000,
+      {
+        "ethereum": {
+          "Balancer V3": 1186
+        },
+        "xdai": {
+          "Balancer V3": 733
+        }
+      }
+    ],
+    [
+      1740614400,
+      {
+        "ethereum": {
+          "Balancer V3": 1476
+        },
+        "xdai": {
+          "Balancer V3": 482
+        }
+      }
+    ],
+    [
+      1740700800,
+      {
+        "ethereum": {
+          "Balancer V3": 1793
+        },
+        "xdai": {
+          "Balancer V3": 671
+        }
+      }
+    ],
+    [
+      1740787200,
+      {
+        "ethereum": {
+          "Balancer V3": 631
+        },
+        "xdai": {
+          "Balancer V3": 286
+        }
+      }
+    ],
+    [
+      1740873600,
+      {
+        "ethereum": {
+          "Balancer V3": 988
+        },
+        "xdai": {
+          "Balancer V3": 1036
+        }
+      }
+    ],
+    [
+      1740960000,
+      {
+        "ethereum": {
+          "Balancer V3": 695
+        },
+        "xdai": {
+          "Balancer V3": 558
+        }
+      }
+    ],
+    [
+      1741046400,
+      {
+        "ethereum": {
+          "Balancer V3": 1539
+        },
+        "xdai": {
+          "Balancer V3": 561
+        }
+      }
+    ],
+    [
+      1741132800,
+      {
+        "ethereum": {
+          "Balancer V3": 470
+        },
+        "xdai": {
+          "Balancer V3": 349
+        }
+      }
+    ],
+    [
+      1741219200,
+      {
+        "ethereum": {
+          "Balancer V3": 696
+        },
+        "xdai": {
+          "Balancer V3": 253
+        }
+      }
+    ],
+    [
+      1741305600,
+      {
+        "ethereum": {
+          "Balancer V3": 803
+        },
+        "xdai": {
+          "Balancer V3": 324
+        }
+      }
+    ],
+    [
+      1741392000,
+      {
+        "ethereum": {
+          "Balancer V3": 420
+        },
+        "xdai": {
+          "Balancer V3": 169
+        }
+      }
+    ],
+    [
+      1741478400,
+      {
+        "ethereum": {
+          "Balancer V3": 655
+        },
+        "xdai": {
+          "Balancer V3": 408
+        }
+      }
+    ],
+    [
+      1741564800,
+      {
+        "ethereum": {
+          "Balancer V3": 1463
+        },
+        "xdai": {
+          "Balancer V3": 700
+        }
+      }
+    ],
+    [
+      1741651200,
+      {
+        "ethereum": {
+          "Balancer V3": 705
+        },
+        "xdai": {
+          "Balancer V3": 638
+        }
+      }
+    ],
+    [
+      1741737600,
+      {
+        "ethereum": {
+          "Balancer V3": 723
+        },
+        "xdai": {
+          "Balancer V3": 365
+        }
+      }
+    ],
+    [
+      1741824000,
+      {
+        "ethereum": {
+          "Balancer V3": 922
+        },
+        "xdai": {
+          "Balancer V3": 163
+        }
+      }
+    ],
+    [
+      1741910400,
+      {
+        "ethereum": {
+          "Balancer V3": 460
+        },
+        "xdai": {
+          "Balancer V3": 62
+        }
+      }
+    ],
+    [
+      1741996800,
+      {
+        "ethereum": {
+          "Balancer V3": 2230
+        },
+        "xdai": {
+          "Balancer V3": 264
+        }
+      }
+    ],
+    [
+      1742083200,
+      {
+        "ethereum": {
+          "Balancer V3": 2598
+        },
+        "xdai": {
+          "Balancer V3": 310
+        }
+      }
+    ],
+    [
+      1742169600,
+      {
+        "ethereum": {
+          "Balancer V3": 2698
+        },
+        "xdai": {
+          "Balancer V3": 371
+        }
+      }
+    ],
+    [
+      1742256000,
+      {
+        "ethereum": {
+          "Balancer V3": 2437
+        },
+        "xdai": {
+          "Balancer V3": 270
+        }
+      }
+    ],
+    [
+      1742342400,
+      {
+        "ethereum": {
+          "Balancer V3": 2999
+        },
+        "xdai": {
+          "Balancer V3": 504
+        }
+      }
+    ],
+    [
+      1742428800,
+      {
+        "ethereum": {
+          "Balancer V3": 2772
+        },
+        "xdai": {
+          "Balancer V3": 285
+        }
+      }
+    ],
+    [
+      1742515200,
+      {
+        "ethereum": {
+          "Balancer V3": 2836
+        },
+        "xdai": {
+          "Balancer V3": 246
+        }
+      }
+    ],
+    [
+      1742601600,
+      {
+        "ethereum": {
+          "Balancer V3": 2592
+        },
+        "xdai": {
+          "Balancer V3": 249
+        }
+      }
+    ],
+    [
+      1742774400,
+      {
+        "ethereum": {
+          "Balancer V3": 2689
+        },
+        "xdai": {
+          "Balancer V3": 335
+        }
+      }
+    ],
+    [
+      1742860800,
+      {
+        "ethereum": {
+          "Balancer V3": 2990
+        },
+        "xdai": {
+          "Balancer V3": 299
+        }
+      }
+    ],
+    [
+      1742947200,
+      {
+        "ethereum": {
+          "Balancer V3": 3068
+        },
+        "xdai": {
+          "Balancer V3": 466
+        }
+      }
+    ],
+    [
+      1743033600,
+      {
+        "ethereum": {
+          "Balancer V3": 3339
+        },
+        "xdai": {
+          "Balancer V3": 524
+        }
+      }
+    ],
+    [
+      1743120000,
+      {
+        "ethereum": {
+          "Balancer V3": 4504
+        },
+        "xdai": {
+          "Balancer V3": 307
+        }
+      }
+    ],
+    [
+      1743206400,
+      {
+        "ethereum": {
+          "Balancer V3": 3297
+        },
+        "xdai": {
+          "Balancer V3": 255
+        }
+      }
+    ],
+    [
+      1743292800,
+      {
+        "ethereum": {
+          "Balancer V3": 3083
+        },
+        "xdai": {
+          "Balancer V3": 342
+        }
+      }
+    ],
+    [
+      1743379200,
+      {
+        "ethereum": {
+          "Balancer V3": 3201
+        },
+        "xdai": {
+          "Balancer V3": 394
+        }
+      }
+    ],
+    [
+      1743465600,
+      {
+        "ethereum": {
+          "Balancer V3": 3609
+        },
+        "xdai": {
+          "Balancer V3": 342
+        }
+      }
+    ],
+    [
+      1743552000,
+      {
+        "ethereum": {
+          "Balancer V3": 2910
+        },
+        "xdai": {
+          "Balancer V3": 377
+        }
+      }
+    ],
+    [
+      1743638400,
+      {
+        "ethereum": {
+          "Balancer V3": 3894
+        },
+        "xdai": {
+          "Balancer V3": 351
+        }
+      }
+    ],
+    [
+      1743724800,
+      {
+        "ethereum": {
+          "Balancer V3": 3269
+        },
+        "xdai": {
+          "Balancer V3": 350
+        }
+      }
+    ],
+    [
+      1743811200,
+      {
+        "ethereum": {
+          "Balancer V3": 2553
+        },
+        "xdai": {
+          "Balancer V3": 224
+        }
+      }
+    ],
+    [
+      1743897600,
+      {
+        "ethereum": {
+          "Balancer V3": 3564
+        },
+        "xdai": {
+          "Balancer V3": 399
+        }
+      }
+    ],
+    [
+      1743984000,
+      {
+        "ethereum": {
+          "Balancer V3": 3805
+        },
+        "xdai": {
+          "Balancer V3": 860
+        }
+      }
+    ],
+    [
+      1744070400,
+      {
+        "ethereum": {
+          "Balancer V3": 2995
+        },
+        "xdai": {
+          "Balancer V3": 446
+        }
+      }
+    ],
+    [
+      1744156800,
+      {
+        "ethereum": {
+          "Balancer V3": 3944
+        },
+        "xdai": {
+          "Balancer V3": 610
+        }
+      }
+    ],
+    [
+      1744243200,
+      {
+        "ethereum": {
+          "Balancer V3": 4207
+        },
+        "xdai": {
+          "Balancer V3": 485
+        }
+      }
+    ],
+    [
+      1744329600,
+      {
+        "ethereum": {
+          "Balancer V3": 3005
+        },
+        "xdai": {
+          "Balancer V3": 393
+        }
+      }
+    ],
+    [
+      1744416000,
+      {
+        "ethereum": {
+          "Balancer V3": 2958
+        },
+        "xdai": {
+          "Balancer V3": 362
+        }
+      }
+    ],
+    [
+      1744502400,
+      {
+        "ethereum": {
+          "Balancer V3": 2727
+        },
+        "xdai": {
+          "Balancer V3": 603
+        }
+      }
+    ],
+    [
+      1744588800,
+      {
+        "ethereum": {
+          "Balancer V3": 2453
+        },
+        "xdai": {
+          "Balancer V3": 448
+        }
+      }
+    ],
+    [
+      1744675200,
+      {
+        "ethereum": {
+          "Balancer V3": 2631
+        },
+        "xdai": {
+          "Balancer V3": 340
+        }
+      }
+    ],
+    [
+      1744761600,
+      {
+        "ethereum": {
+          "Balancer V3": 2981
+        },
+        "xdai": {
+          "Balancer V3": 383
+        }
+      }
+    ],
+    [
+      1744848000,
+      {
+        "ethereum": {
+          "Balancer V3": 4112
+        },
+        "xdai": {
+          "Balancer V3": 326
+        }
+      }
+    ],
+    [
+      1744934400,
+      {
+        "ethereum": {
+          "Balancer V3": 2499
+        },
+        "xdai": {
+          "Balancer V3": 238
+        }
+      }
+    ],
+    [
+      1745020800,
+      {
+        "ethereum": {
+          "Balancer V3": 2125
+        },
+        "xdai": {
+          "Balancer V3": 204
+        }
+      }
+    ],
+    [
+      1745107200,
+      {
+        "ethereum": {
+          "Balancer V3": 2197
+        },
+        "xdai": {
+          "Balancer V3": 272
+        }
+      }
+    ],
+    [
+      1745193600,
+      {
+        "ethereum": {
+          "Balancer V3": 2490
+        },
+        "xdai": {
+          "Balancer V3": 275
+        }
+      }
+    ],
+    [
+      1745280000,
+      {
+        "ethereum": {
+          "Balancer V3": 2820
+        },
+        "xdai": {
+          "Balancer V3": 397
+        }
+      }
+    ],
+    [
+      1745366400,
+      {
+        "ethereum": {
+          "Balancer V3": 2786
+        },
+        "xdai": {
+          "Balancer V3": 399
+        }
+      }
+    ],
+    [
+      1745452800,
+      {
+        "ethereum": {
+          "Balancer V3": 3171
+        },
+        "xdai": {
+          "Balancer V3": 305
+        }
+      }
+    ],
+    [
+      1745539200,
+      {
+        "ethereum": {
+          "Balancer V3": 2875
+        },
+        "xdai": {
+          "Balancer V3": 306
+        }
+      }
+    ],
+    [
+      1745625600,
+      {
+        "ethereum": {
+          "Balancer V3": 5168
+        },
+        "xdai": {
+          "Balancer V3": 260
+        }
+      }
+    ],
+    [
+      1745712000,
+      {
+        "ethereum": {
+          "Balancer V3": 3123
+        },
+        "xdai": {
+          "Balancer V3": 254
+        }
+      }
+    ],
+    [
+      1745798400,
+      {
+        "ethereum": {
+          "Balancer V3": 3161
+        },
+        "xdai": {
+          "Balancer V3": 289
+        }
+      }
+    ],
+    [
+      1745884800,
+      {
+        "ethereum": {
+          "Balancer V3": 2560
+        },
+        "xdai": {
+          "Balancer V3": 322
+        }
+      }
+    ],
+    [
+      1745971200,
+      {
+        "ethereum": {
+          "Balancer V3": 3855
+        },
+        "xdai": {
+          "Balancer V3": 271
+        }
+      }
+    ],
+    [
+      1746057600,
+      {
+        "ethereum": {
+          "Balancer V3": 2839
+        },
+        "xdai": {
+          "Balancer V3": 304
+        }
+      }
+    ],
+    [
+      1746144000,
+      {
+        "ethereum": {
+          "Balancer V3": 3664
+        },
+        "xdai": {
+          "Balancer V3": 378
+        }
+      }
+    ],
+    [
+      1746230400,
+      {
+        "ethereum": {
+          "Balancer V3": 3533
+        },
+        "xdai": {
+          "Balancer V3": 262
+        }
+      }
+    ],
+    [
+      1746316800,
+      {
+        "ethereum": {
+          "Balancer V3": 2399
+        },
+        "xdai": {
+          "Balancer V3": 241
+        }
+      }
+    ],
+    [
+      1746403200,
+      {
+        "ethereum": {
+          "Balancer V3": 2981
+        },
+        "xdai": {
+          "Balancer V3": 252
+        }
+      }
+    ],
+    [
+      1746489600,
+      {
+        "ethereum": {
+          "Balancer V3": 3070
+        },
+        "xdai": {
+          "Balancer V3": 303
+        }
+      }
+    ],
+    [
+      1746576000,
+      {
+        "ethereum": {
+          "Balancer V3": 2988
+        },
+        "xdai": {
+          "Balancer V3": 309
+        }
+      }
+    ],
+    [
+      1746662400,
+      {
+        "ethereum": {
+          "Balancer V3": 3767
+        },
+        "xdai": {
+          "Balancer V3": 601
+        }
+      }
+    ],
+    [
+      1746748800,
+      {
+        "ethereum": {
+          "Balancer V3": 7071
+        },
+        "xdai": {
+          "Balancer V3": 837
+        }
+      }
+    ],
+    [
+      1746835200,
+      {
+        "ethereum": {
+          "Balancer V3": 3768
+        },
+        "xdai": {
+          "Balancer V3": 602
+        }
+      }
+    ],
+    [
+      1746921600,
+      {
+        "ethereum": {
+          "Balancer V3": 3427
+        },
+        "xdai": {
+          "Balancer V3": 477
+        }
+      }
+    ],
+    [
+      1747008000,
+      {
+        "ethereum": {
+          "Balancer V3": 5213
+        },
+        "xdai": {
+          "Balancer V3": 496
+        }
+      }
+    ],
+    [
+      1747094400,
+      {
+        "ethereum": {
+          "Balancer V3": 5187
+        },
+        "xdai": {
+          "Balancer V3": 530
+        }
+      }
+    ],
+    [
+      1747180800,
+      {
+        "ethereum": {
+          "Balancer V3": 4389
+        },
+        "xdai": {
+          "Balancer V3": 869
+        }
+      }
+    ],
+    [
+      1747267200,
+      {
+        "ethereum": {
+          "Balancer V3": 4270
+        },
+        "xdai": {
+          "Balancer V3": 774
+        }
+      }
+    ],
+    [
+      1747353600,
+      {
+        "ethereum": {
+          "Balancer V3": 5860
+        },
+        "xdai": {
+          "Balancer V3": 451
+        }
+      }
+    ],
+    [
+      1747440000,
+      {
+        "ethereum": {
+          "Balancer V3": 3628
+        },
+        "xdai": {
+          "Balancer V3": 457
+        }
+      }
+    ],
+    [
+      1747526400,
+      {
+        "ethereum": {
+          "Balancer V3": 3768
+        },
+        "xdai": {
+          "Balancer V3": 636
+        }
+      }
+    ],
+    [
+      1747612800,
+      {
+        "ethereum": {
+          "Balancer V3": 4088
+        },
+        "xdai": {
+          "Balancer V3": 589
+        }
+      }
+    ],
+    [
+      1747699200,
+      {
+        "ethereum": {
+          "Balancer V3": 4638
+        },
+        "xdai": {
+          "Balancer V3": 911
+        }
+      }
+    ],
+    [
+      1747785600,
+      {
+        "ethereum": {
+          "Balancer V3": 4591
+        },
+        "xdai": {
+          "Balancer V3": 1413
+        }
+      }
+    ],
+    [
+      1747872000,
+      {
+        "ethereum": {
+          "Balancer V3": 5146
+        },
+        "xdai": {
+          "Balancer V3": 956
+        }
+      }
+    ],
+    [
+      1747958400,
+      {
+        "ethereum": {
+          "Balancer V3": 5521
+        },
+        "xdai": {
+          "Balancer V3": 650
+        }
+      }
+    ],
+    [
+      1748044800,
+      {
+        "ethereum": {
+          "Balancer V3": 6316
+        },
+        "xdai": {
+          "Balancer V3": 424
+        }
+      }
+    ],
+    [
+      1748131200,
+      {
+        "ethereum": {
+          "Balancer V3": 5233
+        },
+        "xdai": {
+          "Balancer V3": 562
+        }
+      }
+    ],
+    [
+      1748217600,
+      {
+        "ethereum": {
+          "Balancer V3": 4853
+        },
+        "xdai": {
+          "Balancer V3": 525
+        }
+      }
+    ],
+    [
+      1748304000,
+      {
+        "ethereum": {
+          "Balancer V3": 4227
+        },
+        "xdai": {
+          "Balancer V3": 552
+        }
+      }
+    ],
+    [
+      1748390400,
+      {
+        "ethereum": {
+          "Balancer V3": 3963
+        },
+        "xdai": {
+          "Balancer V3": 614
+        }
+      }
+    ],
+    [
+      1748476800,
+      {
+        "ethereum": {
+          "Balancer V3": 5219
+        },
+        "xdai": {
+          "Balancer V3": 624
+        }
+      }
+    ],
+    [
+      1748563200,
+      {
+        "ethereum": {
+          "Balancer V3": 4037
+        },
+        "xdai": {
+          "Balancer V3": 730
+        }
+      }
+    ],
+    [
+      1748649600,
+      {
+        "ethereum": {
+          "Balancer V3": 3938
+        },
+        "xdai": {
+          "Balancer V3": 584
+        }
+      }
+    ],
+    [
+      1748736000,
+      {
+        "ethereum": {
+          "Balancer V3": 4112
+        },
+        "xdai": {
+          "Balancer V3": 509
+        }
+      }
+    ],
+    [
+      1748822400,
+      {
+        "ethereum": {
+          "Balancer V3": 3883
+        },
+        "xdai": {
+          "Balancer V3": 654
+        }
+      }
+    ],
+    [
+      1748908800,
+      {
+        "ethereum": {
+          "Balancer V3": 3976
+        },
+        "xdai": {
+          "Balancer V3": 598
+        }
+      }
+    ],
+    [
+      1748995200,
+      {
+        "ethereum": {
+          "Balancer V3": 3878
+        },
+        "xdai": {
+          "Balancer V3": 547
+        }
+      }
+    ],
+    [
+      1749081600,
+      {
+        "ethereum": {
+          "Balancer V3": 4187
+        },
+        "xdai": {
+          "Balancer V3": 611
+        }
+      }
+    ],
+    [
+      1749168000,
+      {
+        "ethereum": {
+          "Balancer V3": 4454
+        },
+        "xdai": {
+          "Balancer V3": 606
+        }
+      }
+    ]
+  ],
+  "change_1d": 14.35
+}

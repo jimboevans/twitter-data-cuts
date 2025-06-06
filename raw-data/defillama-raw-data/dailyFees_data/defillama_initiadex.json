@@ -1,0 +1,437 @@
+{
+  "id": "6138",
+  "name": "InitiaDEX",
+  "address": null,
+  "symbol": "-",
+  "url": "https://app.initia.xyz/swap",
+  "description": "The InitiaDEX is a decentralized exchange (DEX) built on the Initia L1. It serves as a Balancer-style weighted pool for diverse asset pairs and a StableSwap pool for assets with closely correlated prices. This design ensures an optimal trading experience across various asset types.",
+  "chain": "Initia",
+  "logo": "https://icons.llamao.fi/icons/protocols/initiadex.jpg",
+  "audits": "0",
+  "audit_note": null,
+  "gecko_id": null,
+  "cmcId": null,
+  "category": "Dexs",
+  "chains": [
+    "Initia"
+  ],
+  "module": "initia-dex",
+  "twitter": "initia",
+  "forkedFrom": [],
+  "listedAt": 1746530574,
+  "defillamaId": "6138",
+  "disabled": false,
+  "displayName": "InitiaDEX",
+  "methodologyURL": "https://github.com/DefiLlama/dimension-adapters/blob/master/fees/initia-dex.ts",
+  "methodology": {
+    "UserFees": "Swap fees paid by users",
+    "Fees": "Swap fees paid by users",
+    "Revenue": "Percentage of swap fees going to treasury and/or token holders",
+    "ProtocolRevenue": "Percentage of swap fees going to treasury",
+    "HoldersRevenue": "Money going to governance token holders",
+    "SupplySideRevenue": "Liquidity providers revenue"
+  },
+  "audit_links": null,
+  "versionKey": null,
+  "github": null,
+  "governanceID": null,
+  "treasury": null,
+  "parentProtocol": null,
+  "previousNames": null,
+  "latestFetchIsOk": true,
+  "slug": "initiadex",
+  "protocolType": "protocol",
+  "total24h": 6330,
+  "total48hto24h": 6844,
+  "total7d": 68414,
+  "totalAllTime": 545036,
+  "totalDataChart": [
+    [
+      1746489600,
+      6345
+    ],
+    [
+      1746576000,
+      4495
+    ],
+    [
+      1746662400,
+      7433
+    ],
+    [
+      1746748800,
+      15299
+    ],
+    [
+      1746835200,
+      23040
+    ],
+    [
+      1746921600,
+      39752
+    ],
+    [
+      1747008000,
+      43676
+    ],
+    [
+      1747094400,
+      31300
+    ],
+    [
+      1747180800,
+      21526
+    ],
+    [
+      1747267200,
+      28198
+    ],
+    [
+      1747353600,
+      24009
+    ],
+    [
+      1747440000,
+      17255
+    ],
+    [
+      1747526400,
+      22501
+    ],
+    [
+      1747612800,
+      15905
+    ],
+    [
+      1747699200,
+      15103
+    ],
+    [
+      1747785600,
+      39391
+    ],
+    [
+      1747872000,
+      29840
+    ],
+    [
+      1747958400,
+      23243
+    ],
+    [
+      1748044800,
+      13781
+    ],
+    [
+      1748131200,
+      9537
+    ],
+    [
+      1748217600,
+      12082
+    ],
+    [
+      1748304000,
+      8808
+    ],
+    [
+      1748390400,
+      10776
+    ],
+    [
+      1748476800,
+      6997
+    ],
+    [
+      1748563200,
+      15941
+    ],
+    [
+      1748649600,
+      9706
+    ],
+    [
+      1748736000,
+      11404
+    ],
+    [
+      1748822400,
+      7716
+    ],
+    [
+      1748908800,
+      8434
+    ],
+    [
+      1748995200,
+      6844
+    ],
+    [
+      1749081600,
+      8369
+    ],
+    [
+      1749168000,
+      6330
+    ]
+  ],
+  "totalDataChartBreakdown": [
+    [
+      1746489600,
+      {
+        "initia": {
+          "InitiaDEX": 6345
+        }
+      }
+    ],
+    [
+      1746576000,
+      {
+        "initia": {
+          "InitiaDEX": 4495
+        }
+      }
+    ],
+    [
+      1746662400,
+      {
+        "initia": {
+          "InitiaDEX": 7433
+        }
+      }
+    ],
+    [
+      1746748800,
+      {
+        "initia": {
+          "InitiaDEX": 15299
+        }
+      }
+    ],
+    [
+      1746835200,
+      {
+        "initia": {
+          "InitiaDEX": 23040
+        }
+      }
+    ],
+    [
+      1746921600,
+      {
+        "initia": {
+          "InitiaDEX": 39752
+        }
+      }
+    ],
+    [
+      1747008000,
+      {
+        "initia": {
+          "InitiaDEX": 43676
+        }
+      }
+    ],
+    [
+      1747094400,
+      {
+        "initia": {
+          "InitiaDEX": 31300
+        }
+      }
+    ],
+    [
+      1747180800,
+      {
+        "initia": {
+          "InitiaDEX": 21526
+        }
+      }
+    ],
+    [
+      1747267200,
+      {
+        "initia": {
+          "InitiaDEX": 28198
+        }
+      }
+    ],
+    [
+      1747353600,
+      {
+        "initia": {
+          "InitiaDEX": 24009
+        }
+      }
+    ],
+    [
+      1747440000,
+      {
+        "initia": {
+          "InitiaDEX": 17255
+        }
+      }
+    ],
+    [
+      1747526400,
+      {
+        "initia": {
+          "InitiaDEX": 22501
+        }
+      }
+    ],
+    [
+      1747612800,
+      {
+        "initia": {
+          "InitiaDEX": 15905
+        }
+      }
+    ],
+    [
+      1747699200,
+      {
+        "initia": {
+          "InitiaDEX": 15103
+        }
+      }
+    ],
+    [
+      1747785600,
+      {
+        "initia": {
+          "InitiaDEX": 39391
+        }
+      }
+    ],
+    [
+      1747872000,
+      {
+        "initia": {
+          "InitiaDEX": 29840
+        }
+      }
+    ],
+    [
+      1747958400,
+      {
+        "initia": {
+          "InitiaDEX": 23243
+        }
+      }
+    ],
+    [
+      1748044800,
+      {
+        "initia": {
+          "InitiaDEX": 13781
+        }
+      }
+    ],
+    [
+      1748131200,
+      {
+        "initia": {
+          "InitiaDEX": 9537
+        }
+      }
+    ],
+    [
+      1748217600,
+      {
+        "initia": {
+          "InitiaDEX": 12082
+        }
+      }
+    ],
+    [
+      1748304000,
+      {
+        "initia": {
+          "InitiaDEX": 8808
+        }
+      }
+    ],
+    [
+      1748390400,
+      {
+        "initia": {
+          "InitiaDEX": 10776
+        }
+      }
+    ],
+    [
+      1748476800,
+      {
+        "initia": {
+          "InitiaDEX": 6997
+        }
+      }
+    ],
+    [
+      1748563200,
+      {
+        "initia": {
+          "InitiaDEX": 15941
+        }
+      }
+    ],
+    [
+      1748649600,
+      {
+        "initia": {
+          "InitiaDEX": 9706
+        }
+      }
+    ],
+    [
+      1748736000,
+      {
+        "initia": {
+          "InitiaDEX": 11404
+        }
+      }
+    ],
+    [
+      1748822400,
+      {
+        "initia": {
+          "InitiaDEX": 7716
+        }
+      }
+    ],
+    [
+      1748908800,
+      {
+        "initia": {
+          "InitiaDEX": 8434
+        }
+      }
+    ],
+    [
+      1748995200,
+      {
+        "initia": {
+          "InitiaDEX": 6844
+        }
+      }
+    ],
+    [
+      1749081600,
+      {
+        "initia": {
+          "InitiaDEX": 8369
+        }
+      }
+    ],
+    [
+      1749168000,
+      {
+        "initia": {
+          "InitiaDEX": 6330
+        }
+      }
+    ]
+  ],
+  "change_1d": -7.51
+}

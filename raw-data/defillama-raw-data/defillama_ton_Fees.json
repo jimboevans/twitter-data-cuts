@@ -12,8 +12,9 @@
   "methodologyURL": "https://github.com/DefiLlama/dimension-adapters/blob/master/fees/ton.ts",
   "methodology": {
     "UserFees": "Gas fees paid by users",
-    "Fees": "Gas fees paid by users",
-    "Revenue": "Burned coins"
+    "Fees": "Transaction fees paid by users",
+    "Revenue": "Amount of 50% TON transaction fees that were burned",
+    "HoldersRevenue": "Amount of 50% TON transaction fees that were burned"
   },
   "gecko_id": "the-open-network",
   "forkedFrom": null,
@@ -36,10 +37,10 @@
   "latestFetchIsOk": true,
   "slug": "ton",
   "protocolType": "chain",
-  "total24h": 17387,
-  "total48hto24h": 21964,
-  "total7d": 141595,
-  "totalAllTime": 5145945,
+  "total24h": 22764,
+  "total48hto24h": 22729,
+  "total7d": 147712,
+  "totalAllTime": 5233094,
   "totalDataChart": [
     [
       1734480000,
@@ -704,6 +705,22 @@
     [
       1748736000,
       17387
+    ],
+    [
+      1748822400,
+      21343
+    ],
+    [
+      1748908800,
+      20313
+    ],
+    [
+      1748995200,
+      22729
+    ],
+    [
+      1749081600,
+      22764
     ]
   ],
   "totalDataChartBreakdown": [
@@ -2034,7 +2051,39 @@
           "TON": 17387
         }
       }
+    ],
+    [
+      1748822400,
+      {
+        "ton": {
+          "TON": 21343
+        }
+      }
+    ],
+    [
+      1748908800,
+      {
+        "ton": {
+          "TON": 20313
+        }
+      }
+    ],
+    [
+      1748995200,
+      {
+        "ton": {
+          "TON": 22729
+        }
+      }
+    ],
+    [
+      1749081600,
+      {
+        "ton": {
+          "TON": 22764
+        }
+      }
     ]
   ],
-  "change_1d": -20.84
+  "change_1d": 0.15
 }

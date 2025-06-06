@@ -24,7 +24,6 @@
   "module": "banana-gun-trading",
   "twitter": "BananaGunBot",
   "forkedFrom": [],
-  "oracles": [],
   "defillamaId": "3336",
   "disabled": false,
   "displayName": "Banana Gun",
@@ -44,10 +43,10 @@
   "latestFetchIsOk": true,
   "slug": "banana-gun",
   "protocolType": "protocol",
-  "total24h": 34551,
-  "total48hto24h": 29710,
-  "total7d": 450669,
-  "totalAllTime": 79313517,
+  "total24h": 66107,
+  "total48hto24h": 67003,
+  "total7d": 401660,
+  "totalAllTime": 79592439,
   "totalDataChart": [
     [
       1685664000,
@@ -2960,6 +2959,22 @@
     [
       1748736000,
       34551
+    ],
+    [
+      1748822400,
+      61901
+    ],
+    [
+      1748908800,
+      83911
+    ],
+    [
+      1748995200,
+      67003
+    ],
+    [
+      1749081600,
+      66107
     ]
   ],
   "totalDataChartBreakdown": [
@@ -13526,7 +13541,111 @@
           "Banana Gun": 0
         }
       }
+    ],
+    [
+      1748822400,
+      {
+        "ethereum": {
+          "Banana Gun": 38538
+        },
+        "solana": {
+          "Banana Gun": 13340
+        },
+        "blast": {
+          "Banana Gun": 0
+        },
+        "base": {
+          "Banana Gun": 8330
+        },
+        "sonic": {
+          "Banana Gun": 46
+        },
+        "bsc": {
+          "Banana Gun": 1647
+        },
+        "unichain": {
+          "Banana Gun": 0
+        }
+      }
+    ],
+    [
+      1748908800,
+      {
+        "ethereum": {
+          "Banana Gun": 35361
+        },
+        "solana": {
+          "Banana Gun": 16846
+        },
+        "blast": {
+          "Banana Gun": 0
+        },
+        "base": {
+          "Banana Gun": 30074
+        },
+        "sonic": {
+          "Banana Gun": 1
+        },
+        "bsc": {
+          "Banana Gun": 1629
+        },
+        "unichain": {
+          "Banana Gun": 0
+        }
+      }
+    ],
+    [
+      1748995200,
+      {
+        "ethereum": {
+          "Banana Gun": 35361
+        },
+        "solana": {
+          "Banana Gun": 13571
+        },
+        "blast": {
+          "Banana Gun": 0
+        },
+        "base": {
+          "Banana Gun": 16931
+        },
+        "sonic": {
+          "Banana Gun": 3
+        },
+        "bsc": {
+          "Banana Gun": 1132
+        },
+        "unichain": {
+          "Banana Gun": 5
+        }
+      }
+    ],
+    [
+      1749081600,
+      {
+        "ethereum": {
+          "Banana Gun": 31143
+        },
+        "solana": {
+          "Banana Gun": 23608
+        },
+        "blast": {
+          "Banana Gun": 0
+        },
+        "base": {
+          "Banana Gun": 10019
+        },
+        "sonic": {
+          "Banana Gun": 1
+        },
+        "bsc": {
+          "Banana Gun": 1336
+        },
+        "unichain": {
+          "Banana Gun": 0
+        }
+      }
     ]
   ],
-  "change_1d": 16.29
+  "change_1d": -1.34
 }

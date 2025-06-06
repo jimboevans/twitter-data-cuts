@@ -12,10 +12,8 @@
   "methodologyURL": "https://github.com/DefiLlama/dimension-adapters/blob/master/fees/polygon.ts",
   "methodology": {
     "UserFees": "Gas fees paid by users",
-    "Fees": "Gas fees paid by users",
-    "Revenue": "Burned coins",
-    "fee": "Total Gas Fees on Polygon",
-    "revenue": "Total Revenue on Polygon, calculated by subtracting the L1 Batch Costs from the Total Gas Fees"
+    "Fees": "Total transaction fees paid by users",
+    "Revenue": "Total revenue on Polygon, calculated by subtracting the L1 Batch Costs from the total gas fees"
   },
   "gecko_id": "polygon-ecosystem-token",
   "forkedFrom": null,
@@ -39,10 +37,10 @@
   "latestFetchIsOk": true,
   "slug": "polygon",
   "protocolType": "chain",
-  "total24h": 8759,
-  "total48hto24h": 10939,
-  "total7d": 65098,
-  "totalAllTime": 78132959,
+  "total24h": 8835,
+  "total48hto24h": 7393,
+  "total7d": 64559,
+  "totalAllTime": 78165429,
   "totalDataChart": [
     [
       1616716800,
@@ -6151,6 +6149,22 @@
     [
       1748736000,
       8759
+    ],
+    [
+      1748822400,
+      6624
+    ],
+    [
+      1748908800,
+      9618
+    ],
+    [
+      1748995200,
+      7393
+    ],
+    [
+      1749081600,
+      8835
     ]
   ],
   "totalDataChartBreakdown": [
@@ -18369,7 +18383,39 @@
           "Polygon": 8759
         }
       }
+    ],
+    [
+      1748822400,
+      {
+        "polygon": {
+          "Polygon": 6624
+        }
+      }
+    ],
+    [
+      1748908800,
+      {
+        "polygon": {
+          "Polygon": 9618
+        }
+      }
+    ],
+    [
+      1748995200,
+      {
+        "polygon": {
+          "Polygon": 7393
+        }
+      }
+    ],
+    [
+      1749081600,
+      {
+        "polygon": {
+          "Polygon": 8835
+        }
+      }
     ]
   ],
-  "change_1d": -19.93
+  "change_1d": 19.5
 }

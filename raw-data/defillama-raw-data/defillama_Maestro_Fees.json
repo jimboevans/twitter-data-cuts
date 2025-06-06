@@ -23,7 +23,6 @@
   "module": "maestro",
   "twitter": "MaestroBots",
   "forkedFrom": [],
-  "oracles": [],
   "defillamaId": "3019",
   "disabled": false,
   "displayName": "Maestro",
@@ -42,10 +41,10 @@
   "latestFetchIsOk": true,
   "slug": "maestro",
   "protocolType": "protocol",
-  "total24h": 71305,
-  "total48hto24h": 0,
-  "total7d": 624846,
-  "totalAllTime": 114612456,
+  "total24h": 95287,
+  "total48hto24h": 85706,
+  "total7d": 571237,
+  "totalAllTime": 115000185,
   "totalDataChart": [
     [
       1656633600,
@@ -4274,6 +4273,22 @@
     [
       1748736000,
       71305
+    ],
+    [
+      1748822400,
+      101865
+    ],
+    [
+      1748908800,
+      104871
+    ],
+    [
+      1748995200,
+      85706
+    ],
+    [
+      1749081600,
+      95287
     ]
   ],
   "totalDataChartBreakdown": [
@@ -21102,6 +21117,87 @@
           "Maestro": 0
         }
       }
+    ],
+    [
+      1748822400,
+      {
+        "ethereum": {
+          "Maestro": 53885
+        },
+        "bsc": {
+          "Maestro": 7619
+        },
+        "arbitrum": {
+          "Maestro": 0
+        },
+        "solana": {
+          "Maestro": 36161
+        },
+        "base": {
+          "Maestro": 4200
+        },
+        "tron": {
+          "Maestro": 0
+        }
+      }
+    ],
+    [
+      1748908800,
+      {
+        "ethereum": {
+          "Maestro": 53995
+        },
+        "bsc": {
+          "Maestro": 9477
+        },
+        "arbitrum": {
+          "Maestro": 0
+        },
+        "solana": {
+          "Maestro": 38968
+        },
+        "base": {
+          "Maestro": 2431
+        },
+        "tron": {
+          "Maestro": 0
+        }
+      }
+    ],
+    [
+      1748995200,
+      {
+        "ethereum": {
+          "Maestro": 55954
+        },
+        "bsc": {
+          "Maestro": 564
+        },
+        "arbitrum": {
+          "Maestro": 0
+        },
+        "solana": {
+          "Maestro": 29188
+        }
+      }
+    ],
+    [
+      1749081600,
+      {
+        "ethereum": {
+          "Maestro": 43589
+        },
+        "bsc": {
+          "Maestro": 7663
+        },
+        "arbitrum": {
+          "Maestro": 0
+        },
+        "solana": {
+          "Maestro": 44035
+        }
+      }
     ]
-  ]
+  ],
+  "change_1d": 11.18
 }

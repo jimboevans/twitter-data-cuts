@@ -18,7 +18,6 @@
   "module": "gmgnai",
   "twitter": "gmgnai",
   "forkedFrom": [],
-  "oracles": [],
   "defillamaId": "5408",
   "disabled": false,
   "displayName": "GMGN",
@@ -37,10 +36,10 @@
   "latestFetchIsOk": true,
   "slug": "gmgn",
   "protocolType": "protocol",
-  "total24h": 116018,
-  "total48hto24h": 112786,
-  "total7d": 784844,
-  "totalAllTime": 54351894,
+  "total24h": 164062,
+  "total48hto24h": 102153,
+  "total7d": 874314,
+  "totalAllTime": 54879421,
   "totalDataChart": [
     [
       1732147200,
@@ -801,6 +800,22 @@
     [
       1748736000,
       116018
+    ],
+    [
+      1748822400,
+      128073
+    ],
+    [
+      1748908800,
+      133239
+    ],
+    [
+      1748995200,
+      102153
+    ],
+    [
+      1749081600,
+      164062
     ]
   ],
   "totalDataChartBreakdown": [
@@ -2323,7 +2338,39 @@
           "GMGN": 116018
         }
       }
+    ],
+    [
+      1748822400,
+      {
+        "solana": {
+          "GMGN": 128073
+        }
+      }
+    ],
+    [
+      1748908800,
+      {
+        "solana": {
+          "GMGN": 133239
+        }
+      }
+    ],
+    [
+      1748995200,
+      {
+        "solana": {
+          "GMGN": 102153
+        }
+      }
+    ],
+    [
+      1749081600,
+      {
+        "solana": {
+          "GMGN": 164062
+        }
+      }
     ]
   ],
-  "change_1d": 2.87
+  "change_1d": 60.6
 }

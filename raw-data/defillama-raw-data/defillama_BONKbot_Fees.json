@@ -19,7 +19,6 @@
   "twitter": "bonkbot_io",
   "forkedFrom": [],
   "audit_links": [],
-  "oracles": [],
   "listedAt": 1709494263,
   "defillamaId": "4227",
   "disabled": false,
@@ -39,10 +38,10 @@
   "latestFetchIsOk": true,
   "slug": "bonkbot",
   "protocolType": "protocol",
-  "total24h": 168825,
-  "total48hto24h": 147782,
-  "total7d": 1599614,
-  "totalAllTime": 189303825,
+  "total24h": 190549,
+  "total48hto24h": 131030,
+  "total7d": 1127098,
+  "totalAllTime": 189991758,
   "totalDataChart": [
     [
       1692748800,
@@ -2634,7 +2633,23 @@
     ],
     [
       1748822400,
-      168825
+      173378
+    ],
+    [
+      1748908800,
+      169677
+    ],
+    [
+      1748995200,
+      131030
+    ],
+    [
+      1749081600,
+      192124
+    ],
+    [
+      1749168000,
+      190549
     ]
   ],
   "totalDataChartBreakdown": [
@@ -7818,10 +7833,42 @@
       1748822400,
       {
         "solana": {
-          "BONKbot": 168825
+          "BONKbot": 173378
+        }
+      }
+    ],
+    [
+      1748908800,
+      {
+        "solana": {
+          "BONKbot": 169677
+        }
+      }
+    ],
+    [
+      1748995200,
+      {
+        "solana": {
+          "BONKbot": 131030
+        }
+      }
+    ],
+    [
+      1749081600,
+      {
+        "solana": {
+          "BONKbot": 192124
+        }
+      }
+    ],
+    [
+      1749168000,
+      {
+        "solana": {
+          "BONKbot": 190549
         }
       }
     ]
   ],
-  "change_1d": 14.24
+  "change_1d": 45.42
 }

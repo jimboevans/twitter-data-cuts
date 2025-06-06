@@ -12,7 +12,6 @@
   "gecko_id": "aimbot",
   "cmcId": "27852",
   "category": "Telegram Bot",
-  "oracles": [],
   "forkedFrom": [],
   "chains": [
     "Ethereum"
@@ -24,7 +23,10 @@
   "disabled": false,
   "displayName": "Aimbot",
   "methodologyURL": "https://github.com/DefiLlama/dimension-adapters/blob/master/fees/aimbot.ts",
-  "methodology": {},
+  "methodology": {
+    "Fees": "Fees paid by users while using the bot.",
+    "Revenue": "All fees are revenue."
+  },
   "audit_links": null,
   "versionKey": null,
   "github": null,

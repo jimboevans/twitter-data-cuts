@@ -12,7 +12,6 @@
   "gecko_id": null,
   "cmcId": null,
   "category": "Telegram Bot",
-  "oracles": [],
   "forkedFrom": [],
   "chains": [
     "Solana"
@@ -39,10 +38,10 @@
   "latestFetchIsOk": true,
   "slug": "mevx",
   "protocolType": "protocol",
-  "total24h": 10103,
-  "total48hto24h": 7292,
-  "total7d": 108157,
-  "totalAllTime": 6166004,
+  "total24h": 10961,
+  "total48hto24h": 11236,
+  "total7d": 74194,
+  "totalAllTime": 6213852,
   "totalDataChart": [
     [
       1722384000,
@@ -1270,7 +1269,23 @@
     ],
     [
       1748822400,
-      10103
+      11340
+    ],
+    [
+      1748908800,
+      13115
+    ],
+    [
+      1748995200,
+      11236
+    ],
+    [
+      1749081600,
+      11299
+    ],
+    [
+      1749168000,
+      10961
     ]
   ],
   "totalDataChartBreakdown": [
@@ -3726,10 +3741,42 @@
       1748822400,
       {
         "solana": {
-          "MEVX": 10103
+          "MEVX": 11340
+        }
+      }
+    ],
+    [
+      1748908800,
+      {
+        "solana": {
+          "MEVX": 13115
+        }
+      }
+    ],
+    [
+      1748995200,
+      {
+        "solana": {
+          "MEVX": 11236
+        }
+      }
+    ],
+    [
+      1749081600,
+      {
+        "solana": {
+          "MEVX": 11299
+        }
+      }
+    ],
+    [
+      1749168000,
+      {
+        "solana": {
+          "MEVX": 10961
         }
       }
     ]
   ],
-  "change_1d": 38.55
+  "change_1d": -2.45
 }

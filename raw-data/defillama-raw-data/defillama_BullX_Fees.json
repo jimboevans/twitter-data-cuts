@@ -18,7 +18,6 @@
   "module": "bullx",
   "twitter": "bullx_io",
   "forkedFrom": [],
-  "oracles": [],
   "defillamaId": "5407",
   "disabled": false,
   "displayName": "BullX",
@@ -37,10 +36,10 @@
   "latestFetchIsOk": true,
   "slug": "bullx",
   "protocolType": "protocol",
-  "total24h": 101198,
-  "total48hto24h": 90336,
-  "total7d": 755350,
-  "totalAllTime": 188039792,
+  "total24h": 698510,
+  "total48hto24h": 120231,
+  "total7d": 1333534,
+  "totalAllTime": 189681887,
   "totalDataChart": [
     [
       1720483200,
@@ -1348,7 +1347,23 @@
     ],
     [
       1748822400,
-      101198
+      103871
+    ],
+    [
+      1748908800,
+      117633
+    ],
+    [
+      1748995200,
+      120231
+    ],
+    [
+      1749081600,
+      703048
+    ],
+    [
+      1749168000,
+      698510
     ]
   ],
   "totalDataChartBreakdown": [
@@ -3964,10 +3979,42 @@
       1748822400,
       {
         "solana": {
-          "BullX": 101198
+          "BullX": 103871
+        }
+      }
+    ],
+    [
+      1748908800,
+      {
+        "solana": {
+          "BullX": 117633
+        }
+      }
+    ],
+    [
+      1748995200,
+      {
+        "solana": {
+          "BullX": 120231
+        }
+      }
+    ],
+    [
+      1749081600,
+      {
+        "solana": {
+          "BullX": 703048
+        }
+      }
+    ],
+    [
+      1749168000,
+      {
+        "solana": {
+          "BullX": 698510
         }
       }
     ]
   ],
-  "change_1d": 12.02
+  "change_1d": 480.97
 }

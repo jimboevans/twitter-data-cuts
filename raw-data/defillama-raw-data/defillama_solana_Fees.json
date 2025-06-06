@@ -12,8 +12,9 @@
   "methodologyURL": "https://github.com/DefiLlama/dimension-adapters/blob/master/fees/solana.ts",
   "methodology": {
     "UserFees": "Gas fees paid by users",
-    "Fees": "Gas fees paid by users",
-    "Revenue": "Burned coins"
+    "Fees": "Transaction fees paid by users",
+    "Revenue": "Transaction base fees paid by users",
+    "HoldersRevenue": "Transaction base fees paid by users were burned"
   },
   "gecko_id": "solana",
   "forkedFrom": null,
@@ -36,10 +37,10 @@
   "latestFetchIsOk": true,
   "slug": "solana",
   "protocolType": "chain",
-  "total24h": 1038549,
-  "total48hto24h": 995225,
-  "total7d": 8443395,
-  "totalAllTime": 1209432196,
+  "total24h": 1296293,
+  "total48hto24h": 1163571,
+  "total7d": 8106171,
+  "totalAllTime": 1214690255,
   "totalDataChart": [
     [
       1610841600,
@@ -6423,7 +6424,23 @@
     ],
     [
       1748822400,
-      1038549
+      1195974
+    ],
+    [
+      1748908800,
+      1213132
+    ],
+    [
+      1748995200,
+      1163571
+    ],
+    [
+      1749081600,
+      1427638
+    ],
+    [
+      1749168000,
+      1296293
     ]
   ],
   "totalDataChartBreakdown": [
@@ -19191,10 +19208,42 @@
       1748822400,
       {
         "solana": {
-          "Solana": 1038549
+          "Solana": 1195974
+        }
+      }
+    ],
+    [
+      1748908800,
+      {
+        "solana": {
+          "Solana": 1213132
+        }
+      }
+    ],
+    [
+      1748995200,
+      {
+        "solana": {
+          "Solana": 1163571
+        }
+      }
+    ],
+    [
+      1749081600,
+      {
+        "solana": {
+          "Solana": 1427638
+        }
+      }
+    ],
+    [
+      1749168000,
+      {
+        "solana": {
+          "Solana": 1296293
         }
       }
     ]
   ],
-  "change_1d": 4.35
+  "change_1d": 11.41
 }

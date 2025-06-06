@@ -24,6 +24,7 @@
   "methodology": {
     "Fees": "All trading fees paid by users.",
     "Revenue": "All trading fees paid by users.",
+    "HoldersRevenue": "Fees distributed to token holders",
     "ProtocolRevenue": "All trading fees paid by users."
   },
   "forkedFrom": null,
@@ -37,10 +38,10 @@
   "latestFetchIsOk": true,
   "slug": "unibot",
   "protocolType": "protocol",
-  "total24h": 887,
-  "total48hto24h": 663,
-  "total7d": 8201,
-  "totalAllTime": 7315526,
+  "total24h": 1315,
+  "total48hto24h": 4029,
+  "total7d": 11401,
+  "totalAllTime": 7324291,
   "totalDataChart": [
     [
       1685059200,
@@ -2989,6 +2990,22 @@
     [
       1748736000,
       887
+    ],
+    [
+      1748822400,
+      1514
+    ],
+    [
+      1748908800,
+      1907
+    ],
+    [
+      1748995200,
+      4029
+    ],
+    [
+      1749081600,
+      1315
     ]
   ],
   "totalDataChartBreakdown": [
@@ -8887,7 +8904,39 @@
           "Unibot": 887
         }
       }
+    ],
+    [
+      1748822400,
+      {
+        "ethereum": {
+          "Unibot": 1514
+        }
+      }
+    ],
+    [
+      1748908800,
+      {
+        "ethereum": {
+          "Unibot": 1907
+        }
+      }
+    ],
+    [
+      1748995200,
+      {
+        "ethereum": {
+          "Unibot": 4029
+        }
+      }
+    ],
+    [
+      1749081600,
+      {
+        "ethereum": {
+          "Unibot": 1315
+        }
+      }
     ]
   ],
-  "change_1d": 33.79
+  "change_1d": -67.36
 }

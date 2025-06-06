@@ -12,8 +12,9 @@
   "methodologyURL": "https://github.com/DefiLlama/dimension-adapters/blob/master/fees/bsc.ts",
   "methodology": {
     "UserFees": "Gas fees paid by users",
-    "Fees": "Gas fees paid by users",
-    "Revenue": "Burned coins"
+    "Fees": "Transaction fees paid by users",
+    "Revenue": "Amount of 10% BNB transaction fees that were burned",
+    "HoldersRevenue": "Amount of 10% BNB transaction fees that were burned"
   },
   "gecko_id": "binancecoin",
   "forkedFrom": null,
@@ -36,10 +37,10 @@
   "latestFetchIsOk": true,
   "slug": "bsc",
   "protocolType": "chain",
-  "total24h": 446455,
-  "total48hto24h": 456779,
-  "total7d": 3539584,
-  "totalAllTime": 1802370809,
+  "total24h": 555761,
+  "total48hto24h": 542536,
+  "total7d": 3638410,
+  "totalAllTime": 1804610179,
   "totalDataChart": [
     [
       1598745600,
@@ -6988,6 +6989,22 @@
     [
       1748736000,
       446455
+    ],
+    [
+      1748822400,
+      517715
+    ],
+    [
+      1748908800,
+      623358
+    ],
+    [
+      1748995200,
+      542536
+    ],
+    [
+      1749081600,
+      555761
     ]
   ],
   "totalDataChartBreakdown": [
@@ -20886,7 +20903,39 @@
           "BSC": 446455
         }
       }
+    ],
+    [
+      1748822400,
+      {
+        "bsc": {
+          "BSC": 517715
+        }
+      }
+    ],
+    [
+      1748908800,
+      {
+        "bsc": {
+          "BSC": 623358
+        }
+      }
+    ],
+    [
+      1748995200,
+      {
+        "bsc": {
+          "BSC": 542536
+        }
+      }
+    ],
+    [
+      1749081600,
+      {
+        "bsc": {
+          "BSC": 555761
+        }
+      }
     ]
   ],
-  "change_1d": -2.26
+  "change_1d": 2.44
 }

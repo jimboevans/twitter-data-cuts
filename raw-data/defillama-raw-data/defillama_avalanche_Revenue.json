@@ -12,8 +12,9 @@
   "methodologyURL": "https://github.com/DefiLlama/dimension-adapters/blob/master/fees/avalanche.ts",
   "methodology": {
     "UserFees": "Gas fees paid by users",
-    "Fees": "Gas fees paid by users",
-    "Revenue": "Burned coins"
+    "Fees": "Transaction fees paid by users",
+    "Revenue": "Amount of AVAX transaction fees that were burned",
+    "HoldersRevenue": "Amount of AVAX transaction fees that were burned"
   },
   "gecko_id": "avalanche-2",
   "forkedFrom": null,
@@ -36,10 +37,10 @@
   "latestFetchIsOk": true,
   "slug": "avalanche",
   "protocolType": "chain",
-  "total24h": 18199,
-  "total48hto24h": 13540,
-  "total7d": 95225,
-  "totalAllTime": 84380052,
+  "total24h": 76504,
+  "total48hto24h": 13909,
+  "total7d": 170826,
+  "totalAllTime": 84551791,
   "totalDataChart": [
     [
       1667865600,
@@ -3791,7 +3792,23 @@
     ],
     [
       1748822400,
-      18199
+      19477
+    ],
+    [
+      1748908800,
+      8855
+    ],
+    [
+      1748995200,
+      13909
+    ],
+    [
+      1749081600,
+      71193
+    ],
+    [
+      1749168000,
+      76504
     ]
   ],
   "totalDataChartBreakdown": [
@@ -11295,10 +11312,42 @@
       1748822400,
       {
         "avax": {
-          "Avalanche": 18199
+          "Avalanche": 19477
+        }
+      }
+    ],
+    [
+      1748908800,
+      {
+        "avax": {
+          "Avalanche": 8855
+        }
+      }
+    ],
+    [
+      1748995200,
+      {
+        "avax": {
+          "Avalanche": 13909
+        }
+      }
+    ],
+    [
+      1749081600,
+      {
+        "avax": {
+          "Avalanche": 71193
+        }
+      }
+    ],
+    [
+      1749168000,
+      {
+        "avax": {
+          "Avalanche": 76504
         }
       }
     ]
   ],
-  "change_1d": 34.41
+  "change_1d": 450.03
 }

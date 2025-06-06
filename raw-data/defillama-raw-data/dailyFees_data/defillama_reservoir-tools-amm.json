@@ -1,0 +1,3214 @@
+{
+  "id": "5678",
+  "name": "Reservoir Tools AMM",
+  "address": null,
+  "symbol": "-",
+  "url": "https://swap.reservoir.tools/#/swap",
+  "description": "Uniswap V2 fork",
+  "chain": "Abstract",
+  "logo": "https://icons.llamao.fi/icons/protocols/reservoir-tools.png",
+  "audits": "0",
+  "audit_note": null,
+  "gecko_id": null,
+  "cmcId": null,
+  "category": "Dexs",
+  "chains": [
+    "Ink",
+    "Zero Network",
+    "Shape",
+    "Abstract"
+  ],
+  "module": "reservoir-tools-amm",
+  "twitter": "reservoir0x",
+  "forkedFromIds": [
+    "2197"
+  ],
+  "parentProtocol": "parent#reservoir-tools",
+  "listedAt": 1738007753,
+  "defillamaId": "5678",
+  "disabled": false,
+  "displayName": "Reservoir Tools AMM",
+  "methodologyURL": "https://github.com/DefiLlama/dimension-adapters/blob/master/dexs/reservoir-tools-amm.ts",
+  "methodology": {
+    "UserFees": "Swap fees paid by users",
+    "Fees": "Swap fees paid by users",
+    "Revenue": "Percentage of swap fees going to treasury and/or token holders",
+    "ProtocolRevenue": "Percentage of swap fees going to treasury",
+    "HoldersRevenue": "Money going to governance token holders",
+    "SupplySideRevenue": "Liquidity providers revenue"
+  },
+  "forkedFrom": null,
+  "audit_links": null,
+  "versionKey": null,
+  "github": null,
+  "governanceID": null,
+  "treasury": null,
+  "previousNames": null,
+  "latestFetchIsOk": true,
+  "slug": "reservoir-tools-amm",
+  "protocolType": "protocol",
+  "linkedProtocols": [
+    "Reservoir Tools",
+    "Reservoir Tools AMM",
+    "Reservoir Tools CLMM"
+  ],
+  "total24h": 21228,
+  "total48hto24h": 8551,
+  "total7d": 106245,
+  "totalAllTime": 1968889,
+  "totalDataChart": [
+    [
+      1736294400,
+      100
+    ],
+    [
+      1736380800,
+      154
+    ],
+    [
+      1736467200,
+      107
+    ],
+    [
+      1736553600,
+      80
+    ],
+    [
+      1736640000,
+      69
+    ],
+    [
+      1736726400,
+      258
+    ],
+    [
+      1736812800,
+      135
+    ],
+    [
+      1736899200,
+      132
+    ],
+    [
+      1736985600,
+      117
+    ],
+    [
+      1737072000,
+      87
+    ],
+    [
+      1737158400,
+      204
+    ],
+    [
+      1737244800,
+      280
+    ],
+    [
+      1737331200,
+      254
+    ],
+    [
+      1737417600,
+      97
+    ],
+    [
+      1737504000,
+      122
+    ],
+    [
+      1737590400,
+      133
+    ],
+    [
+      1737676800,
+      77
+    ],
+    [
+      1737763200,
+      63
+    ],
+    [
+      1737849600,
+      73
+    ],
+    [
+      1737936000,
+      56633
+    ],
+    [
+      1738022400,
+      19516
+    ],
+    [
+      1738108800,
+      9654
+    ],
+    [
+      1738195200,
+      11043
+    ],
+    [
+      1738281600,
+      9368
+    ],
+    [
+      1738368000,
+      10873
+    ],
+    [
+      1738454400,
+      6924
+    ],
+    [
+      1738540800,
+      6764
+    ],
+    [
+      1738627200,
+      8152
+    ],
+    [
+      1738713600,
+      4596
+    ],
+    [
+      1738800000,
+      2344
+    ],
+    [
+      1738886400,
+      2183
+    ],
+    [
+      1738972800,
+      6564
+    ],
+    [
+      1739059200,
+      1562
+    ],
+    [
+      1739145600,
+      1540
+    ],
+    [
+      1739232000,
+      1656
+    ],
+    [
+      1739318400,
+      1331
+    ],
+    [
+      1739404800,
+      896
+    ],
+    [
+      1739491200,
+      1069
+    ],
+    [
+      1739577600,
+      962
+    ],
+    [
+      1739664000,
+      506
+    ],
+    [
+      1739750400,
+      906
+    ],
+    [
+      1739836800,
+      1259
+    ],
+    [
+      1739923200,
+      686
+    ],
+    [
+      1740009600,
+      613
+    ],
+    [
+      1740096000,
+      8756
+    ],
+    [
+      1740182400,
+      3083
+    ],
+    [
+      1740268800,
+      2641
+    ],
+    [
+      1740355200,
+      2061
+    ],
+    [
+      1740441600,
+      2865
+    ],
+    [
+      1740528000,
+      2111
+    ],
+    [
+      1740614400,
+      2949
+    ],
+    [
+      1740700800,
+      2690
+    ],
+    [
+      1740787200,
+      3125
+    ],
+    [
+      1740873600,
+      4847
+    ],
+    [
+      1740960000,
+      2930
+    ],
+    [
+      1741046400,
+      3739
+    ],
+    [
+      1741132800,
+      2184
+    ],
+    [
+      1741219200,
+      4920
+    ],
+    [
+      1741305600,
+      4138
+    ],
+    [
+      1741392000,
+      2940
+    ],
+    [
+      1741478400,
+      2901
+    ],
+    [
+      1741564800,
+      4837
+    ],
+    [
+      1741651200,
+      3263
+    ],
+    [
+      1741737600,
+      2585
+    ],
+    [
+      1741824000,
+      3508
+    ],
+    [
+      1741910400,
+      4505
+    ],
+    [
+      1741996800,
+      1896
+    ],
+    [
+      1742083200,
+      2952
+    ],
+    [
+      1742169600,
+      2622
+    ],
+    [
+      1742256000,
+      2307
+    ],
+    [
+      1742342400,
+      2324
+    ],
+    [
+      1742428800,
+      1557
+    ],
+    [
+      1742515200,
+      1317
+    ],
+    [
+      1742601600,
+      1426
+    ],
+    [
+      1742688000,
+      1431
+    ],
+    [
+      1742774400,
+      1872
+    ],
+    [
+      1742860800,
+      2025
+    ],
+    [
+      1742947200,
+      4034
+    ],
+    [
+      1743033600,
+      4759
+    ],
+    [
+      1743120000,
+      4685
+    ],
+    [
+      1743206400,
+      4528
+    ],
+    [
+      1743292800,
+      3827
+    ],
+    [
+      1743379200,
+      4899
+    ],
+    [
+      1743465600,
+      4188
+    ],
+    [
+      1743552000,
+      8239
+    ],
+    [
+      1743638400,
+      10462
+    ],
+    [
+      1743724800,
+      6052
+    ],
+    [
+      1743811200,
+      3551
+    ],
+    [
+      1743897600,
+      6351
+    ],
+    [
+      1743984000,
+      7157
+    ],
+    [
+      1744070400,
+      8375
+    ],
+    [
+      1744156800,
+      8089
+    ],
+    [
+      1744243200,
+      7897
+    ],
+    [
+      1744329600,
+      18131
+    ],
+    [
+      1744416000,
+      15027
+    ],
+    [
+      1744502400,
+      15836
+    ],
+    [
+      1744588800,
+      15473
+    ],
+    [
+      1744675200,
+      22228
+    ],
+    [
+      1744761600,
+      20618
+    ],
+    [
+      1744848000,
+      15729
+    ],
+    [
+      1744934400,
+      10507
+    ],
+    [
+      1745020800,
+      11148
+    ],
+    [
+      1745107200,
+      19050
+    ],
+    [
+      1745193600,
+      27990
+    ],
+    [
+      1745280000,
+      31791
+    ],
+    [
+      1745366400,
+      34184
+    ],
+    [
+      1745452800,
+      43909
+    ],
+    [
+      1745539200,
+      32964
+    ],
+    [
+      1745625600,
+      21653
+    ],
+    [
+      1745712000,
+      32326
+    ],
+    [
+      1745798400,
+      40346
+    ],
+    [
+      1745884800,
+      38067
+    ],
+    [
+      1745971200,
+      37867
+    ],
+    [
+      1746057600,
+      36884
+    ],
+    [
+      1746144000,
+      20592
+    ],
+    [
+      1746230400,
+      18829
+    ],
+    [
+      1746316800,
+      31010
+    ],
+    [
+      1746403200,
+      29613
+    ],
+    [
+      1746489600,
+      22675
+    ],
+    [
+      1746576000,
+      29215
+    ],
+    [
+      1746662400,
+      18255
+    ],
+    [
+      1746748800,
+      20511
+    ],
+    [
+      1746835200,
+      21795
+    ],
+    [
+      1746921600,
+      23414
+    ],
+    [
+      1747008000,
+      32787
+    ],
+    [
+      1747094400,
+      55955
+    ],
+    [
+      1747180800,
+      46626
+    ],
+    [
+      1747267200,
+      38571
+    ],
+    [
+      1747353600,
+      37994
+    ],
+    [
+      1747440000,
+      36448
+    ],
+    [
+      1747526400,
+      45390
+    ],
+    [
+      1747612800,
+      49959
+    ],
+    [
+      1747699200,
+      61042
+    ],
+    [
+      1747785600,
+      45120
+    ],
+    [
+      1747872000,
+      49734
+    ],
+    [
+      1747958400,
+      29397
+    ],
+    [
+      1748044800,
+      12138
+    ],
+    [
+      1748131200,
+      4968
+    ],
+    [
+      1748217600,
+      37060
+    ],
+    [
+      1748304000,
+      35980
+    ],
+    [
+      1748390400,
+      36568
+    ],
+    [
+      1748476800,
+      33332
+    ],
+    [
+      1748563200,
+      30448
+    ],
+    [
+      1748649600,
+      15967
+    ],
+    [
+      1748736000,
+      5106
+    ],
+    [
+      1748822400,
+      13472
+    ],
+    [
+      1748908800,
+      8185
+    ],
+    [
+      1748995200,
+      8551
+    ],
+    [
+      1749081600,
+      24516
+    ],
+    [
+      1749168000,
+      21228
+    ]
+  ],
+  "totalDataChartBreakdown": [
+    [
+      1736294400,
+      {
+        "ink": {
+          "Reservoir Tools AMM": 0
+        },
+        "zero_network": {
+          "Reservoir Tools AMM": 100
+        },
+        "shape": {
+          "Reservoir Tools AMM": 0
+        },
+        "abstract": {
+          "Reservoir Tools AMM": 0
+        }
+      }
+    ],
+    [
+      1736380800,
+      {
+        "ink": {
+          "Reservoir Tools AMM": 0
+        },
+        "zero_network": {
+          "Reservoir Tools AMM": 154
+        },
+        "shape": {
+          "Reservoir Tools AMM": 0
+        },
+        "abstract": {
+          "Reservoir Tools AMM": 0
+        }
+      }
+    ],
+    [
+      1736467200,
+      {
+        "ink": {
+          "Reservoir Tools AMM": 0
+        },
+        "zero_network": {
+          "Reservoir Tools AMM": 107
+        },
+        "shape": {
+          "Reservoir Tools AMM": 0
+        },
+        "abstract": {
+          "Reservoir Tools AMM": 0
+        }
+      }
+    ],
+    [
+      1736553600,
+      {
+        "ink": {
+          "Reservoir Tools AMM": 0
+        },
+        "zero_network": {
+          "Reservoir Tools AMM": 80
+        },
+        "shape": {
+          "Reservoir Tools AMM": 0
+        },
+        "abstract": {
+          "Reservoir Tools AMM": 0
+        }
+      }
+    ],
+    [
+      1736640000,
+      {
+        "ink": {
+          "Reservoir Tools AMM": 0
+        },
+        "zero_network": {
+          "Reservoir Tools AMM": 69
+        },
+        "shape": {
+          "Reservoir Tools AMM": 0
+        },
+        "abstract": {
+          "Reservoir Tools AMM": 0
+        }
+      }
+    ],
+    [
+      1736726400,
+      {
+        "ink": {
+          "Reservoir Tools AMM": 0
+        },
+        "zero_network": {
+          "Reservoir Tools AMM": 258
+        },
+        "shape": {
+          "Reservoir Tools AMM": 0
+        },
+        "abstract": {
+          "Reservoir Tools AMM": 0
+        }
+      }
+    ],
+    [
+      1736812800,
+      {
+        "ink": {
+          "Reservoir Tools AMM": 0
+        },
+        "zero_network": {
+          "Reservoir Tools AMM": 135
+        },
+        "shape": {
+          "Reservoir Tools AMM": 0
+        },
+        "abstract": {
+          "Reservoir Tools AMM": 0
+        }
+      }
+    ],
+    [
+      1736899200,
+      {
+        "ink": {
+          "Reservoir Tools AMM": 0
+        },
+        "zero_network": {
+          "Reservoir Tools AMM": 132
+        },
+        "shape": {
+          "Reservoir Tools AMM": 0
+        },
+        "abstract": {
+          "Reservoir Tools AMM": 0
+        }
+      }
+    ],
+    [
+      1736985600,
+      {
+        "ink": {
+          "Reservoir Tools AMM": 0
+        },
+        "zero_network": {
+          "Reservoir Tools AMM": 117
+        },
+        "shape": {
+          "Reservoir Tools AMM": 0
+        },
+        "abstract": {
+          "Reservoir Tools AMM": 0
+        }
+      }
+    ],
+    [
+      1737072000,
+      {
+        "ink": {
+          "Reservoir Tools AMM": 0
+        },
+        "zero_network": {
+          "Reservoir Tools AMM": 82
+        },
+        "shape": {
+          "Reservoir Tools AMM": 0
+        },
+        "abstract": {
+          "Reservoir Tools AMM": 5
+        }
+      }
+    ],
+    [
+      1737158400,
+      {
+        "ink": {
+          "Reservoir Tools AMM": 0
+        },
+        "zero_network": {
+          "Reservoir Tools AMM": 204
+        },
+        "shape": {
+          "Reservoir Tools AMM": 0
+        },
+        "abstract": {
+          "Reservoir Tools AMM": 0
+        }
+      }
+    ],
+    [
+      1737244800,
+      {
+        "ink": {
+          "Reservoir Tools AMM": 0
+        },
+        "zero_network": {
+          "Reservoir Tools AMM": 280
+        },
+        "shape": {
+          "Reservoir Tools AMM": 0
+        },
+        "abstract": {
+          "Reservoir Tools AMM": 0
+        }
+      }
+    ],
+    [
+      1737331200,
+      {
+        "ink": {
+          "Reservoir Tools AMM": 0
+        },
+        "zero_network": {
+          "Reservoir Tools AMM": 254
+        },
+        "shape": {
+          "Reservoir Tools AMM": 0
+        },
+        "abstract": {
+          "Reservoir Tools AMM": 0
+        }
+      }
+    ],
+    [
+      1737417600,
+      {
+        "ink": {
+          "Reservoir Tools AMM": 0
+        },
+        "zero_network": {
+          "Reservoir Tools AMM": 97
+        },
+        "shape": {
+          "Reservoir Tools AMM": 0
+        },
+        "abstract": {
+          "Reservoir Tools AMM": 0
+        }
+      }
+    ],
+    [
+      1737504000,
+      {
+        "ink": {
+          "Reservoir Tools AMM": 0
+        },
+        "zero_network": {
+          "Reservoir Tools AMM": 122
+        },
+        "shape": {
+          "Reservoir Tools AMM": 0
+        },
+        "abstract": {
+          "Reservoir Tools AMM": 0
+        }
+      }
+    ],
+    [
+      1737590400,
+      {
+        "ink": {
+          "Reservoir Tools AMM": 0
+        },
+        "zero_network": {
+          "Reservoir Tools AMM": 132
+        },
+        "shape": {
+          "Reservoir Tools AMM": 0
+        },
+        "abstract": {
+          "Reservoir Tools AMM": 1
+        }
+      }
+    ],
+    [
+      1737676800,
+      {
+        "ink": {
+          "Reservoir Tools AMM": 0
+        },
+        "zero_network": {
+          "Reservoir Tools AMM": 77
+        },
+        "shape": {
+          "Reservoir Tools AMM": 0
+        },
+        "abstract": {
+          "Reservoir Tools AMM": 0
+        }
+      }
+    ],
+    [
+      1737763200,
+      {
+        "ink": {
+          "Reservoir Tools AMM": 0
+        },
+        "zero_network": {
+          "Reservoir Tools AMM": 60
+        },
+        "shape": {
+          "Reservoir Tools AMM": 0
+        },
+        "abstract": {
+          "Reservoir Tools AMM": 3
+        }
+      }
+    ],
+    [
+      1737849600,
+      {
+        "ink": {
+          "Reservoir Tools AMM": 0
+        },
+        "zero_network": {
+          "Reservoir Tools AMM": 73
+        },
+        "shape": {
+          "Reservoir Tools AMM": 0
+        },
+        "abstract": {
+          "Reservoir Tools AMM": 0
+        }
+      }
+    ],
+    [
+      1737936000,
+      {
+        "ink": {
+          "Reservoir Tools AMM": 0
+        },
+        "zero_network": {
+          "Reservoir Tools AMM": 186
+        },
+        "shape": {
+          "Reservoir Tools AMM": 0
+        },
+        "abstract": {
+          "Reservoir Tools AMM": 56447
+        }
+      }
+    ],
+    [
+      1738022400,
+      {
+        "ink": {
+          "Reservoir Tools AMM": 0
+        },
+        "zero_network": {
+          "Reservoir Tools AMM": 74
+        },
+        "shape": {
+          "Reservoir Tools AMM": 0
+        },
+        "abstract": {
+          "Reservoir Tools AMM": 19442
+        }
+      }
+    ],
+    [
+      1738108800,
+      {
+        "ink": {
+          "Reservoir Tools AMM": 0
+        },
+        "zero_network": {
+          "Reservoir Tools AMM": 107
+        },
+        "shape": {
+          "Reservoir Tools AMM": 0
+        },
+        "abstract": {
+          "Reservoir Tools AMM": 9547
+        }
+      }
+    ],
+    [
+      1738195200,
+      {
+        "ink": {
+          "Reservoir Tools AMM": 0
+        },
+        "zero_network": {
+          "Reservoir Tools AMM": 81
+        },
+        "shape": {
+          "Reservoir Tools AMM": 0
+        },
+        "abstract": {
+          "Reservoir Tools AMM": 10962
+        }
+      }
+    ],
+    [
+      1738281600,
+      {
+        "ink": {
+          "Reservoir Tools AMM": 0
+        },
+        "zero_network": {
+          "Reservoir Tools AMM": 111
+        },
+        "shape": {
+          "Reservoir Tools AMM": 0
+        },
+        "abstract": {
+          "Reservoir Tools AMM": 9257
+        }
+      }
+    ],
+    [
+      1738368000,
+      {
+        "ink": {
+          "Reservoir Tools AMM": 0
+        },
+        "zero_network": {
+          "Reservoir Tools AMM": 54
+        },
+        "shape": {
+          "Reservoir Tools AMM": 0
+        },
+        "abstract": {
+          "Reservoir Tools AMM": 10819
+        }
+      }
+    ],
+    [
+      1738454400,
+      {
+        "ink": {
+          "Reservoir Tools AMM": 0
+        },
+        "zero_network": {
+          "Reservoir Tools AMM": 149
+        },
+        "shape": {
+          "Reservoir Tools AMM": 0
+        },
+        "abstract": {
+          "Reservoir Tools AMM": 6775
+        }
+      }
+    ],
+    [
+      1738540800,
+      {
+        "ink": {
+          "Reservoir Tools AMM": 0
+        },
+        "zero_network": {
+          "Reservoir Tools AMM": 394
+        },
+        "shape": {
+          "Reservoir Tools AMM": 0
+        },
+        "abstract": {
+          "Reservoir Tools AMM": 6370
+        }
+      }
+    ],
+    [
+      1738627200,
+      {
+        "ink": {
+          "Reservoir Tools AMM": 0
+        },
+        "zero_network": {
+          "Reservoir Tools AMM": 260
+        },
+        "shape": {
+          "Reservoir Tools AMM": 0
+        },
+        "abstract": {
+          "Reservoir Tools AMM": 7892
+        }
+      }
+    ],
+    [
+      1738713600,
+      {
+        "ink": {
+          "Reservoir Tools AMM": 0
+        },
+        "zero_network": {
+          "Reservoir Tools AMM": 189
+        },
+        "shape": {
+          "Reservoir Tools AMM": 0
+        },
+        "abstract": {
+          "Reservoir Tools AMM": 4407
+        }
+      }
+    ],
+    [
+      1738800000,
+      {
+        "ink": {
+          "Reservoir Tools AMM": 0
+        },
+        "zero_network": {
+          "Reservoir Tools AMM": 116
+        },
+        "shape": {
+          "Reservoir Tools AMM": 0
+        },
+        "abstract": {
+          "Reservoir Tools AMM": 2228
+        }
+      }
+    ],
+    [
+      1738886400,
+      {
+        "ink": {
+          "Reservoir Tools AMM": 0
+        },
+        "zero_network": {
+          "Reservoir Tools AMM": 118
+        },
+        "shape": {
+          "Reservoir Tools AMM": 0
+        },
+        "abstract": {
+          "Reservoir Tools AMM": 2065
+        }
+      }
+    ],
+    [
+      1738972800,
+      {
+        "ink": {
+          "Reservoir Tools AMM": 0
+        },
+        "zero_network": {
+          "Reservoir Tools AMM": 142
+        },
+        "shape": {
+          "Reservoir Tools AMM": 0
+        },
+        "abstract": {
+          "Reservoir Tools AMM": 6422
+        }
+      }
+    ],
+    [
+      1739059200,
+      {
+        "ink": {
+          "Reservoir Tools AMM": 0
+        },
+        "zero_network": {
+          "Reservoir Tools AMM": 72
+        },
+        "shape": {
+          "Reservoir Tools AMM": 0
+        },
+        "abstract": {
+          "Reservoir Tools AMM": 1490
+        }
+      }
+    ],
+    [
+      1739145600,
+      {
+        "ink": {
+          "Reservoir Tools AMM": 0
+        },
+        "zero_network": {
+          "Reservoir Tools AMM": 90
+        },
+        "shape": {
+          "Reservoir Tools AMM": 0
+        },
+        "abstract": {
+          "Reservoir Tools AMM": 1450
+        }
+      }
+    ],
+    [
+      1739232000,
+      {
+        "ink": {
+          "Reservoir Tools AMM": 0
+        },
+        "zero_network": {
+          "Reservoir Tools AMM": 57
+        },
+        "shape": {
+          "Reservoir Tools AMM": 0
+        },
+        "abstract": {
+          "Reservoir Tools AMM": 1599
+        }
+      }
+    ],
+    [
+      1739318400,
+      {
+        "ink": {
+          "Reservoir Tools AMM": 0
+        },
+        "zero_network": {
+          "Reservoir Tools AMM": 99
+        },
+        "shape": {
+          "Reservoir Tools AMM": 0
+        },
+        "abstract": {
+          "Reservoir Tools AMM": 1232
+        }
+      }
+    ],
+    [
+      1739404800,
+      {
+        "ink": {
+          "Reservoir Tools AMM": 0
+        },
+        "zero_network": {
+          "Reservoir Tools AMM": 77
+        },
+        "shape": {
+          "Reservoir Tools AMM": 0
+        },
+        "abstract": {
+          "Reservoir Tools AMM": 819
+        }
+      }
+    ],
+    [
+      1739491200,
+      {
+        "ink": {
+          "Reservoir Tools AMM": 0
+        },
+        "zero_network": {
+          "Reservoir Tools AMM": 103
+        },
+        "shape": {
+          "Reservoir Tools AMM": 0
+        },
+        "abstract": {
+          "Reservoir Tools AMM": 966
+        }
+      }
+    ],
+    [
+      1739577600,
+      {
+        "ink": {
+          "Reservoir Tools AMM": 0
+        },
+        "zero_network": {
+          "Reservoir Tools AMM": 38
+        },
+        "shape": {
+          "Reservoir Tools AMM": 0
+        },
+        "abstract": {
+          "Reservoir Tools AMM": 924
+        }
+      }
+    ],
+    [
+      1739664000,
+      {
+        "ink": {
+          "Reservoir Tools AMM": 0
+        },
+        "zero_network": {
+          "Reservoir Tools AMM": 40
+        },
+        "shape": {
+          "Reservoir Tools AMM": 0
+        },
+        "abstract": {
+          "Reservoir Tools AMM": 466
+        }
+      }
+    ],
+    [
+      1739750400,
+      {
+        "ink": {
+          "Reservoir Tools AMM": 0
+        },
+        "zero_network": {
+          "Reservoir Tools AMM": 153
+        },
+        "shape": {
+          "Reservoir Tools AMM": 0
+        },
+        "abstract": {
+          "Reservoir Tools AMM": 753
+        }
+      }
+    ],
+    [
+      1739836800,
+      {
+        "ink": {
+          "Reservoir Tools AMM": 0
+        },
+        "zero_network": {
+          "Reservoir Tools AMM": 95
+        },
+        "shape": {
+          "Reservoir Tools AMM": 0
+        },
+        "abstract": {
+          "Reservoir Tools AMM": 1164
+        }
+      }
+    ],
+    [
+      1739923200,
+      {
+        "ink": {
+          "Reservoir Tools AMM": 0
+        },
+        "zero_network": {
+          "Reservoir Tools AMM": 54
+        },
+        "shape": {
+          "Reservoir Tools AMM": 0
+        },
+        "abstract": {
+          "Reservoir Tools AMM": 632
+        }
+      }
+    ],
+    [
+      1740009600,
+      {
+        "ink": {
+          "Reservoir Tools AMM": 0
+        },
+        "zero_network": {
+          "Reservoir Tools AMM": 47
+        },
+        "shape": {
+          "Reservoir Tools AMM": 0
+        },
+        "abstract": {
+          "Reservoir Tools AMM": 566
+        }
+      }
+    ],
+    [
+      1740096000,
+      {
+        "ink": {
+          "Reservoir Tools AMM": 0
+        },
+        "zero_network": {
+          "Reservoir Tools AMM": 164
+        },
+        "shape": {
+          "Reservoir Tools AMM": 0
+        },
+        "abstract": {
+          "Reservoir Tools AMM": 8592
+        }
+      }
+    ],
+    [
+      1740182400,
+      {
+        "ink": {
+          "Reservoir Tools AMM": 0
+        },
+        "zero_network": {
+          "Reservoir Tools AMM": 62
+        },
+        "shape": {
+          "Reservoir Tools AMM": 0
+        },
+        "abstract": {
+          "Reservoir Tools AMM": 3021
+        }
+      }
+    ],
+    [
+      1740268800,
+      {
+        "ink": {
+          "Reservoir Tools AMM": 0
+        },
+        "zero_network": {
+          "Reservoir Tools AMM": 76
+        },
+        "shape": {
+          "Reservoir Tools AMM": 0
+        },
+        "abstract": {
+          "Reservoir Tools AMM": 2565
+        }
+      }
+    ],
+    [
+      1740355200,
+      {
+        "ink": {
+          "Reservoir Tools AMM": 0
+        },
+        "zero_network": {
+          "Reservoir Tools AMM": 120
+        },
+        "shape": {
+          "Reservoir Tools AMM": 0
+        },
+        "abstract": {
+          "Reservoir Tools AMM": 1941
+        }
+      }
+    ],
+    [
+      1740441600,
+      {
+        "ink": {
+          "Reservoir Tools AMM": 0
+        },
+        "zero_network": {
+          "Reservoir Tools AMM": 170
+        },
+        "shape": {
+          "Reservoir Tools AMM": 0
+        },
+        "abstract": {
+          "Reservoir Tools AMM": 2695
+        }
+      }
+    ],
+    [
+      1740528000,
+      {
+        "ink": {
+          "Reservoir Tools AMM": 0
+        },
+        "zero_network": {
+          "Reservoir Tools AMM": 227
+        },
+        "shape": {
+          "Reservoir Tools AMM": 0
+        },
+        "abstract": {
+          "Reservoir Tools AMM": 1884
+        }
+      }
+    ],
+    [
+      1740614400,
+      {
+        "ink": {
+          "Reservoir Tools AMM": 0
+        },
+        "zero_network": {
+          "Reservoir Tools AMM": 222
+        },
+        "shape": {
+          "Reservoir Tools AMM": 0
+        },
+        "abstract": {
+          "Reservoir Tools AMM": 2727
+        }
+      }
+    ],
+    [
+      1740700800,
+      {
+        "ink": {
+          "Reservoir Tools AMM": 0
+        },
+        "zero_network": {
+          "Reservoir Tools AMM": 363
+        },
+        "shape": {
+          "Reservoir Tools AMM": 0
+        },
+        "abstract": {
+          "Reservoir Tools AMM": 2327
+        }
+      }
+    ],
+    [
+      1740787200,
+      {
+        "ink": {
+          "Reservoir Tools AMM": 0
+        },
+        "zero_network": {
+          "Reservoir Tools AMM": 197
+        },
+        "shape": {
+          "Reservoir Tools AMM": 0
+        },
+        "abstract": {
+          "Reservoir Tools AMM": 2928
+        }
+      }
+    ],
+    [
+      1740873600,
+      {
+        "ink": {
+          "Reservoir Tools AMM": 0
+        },
+        "zero_network": {
+          "Reservoir Tools AMM": 326
+        },
+        "shape": {
+          "Reservoir Tools AMM": 0
+        },
+        "abstract": {
+          "Reservoir Tools AMM": 4521
+        }
+      }
+    ],
+    [
+      1740960000,
+      {
+        "ink": {
+          "Reservoir Tools AMM": 0
+        },
+        "zero_network": {
+          "Reservoir Tools AMM": 286
+        },
+        "shape": {
+          "Reservoir Tools AMM": 0
+        },
+        "abstract": {
+          "Reservoir Tools AMM": 2644
+        }
+      }
+    ],
+    [
+      1741046400,
+      {
+        "ink": {
+          "Reservoir Tools AMM": 0
+        },
+        "zero_network": {
+          "Reservoir Tools AMM": 311
+        },
+        "shape": {
+          "Reservoir Tools AMM": 0
+        },
+        "abstract": {
+          "Reservoir Tools AMM": 3428
+        }
+      }
+    ],
+    [
+      1741132800,
+      {
+        "ink": {
+          "Reservoir Tools AMM": 0
+        },
+        "zero_network": {
+          "Reservoir Tools AMM": 231
+        },
+        "shape": {
+          "Reservoir Tools AMM": 0
+        },
+        "abstract": {
+          "Reservoir Tools AMM": 1953
+        }
+      }
+    ],
+    [
+      1741219200,
+      {
+        "ink": {
+          "Reservoir Tools AMM": 0
+        },
+        "zero_network": {
+          "Reservoir Tools AMM": 242
+        },
+        "shape": {
+          "Reservoir Tools AMM": 0
+        },
+        "abstract": {
+          "Reservoir Tools AMM": 4678
+        }
+      }
+    ],
+    [
+      1741305600,
+      {
+        "ink": {
+          "Reservoir Tools AMM": 0
+        },
+        "zero_network": {
+          "Reservoir Tools AMM": 195
+        },
+        "shape": {
+          "Reservoir Tools AMM": 0
+        },
+        "abstract": {
+          "Reservoir Tools AMM": 3943
+        }
+      }
+    ],
+    [
+      1741392000,
+      {
+        "ink": {
+          "Reservoir Tools AMM": 0
+        },
+        "zero_network": {
+          "Reservoir Tools AMM": 200
+        },
+        "shape": {
+          "Reservoir Tools AMM": 0
+        },
+        "abstract": {
+          "Reservoir Tools AMM": 2740
+        }
+      }
+    ],
+    [
+      1741478400,
+      {
+        "ink": {
+          "Reservoir Tools AMM": 0
+        },
+        "zero_network": {
+          "Reservoir Tools AMM": 300
+        },
+        "shape": {
+          "Reservoir Tools AMM": 0
+        },
+        "abstract": {
+          "Reservoir Tools AMM": 2601
+        }
+      }
+    ],
+    [
+      1741564800,
+      {
+        "ink": {
+          "Reservoir Tools AMM": 0
+        },
+        "zero_network": {
+          "Reservoir Tools AMM": 345
+        },
+        "shape": {
+          "Reservoir Tools AMM": 0
+        },
+        "abstract": {
+          "Reservoir Tools AMM": 4492
+        }
+      }
+    ],
+    [
+      1741651200,
+      {
+        "ink": {
+          "Reservoir Tools AMM": 0
+        },
+        "zero_network": {
+          "Reservoir Tools AMM": 272
+        },
+        "shape": {
+          "Reservoir Tools AMM": 0
+        },
+        "abstract": {
+          "Reservoir Tools AMM": 2991
+        }
+      }
+    ],
+    [
+      1741737600,
+      {
+        "ink": {
+          "Reservoir Tools AMM": 0
+        },
+        "zero_network": {
+          "Reservoir Tools AMM": 256
+        },
+        "shape": {
+          "Reservoir Tools AMM": 0
+        },
+        "abstract": {
+          "Reservoir Tools AMM": 2329
+        }
+      }
+    ],
+    [
+      1741824000,
+      {
+        "ink": {
+          "Reservoir Tools AMM": 0
+        },
+        "zero_network": {
+          "Reservoir Tools AMM": 190
+        },
+        "shape": {
+          "Reservoir Tools AMM": 0
+        },
+        "abstract": {
+          "Reservoir Tools AMM": 3318
+        }
+      }
+    ],
+    [
+      1741910400,
+      {
+        "ink": {
+          "Reservoir Tools AMM": 0
+        },
+        "zero_network": {
+          "Reservoir Tools AMM": 203
+        },
+        "shape": {
+          "Reservoir Tools AMM": 0
+        },
+        "abstract": {
+          "Reservoir Tools AMM": 4302
+        }
+      }
+    ],
+    [
+      1741996800,
+      {
+        "ink": {
+          "Reservoir Tools AMM": 0
+        },
+        "zero_network": {
+          "Reservoir Tools AMM": 95
+        },
+        "shape": {
+          "Reservoir Tools AMM": 0
+        },
+        "abstract": {
+          "Reservoir Tools AMM": 1801
+        }
+      }
+    ],
+    [
+      1742083200,
+      {
+        "ink": {
+          "Reservoir Tools AMM": 0
+        },
+        "zero_network": {
+          "Reservoir Tools AMM": 133
+        },
+        "shape": {
+          "Reservoir Tools AMM": 0
+        },
+        "abstract": {
+          "Reservoir Tools AMM": 2819
+        }
+      }
+    ],
+    [
+      1742169600,
+      {
+        "ink": {
+          "Reservoir Tools AMM": 0
+        },
+        "zero_network": {
+          "Reservoir Tools AMM": 126
+        },
+        "shape": {
+          "Reservoir Tools AMM": 0
+        },
+        "abstract": {
+          "Reservoir Tools AMM": 2496
+        }
+      }
+    ],
+    [
+      1742256000,
+      {
+        "ink": {
+          "Reservoir Tools AMM": 0
+        },
+        "zero_network": {
+          "Reservoir Tools AMM": 117
+        },
+        "shape": {
+          "Reservoir Tools AMM": 0
+        },
+        "abstract": {
+          "Reservoir Tools AMM": 2190
+        }
+      }
+    ],
+    [
+      1742342400,
+      {
+        "ink": {
+          "Reservoir Tools AMM": 0
+        },
+        "zero_network": {
+          "Reservoir Tools AMM": 116
+        },
+        "shape": {
+          "Reservoir Tools AMM": 0
+        },
+        "abstract": {
+          "Reservoir Tools AMM": 2208
+        }
+      }
+    ],
+    [
+      1742428800,
+      {
+        "ink": {
+          "Reservoir Tools AMM": 0
+        },
+        "zero_network": {
+          "Reservoir Tools AMM": 79
+        },
+        "shape": {
+          "Reservoir Tools AMM": 0
+        },
+        "abstract": {
+          "Reservoir Tools AMM": 1478
+        }
+      }
+    ],
+    [
+      1742515200,
+      {
+        "ink": {
+          "Reservoir Tools AMM": 0
+        },
+        "zero_network": {
+          "Reservoir Tools AMM": 83
+        },
+        "shape": {
+          "Reservoir Tools AMM": 0
+        },
+        "abstract": {
+          "Reservoir Tools AMM": 1234
+        }
+      }
+    ],
+    [
+      1742601600,
+      {
+        "ink": {
+          "Reservoir Tools AMM": 0
+        },
+        "zero_network": {
+          "Reservoir Tools AMM": 83
+        },
+        "shape": {
+          "Reservoir Tools AMM": 0
+        },
+        "abstract": {
+          "Reservoir Tools AMM": 1343
+        }
+      }
+    ],
+    [
+      1742688000,
+      {
+        "ink": {
+          "Reservoir Tools AMM": 0
+        },
+        "zero_network": {
+          "Reservoir Tools AMM": 57
+        },
+        "shape": {
+          "Reservoir Tools AMM": 0
+        },
+        "abstract": {
+          "Reservoir Tools AMM": 1374
+        }
+      }
+    ],
+    [
+      1742774400,
+      {
+        "ink": {
+          "Reservoir Tools AMM": 0
+        },
+        "zero_network": {
+          "Reservoir Tools AMM": 105
+        },
+        "shape": {
+          "Reservoir Tools AMM": 0
+        },
+        "abstract": {
+          "Reservoir Tools AMM": 1767
+        }
+      }
+    ],
+    [
+      1742860800,
+      {
+        "ink": {
+          "Reservoir Tools AMM": 0
+        },
+        "zero_network": {
+          "Reservoir Tools AMM": 88
+        },
+        "shape": {
+          "Reservoir Tools AMM": 0
+        },
+        "abstract": {
+          "Reservoir Tools AMM": 1937
+        }
+      }
+    ],
+    [
+      1742947200,
+      {
+        "ink": {
+          "Reservoir Tools AMM": 0
+        },
+        "zero_network": {
+          "Reservoir Tools AMM": 63
+        },
+        "shape": {
+          "Reservoir Tools AMM": 0
+        },
+        "abstract": {
+          "Reservoir Tools AMM": 3971
+        }
+      }
+    ],
+    [
+      1743033600,
+      {
+        "ink": {
+          "Reservoir Tools AMM": 711
+        },
+        "zero_network": {
+          "Reservoir Tools AMM": 77
+        },
+        "shape": {
+          "Reservoir Tools AMM": 0
+        },
+        "abstract": {
+          "Reservoir Tools AMM": 3971
+        }
+      }
+    ],
+    [
+      1743120000,
+      {
+        "ink": {
+          "Reservoir Tools AMM": 114
+        },
+        "zero_network": {
+          "Reservoir Tools AMM": 145
+        },
+        "shape": {
+          "Reservoir Tools AMM": 0
+        },
+        "abstract": {
+          "Reservoir Tools AMM": 4426
+        }
+      }
+    ],
+    [
+      1743206400,
+      {
+        "ink": {
+          "Reservoir Tools AMM": 0
+        },
+        "zero_network": {
+          "Reservoir Tools AMM": 156
+        },
+        "shape": {
+          "Reservoir Tools AMM": 0
+        },
+        "abstract": {
+          "Reservoir Tools AMM": 4372
+        }
+      }
+    ],
+    [
+      1743292800,
+      {
+        "ink": {
+          "Reservoir Tools AMM": 5
+        },
+        "zero_network": {
+          "Reservoir Tools AMM": 120
+        },
+        "shape": {
+          "Reservoir Tools AMM": 0
+        },
+        "abstract": {
+          "Reservoir Tools AMM": 3702
+        }
+      }
+    ],
+    [
+      1743379200,
+      {
+        "ink": {
+          "Reservoir Tools AMM": 4
+        },
+        "zero_network": {
+          "Reservoir Tools AMM": 134
+        },
+        "shape": {
+          "Reservoir Tools AMM": 0
+        },
+        "abstract": {
+          "Reservoir Tools AMM": 4761
+        }
+      }
+    ],
+    [
+      1743465600,
+      {
+        "ink": {
+          "Reservoir Tools AMM": 1
+        },
+        "zero_network": {
+          "Reservoir Tools AMM": 130
+        },
+        "shape": {
+          "Reservoir Tools AMM": 0
+        },
+        "abstract": {
+          "Reservoir Tools AMM": 4057
+        }
+      }
+    ],
+    [
+      1743552000,
+      {
+        "ink": {
+          "Reservoir Tools AMM": 1
+        },
+        "zero_network": {
+          "Reservoir Tools AMM": 205
+        },
+        "shape": {
+          "Reservoir Tools AMM": 0
+        },
+        "abstract": {
+          "Reservoir Tools AMM": 8033
+        }
+      }
+    ],
+    [
+      1743638400,
+      {
+        "ink": {
+          "Reservoir Tools AMM": 0
+        },
+        "zero_network": {
+          "Reservoir Tools AMM": 199
+        },
+        "shape": {
+          "Reservoir Tools AMM": 0
+        },
+        "abstract": {
+          "Reservoir Tools AMM": 10263
+        }
+      }
+    ],
+    [
+      1743724800,
+      {
+        "ink": {
+          "Reservoir Tools AMM": 5
+        },
+        "zero_network": {
+          "Reservoir Tools AMM": 68
+        },
+        "shape": {
+          "Reservoir Tools AMM": 0
+        },
+        "abstract": {
+          "Reservoir Tools AMM": 5979
+        }
+      }
+    ],
+    [
+      1743811200,
+      {
+        "ink": {
+          "Reservoir Tools AMM": 1
+        },
+        "zero_network": {
+          "Reservoir Tools AMM": 52
+        },
+        "shape": {
+          "Reservoir Tools AMM": 0
+        },
+        "abstract": {
+          "Reservoir Tools AMM": 3498
+        }
+      }
+    ],
+    [
+      1743897600,
+      {
+        "ink": {
+          "Reservoir Tools AMM": 0
+        },
+        "zero_network": {
+          "Reservoir Tools AMM": 136
+        },
+        "shape": {
+          "Reservoir Tools AMM": 0
+        },
+        "abstract": {
+          "Reservoir Tools AMM": 6215
+        }
+      }
+    ],
+    [
+      1743984000,
+      {
+        "ink": {
+          "Reservoir Tools AMM": 1
+        },
+        "zero_network": {
+          "Reservoir Tools AMM": 236
+        },
+        "shape": {
+          "Reservoir Tools AMM": 0
+        },
+        "abstract": {
+          "Reservoir Tools AMM": 6920
+        }
+      }
+    ],
+    [
+      1744070400,
+      {
+        "ink": {
+          "Reservoir Tools AMM": 0
+        },
+        "zero_network": {
+          "Reservoir Tools AMM": 106
+        },
+        "shape": {
+          "Reservoir Tools AMM": 0
+        },
+        "abstract": {
+          "Reservoir Tools AMM": 8269
+        }
+      }
+    ],
+    [
+      1744156800,
+      {
+        "ink": {
+          "Reservoir Tools AMM": 0
+        },
+        "zero_network": {
+          "Reservoir Tools AMM": 187
+        },
+        "shape": {
+          "Reservoir Tools AMM": 0
+        },
+        "abstract": {
+          "Reservoir Tools AMM": 7902
+        }
+      }
+    ],
+    [
+      1744243200,
+      {
+        "ink": {
+          "Reservoir Tools AMM": 0
+        },
+        "zero_network": {
+          "Reservoir Tools AMM": 95
+        },
+        "shape": {
+          "Reservoir Tools AMM": 0
+        },
+        "abstract": {
+          "Reservoir Tools AMM": 7802
+        }
+      }
+    ],
+    [
+      1744329600,
+      {
+        "ink": {
+          "Reservoir Tools AMM": 0
+        },
+        "zero_network": {
+          "Reservoir Tools AMM": 57
+        },
+        "shape": {
+          "Reservoir Tools AMM": 0
+        },
+        "abstract": {
+          "Reservoir Tools AMM": 18074
+        }
+      }
+    ],
+    [
+      1744416000,
+      {
+        "ink": {
+          "Reservoir Tools AMM": 0
+        },
+        "zero_network": {
+          "Reservoir Tools AMM": 75
+        },
+        "shape": {
+          "Reservoir Tools AMM": 0
+        },
+        "abstract": {
+          "Reservoir Tools AMM": 14952
+        }
+      }
+    ],
+    [
+      1744502400,
+      {
+        "ink": {
+          "Reservoir Tools AMM": 0
+        },
+        "zero_network": {
+          "Reservoir Tools AMM": 85
+        },
+        "shape": {
+          "Reservoir Tools AMM": 0
+        },
+        "abstract": {
+          "Reservoir Tools AMM": 15751
+        }
+      }
+    ],
+    [
+      1744588800,
+      {
+        "ink": {
+          "Reservoir Tools AMM": 0
+        },
+        "zero_network": {
+          "Reservoir Tools AMM": 88
+        },
+        "shape": {
+          "Reservoir Tools AMM": 0
+        },
+        "abstract": {
+          "Reservoir Tools AMM": 15385
+        }
+      }
+    ],
+    [
+      1744675200,
+      {
+        "ink": {
+          "Reservoir Tools AMM": 0
+        },
+        "zero_network": {
+          "Reservoir Tools AMM": 65
+        },
+        "shape": {
+          "Reservoir Tools AMM": 0
+        },
+        "abstract": {
+          "Reservoir Tools AMM": 22163
+        }
+      }
+    ],
+    [
+      1744761600,
+      {
+        "ink": {
+          "Reservoir Tools AMM": 0
+        },
+        "zero_network": {
+          "Reservoir Tools AMM": 85
+        },
+        "shape": {
+          "Reservoir Tools AMM": 0
+        },
+        "abstract": {
+          "Reservoir Tools AMM": 20533
+        }
+      }
+    ],
+    [
+      1744848000,
+      {
+        "ink": {
+          "Reservoir Tools AMM": 0
+        },
+        "zero_network": {
+          "Reservoir Tools AMM": 50
+        },
+        "shape": {
+          "Reservoir Tools AMM": 0
+        },
+        "abstract": {
+          "Reservoir Tools AMM": 15679
+        }
+      }
+    ],
+    [
+      1744934400,
+      {
+        "ink": {
+          "Reservoir Tools AMM": 0
+        },
+        "zero_network": {
+          "Reservoir Tools AMM": 45
+        },
+        "shape": {
+          "Reservoir Tools AMM": 0
+        },
+        "abstract": {
+          "Reservoir Tools AMM": 10462
+        }
+      }
+    ],
+    [
+      1745020800,
+      {
+        "ink": {
+          "Reservoir Tools AMM": 0
+        },
+        "zero_network": {
+          "Reservoir Tools AMM": 45
+        },
+        "shape": {
+          "Reservoir Tools AMM": 0
+        },
+        "abstract": {
+          "Reservoir Tools AMM": 11103
+        }
+      }
+    ],
+    [
+      1745107200,
+      {
+        "ink": {
+          "Reservoir Tools AMM": 0
+        },
+        "zero_network": {
+          "Reservoir Tools AMM": 46
+        },
+        "shape": {
+          "Reservoir Tools AMM": 0
+        },
+        "abstract": {
+          "Reservoir Tools AMM": 19004
+        }
+      }
+    ],
+    [
+      1745193600,
+      {
+        "ink": {
+          "Reservoir Tools AMM": 0
+        },
+        "zero_network": {
+          "Reservoir Tools AMM": 80
+        },
+        "shape": {
+          "Reservoir Tools AMM": 0
+        },
+        "abstract": {
+          "Reservoir Tools AMM": 27910
+        }
+      }
+    ],
+    [
+      1745280000,
+      {
+        "ink": {
+          "Reservoir Tools AMM": 0
+        },
+        "zero_network": {
+          "Reservoir Tools AMM": 142
+        },
+        "shape": {
+          "Reservoir Tools AMM": 0
+        },
+        "abstract": {
+          "Reservoir Tools AMM": 31649
+        }
+      }
+    ],
+    [
+      1745366400,
+      {
+        "ink": {
+          "Reservoir Tools AMM": 0
+        },
+        "zero_network": {
+          "Reservoir Tools AMM": 96
+        },
+        "shape": {
+          "Reservoir Tools AMM": 0
+        },
+        "abstract": {
+          "Reservoir Tools AMM": 34088
+        }
+      }
+    ],
+    [
+      1745452800,
+      {
+        "ink": {
+          "Reservoir Tools AMM": 3
+        },
+        "zero_network": {
+          "Reservoir Tools AMM": 75
+        },
+        "shape": {
+          "Reservoir Tools AMM": 0
+        },
+        "abstract": {
+          "Reservoir Tools AMM": 43831
+        }
+      }
+    ],
+    [
+      1745539200,
+      {
+        "ink": {
+          "Reservoir Tools AMM": 0
+        },
+        "zero_network": {
+          "Reservoir Tools AMM": 80
+        },
+        "shape": {
+          "Reservoir Tools AMM": 0
+        },
+        "abstract": {
+          "Reservoir Tools AMM": 32884
+        }
+      }
+    ],
+    [
+      1745625600,
+      {
+        "ink": {
+          "Reservoir Tools AMM": 2
+        },
+        "zero_network": {
+          "Reservoir Tools AMM": 66
+        },
+        "shape": {
+          "Reservoir Tools AMM": 0
+        },
+        "abstract": {
+          "Reservoir Tools AMM": 21585
+        }
+      }
+    ],
+    [
+      1745712000,
+      {
+        "ink": {
+          "Reservoir Tools AMM": 0
+        },
+        "zero_network": {
+          "Reservoir Tools AMM": 90
+        },
+        "shape": {
+          "Reservoir Tools AMM": 0
+        },
+        "abstract": {
+          "Reservoir Tools AMM": 32236
+        }
+      }
+    ],
+    [
+      1745798400,
+      {
+        "ink": {
+          "Reservoir Tools AMM": 0
+        },
+        "zero_network": {
+          "Reservoir Tools AMM": 81
+        },
+        "shape": {
+          "Reservoir Tools AMM": 0
+        },
+        "abstract": {
+          "Reservoir Tools AMM": 40265
+        }
+      }
+    ],
+    [
+      1745884800,
+      {
+        "ink": {
+          "Reservoir Tools AMM": 0
+        },
+        "zero_network": {
+          "Reservoir Tools AMM": 61
+        },
+        "shape": {
+          "Reservoir Tools AMM": 0
+        },
+        "abstract": {
+          "Reservoir Tools AMM": 38006
+        }
+      }
+    ],
+    [
+      1745971200,
+      {
+        "ink": {
+          "Reservoir Tools AMM": 0
+        },
+        "zero_network": {
+          "Reservoir Tools AMM": 96
+        },
+        "shape": {
+          "Reservoir Tools AMM": 0
+        },
+        "abstract": {
+          "Reservoir Tools AMM": 37771
+        }
+      }
+    ],
+    [
+      1746057600,
+      {
+        "ink": {
+          "Reservoir Tools AMM": 0
+        },
+        "zero_network": {
+          "Reservoir Tools AMM": 58
+        },
+        "shape": {
+          "Reservoir Tools AMM": 0
+        },
+        "abstract": {
+          "Reservoir Tools AMM": 36826
+        }
+      }
+    ],
+    [
+      1746144000,
+      {
+        "ink": {
+          "Reservoir Tools AMM": 0
+        },
+        "zero_network": {
+          "Reservoir Tools AMM": 41
+        },
+        "shape": {
+          "Reservoir Tools AMM": 0
+        },
+        "abstract": {
+          "Reservoir Tools AMM": 20551
+        }
+      }
+    ],
+    [
+      1746230400,
+      {
+        "ink": {
+          "Reservoir Tools AMM": 0
+        },
+        "zero_network": {
+          "Reservoir Tools AMM": 43
+        },
+        "shape": {
+          "Reservoir Tools AMM": 0
+        },
+        "abstract": {
+          "Reservoir Tools AMM": 18786
+        }
+      }
+    ],
+    [
+      1746316800,
+      {
+        "ink": {
+          "Reservoir Tools AMM": 0
+        },
+        "zero_network": {
+          "Reservoir Tools AMM": 53
+        },
+        "shape": {
+          "Reservoir Tools AMM": 0
+        },
+        "abstract": {
+          "Reservoir Tools AMM": 30957
+        }
+      }
+    ],
+    [
+      1746403200,
+      {
+        "ink": {
+          "Reservoir Tools AMM": 0
+        },
+        "zero_network": {
+          "Reservoir Tools AMM": 49
+        },
+        "shape": {
+          "Reservoir Tools AMM": 0
+        },
+        "abstract": {
+          "Reservoir Tools AMM": 29564
+        }
+      }
+    ],
+    [
+      1746489600,
+      {
+        "ink": {
+          "Reservoir Tools AMM": 0
+        },
+        "zero_network": {
+          "Reservoir Tools AMM": 45
+        },
+        "shape": {
+          "Reservoir Tools AMM": 0
+        },
+        "abstract": {
+          "Reservoir Tools AMM": 22630
+        }
+      }
+    ],
+    [
+      1746576000,
+      {
+        "ink": {
+          "Reservoir Tools AMM": 0
+        },
+        "zero_network": {
+          "Reservoir Tools AMM": 64
+        },
+        "shape": {
+          "Reservoir Tools AMM": 0
+        },
+        "abstract": {
+          "Reservoir Tools AMM": 29151
+        }
+      }
+    ],
+    [
+      1746662400,
+      {
+        "ink": {
+          "Reservoir Tools AMM": 1
+        },
+        "zero_network": {
+          "Reservoir Tools AMM": 123
+        },
+        "shape": {
+          "Reservoir Tools AMM": 0
+        },
+        "abstract": {
+          "Reservoir Tools AMM": 18131
+        }
+      }
+    ],
+    [
+      1746748800,
+      {
+        "ink": {
+          "Reservoir Tools AMM": 0
+        },
+        "zero_network": {
+          "Reservoir Tools AMM": 219
+        },
+        "shape": {
+          "Reservoir Tools AMM": 0
+        },
+        "abstract": {
+          "Reservoir Tools AMM": 20292
+        }
+      }
+    ],
+    [
+      1746835200,
+      {
+        "ink": {
+          "Reservoir Tools AMM": 0
+        },
+        "zero_network": {
+          "Reservoir Tools AMM": 177
+        },
+        "shape": {
+          "Reservoir Tools AMM": 0
+        },
+        "abstract": {
+          "Reservoir Tools AMM": 21618
+        }
+      }
+    ],
+    [
+      1746921600,
+      {
+        "ink": {
+          "Reservoir Tools AMM": 0
+        },
+        "zero_network": {
+          "Reservoir Tools AMM": 119
+        },
+        "shape": {
+          "Reservoir Tools AMM": 0
+        },
+        "abstract": {
+          "Reservoir Tools AMM": 23295
+        }
+      }
+    ],
+    [
+      1747008000,
+      {
+        "ink": {
+          "Reservoir Tools AMM": 0
+        },
+        "zero_network": {
+          "Reservoir Tools AMM": 131
+        },
+        "shape": {
+          "Reservoir Tools AMM": 0
+        },
+        "abstract": {
+          "Reservoir Tools AMM": 32656
+        }
+      }
+    ],
+    [
+      1747094400,
+      {
+        "ink": {
+          "Reservoir Tools AMM": 0
+        },
+        "zero_network": {
+          "Reservoir Tools AMM": 110
+        },
+        "shape": {
+          "Reservoir Tools AMM": 0
+        },
+        "abstract": {
+          "Reservoir Tools AMM": 55845
+        }
+      }
+    ],
+    [
+      1747180800,
+      {
+        "ink": {
+          "Reservoir Tools AMM": 7
+        },
+        "zero_network": {
+          "Reservoir Tools AMM": 87
+        },
+        "shape": {
+          "Reservoir Tools AMM": 0
+        },
+        "abstract": {
+          "Reservoir Tools AMM": 46532
+        }
+      }
+    ],
+    [
+      1747267200,
+      {
+        "ink": {
+          "Reservoir Tools AMM": 0
+        },
+        "zero_network": {
+          "Reservoir Tools AMM": 100
+        },
+        "shape": {
+          "Reservoir Tools AMM": 0
+        },
+        "abstract": {
+          "Reservoir Tools AMM": 38471
+        }
+      }
+    ],
+    [
+      1747353600,
+      {
+        "ink": {
+          "Reservoir Tools AMM": 0
+        },
+        "zero_network": {
+          "Reservoir Tools AMM": 58
+        },
+        "shape": {
+          "Reservoir Tools AMM": 0
+        },
+        "abstract": {
+          "Reservoir Tools AMM": 37936
+        }
+      }
+    ],
+    [
+      1747440000,
+      {
+        "ink": {
+          "Reservoir Tools AMM": 5
+        },
+        "zero_network": {
+          "Reservoir Tools AMM": 69
+        },
+        "shape": {
+          "Reservoir Tools AMM": 0
+        },
+        "abstract": {
+          "Reservoir Tools AMM": 36374
+        }
+      }
+    ],
+    [
+      1747526400,
+      {
+        "ink": {
+          "Reservoir Tools AMM": 2
+        },
+        "zero_network": {
+          "Reservoir Tools AMM": 133
+        },
+        "shape": {
+          "Reservoir Tools AMM": 0
+        },
+        "abstract": {
+          "Reservoir Tools AMM": 45255
+        }
+      }
+    ],
+    [
+      1747612800,
+      {
+        "ink": {
+          "Reservoir Tools AMM": 1
+        },
+        "zero_network": {
+          "Reservoir Tools AMM": 127
+        },
+        "shape": {
+          "Reservoir Tools AMM": 0
+        },
+        "abstract": {
+          "Reservoir Tools AMM": 49831
+        }
+      }
+    ],
+    [
+      1747699200,
+      {
+        "ink": {
+          "Reservoir Tools AMM": 0
+        },
+        "zero_network": {
+          "Reservoir Tools AMM": 94
+        },
+        "shape": {
+          "Reservoir Tools AMM": 0
+        },
+        "abstract": {
+          "Reservoir Tools AMM": 60948
+        }
+      }
+    ],
+    [
+      1747785600,
+      {
+        "ink": {
+          "Reservoir Tools AMM": 1
+        },
+        "zero_network": {
+          "Reservoir Tools AMM": 137
+        },
+        "shape": {
+          "Reservoir Tools AMM": 0
+        },
+        "abstract": {
+          "Reservoir Tools AMM": 44982
+        }
+      }
+    ],
+    [
+      1747872000,
+      {
+        "ink": {
+          "Reservoir Tools AMM": 6
+        },
+        "zero_network": {
+          "Reservoir Tools AMM": 91
+        },
+        "shape": {
+          "Reservoir Tools AMM": 0
+        },
+        "abstract": {
+          "Reservoir Tools AMM": 49637
+        }
+      }
+    ],
+    [
+      1747958400,
+      {
+        "ink": {
+          "Reservoir Tools AMM": 0
+        },
+        "zero_network": {
+          "Reservoir Tools AMM": 114
+        },
+        "shape": {
+          "Reservoir Tools AMM": 0
+        },
+        "abstract": {
+          "Reservoir Tools AMM": 29283
+        }
+      }
+    ],
+    [
+      1748044800,
+      {
+        "ink": {
+          "Reservoir Tools AMM": 0
+        },
+        "zero_network": {
+          "Reservoir Tools AMM": 42
+        },
+        "shape": {
+          "Reservoir Tools AMM": 0
+        },
+        "abstract": {
+          "Reservoir Tools AMM": 12096
+        }
+      }
+    ],
+    [
+      1748131200,
+      {
+        "ink": {
+          "Reservoir Tools AMM": 0
+        },
+        "zero_network": {
+          "Reservoir Tools AMM": 50
+        },
+        "shape": {
+          "Reservoir Tools AMM": 0
+        },
+        "abstract": {
+          "Reservoir Tools AMM": 4918
+        }
+      }
+    ],
+    [
+      1748217600,
+      {
+        "ink": {
+          "Reservoir Tools AMM": 0
+        },
+        "zero_network": {
+          "Reservoir Tools AMM": 65
+        },
+        "shape": {
+          "Reservoir Tools AMM": 0
+        },
+        "abstract": {
+          "Reservoir Tools AMM": 36995
+        }
+      }
+    ],
+    [
+      1748304000,
+      {
+        "ink": {
+          "Reservoir Tools AMM": 0
+        },
+        "zero_network": {
+          "Reservoir Tools AMM": 81
+        },
+        "shape": {
+          "Reservoir Tools AMM": 0
+        },
+        "abstract": {
+          "Reservoir Tools AMM": 35899
+        }
+      }
+    ],
+    [
+      1748390400,
+      {
+        "ink": {
+          "Reservoir Tools AMM": 0
+        },
+        "zero_network": {
+          "Reservoir Tools AMM": 50
+        },
+        "shape": {
+          "Reservoir Tools AMM": 0
+        },
+        "abstract": {
+          "Reservoir Tools AMM": 36518
+        }
+      }
+    ],
+    [
+      1748476800,
+      {
+        "ink": {
+          "Reservoir Tools AMM": 0
+        },
+        "zero_network": {
+          "Reservoir Tools AMM": 91
+        },
+        "shape": {
+          "Reservoir Tools AMM": 0
+        },
+        "abstract": {
+          "Reservoir Tools AMM": 33241
+        }
+      }
+    ],
+    [
+      1748563200,
+      {
+        "ink": {
+          "Reservoir Tools AMM": 0
+        },
+        "zero_network": {
+          "Reservoir Tools AMM": 76
+        },
+        "shape": {
+          "Reservoir Tools AMM": 0
+        },
+        "abstract": {
+          "Reservoir Tools AMM": 30372
+        }
+      }
+    ],
+    [
+      1748649600,
+      {
+        "ink": {
+          "Reservoir Tools AMM": 0
+        },
+        "zero_network": {
+          "Reservoir Tools AMM": 53
+        },
+        "shape": {
+          "Reservoir Tools AMM": 0
+        },
+        "abstract": {
+          "Reservoir Tools AMM": 15914
+        }
+      }
+    ],
+    [
+      1748736000,
+      {
+        "ink": {
+          "Reservoir Tools AMM": 0
+        },
+        "zero_network": {
+          "Reservoir Tools AMM": 40
+        },
+        "shape": {
+          "Reservoir Tools AMM": 0
+        },
+        "abstract": {
+          "Reservoir Tools AMM": 5066
+        }
+      }
+    ],
+    [
+      1748822400,
+      {
+        "ink": {
+          "Reservoir Tools AMM": 0
+        },
+        "zero_network": {
+          "Reservoir Tools AMM": 54
+        },
+        "shape": {
+          "Reservoir Tools AMM": 0
+        },
+        "abstract": {
+          "Reservoir Tools AMM": 13418
+        }
+      }
+    ],
+    [
+      1748908800,
+      {
+        "ink": {
+          "Reservoir Tools AMM": 0
+        },
+        "zero_network": {
+          "Reservoir Tools AMM": 47
+        },
+        "shape": {
+          "Reservoir Tools AMM": 0
+        },
+        "abstract": {
+          "Reservoir Tools AMM": 8138
+        }
+      }
+    ],
+    [
+      1748995200,
+      {
+        "ink": {
+          "Reservoir Tools AMM": 0
+        },
+        "zero_network": {
+          "Reservoir Tools AMM": 52
+        },
+        "shape": {
+          "Reservoir Tools AMM": 0
+        },
+        "abstract": {
+          "Reservoir Tools AMM": 8499
+        }
+      }
+    ],
+    [
+      1749081600,
+      {
+        "ink": {
+          "Reservoir Tools AMM": 0
+        },
+        "zero_network": {
+          "Reservoir Tools AMM": 100
+        },
+        "shape": {
+          "Reservoir Tools AMM": 0
+        },
+        "abstract": {
+          "Reservoir Tools AMM": 24416
+        }
+      }
+    ],
+    [
+      1749168000,
+      {
+        "ink": {
+          "Reservoir Tools AMM": 0
+        },
+        "zero_network": {
+          "Reservoir Tools AMM": 90
+        },
+        "shape": {
+          "Reservoir Tools AMM": 0
+        },
+        "abstract": {
+          "Reservoir Tools AMM": 21138
+        }
+      }
+    ]
+  ],
+  "change_1d": 148.25
+}

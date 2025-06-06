@@ -17,7 +17,6 @@
   ],
   "module": "pumpfun",
   "forkedFrom": [],
-  "oracles": [],
   "twitter": "pumpdotfun",
   "parentProtocol": "parent#pump",
   "listedAt": 1712427917,
@@ -40,10 +39,10 @@
     "pump.fun",
     "PumpSwap"
   ],
-  "total24h": 99808307,
-  "total48hto24h": 89690467,
-  "total7d": 721425997,
-  "totalAllTime": 30228106819,
+  "total24h": 121871328,
+  "total48hto24h": 111469674,
+  "total7d": 761583347,
+  "totalAllTime": 30699418039,
   "totalDataChart": [
     [
       1732320000,
@@ -808,6 +807,22 @@
     [
       1748736000,
       99808307
+    ],
+    [
+      1748822400,
+      119402837
+    ],
+    [
+      1748908800,
+      118567381
+    ],
+    [
+      1748995200,
+      111469674
+    ],
+    [
+      1749081600,
+      121871328
     ]
   ],
   "totalDataChartBreakdown": [
@@ -2338,7 +2353,39 @@
           "pump.fun": 99808307
         }
       }
+    ],
+    [
+      1748822400,
+      {
+        "solana": {
+          "pump.fun": 119402837
+        }
+      }
+    ],
+    [
+      1748908800,
+      {
+        "solana": {
+          "pump.fun": 118567381
+        }
+      }
+    ],
+    [
+      1748995200,
+      {
+        "solana": {
+          "pump.fun": 111469674
+        }
+      }
+    ],
+    [
+      1749081600,
+      {
+        "solana": {
+          "pump.fun": 121871328
+        }
+      }
     ]
   ],
-  "change_1d": 11.28
+  "change_1d": 9.33
 }

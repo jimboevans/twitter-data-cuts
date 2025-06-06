@@ -1,0 +1,3220 @@
+{
+  "id": "2728",
+  "name": "SyncSwap",
+  "address": null,
+  "symbol": "-",
+  "url": "https://syncswap.xyz/",
+  "description": "SyncSwap is a decentralized exchange (DEX) on zkSync Era ",
+  "chain": "zkSync Era",
+  "logo": "https://icons.llamao.fi/icons/protocols/syncswap.png",
+  "audits": "0",
+  "audit_note": null,
+  "gecko_id": null,
+  "cmcId": null,
+  "category": "Dexs",
+  "chains": [
+    "ZKsync Era",
+    "Linea",
+    "Sophon",
+    "Scroll"
+  ],
+  "forkedFrom": [],
+  "module": "syncswap",
+  "twitter": "syncswap",
+  "listedAt": 1679883857,
+  "parentProtocol": "parent#syncswap-protocol",
+  "defillamaId": "2728",
+  "disabled": false,
+  "displayName": "SyncSwap",
+  "methodologyURL": "https://github.com/DefiLlama/dimension-adapters/blob/master/fees/syncswap.ts",
+  "methodology": {
+    "UserFees": "Swap fees paid by users",
+    "Fees": "All fees comes from users for security service provided by GoPlus Network.",
+    "Revenue": "Percentage of swap fees going to treasury and/or token holders",
+    "ProtocolRevenue": "The revenue of the agreement comes from users purchasing security services, and the total cost equals the revenue.",
+    "HoldersRevenue": "Money going to governance token holders",
+    "SupplySideRevenue": "Liquidity providers revenue"
+  },
+  "audit_links": null,
+  "versionKey": null,
+  "github": null,
+  "governanceID": null,
+  "treasury": null,
+  "previousNames": null,
+  "latestFetchIsOk": true,
+  "slug": "syncswap",
+  "protocolType": "protocol",
+  "linkedProtocols": [
+    "SyncSwap Protocol",
+    "SyncSwap",
+    "SyncSwap V3"
+  ],
+  "total24h": 5649,
+  "total48hto24h": 5664,
+  "total7d": 50540,
+  "totalAllTime": 2121249,
+  "totalDataChart": [
+    [
+      1736121600,
+      22294
+    ],
+    [
+      1736208000,
+      19224
+    ],
+    [
+      1736294400,
+      18080
+    ],
+    [
+      1736380800,
+      15405
+    ],
+    [
+      1736467200,
+      11589
+    ],
+    [
+      1736553600,
+      9312
+    ],
+    [
+      1736640000,
+      8207
+    ],
+    [
+      1736726400,
+      12690
+    ],
+    [
+      1736812800,
+      7117
+    ],
+    [
+      1736899200,
+      12413
+    ],
+    [
+      1736985600,
+      7253
+    ],
+    [
+      1737072000,
+      7034
+    ],
+    [
+      1737158400,
+      10545
+    ],
+    [
+      1737244800,
+      38400
+    ],
+    [
+      1737331200,
+      45749
+    ],
+    [
+      1737417600,
+      21876
+    ],
+    [
+      1737504000,
+      14088
+    ],
+    [
+      1737590400,
+      18070
+    ],
+    [
+      1737676800,
+      12446
+    ],
+    [
+      1737763200,
+      11118
+    ],
+    [
+      1737849600,
+      10448
+    ],
+    [
+      1737936000,
+      24840
+    ],
+    [
+      1738022400,
+      11620
+    ],
+    [
+      1738108800,
+      17172
+    ],
+    [
+      1738195200,
+      8724
+    ],
+    [
+      1738281600,
+      16390
+    ],
+    [
+      1738368000,
+      13363
+    ],
+    [
+      1738454400,
+      31966
+    ],
+    [
+      1738540800,
+      74041
+    ],
+    [
+      1738627200,
+      32357
+    ],
+    [
+      1738713600,
+      18004
+    ],
+    [
+      1738800000,
+      17507
+    ],
+    [
+      1738886400,
+      15983
+    ],
+    [
+      1738972800,
+      8909
+    ],
+    [
+      1739059200,
+      11957
+    ],
+    [
+      1739145600,
+      10575
+    ],
+    [
+      1739232000,
+      13050
+    ],
+    [
+      1739318400,
+      15235
+    ],
+    [
+      1739404800,
+      10911
+    ],
+    [
+      1739491200,
+      9253
+    ],
+    [
+      1739577600,
+      5216
+    ],
+    [
+      1739664000,
+      8688
+    ],
+    [
+      1739750400,
+      17414
+    ],
+    [
+      1739923200,
+      10190
+    ],
+    [
+      1740009600,
+      9900
+    ],
+    [
+      1740096000,
+      14217
+    ],
+    [
+      1740182400,
+      7438
+    ],
+    [
+      1740268800,
+      7186
+    ],
+    [
+      1740355200,
+      15897
+    ],
+    [
+      1740441600,
+      26241
+    ],
+    [
+      1740528000,
+      18550
+    ],
+    [
+      1740614400,
+      15829
+    ],
+    [
+      1740700800,
+      26249
+    ],
+    [
+      1740787200,
+      8640
+    ],
+    [
+      1740873600,
+      12521
+    ],
+    [
+      1740960000,
+      14963
+    ],
+    [
+      1741046400,
+      19028
+    ],
+    [
+      1741132800,
+      10260
+    ],
+    [
+      1741219200,
+      9291
+    ],
+    [
+      1741305600,
+      12320
+    ],
+    [
+      1741392000,
+      5552
+    ],
+    [
+      1741478400,
+      9260
+    ],
+    [
+      1741564800,
+      15513
+    ],
+    [
+      1741651200,
+      12030
+    ],
+    [
+      1741737600,
+      9583
+    ],
+    [
+      1741824000,
+      7556
+    ],
+    [
+      1741910400,
+      4566
+    ],
+    [
+      1741996800,
+      5239
+    ],
+    [
+      1742083200,
+      3950
+    ],
+    [
+      1742169600,
+      8443
+    ],
+    [
+      1742256000,
+      8076
+    ],
+    [
+      1742342400,
+      9000
+    ],
+    [
+      1742428800,
+      7863
+    ],
+    [
+      1742515200,
+      5540
+    ],
+    [
+      1742601600,
+      5518
+    ],
+    [
+      1742688000,
+      6581
+    ],
+    [
+      1742774400,
+      5737
+    ],
+    [
+      1742860800,
+      5101
+    ],
+    [
+      1742947200,
+      6036
+    ],
+    [
+      1743033600,
+      4872
+    ],
+    [
+      1743120000,
+      7303
+    ],
+    [
+      1743206400,
+      4926
+    ],
+    [
+      1743292800,
+      4409
+    ],
+    [
+      1743379200,
+      5180
+    ],
+    [
+      1743465600,
+      4278
+    ],
+    [
+      1743552000,
+      7066
+    ],
+    [
+      1743638400,
+      6806
+    ],
+    [
+      1743724800,
+      5433
+    ],
+    [
+      1743811200,
+      1941
+    ],
+    [
+      1743897600,
+      9456
+    ],
+    [
+      1743984000,
+      16506
+    ],
+    [
+      1744070400,
+      6894
+    ],
+    [
+      1744156800,
+      10733
+    ],
+    [
+      1744243200,
+      20947
+    ],
+    [
+      1744329600,
+      20714
+    ],
+    [
+      1744416000,
+      14891
+    ],
+    [
+      1744502400,
+      18451
+    ],
+    [
+      1744588800,
+      13963
+    ],
+    [
+      1744675200,
+      12845
+    ],
+    [
+      1744761600,
+      14329
+    ],
+    [
+      1744848000,
+      11627
+    ],
+    [
+      1744934400,
+      10271
+    ],
+    [
+      1745020800,
+      11967
+    ],
+    [
+      1745107200,
+      10846
+    ],
+    [
+      1745193600,
+      10992
+    ],
+    [
+      1745280000,
+      11405
+    ],
+    [
+      1745366400,
+      13576
+    ],
+    [
+      1745452800,
+      15013
+    ],
+    [
+      1745539200,
+      16436
+    ],
+    [
+      1745625600,
+      10669
+    ],
+    [
+      1745712000,
+      8938
+    ],
+    [
+      1745798400,
+      7559
+    ],
+    [
+      1745884800,
+      10691
+    ],
+    [
+      1745971200,
+      14817
+    ],
+    [
+      1746057600,
+      12211
+    ],
+    [
+      1746144000,
+      12926
+    ],
+    [
+      1746230400,
+      13375
+    ],
+    [
+      1746316800,
+      13325
+    ],
+    [
+      1746403200,
+      10687
+    ],
+    [
+      1746489600,
+      10656
+    ],
+    [
+      1746576000,
+      20960
+    ],
+    [
+      1746662400,
+      21737
+    ],
+    [
+      1746748800,
+      34447
+    ],
+    [
+      1746835200,
+      30575
+    ],
+    [
+      1746921600,
+      24900
+    ],
+    [
+      1747008000,
+      57908
+    ],
+    [
+      1747094400,
+      24510
+    ],
+    [
+      1747180800,
+      17847
+    ],
+    [
+      1747267200,
+      14117
+    ],
+    [
+      1747353600,
+      8372
+    ],
+    [
+      1747440000,
+      12449
+    ],
+    [
+      1747526400,
+      10927
+    ],
+    [
+      1747612800,
+      14004
+    ],
+    [
+      1747699200,
+      9735
+    ],
+    [
+      1747785600,
+      9885
+    ],
+    [
+      1747872000,
+      10215
+    ],
+    [
+      1747958400,
+      8714
+    ],
+    [
+      1748044800,
+      7699
+    ],
+    [
+      1748131200,
+      6291
+    ],
+    [
+      1748217600,
+      6876
+    ],
+    [
+      1748304000,
+      4253
+    ],
+    [
+      1748390400,
+      138164
+    ],
+    [
+      1748476800,
+      14148
+    ],
+    [
+      1748563200,
+      12278
+    ],
+    [
+      1748649600,
+      8122
+    ],
+    [
+      1748736000,
+      6006
+    ],
+    [
+      1748822400,
+      5664
+    ],
+    [
+      1748908800,
+      7390
+    ],
+    [
+      1748995200,
+      5664
+    ],
+    [
+      1749081600,
+      5416
+    ],
+    [
+      1749168000,
+      5649
+    ]
+  ],
+  "totalDataChartBreakdown": [
+    [
+      1736121600,
+      {
+        "era": {
+          "SyncSwap": 18661
+        },
+        "linea": {
+          "SyncSwap": 2614
+        },
+        "sophon": {
+          "SyncSwap": 155
+        },
+        "scroll": {
+          "SyncSwap": 864
+        }
+      }
+    ],
+    [
+      1736208000,
+      {
+        "era": {
+          "SyncSwap": 15249
+        },
+        "linea": {
+          "SyncSwap": 2376
+        },
+        "sophon": {
+          "SyncSwap": 407
+        },
+        "scroll": {
+          "SyncSwap": 1192
+        }
+      }
+    ],
+    [
+      1736294400,
+      {
+        "era": {
+          "SyncSwap": 13896
+        },
+        "linea": {
+          "SyncSwap": 2530
+        },
+        "sophon": {
+          "SyncSwap": 572
+        },
+        "scroll": {
+          "SyncSwap": 1082
+        }
+      }
+    ],
+    [
+      1736380800,
+      {
+        "era": {
+          "SyncSwap": 11502
+        },
+        "linea": {
+          "SyncSwap": 2324
+        },
+        "sophon": {
+          "SyncSwap": 327
+        },
+        "scroll": {
+          "SyncSwap": 1252
+        }
+      }
+    ],
+    [
+      1736467200,
+      {
+        "era": {
+          "SyncSwap": 8340
+        },
+        "linea": {
+          "SyncSwap": 2407
+        },
+        "sophon": {
+          "SyncSwap": 147
+        },
+        "scroll": {
+          "SyncSwap": 695
+        }
+      }
+    ],
+    [
+      1736553600,
+      {
+        "era": {
+          "SyncSwap": 7152
+        },
+        "linea": {
+          "SyncSwap": 1658
+        },
+        "sophon": {
+          "SyncSwap": 99
+        },
+        "scroll": {
+          "SyncSwap": 403
+        }
+      }
+    ],
+    [
+      1736640000,
+      {
+        "era": {
+          "SyncSwap": 5962
+        },
+        "linea": {
+          "SyncSwap": 1767
+        },
+        "sophon": {
+          "SyncSwap": 146
+        },
+        "scroll": {
+          "SyncSwap": 332
+        }
+      }
+    ],
+    [
+      1736726400,
+      {
+        "era": {
+          "SyncSwap": 6796
+        },
+        "linea": {
+          "SyncSwap": 3993
+        },
+        "sophon": {
+          "SyncSwap": 623
+        },
+        "scroll": {
+          "SyncSwap": 1278
+        }
+      }
+    ],
+    [
+      1736812800,
+      {
+        "era": {
+          "SyncSwap": 4480
+        },
+        "linea": {
+          "SyncSwap": 1698
+        },
+        "sophon": {
+          "SyncSwap": 224
+        },
+        "scroll": {
+          "SyncSwap": 715
+        }
+      }
+    ],
+    [
+      1736899200,
+      {
+        "era": {
+          "SyncSwap": 9581
+        },
+        "linea": {
+          "SyncSwap": 1799
+        },
+        "sophon": {
+          "SyncSwap": 288
+        },
+        "scroll": {
+          "SyncSwap": 745
+        }
+      }
+    ],
+    [
+      1736985600,
+      {
+        "era": {
+          "SyncSwap": 4382
+        },
+        "linea": {
+          "SyncSwap": 1827
+        },
+        "sophon": {
+          "SyncSwap": 207
+        },
+        "scroll": {
+          "SyncSwap": 837
+        }
+      }
+    ],
+    [
+      1737072000,
+      {
+        "era": {
+          "SyncSwap": 4801
+        },
+        "linea": {
+          "SyncSwap": 1388
+        },
+        "sophon": {
+          "SyncSwap": 255
+        },
+        "scroll": {
+          "SyncSwap": 590
+        }
+      }
+    ],
+    [
+      1737158400,
+      {
+        "era": {
+          "SyncSwap": 7452
+        },
+        "linea": {
+          "SyncSwap": 1739
+        },
+        "sophon": {
+          "SyncSwap": 302
+        },
+        "scroll": {
+          "SyncSwap": 1052
+        }
+      }
+    ],
+    [
+      1737244800,
+      {
+        "era": {
+          "SyncSwap": 30669
+        },
+        "linea": {
+          "SyncSwap": 4428
+        },
+        "sophon": {
+          "SyncSwap": 979
+        },
+        "scroll": {
+          "SyncSwap": 2324
+        }
+      }
+    ],
+    [
+      1737331200,
+      {
+        "era": {
+          "SyncSwap": 40063
+        },
+        "linea": {
+          "SyncSwap": 3015
+        },
+        "sophon": {
+          "SyncSwap": 787
+        },
+        "scroll": {
+          "SyncSwap": 1884
+        }
+      }
+    ],
+    [
+      1737417600,
+      {
+        "era": {
+          "SyncSwap": 18652
+        },
+        "linea": {
+          "SyncSwap": 1947
+        },
+        "sophon": {
+          "SyncSwap": 288
+        },
+        "scroll": {
+          "SyncSwap": 989
+        }
+      }
+    ],
+    [
+      1737504000,
+      {
+        "era": {
+          "SyncSwap": 11363
+        },
+        "linea": {
+          "SyncSwap": 1840
+        },
+        "sophon": {
+          "SyncSwap": 143
+        },
+        "scroll": {
+          "SyncSwap": 742
+        }
+      }
+    ],
+    [
+      1737590400,
+      {
+        "era": {
+          "SyncSwap": 14294
+        },
+        "linea": {
+          "SyncSwap": 2263
+        },
+        "sophon": {
+          "SyncSwap": 389
+        },
+        "scroll": {
+          "SyncSwap": 1124
+        }
+      }
+    ],
+    [
+      1737676800,
+      {
+        "era": {
+          "SyncSwap": 9964
+        },
+        "linea": {
+          "SyncSwap": 1444
+        },
+        "sophon": {
+          "SyncSwap": 268
+        },
+        "scroll": {
+          "SyncSwap": 770
+        }
+      }
+    ],
+    [
+      1737763200,
+      {
+        "era": {
+          "SyncSwap": 6175
+        },
+        "linea": {
+          "SyncSwap": 3372
+        },
+        "sophon": {
+          "SyncSwap": 139
+        },
+        "scroll": {
+          "SyncSwap": 1432
+        }
+      }
+    ],
+    [
+      1737849600,
+      {
+        "era": {
+          "SyncSwap": 7358
+        },
+        "linea": {
+          "SyncSwap": 2346
+        },
+        "sophon": {
+          "SyncSwap": 193
+        },
+        "scroll": {
+          "SyncSwap": 551
+        }
+      }
+    ],
+    [
+      1737936000,
+      {
+        "era": {
+          "SyncSwap": 21107
+        },
+        "linea": {
+          "SyncSwap": 2089
+        },
+        "sophon": {
+          "SyncSwap": 516
+        },
+        "scroll": {
+          "SyncSwap": 1128
+        }
+      }
+    ],
+    [
+      1738022400,
+      {
+        "era": {
+          "SyncSwap": 9560
+        },
+        "linea": {
+          "SyncSwap": 1255
+        },
+        "sophon": {
+          "SyncSwap": 219
+        },
+        "scroll": {
+          "SyncSwap": 586
+        }
+      }
+    ],
+    [
+      1738108800,
+      {
+        "era": {
+          "SyncSwap": 14335
+        },
+        "linea": {
+          "SyncSwap": 1269
+        },
+        "sophon": {
+          "SyncSwap": 252
+        },
+        "scroll": {
+          "SyncSwap": 1316
+        }
+      }
+    ],
+    [
+      1738195200,
+      {
+        "era": {
+          "SyncSwap": 6798
+        },
+        "linea": {
+          "SyncSwap": 1278
+        },
+        "sophon": {
+          "SyncSwap": 274
+        },
+        "scroll": {
+          "SyncSwap": 374
+        }
+      }
+    ],
+    [
+      1738281600,
+      {
+        "era": {
+          "SyncSwap": 13676
+        },
+        "linea": {
+          "SyncSwap": 1695
+        },
+        "sophon": {
+          "SyncSwap": 327
+        },
+        "scroll": {
+          "SyncSwap": 692
+        }
+      }
+    ],
+    [
+      1738368000,
+      {
+        "era": {
+          "SyncSwap": 11599
+        },
+        "linea": {
+          "SyncSwap": 1173
+        },
+        "sophon": {
+          "SyncSwap": 242
+        },
+        "scroll": {
+          "SyncSwap": 349
+        }
+      }
+    ],
+    [
+      1738454400,
+      {
+        "era": {
+          "SyncSwap": 27652
+        },
+        "linea": {
+          "SyncSwap": 2571
+        },
+        "sophon": {
+          "SyncSwap": 513
+        },
+        "scroll": {
+          "SyncSwap": 1230
+        }
+      }
+    ],
+    [
+      1738540800,
+      {
+        "era": {
+          "SyncSwap": 60814
+        },
+        "linea": {
+          "SyncSwap": 6324
+        },
+        "sophon": {
+          "SyncSwap": 1269
+        },
+        "scroll": {
+          "SyncSwap": 5634
+        }
+      }
+    ],
+    [
+      1738627200,
+      {
+        "era": {
+          "SyncSwap": 27809
+        },
+        "linea": {
+          "SyncSwap": 2221
+        },
+        "sophon": {
+          "SyncSwap": 875
+        },
+        "scroll": {
+          "SyncSwap": 1452
+        }
+      }
+    ],
+    [
+      1738713600,
+      {
+        "era": {
+          "SyncSwap": 15817
+        },
+        "linea": {
+          "SyncSwap": 1396
+        },
+        "sophon": {
+          "SyncSwap": 117
+        },
+        "scroll": {
+          "SyncSwap": 674
+        }
+      }
+    ],
+    [
+      1738800000,
+      {
+        "era": {
+          "SyncSwap": 14486
+        },
+        "linea": {
+          "SyncSwap": 1594
+        },
+        "sophon": {
+          "SyncSwap": 312
+        },
+        "scroll": {
+          "SyncSwap": 1115
+        }
+      }
+    ],
+    [
+      1738886400,
+      {
+        "era": {
+          "SyncSwap": 13803
+        },
+        "linea": {
+          "SyncSwap": 1186
+        },
+        "sophon": {
+          "SyncSwap": 332
+        },
+        "scroll": {
+          "SyncSwap": 662
+        }
+      }
+    ],
+    [
+      1738972800,
+      {
+        "era": {
+          "SyncSwap": 7099
+        },
+        "linea": {
+          "SyncSwap": 1350
+        },
+        "sophon": {
+          "SyncSwap": 30
+        },
+        "scroll": {
+          "SyncSwap": 430
+        }
+      }
+    ],
+    [
+      1739059200,
+      {
+        "era": {
+          "SyncSwap": 9556
+        },
+        "linea": {
+          "SyncSwap": 1415
+        },
+        "sophon": {
+          "SyncSwap": 294
+        },
+        "scroll": {
+          "SyncSwap": 692
+        }
+      }
+    ],
+    [
+      1739145600,
+      {
+        "era": {
+          "SyncSwap": 9069
+        },
+        "linea": {
+          "SyncSwap": 890
+        },
+        "sophon": {
+          "SyncSwap": 186
+        },
+        "scroll": {
+          "SyncSwap": 430
+        }
+      }
+    ],
+    [
+      1739232000,
+      {
+        "era": {
+          "SyncSwap": 11252
+        },
+        "linea": {
+          "SyncSwap": 1084
+        },
+        "sophon": {
+          "SyncSwap": 214
+        },
+        "scroll": {
+          "SyncSwap": 500
+        }
+      }
+    ],
+    [
+      1739318400,
+      {
+        "era": {
+          "SyncSwap": 12886
+        },
+        "linea": {
+          "SyncSwap": 1378
+        },
+        "sophon": {
+          "SyncSwap": 232
+        },
+        "scroll": {
+          "SyncSwap": 739
+        }
+      }
+    ],
+    [
+      1739404800,
+      {
+        "era": {
+          "SyncSwap": 9027
+        },
+        "linea": {
+          "SyncSwap": 1237
+        },
+        "sophon": {
+          "SyncSwap": 272
+        },
+        "scroll": {
+          "SyncSwap": 375
+        }
+      }
+    ],
+    [
+      1739491200,
+      {
+        "era": {
+          "SyncSwap": 7542
+        },
+        "linea": {
+          "SyncSwap": 759
+        },
+        "sophon": {
+          "SyncSwap": 255
+        },
+        "scroll": {
+          "SyncSwap": 697
+        }
+      }
+    ],
+    [
+      1739577600,
+      {
+        "era": {
+          "SyncSwap": 3805
+        },
+        "linea": {
+          "SyncSwap": 1124
+        },
+        "sophon": {
+          "SyncSwap": 63
+        },
+        "scroll": {
+          "SyncSwap": 224
+        }
+      }
+    ],
+    [
+      1739664000,
+      {
+        "era": {
+          "SyncSwap": 7334
+        },
+        "linea": {
+          "SyncSwap": 988
+        },
+        "sophon": {
+          "SyncSwap": 33
+        },
+        "scroll": {
+          "SyncSwap": 333
+        }
+      }
+    ],
+    [
+      1739750400,
+      {
+        "era": {
+          "SyncSwap": 14774
+        },
+        "linea": {
+          "SyncSwap": 1189
+        },
+        "sophon": {
+          "SyncSwap": 383
+        },
+        "scroll": {
+          "SyncSwap": 1068
+        }
+      }
+    ],
+    [
+      1739923200,
+      {
+        "era": {
+          "SyncSwap": 8791
+        },
+        "linea": {
+          "SyncSwap": 678
+        },
+        "sophon": {
+          "SyncSwap": 155
+        },
+        "scroll": {
+          "SyncSwap": 566
+        }
+      }
+    ],
+    [
+      1740009600,
+      {
+        "era": {
+          "SyncSwap": 8293
+        },
+        "linea": {
+          "SyncSwap": 984
+        },
+        "sophon": {
+          "SyncSwap": 42
+        },
+        "scroll": {
+          "SyncSwap": 581
+        }
+      }
+    ],
+    [
+      1740096000,
+      {
+        "era": {
+          "SyncSwap": 11468
+        },
+        "linea": {
+          "SyncSwap": 1425
+        },
+        "sophon": {
+          "SyncSwap": 491
+        },
+        "scroll": {
+          "SyncSwap": 833
+        }
+      }
+    ],
+    [
+      1740182400,
+      {
+        "era": {
+          "SyncSwap": 6012
+        },
+        "linea": {
+          "SyncSwap": 776
+        },
+        "sophon": {
+          "SyncSwap": 176
+        },
+        "scroll": {
+          "SyncSwap": 474
+        }
+      }
+    ],
+    [
+      1740268800,
+      {
+        "era": {
+          "SyncSwap": 6045
+        },
+        "linea": {
+          "SyncSwap": 679
+        },
+        "sophon": {
+          "SyncSwap": 109
+        },
+        "scroll": {
+          "SyncSwap": 353
+        }
+      }
+    ],
+    [
+      1740355200,
+      {
+        "era": {
+          "SyncSwap": 13428
+        },
+        "linea": {
+          "SyncSwap": 1179
+        },
+        "sophon": {
+          "SyncSwap": 465
+        },
+        "scroll": {
+          "SyncSwap": 825
+        }
+      }
+    ],
+    [
+      1740441600,
+      {
+        "era": {
+          "SyncSwap": 21259
+        },
+        "linea": {
+          "SyncSwap": 3531
+        },
+        "sophon": {
+          "SyncSwap": 333
+        },
+        "scroll": {
+          "SyncSwap": 1118
+        }
+      }
+    ],
+    [
+      1740528000,
+      {
+        "era": {
+          "SyncSwap": 14873
+        },
+        "linea": {
+          "SyncSwap": 1720
+        },
+        "sophon": {
+          "SyncSwap": 524
+        },
+        "scroll": {
+          "SyncSwap": 1433
+        }
+      }
+    ],
+    [
+      1740614400,
+      {
+        "era": {
+          "SyncSwap": 13514
+        },
+        "linea": {
+          "SyncSwap": 1380
+        },
+        "sophon": {
+          "SyncSwap": 156
+        },
+        "scroll": {
+          "SyncSwap": 779
+        }
+      }
+    ],
+    [
+      1740700800,
+      {
+        "era": {
+          "SyncSwap": 20742
+        },
+        "linea": {
+          "SyncSwap": 2691
+        },
+        "sophon": {
+          "SyncSwap": 777
+        },
+        "scroll": {
+          "SyncSwap": 2039
+        }
+      }
+    ],
+    [
+      1740787200,
+      {
+        "era": {
+          "SyncSwap": 7315
+        },
+        "linea": {
+          "SyncSwap": 765
+        },
+        "sophon": {
+          "SyncSwap": 255
+        },
+        "scroll": {
+          "SyncSwap": 305
+        }
+      }
+    ],
+    [
+      1740873600,
+      {
+        "era": {
+          "SyncSwap": 8771
+        },
+        "linea": {
+          "SyncSwap": 1974
+        },
+        "sophon": {
+          "SyncSwap": 717
+        },
+        "scroll": {
+          "SyncSwap": 1059
+        }
+      }
+    ],
+    [
+      1740960000,
+      {
+        "era": {
+          "SyncSwap": 11571
+        },
+        "linea": {
+          "SyncSwap": 1556
+        },
+        "sophon": {
+          "SyncSwap": 618
+        },
+        "scroll": {
+          "SyncSwap": 1218
+        }
+      }
+    ],
+    [
+      1741046400,
+      {
+        "era": {
+          "SyncSwap": 14533
+        },
+        "linea": {
+          "SyncSwap": 2417
+        },
+        "sophon": {
+          "SyncSwap": 620
+        },
+        "scroll": {
+          "SyncSwap": 1458
+        }
+      }
+    ],
+    [
+      1741132800,
+      {
+        "era": {
+          "SyncSwap": 8309
+        },
+        "linea": {
+          "SyncSwap": 1183
+        },
+        "sophon": {
+          "SyncSwap": 260
+        },
+        "scroll": {
+          "SyncSwap": 508
+        }
+      }
+    ],
+    [
+      1741219200,
+      {
+        "era": {
+          "SyncSwap": 7188
+        },
+        "linea": {
+          "SyncSwap": 1095
+        },
+        "sophon": {
+          "SyncSwap": 353
+        },
+        "scroll": {
+          "SyncSwap": 655
+        }
+      }
+    ],
+    [
+      1741305600,
+      {
+        "era": {
+          "SyncSwap": 8978
+        },
+        "linea": {
+          "SyncSwap": 1915
+        },
+        "sophon": {
+          "SyncSwap": 465
+        },
+        "scroll": {
+          "SyncSwap": 962
+        }
+      }
+    ],
+    [
+      1741392000,
+      {
+        "era": {
+          "SyncSwap": 4256
+        },
+        "linea": {
+          "SyncSwap": 791
+        },
+        "sophon": {
+          "SyncSwap": 140
+        },
+        "scroll": {
+          "SyncSwap": 365
+        }
+      }
+    ],
+    [
+      1741478400,
+      {
+        "era": {
+          "SyncSwap": 6929
+        },
+        "linea": {
+          "SyncSwap": 1439
+        },
+        "sophon": {
+          "SyncSwap": 342
+        },
+        "scroll": {
+          "SyncSwap": 550
+        }
+      }
+    ],
+    [
+      1741564800,
+      {
+        "era": {
+          "SyncSwap": 10203
+        },
+        "linea": {
+          "SyncSwap": 2802
+        },
+        "sophon": {
+          "SyncSwap": 826
+        },
+        "scroll": {
+          "SyncSwap": 1682
+        }
+      }
+    ],
+    [
+      1741651200,
+      {
+        "era": {
+          "SyncSwap": 8163
+        },
+        "linea": {
+          "SyncSwap": 1880
+        },
+        "sophon": {
+          "SyncSwap": 741
+        },
+        "scroll": {
+          "SyncSwap": 1246
+        }
+      }
+    ],
+    [
+      1741737600,
+      {
+        "era": {
+          "SyncSwap": 7284
+        },
+        "linea": {
+          "SyncSwap": 1225
+        },
+        "sophon": {
+          "SyncSwap": 526
+        },
+        "scroll": {
+          "SyncSwap": 548
+        }
+      }
+    ],
+    [
+      1741824000,
+      {
+        "era": {
+          "SyncSwap": 5726
+        },
+        "linea": {
+          "SyncSwap": 1013
+        },
+        "sophon": {
+          "SyncSwap": 368
+        },
+        "scroll": {
+          "SyncSwap": 449
+        }
+      }
+    ],
+    [
+      1741910400,
+      {
+        "era": {
+          "SyncSwap": 3421
+        },
+        "linea": {
+          "SyncSwap": 600
+        },
+        "sophon": {
+          "SyncSwap": 316
+        },
+        "scroll": {
+          "SyncSwap": 229
+        }
+      }
+    ],
+    [
+      1741996800,
+      {
+        "era": {
+          "SyncSwap": 4617
+        },
+        "linea": {
+          "SyncSwap": 423
+        },
+        "sophon": {
+          "SyncSwap": 108
+        },
+        "scroll": {
+          "SyncSwap": 91
+        }
+      }
+    ],
+    [
+      1742083200,
+      {
+        "era": {
+          "SyncSwap": 2938
+        },
+        "linea": {
+          "SyncSwap": 576
+        },
+        "sophon": {
+          "SyncSwap": 239
+        },
+        "scroll": {
+          "SyncSwap": 197
+        }
+      }
+    ],
+    [
+      1742169600,
+      {
+        "era": {
+          "SyncSwap": 7267
+        },
+        "linea": {
+          "SyncSwap": 549
+        },
+        "sophon": {
+          "SyncSwap": 390
+        },
+        "scroll": {
+          "SyncSwap": 237
+        }
+      }
+    ],
+    [
+      1742256000,
+      {
+        "era": {
+          "SyncSwap": 6626
+        },
+        "linea": {
+          "SyncSwap": 419
+        },
+        "sophon": {
+          "SyncSwap": 849
+        },
+        "scroll": {
+          "SyncSwap": 182
+        }
+      }
+    ],
+    [
+      1742342400,
+      {
+        "era": {
+          "SyncSwap": 7382
+        },
+        "linea": {
+          "SyncSwap": 582
+        },
+        "sophon": {
+          "SyncSwap": 665
+        },
+        "scroll": {
+          "SyncSwap": 371
+        }
+      }
+    ],
+    [
+      1742428800,
+      {
+        "era": {
+          "SyncSwap": 6837
+        },
+        "linea": {
+          "SyncSwap": 394
+        },
+        "sophon": {
+          "SyncSwap": 403
+        },
+        "scroll": {
+          "SyncSwap": 229
+        }
+      }
+    ],
+    [
+      1742515200,
+      {
+        "era": {
+          "SyncSwap": 4914
+        },
+        "linea": {
+          "SyncSwap": 349
+        },
+        "sophon": {
+          "SyncSwap": 130
+        },
+        "scroll": {
+          "SyncSwap": 147
+        }
+      }
+    ],
+    [
+      1742601600,
+      {
+        "era": {
+          "SyncSwap": 4887
+        },
+        "linea": {
+          "SyncSwap": 320
+        },
+        "sophon": {
+          "SyncSwap": 120
+        },
+        "scroll": {
+          "SyncSwap": 191
+        }
+      }
+    ],
+    [
+      1742688000,
+      {
+        "era": {
+          "SyncSwap": 6012
+        },
+        "linea": {
+          "SyncSwap": 354
+        },
+        "sophon": {
+          "SyncSwap": 69
+        },
+        "scroll": {
+          "SyncSwap": 146
+        }
+      }
+    ],
+    [
+      1742774400,
+      {
+        "era": {
+          "SyncSwap": 4539
+        },
+        "linea": {
+          "SyncSwap": 496
+        },
+        "sophon": {
+          "SyncSwap": 513
+        },
+        "scroll": {
+          "SyncSwap": 189
+        }
+      }
+    ],
+    [
+      1742860800,
+      {
+        "era": {
+          "SyncSwap": 4278
+        },
+        "linea": {
+          "SyncSwap": 439
+        },
+        "sophon": {
+          "SyncSwap": 179
+        },
+        "scroll": {
+          "SyncSwap": 205
+        }
+      }
+    ],
+    [
+      1742947200,
+      {
+        "era": {
+          "SyncSwap": 4949
+        },
+        "linea": {
+          "SyncSwap": 470
+        },
+        "sophon": {
+          "SyncSwap": 420
+        },
+        "scroll": {
+          "SyncSwap": 197
+        }
+      }
+    ],
+    [
+      1743033600,
+      {
+        "era": {
+          "SyncSwap": 4088
+        },
+        "linea": {
+          "SyncSwap": 321
+        },
+        "sophon": {
+          "SyncSwap": 297
+        },
+        "scroll": {
+          "SyncSwap": 166
+        }
+      }
+    ],
+    [
+      1743120000,
+      {
+        "era": {
+          "SyncSwap": 5920
+        },
+        "linea": {
+          "SyncSwap": 687
+        },
+        "sophon": {
+          "SyncSwap": 410
+        },
+        "scroll": {
+          "SyncSwap": 286
+        }
+      }
+    ],
+    [
+      1743206400,
+      {
+        "era": {
+          "SyncSwap": 3822
+        },
+        "linea": {
+          "SyncSwap": 470
+        },
+        "sophon": {
+          "SyncSwap": 428
+        },
+        "scroll": {
+          "SyncSwap": 206
+        }
+      }
+    ],
+    [
+      1743292800,
+      {
+        "era": {
+          "SyncSwap": 3430
+        },
+        "linea": {
+          "SyncSwap": 437
+        },
+        "sophon": {
+          "SyncSwap": 361
+        },
+        "scroll": {
+          "SyncSwap": 181
+        }
+      }
+    ],
+    [
+      1743379200,
+      {
+        "era": {
+          "SyncSwap": 3969
+        },
+        "linea": {
+          "SyncSwap": 570
+        },
+        "sophon": {
+          "SyncSwap": 410
+        },
+        "scroll": {
+          "SyncSwap": 231
+        }
+      }
+    ],
+    [
+      1743465600,
+      {
+        "era": {
+          "SyncSwap": 3096
+        },
+        "linea": {
+          "SyncSwap": 470
+        },
+        "sophon": {
+          "SyncSwap": 438
+        },
+        "scroll": {
+          "SyncSwap": 274
+        }
+      }
+    ],
+    [
+      1743552000,
+      {
+        "era": {
+          "SyncSwap": 4983
+        },
+        "linea": {
+          "SyncSwap": 765
+        },
+        "sophon": {
+          "SyncSwap": 919
+        },
+        "scroll": {
+          "SyncSwap": 399
+        }
+      }
+    ],
+    [
+      1743638400,
+      {
+        "era": {
+          "SyncSwap": 4426
+        },
+        "linea": {
+          "SyncSwap": 944
+        },
+        "sophon": {
+          "SyncSwap": 764
+        },
+        "scroll": {
+          "SyncSwap": 672
+        }
+      }
+    ],
+    [
+      1743724800,
+      {
+        "era": {
+          "SyncSwap": 3812
+        },
+        "linea": {
+          "SyncSwap": 505
+        },
+        "sophon": {
+          "SyncSwap": 667
+        },
+        "scroll": {
+          "SyncSwap": 449
+        }
+      }
+    ],
+    [
+      1743811200,
+      {
+        "era": {
+          "SyncSwap": 1471
+        },
+        "linea": {
+          "SyncSwap": 244
+        },
+        "sophon": {
+          "SyncSwap": 105
+        },
+        "scroll": {
+          "SyncSwap": 121
+        }
+      }
+    ],
+    [
+      1743897600,
+      {
+        "era": {
+          "SyncSwap": 5729
+        },
+        "linea": {
+          "SyncSwap": 1406
+        },
+        "sophon": {
+          "SyncSwap": 1080
+        },
+        "scroll": {
+          "SyncSwap": 1241
+        }
+      }
+    ],
+    [
+      1743984000,
+      {
+        "era": {
+          "SyncSwap": 10085
+        },
+        "linea": {
+          "SyncSwap": 2895
+        },
+        "sophon": {
+          "SyncSwap": 2041
+        },
+        "scroll": {
+          "SyncSwap": 1485
+        }
+      }
+    ],
+    [
+      1744070400,
+      {
+        "era": {
+          "SyncSwap": 4562
+        },
+        "linea": {
+          "SyncSwap": 997
+        },
+        "sophon": {
+          "SyncSwap": 958
+        },
+        "scroll": {
+          "SyncSwap": 377
+        }
+      }
+    ],
+    [
+      1744156800,
+      {
+        "era": {
+          "SyncSwap": 6627
+        },
+        "linea": {
+          "SyncSwap": 1367
+        },
+        "sophon": {
+          "SyncSwap": 1920
+        },
+        "scroll": {
+          "SyncSwap": 819
+        }
+      }
+    ],
+    [
+      1744243200,
+      {
+        "era": {
+          "SyncSwap": 3910
+        },
+        "linea": {
+          "SyncSwap": 805
+        },
+        "sophon": {
+          "SyncSwap": 15826
+        },
+        "scroll": {
+          "SyncSwap": 406
+        }
+      }
+    ],
+    [
+      1744329600,
+      {
+        "era": {
+          "SyncSwap": 3711
+        },
+        "linea": {
+          "SyncSwap": 593
+        },
+        "sophon": {
+          "SyncSwap": 16179
+        },
+        "scroll": {
+          "SyncSwap": 231
+        }
+      }
+    ],
+    [
+      1744416000,
+      {
+        "era": {
+          "SyncSwap": 2505
+        },
+        "linea": {
+          "SyncSwap": 373
+        },
+        "sophon": {
+          "SyncSwap": 11869
+        },
+        "scroll": {
+          "SyncSwap": 144
+        }
+      }
+    ],
+    [
+      1744502400,
+      {
+        "era": {
+          "SyncSwap": 5635
+        },
+        "linea": {
+          "SyncSwap": 1032
+        },
+        "sophon": {
+          "SyncSwap": 11288
+        },
+        "scroll": {
+          "SyncSwap": 496
+        }
+      }
+    ],
+    [
+      1744588800,
+      {
+        "era": {
+          "SyncSwap": 4416
+        },
+        "linea": {
+          "SyncSwap": 617
+        },
+        "sophon": {
+          "SyncSwap": 8718
+        },
+        "scroll": {
+          "SyncSwap": 212
+        }
+      }
+    ],
+    [
+      1744675200,
+      {
+        "era": {
+          "SyncSwap": 4060
+        },
+        "linea": {
+          "SyncSwap": 521
+        },
+        "sophon": {
+          "SyncSwap": 8092
+        },
+        "scroll": {
+          "SyncSwap": 172
+        }
+      }
+    ],
+    [
+      1744761600,
+      {
+        "era": {
+          "SyncSwap": 2735
+        },
+        "linea": {
+          "SyncSwap": 669
+        },
+        "sophon": {
+          "SyncSwap": 10680
+        },
+        "scroll": {
+          "SyncSwap": 245
+        }
+      }
+    ],
+    [
+      1744848000,
+      {
+        "era": {
+          "SyncSwap": 1412
+        },
+        "linea": {
+          "SyncSwap": 355
+        },
+        "sophon": {
+          "SyncSwap": 9680
+        },
+        "scroll": {
+          "SyncSwap": 180
+        }
+      }
+    ],
+    [
+      1744934400,
+      {
+        "era": {
+          "SyncSwap": 829
+        },
+        "linea": {
+          "SyncSwap": 176
+        },
+        "sophon": {
+          "SyncSwap": 9056
+        },
+        "scroll": {
+          "SyncSwap": 210
+        }
+      }
+    ],
+    [
+      1745020800,
+      {
+        "era": {
+          "SyncSwap": 794
+        },
+        "linea": {
+          "SyncSwap": 347
+        },
+        "sophon": {
+          "SyncSwap": 10717
+        },
+        "scroll": {
+          "SyncSwap": 109
+        }
+      }
+    ],
+    [
+      1745107200,
+      {
+        "era": {
+          "SyncSwap": 721
+        },
+        "linea": {
+          "SyncSwap": 311
+        },
+        "sophon": {
+          "SyncSwap": 9558
+        },
+        "scroll": {
+          "SyncSwap": 256
+        }
+      }
+    ],
+    [
+      1745193600,
+      {
+        "era": {
+          "SyncSwap": 1644
+        },
+        "linea": {
+          "SyncSwap": 721
+        },
+        "sophon": {
+          "SyncSwap": 8090
+        },
+        "scroll": {
+          "SyncSwap": 537
+        }
+      }
+    ],
+    [
+      1745280000,
+      {
+        "era": {
+          "SyncSwap": 1753
+        },
+        "linea": {
+          "SyncSwap": 861
+        },
+        "sophon": {
+          "SyncSwap": 8021
+        },
+        "scroll": {
+          "SyncSwap": 770
+        }
+      }
+    ],
+    [
+      1745366400,
+      {
+        "era": {
+          "SyncSwap": 2603
+        },
+        "linea": {
+          "SyncSwap": 942
+        },
+        "sophon": {
+          "SyncSwap": 9455
+        },
+        "scroll": {
+          "SyncSwap": 576
+        }
+      }
+    ],
+    [
+      1745452800,
+      {
+        "era": {
+          "SyncSwap": 2650
+        },
+        "linea": {
+          "SyncSwap": 717
+        },
+        "sophon": {
+          "SyncSwap": 11325
+        },
+        "scroll": {
+          "SyncSwap": 321
+        }
+      }
+    ],
+    [
+      1745539200,
+      {
+        "era": {
+          "SyncSwap": 2867
+        },
+        "linea": {
+          "SyncSwap": 659
+        },
+        "sophon": {
+          "SyncSwap": 12568
+        },
+        "scroll": {
+          "SyncSwap": 342
+        }
+      }
+    ],
+    [
+      1745625600,
+      {
+        "era": {
+          "SyncSwap": 0
+        },
+        "linea": {
+          "SyncSwap": 0
+        },
+        "sophon": {
+          "SyncSwap": 10368
+        },
+        "scroll": {
+          "SyncSwap": 301
+        }
+      }
+    ],
+    [
+      1745712000,
+      {
+        "sophon": {
+          "SyncSwap": 8649
+        },
+        "scroll": {
+          "SyncSwap": 289
+        }
+      }
+    ],
+    [
+      1745798400,
+      {
+        "sophon": {
+          "SyncSwap": 7016
+        },
+        "scroll": {
+          "SyncSwap": 543
+        }
+      }
+    ],
+    [
+      1745884800,
+      {
+        "era": {
+          "SyncSwap": 1210
+        },
+        "linea": {
+          "SyncSwap": 624
+        },
+        "sophon": {
+          "SyncSwap": 8462
+        },
+        "scroll": {
+          "SyncSwap": 395
+        }
+      }
+    ],
+    [
+      1745971200,
+      {
+        "era": {
+          "SyncSwap": 1346
+        },
+        "linea": {
+          "SyncSwap": 915
+        },
+        "sophon": {
+          "SyncSwap": 11917
+        },
+        "scroll": {
+          "SyncSwap": 639
+        }
+      }
+    ],
+    [
+      1746057600,
+      {
+        "era": {
+          "SyncSwap": 1166
+        },
+        "linea": {
+          "SyncSwap": 703
+        },
+        "sophon": {
+          "SyncSwap": 9926
+        },
+        "scroll": {
+          "SyncSwap": 416
+        }
+      }
+    ],
+    [
+      1746144000,
+      {
+        "era": {
+          "SyncSwap": 979
+        },
+        "linea": {
+          "SyncSwap": 402
+        },
+        "sophon": {
+          "SyncSwap": 11228
+        },
+        "scroll": {
+          "SyncSwap": 317
+        }
+      }
+    ],
+    [
+      1746230400,
+      {
+        "era": {
+          "SyncSwap": 685
+        },
+        "linea": {
+          "SyncSwap": 339
+        },
+        "sophon": {
+          "SyncSwap": 12188
+        },
+        "scroll": {
+          "SyncSwap": 163
+        }
+      }
+    ],
+    [
+      1746316800,
+      {
+        "era": {
+          "SyncSwap": 1013
+        },
+        "linea": {
+          "SyncSwap": 334
+        },
+        "sophon": {
+          "SyncSwap": 11740
+        },
+        "scroll": {
+          "SyncSwap": 238
+        }
+      }
+    ],
+    [
+      1746403200,
+      {
+        "era": {
+          "SyncSwap": 1761
+        },
+        "linea": {
+          "SyncSwap": 611
+        },
+        "sophon": {
+          "SyncSwap": 7964
+        },
+        "scroll": {
+          "SyncSwap": 351
+        }
+      }
+    ],
+    [
+      1746489600,
+      {
+        "era": {
+          "SyncSwap": 2413
+        },
+        "linea": {
+          "SyncSwap": 614
+        },
+        "sophon": {
+          "SyncSwap": 7143
+        },
+        "scroll": {
+          "SyncSwap": 486
+        }
+      }
+    ],
+    [
+      1746576000,
+      {
+        "era": {
+          "SyncSwap": 1107
+        },
+        "linea": {
+          "SyncSwap": 588
+        },
+        "sophon": {
+          "SyncSwap": 18878
+        },
+        "scroll": {
+          "SyncSwap": 387
+        }
+      }
+    ],
+    [
+      1746662400,
+      {
+        "era": {
+          "SyncSwap": 4345
+        },
+        "linea": {
+          "SyncSwap": 1232
+        },
+        "sophon": {
+          "SyncSwap": 15679
+        },
+        "scroll": {
+          "SyncSwap": 481
+        }
+      }
+    ],
+    [
+      1746748800,
+      {
+        "era": {
+          "SyncSwap": 8928
+        },
+        "linea": {
+          "SyncSwap": 2481
+        },
+        "sophon": {
+          "SyncSwap": 20911
+        },
+        "scroll": {
+          "SyncSwap": 2127
+        }
+      }
+    ],
+    [
+      1746835200,
+      {
+        "era": {
+          "SyncSwap": 3979
+        },
+        "linea": {
+          "SyncSwap": 1853
+        },
+        "sophon": {
+          "SyncSwap": 23812
+        },
+        "scroll": {
+          "SyncSwap": 931
+        }
+      }
+    ],
+    [
+      1746921600,
+      {
+        "era": {
+          "SyncSwap": 5362
+        },
+        "linea": {
+          "SyncSwap": 1572
+        },
+        "sophon": {
+          "SyncSwap": 16944
+        },
+        "scroll": {
+          "SyncSwap": 1022
+        }
+      }
+    ],
+    [
+      1747008000,
+      {
+        "era": {
+          "SyncSwap": 4315
+        },
+        "linea": {
+          "SyncSwap": 1950
+        },
+        "sophon": {
+          "SyncSwap": 50515
+        },
+        "scroll": {
+          "SyncSwap": 1128
+        }
+      }
+    ],
+    [
+      1747094400,
+      {
+        "era": {
+          "SyncSwap": 3497
+        },
+        "linea": {
+          "SyncSwap": 1660
+        },
+        "sophon": {
+          "SyncSwap": 18793
+        },
+        "scroll": {
+          "SyncSwap": 560
+        }
+      }
+    ],
+    [
+      1747180800,
+      {
+        "era": {
+          "SyncSwap": 3197
+        },
+        "linea": {
+          "SyncSwap": 1435
+        },
+        "sophon": {
+          "SyncSwap": 12650
+        },
+        "scroll": {
+          "SyncSwap": 565
+        }
+      }
+    ],
+    [
+      1747267200,
+      {
+        "era": {
+          "SyncSwap": 3332
+        },
+        "linea": {
+          "SyncSwap": 1642
+        },
+        "sophon": {
+          "SyncSwap": 8547
+        },
+        "scroll": {
+          "SyncSwap": 596
+        }
+      }
+    ],
+    [
+      1747353600,
+      {
+        "era": {
+          "SyncSwap": 2421
+        },
+        "linea": {
+          "SyncSwap": 980
+        },
+        "sophon": {
+          "SyncSwap": 4599
+        },
+        "scroll": {
+          "SyncSwap": 372
+        }
+      }
+    ],
+    [
+      1747440000,
+      {
+        "era": {
+          "SyncSwap": 2349
+        },
+        "linea": {
+          "SyncSwap": 764
+        },
+        "sophon": {
+          "SyncSwap": 8789
+        },
+        "scroll": {
+          "SyncSwap": 547
+        }
+      }
+    ],
+    [
+      1747526400,
+      {
+        "era": {
+          "SyncSwap": 2801
+        },
+        "linea": {
+          "SyncSwap": 1033
+        },
+        "sophon": {
+          "SyncSwap": 6373
+        },
+        "scroll": {
+          "SyncSwap": 720
+        }
+      }
+    ],
+    [
+      1747612800,
+      {
+        "era": {
+          "SyncSwap": 2999
+        },
+        "linea": {
+          "SyncSwap": 1364
+        },
+        "sophon": {
+          "SyncSwap": 8886
+        },
+        "scroll": {
+          "SyncSwap": 755
+        }
+      }
+    ],
+    [
+      1747699200,
+      {
+        "era": {
+          "SyncSwap": 2164
+        },
+        "linea": {
+          "SyncSwap": 1076
+        },
+        "sophon": {
+          "SyncSwap": 6057
+        },
+        "scroll": {
+          "SyncSwap": 438
+        }
+      }
+    ],
+    [
+      1747785600,
+      {
+        "era": {
+          "SyncSwap": 3267
+        },
+        "linea": {
+          "SyncSwap": 1565
+        },
+        "sophon": {
+          "SyncSwap": 4348
+        },
+        "scroll": {
+          "SyncSwap": 705
+        }
+      }
+    ],
+    [
+      1747872000,
+      {
+        "era": {
+          "SyncSwap": 2715
+        },
+        "linea": {
+          "SyncSwap": 1350
+        },
+        "sophon": {
+          "SyncSwap": 5476
+        },
+        "scroll": {
+          "SyncSwap": 674
+        }
+      }
+    ],
+    [
+      1747958400,
+      {
+        "era": {
+          "SyncSwap": 2859
+        },
+        "linea": {
+          "SyncSwap": 1337
+        },
+        "sophon": {
+          "SyncSwap": 3706
+        },
+        "scroll": {
+          "SyncSwap": 812
+        }
+      }
+    ],
+    [
+      1748044800,
+      {
+        "era": {
+          "SyncSwap": 1371
+        },
+        "linea": {
+          "SyncSwap": 668
+        },
+        "sophon": {
+          "SyncSwap": 5406
+        },
+        "scroll": {
+          "SyncSwap": 254
+        }
+      }
+    ],
+    [
+      1748131200,
+      {
+        "era": {
+          "SyncSwap": 1227
+        },
+        "linea": {
+          "SyncSwap": 653
+        },
+        "sophon": {
+          "SyncSwap": 4097
+        },
+        "scroll": {
+          "SyncSwap": 314
+        }
+      }
+    ],
+    [
+      1748217600,
+      {
+        "era": {
+          "SyncSwap": 1145
+        },
+        "linea": {
+          "SyncSwap": 836
+        },
+        "sophon": {
+          "SyncSwap": 4627
+        },
+        "scroll": {
+          "SyncSwap": 268
+        }
+      }
+    ],
+    [
+      1748304000,
+      {
+        "era": {
+          "SyncSwap": 2458
+        },
+        "linea": {
+          "SyncSwap": 932
+        },
+        "sophon": {
+          "SyncSwap": 272
+        },
+        "scroll": {
+          "SyncSwap": 591
+        }
+      }
+    ],
+    [
+      1748390400,
+      {
+        "era": {
+          "SyncSwap": 2797
+        },
+        "linea": {
+          "SyncSwap": 802
+        },
+        "sophon": {
+          "SyncSwap": 134154
+        },
+        "scroll": {
+          "SyncSwap": 411
+        }
+      }
+    ],
+    [
+      1748476800,
+      {
+        "era": {
+          "SyncSwap": 2947
+        },
+        "linea": {
+          "SyncSwap": 1091
+        },
+        "sophon": {
+          "SyncSwap": 9605
+        },
+        "scroll": {
+          "SyncSwap": 505
+        }
+      }
+    ],
+    [
+      1748563200,
+      {
+        "era": {
+          "SyncSwap": 2711
+        },
+        "linea": {
+          "SyncSwap": 2738
+        },
+        "sophon": {
+          "SyncSwap": 6018
+        },
+        "scroll": {
+          "SyncSwap": 811
+        }
+      }
+    ],
+    [
+      1748649600,
+      {
+        "era": {
+          "SyncSwap": 2502
+        },
+        "linea": {
+          "SyncSwap": 748
+        },
+        "sophon": {
+          "SyncSwap": 4524
+        },
+        "scroll": {
+          "SyncSwap": 348
+        }
+      }
+    ],
+    [
+      1748736000,
+      {
+        "era": {
+          "SyncSwap": 1321
+        },
+        "linea": {
+          "SyncSwap": 510
+        },
+        "sophon": {
+          "SyncSwap": 3837
+        },
+        "scroll": {
+          "SyncSwap": 338
+        }
+      }
+    ],
+    [
+      1748822400,
+      {
+        "era": {
+          "SyncSwap": 1552
+        },
+        "linea": {
+          "SyncSwap": 891
+        },
+        "sophon": {
+          "SyncSwap": 2786
+        },
+        "scroll": {
+          "SyncSwap": 435
+        }
+      }
+    ],
+    [
+      1748908800,
+      {
+        "era": {
+          "SyncSwap": 2000
+        },
+        "linea": {
+          "SyncSwap": 1058
+        },
+        "sophon": {
+          "SyncSwap": 3944
+        },
+        "scroll": {
+          "SyncSwap": 388
+        }
+      }
+    ],
+    [
+      1748995200,
+      {
+        "era": {
+          "SyncSwap": 1466
+        },
+        "linea": {
+          "SyncSwap": 611
+        },
+        "sophon": {
+          "SyncSwap": 3290
+        },
+        "scroll": {
+          "SyncSwap": 297
+        }
+      }
+    ],
+    [
+      1749081600,
+      {
+        "era": {
+          "SyncSwap": 2657
+        },
+        "linea": {
+          "SyncSwap": 1008
+        },
+        "sophon": {
+          "SyncSwap": 1056
+        },
+        "scroll": {
+          "SyncSwap": 695
+        }
+      }
+    ],
+    [
+      1749168000,
+      {
+        "era": {
+          "SyncSwap": 2779
+        },
+        "linea": {
+          "SyncSwap": 1201
+        },
+        "sophon": {
+          "SyncSwap": 852
+        },
+        "scroll": {
+          "SyncSwap": 817
+        }
+      }
+    ]
+  ],
+  "change_1d": -0.26
+}
