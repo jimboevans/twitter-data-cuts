@@ -45,10 +45,10 @@
   "latestFetchIsOk": true,
   "slug": "gmx",
   "protocolType": "protocol",
-  "total24h": 451008,
-  "total48hto24h": 122533,
-  "total7d": 1335439,
-  "totalAllTime": 428956743,
+  "total24h": 95258,
+  "total48hto24h": 206671,
+  "total7d": 1366200,
+  "totalAllTime": 429469535,
   "totalDataChart": [
     [
       1630627200,
@@ -5532,7 +5532,19 @@
     ],
     [
       1749168000,
-      2731
+      210334
+    ],
+    [
+      1749254400,
+      206671
+    ],
+    [
+      1749340800,
+      95258
+    ],
+    [
+      1749427200,
+      3260
     ]
   ],
   "totalDataChartBreakdown": [
@@ -21909,13 +21921,61 @@
       1749168000,
       {
         "arbitrum": {
-          "GMX V1": 1380
+          "GMX V1": 1405,
+          "GMX V2 Perps": 197917
         },
         "avax": {
-          "GMX V1": 1351
+          "GMX V1": 1693,
+          "GMX V2 Perps": 7906
+        },
+        "solana": {
+          "GMX V2 Perps": 1413
+        }
+      }
+    ],
+    [
+      1749254400,
+      {
+        "arbitrum": {
+          "GMX V1": 0,
+          "GMX V2 Perps": 197141
+        },
+        "avax": {
+          "GMX V1": 270,
+          "GMX V2 Perps": 9202
+        },
+        "solana": {
+          "GMX V2 Perps": 58
+        }
+      }
+    ],
+    [
+      1749340800,
+      {
+        "arbitrum": {
+          "GMX V1": 0,
+          "GMX V2 Perps": 88043
+        },
+        "avax": {
+          "GMX V1": 246,
+          "GMX V2 Perps": 6767
+        },
+        "solana": {
+          "GMX V2 Perps": 202
+        }
+      }
+    ],
+    [
+      1749427200,
+      {
+        "arbitrum": {
+          "GMX V1": 312
+        },
+        "avax": {
+          "GMX V1": 2948
         }
       }
     ]
   ],
-  "change_1d": 268.07
+  "change_1d": -53.91
 }
