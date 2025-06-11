@@ -42,10 +42,10 @@
   "latestFetchIsOk": true,
   "slug": "orca",
   "protocolType": "protocol",
-  "total24h": 549462,
+  "total24h": 546217,
   "total48hto24h": 425916,
   "total7d": 2300873,
-  "totalAllTime": 123254789,
+  "totalAllTime": 123801006,
   "totalDataChart": [
     [
       1731369600,
@@ -890,6 +890,10 @@
     [
       1749513600,
       549462
+    ],
+    [
+      1749600000,
+      546217
     ]
   ],
   "totalDataChartBreakdown": [
@@ -3213,7 +3217,18 @@
           "Orca": 3183
         }
       }
+    ],
+    [
+      1749600000,
+      {
+        "solana": {
+          "Orca": 543023
+        },
+        "eclipse": {
+          "Orca": 3194
+        }
+      }
     ]
   ],
-  "change_1d": 29.01
+  "change_1d": 28.25
 }
