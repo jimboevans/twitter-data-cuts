@@ -41,10 +41,10 @@
   "latestFetchIsOk": true,
   "slug": "maestro",
   "protocolType": "protocol",
-  "total24h": 76665,
-  "total48hto24h": 69818,
-  "total7d": 647247,
-  "totalAllTime": 115259703,
+  "total24h": 84544,
+  "total48hto24h": 84544,
+  "total7d": 609599,
+  "totalAllTime": 115344247,
   "totalDataChart": [
     [
       1656633600,
@@ -4301,6 +4301,10 @@
     [
       1749340800,
       76665
+    ],
+    [
+      1749427200,
+      84544
     ]
   ],
   "totalDataChartBreakdown": [
@@ -21272,7 +21276,24 @@
           "Maestro": 0
         }
       }
+    ],
+    [
+      1749427200,
+      {
+        "ethereum": {
+          "Maestro": 32623
+        },
+        "bsc": {
+          "Maestro": 5636
+        },
+        "arbitrum": {
+          "Maestro": 27
+        },
+        "solana": {
+          "Maestro": 46258
+        }
+      }
     ]
   ],
-  "change_1d": 9.81
+  "change_1d": 0
 }

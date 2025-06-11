@@ -51,10 +51,10 @@
     "Shadow Exchange CLMM",
     "Shadow Exchange Legacy"
   ],
-  "total24h": 44609,
-  "total48hto24h": 44162,
-  "total7d": 459501,
-  "totalAllTime": 32518542,
+  "total24h": 79012,
+  "total48hto24h": 55428,
+  "total7d": 466092,
+  "totalAllTime": 32652982,
   "totalDataChart": [
     [
       1735171200,
@@ -715,6 +715,14 @@
     [
       1749340800,
       44609
+    ],
+    [
+      1749427200,
+      55428
+    ],
+    [
+      1749513600,
+      79012
     ]
   ],
   "totalDataChartBreakdown": [
@@ -2037,7 +2045,23 @@
           "Shadow Exchange CLMM": 44609
         }
       }
+    ],
+    [
+      1749427200,
+      {
+        "sonic": {
+          "Shadow Exchange CLMM": 55428
+        }
+      }
+    ],
+    [
+      1749513600,
+      {
+        "sonic": {
+          "Shadow Exchange CLMM": 79012
+        }
+      }
     ]
   ],
-  "change_1d": 1.01
+  "change_1d": 42.55
 }

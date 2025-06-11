@@ -45,10 +45,10 @@
   "latestFetchIsOk": true,
   "slug": "dydx",
   "protocolType": "protocol",
-  "total24h": 20551,
-  "total48hto24h": 17065,
-  "total7d": 245275,
-  "totalAllTime": 87256947,
+  "total24h": 57370,
+  "total48hto24h": 42730,
+  "total7d": 273770,
+  "totalAllTime": 87357047,
   "totalDataChart": [
     [
       1699833600,
@@ -2329,6 +2329,14 @@
     [
       1749340800,
       20551
+    ],
+    [
+      1749427200,
+      42730
+    ],
+    [
+      1749513600,
+      57370
     ]
   ],
   "totalDataChartBreakdown": [
@@ -7911,7 +7919,23 @@
           "dYdX V4": 20551
         }
       }
+    ],
+    [
+      1749427200,
+      {
+        "dydx": {
+          "dYdX V4": 42730
+        }
+      }
+    ],
+    [
+      1749513600,
+      {
+        "dydx": {
+          "dYdX V4": 57370
+        }
+      }
     ]
   ],
-  "change_1d": 20.43
+  "change_1d": 34.26
 }

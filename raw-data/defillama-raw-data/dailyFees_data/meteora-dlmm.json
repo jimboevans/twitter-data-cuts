@@ -43,13 +43,15 @@
   "protocolType": "protocol",
   "linkedProtocols": [
     "Meteora",
-    "Meteora pools",
-    "Meteora DLMM"
+    "Meteora DAMM V1",
+    "Meteora DLMM",
+    "Meteora DAMM V2",
+    "Meteora Dynamic Bonding Curve"
   ],
-  "total24h": 4541990,
-  "total48hto24h": 4662097,
-  "total7d": 28516261,
-  "totalAllTime": 1090289042,
+  "total24h": 5030577,
+  "total48hto24h": 5443260,
+  "total7d": 31135342,
+  "totalAllTime": 1101204281,
   "totalDataChart": [
     [
       1737331200,
@@ -613,7 +615,15 @@
     ],
     [
       1749427200,
-      4541990
+      5443260
+    ],
+    [
+      1749513600,
+      4983392
+    ],
+    [
+      1749600000,
+      5030577
     ]
   ],
   "totalDataChartBreakdown": [
@@ -1741,10 +1751,26 @@
       1749427200,
       {
         "solana": {
-          "Meteora DLMM": 4541990
+          "Meteora DLMM": 5443260
+        }
+      }
+    ],
+    [
+      1749513600,
+      {
+        "solana": {
+          "Meteora DLMM": 4983392
+        }
+      }
+    ],
+    [
+      1749600000,
+      {
+        "solana": {
+          "Meteora DLMM": 5030577
         }
       }
     ]
   ],
-  "change_1d": -2.58
+  "change_1d": -7.58
 }

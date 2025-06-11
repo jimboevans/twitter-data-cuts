@@ -49,10 +49,10 @@
   "latestFetchIsOk": true,
   "slug": "ostium",
   "protocolType": "protocol",
-  "total24h": 53182,
-  "total48hto24h": 10319,
-  "total7d": 293272,
-  "totalAllTime": 3450431,
+  "total24h": 33879,
+  "total48hto24h": 54988,
+  "total7d": 311044,
+  "totalAllTime": 3520450,
   "totalDataChart": [
     [
       1724716800,
@@ -1200,7 +1200,15 @@
     ],
     [
       1749427200,
-      53182
+      54988
+    ],
+    [
+      1749513600,
+      34334
+    ],
+    [
+      1749600000,
+      33879
     ]
   ],
   "totalDataChartBreakdown": [
@@ -3496,10 +3504,26 @@
       1749427200,
       {
         "arbitrum": {
-          "Ostium": 53182
+          "Ostium": 54988
+        }
+      }
+    ],
+    [
+      1749513600,
+      {
+        "arbitrum": {
+          "Ostium": 34334
+        }
+      }
+    ],
+    [
+      1749600000,
+      {
+        "arbitrum": {
+          "Ostium": 33879
         }
       }
     ]
   ],
-  "change_1d": 415.38
+  "change_1d": -38.39
 }
