@@ -47,10 +47,10 @@
   "latestFetchIsOk": true,
   "slug": "clipper",
   "protocolType": "protocol",
-  "total24h": 3033,
+  "total24h": 13286,
   "total48hto24h": 3033,
-  "total7d": 39437,
-  "totalAllTime": 9156596,
+  "total7d": 49690,
+  "totalAllTime": 9169882,
   "totalDataChart": [
     [
       1650412800,
@@ -4639,6 +4639,10 @@
     [
       1749427200,
       3033
+    ],
+    [
+      1749513600,
+      13286
     ]
   ],
   "totalDataChartBreakdown": [
@@ -22193,7 +22197,21 @@
           "Clipper": 445
         }
       }
+    ],
+    [
+      1749513600,
+      {
+        "ethereum": {
+          "Clipper": 485
+        },
+        "optimism": {
+          "Clipper": 11430
+        },
+        "arbitrum": {
+          "Clipper": 1371
+        }
+      }
     ]
   ],
-  "change_1d": 0
+  "change_1d": 338.05
 }
