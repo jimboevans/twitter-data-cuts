@@ -36,10 +36,10 @@
   "latestFetchIsOk": true,
   "slug": "gmgn",
   "protocolType": "protocol",
-  "total24h": 138427,
-  "total48hto24h": 129826,
-  "total7d": 846590,
-  "totalAllTime": 55459796,
+  "total24h": 111643,
+  "total48hto24h": 138427,
+  "total7d": 856080,
+  "totalAllTime": 55571439,
   "totalDataChart": [
     [
       1732147200,
@@ -836,6 +836,10 @@
     [
       1749513600,
       138427
+    ],
+    [
+      1749600000,
+      111643
     ]
   ],
   "totalDataChartBreakdown": [
@@ -2430,7 +2434,15 @@
           "GMGN": 138427
         }
       }
+    ],
+    [
+      1749600000,
+      {
+        "solana": {
+          "GMGN": 111643
+        }
+      }
     ]
   ],
-  "change_1d": 6.63
+  "change_1d": -19.35
 }

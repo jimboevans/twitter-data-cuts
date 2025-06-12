@@ -61,10 +61,10 @@
   "latestFetchIsOk": true,
   "slug": "aave",
   "protocolType": "protocol",
-  "total24h": 1591569,
-  "total48hto24h": 1900457,
-  "total7d": 11757387,
-  "totalAllTime": 1303638197,
+  "total24h": 1636757,
+  "total48hto24h": 1591569,
+  "total7d": 11858341,
+  "totalAllTime": 1305255675,
   "totalDataChart": [
     [
       1607040000,
@@ -6664,7 +6664,11 @@
     ],
     [
       1749600000,
-      1659064
+      1636757
+    ],
+    [
+      1749686400,
+      1639785
     ]
   ],
   "totalDataChartBreakdown": [
@@ -53614,52 +53618,108 @@
       1749600000,
       {
         "ethereum": {
-          "AAVE V2": 7628,
-          "AAVE V3": 1415520
+          "AAVE V2": 6827,
+          "AAVE V3": 1405801
         },
         "polygon": {
           "AAVE V2": 0,
-          "AAVE V3": 15750
+          "AAVE V3": 15228
         },
         "avax": {
-          "AAVE V2": 82,
-          "AAVE V3": 98154
+          "AAVE V2": 91,
+          "AAVE V3": 87331
         },
         "optimism": {
-          "AAVE V3": 5799
+          "AAVE V3": 5725
         },
         "arbitrum": {
-          "AAVE V3": 54458
+          "AAVE V3": 53759
         },
         "fantom": {
           "AAVE V3": 0
         },
         "base": {
-          "AAVE V3": 41463
+          "AAVE V3": 41916
         },
         "bsc": {
-          "AAVE V3": 11383
+          "AAVE V3": 11422
         },
         "metis": {
-          "AAVE V3": 618
+          "AAVE V3": 560
         },
         "xdai": {
-          "AAVE V3": 2217
+          "AAVE V3": 2225
         },
         "scroll": {
-          "AAVE V3": 1294
+          "AAVE V3": 1282
         },
         "era": {
-          "AAVE V3": 312
+          "AAVE V3": 309
         },
         "linea": {
-          "AAVE V3": 267
+          "AAVE V3": 265
         },
         "sonic": {
-          "AAVE V3": 4063
+          "AAVE V3": 3963
         },
         "celo": {
-          "AAVE V3": 56
+          "AAVE V3": 53
+        },
+        "soneium": {
+          "AAVE V3": 0
+        }
+      }
+    ],
+    [
+      1749686400,
+      {
+        "ethereum": {
+          "AAVE V2": 5182,
+          "AAVE V3": 1429874
+        },
+        "polygon": {
+          "AAVE V2": 0,
+          "AAVE V3": 14961
+        },
+        "avax": {
+          "AAVE V2": 81,
+          "AAVE V3": 66766
+        },
+        "optimism": {
+          "AAVE V3": 5790
+        },
+        "arbitrum": {
+          "AAVE V3": 54658
+        },
+        "fantom": {
+          "AAVE V3": 0
+        },
+        "base": {
+          "AAVE V3": 42480
+        },
+        "bsc": {
+          "AAVE V3": 11326
+        },
+        "metis": {
+          "AAVE V3": 629
+        },
+        "xdai": {
+          "AAVE V3": 2429
+        },
+        "scroll": {
+          "AAVE V3": 1253
+        },
+        "era": {
+          "AAVE V3": 294
+        },
+        "linea": {
+          "AAVE V3": 268
+        },
+        "sonic": {
+          "AAVE V3": 3742
+        },
+        "celo": {
+          "AAVE V3": 52
         },
         "soneium": {
           "AAVE V3": 0
@@ -53667,5 +53727,5 @@
       }
     ]
   ],
-  "change_1d": -16.25
+  "change_1d": 2.84
 }

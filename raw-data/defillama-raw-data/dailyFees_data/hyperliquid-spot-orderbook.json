@@ -46,10 +46,10 @@
     "Hyperliquid",
     "Hyperliquid Spot Orderbook"
   ],
-  "total24h": 2710408,
-  "total48hto24h": 820745,
-  "total7d": 12090203,
-  "totalAllTime": 404223158,
+  "total24h": 2958111,
+  "total48hto24h": 2769078,
+  "total7d": 13070406,
+  "totalAllTime": 407249132,
   "totalDataChart": [
     [
       1734912000,
@@ -725,7 +725,11 @@
     ],
     [
       1749600000,
-      2710408
+      2778271
+    ],
+    [
+      1749686400,
+      2958111
     ]
   ],
   "totalDataChartBreakdown": [
@@ -2077,10 +2081,18 @@
       1749600000,
       {
         "hyperliquid": {
-          "Hyperliquid Spot Orderbook": 2710408
+          "Hyperliquid Spot Orderbook": 2778271
+        }
+      }
+    ],
+    [
+      1749686400,
+      {
+        "hyperliquid": {
+          "Hyperliquid Spot Orderbook": 2958111
         }
       }
     ]
   ],
-  "change_1d": 230.24
+  "change_1d": 6.83
 }

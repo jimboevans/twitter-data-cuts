@@ -49,10 +49,10 @@
     "Aerodrome V1",
     "Aerodrome Slipstream"
   ],
-  "total24h": 193744,
-  "total48hto24h": 261836,
-  "total7d": 880179,
-  "totalAllTime": 71040461,
+  "total24h": 115803,
+  "total48hto24h": 193744,
+  "total7d": 926600,
+  "totalAllTime": 71156264,
   "totalDataChart": [
     [
       1693267200,
@@ -2661,6 +2661,10 @@
     [
       1749513600,
       193744
+    ],
+    [
+      1749600000,
+      115803
     ]
   ],
   "totalDataChartBreakdown": [
@@ -7879,7 +7883,15 @@
           "Aerodrome V1": 193744
         }
       }
+    ],
+    [
+      1749600000,
+      {
+        "base": {
+          "Aerodrome V1": 115803
+        }
+      }
     ]
   ],
-  "change_1d": -26.01
+  "change_1d": -40.23
 }

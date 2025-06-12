@@ -46,10 +46,10 @@
     "Raydium AMM",
     "LaunchLab"
   ],
-  "total24h": 1051009,
-  "total48hto24h": 777824,
-  "total7d": 4846876,
-  "totalAllTime": 1187452244,
+  "total24h": 904662,
+  "total48hto24h": 1071609,
+  "total7d": 5179543,
+  "totalAllTime": 1188403235,
   "totalDataChart": [
     [
       1665964800,
@@ -3921,7 +3921,11 @@
     ],
     [
       1749600000,
-      1051009
+      1097338
+    ],
+    [
+      1749686400,
+      904662
     ]
   ],
   "totalDataChartBreakdown": [
@@ -11665,10 +11669,18 @@
       1749600000,
       {
         "solana": {
-          "Raydium AMM": 1051009
+          "Raydium AMM": 1097338
+        }
+      }
+    ],
+    [
+      1749686400,
+      {
+        "solana": {
+          "Raydium AMM": 904662
         }
       }
     ]
   ],
-  "change_1d": 35.12
+  "change_1d": -15.58
 }

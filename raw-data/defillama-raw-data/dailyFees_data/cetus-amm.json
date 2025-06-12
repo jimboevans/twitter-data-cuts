@@ -45,10 +45,10 @@
     "Cetus",
     "Cetus AMM"
   ],
-  "total24h": 55032,
-  "total48hto24h": 39149,
-  "total7d": 135414,
-  "totalAllTime": 83489849,
+  "total24h": 53889,
+  "total48hto24h": 56084,
+  "total7d": 194025,
+  "totalAllTime": 83547317,
   "totalDataChart": [
     [
       1704153600,
@@ -2156,7 +2156,11 @@
     ],
     [
       1749600000,
-      55032
+      58611
+    ],
+    [
+      1749686400,
+      53889
     ]
   ],
   "totalDataChartBreakdown": [
@@ -6372,10 +6376,18 @@
       1749600000,
       {
         "sui": {
-          "Cetus AMM": 55032
+          "Cetus AMM": 58611
+        }
+      }
+    ],
+    [
+      1749686400,
+      {
+        "sui": {
+          "Cetus AMM": 53889
         }
       }
     ]
   ],
-  "change_1d": 40.57
+  "change_1d": -3.91
 }

@@ -61,10 +61,10 @@
     "PancakeSwap AMM V3",
     "PancakeSwap Infinity"
   ],
-  "total24h": 5452742,
-  "total48hto24h": 6605570,
-  "total7d": 47311742,
-  "totalAllTime": 2165315290,
+  "total24h": 5448599,
+  "total48hto24h": 9138948,
+  "total7d": 45639954,
+  "totalAllTime": 2170689642,
   "totalDataChart": [
     [
       1619222400,
@@ -6088,7 +6088,11 @@
     ],
     [
       1749600000,
-      5452742
+      5378495
+    ],
+    [
+      1749686400,
+      5448599
     ]
   ],
   "totalDataChartBreakdown": [
@@ -34441,10 +34445,10 @@
       1749600000,
       {
         "bsc": {
-          "PancakeSwap AMM": 5451588
+          "PancakeSwap AMM": 5377347
         },
         "ethereum": {
-          "PancakeSwap AMM": 276
+          "PancakeSwap AMM": 282
         },
         "polygon_zkevm": {
           "PancakeSwap AMM": 0
@@ -34453,16 +34457,48 @@
           "PancakeSwap AMM": 1
         },
         "arbitrum": {
-          "PancakeSwap AMM": 23
+          "PancakeSwap AMM": 10
         },
         "linea": {
           "PancakeSwap AMM": 1
         },
         "base": {
-          "PancakeSwap AMM": 41
+          "PancakeSwap AMM": 40
         },
         "op_bnb": {
-          "PancakeSwap AMM": 812
+          "PancakeSwap AMM": 814
+        },
+        "aptos": {
+          "PancakeSwap AMM": 0
+        }
+      }
+    ],
+    [
+      1749686400,
+      {
+        "bsc": {
+          "PancakeSwap AMM": 5447892
+        },
+        "ethereum": {
+          "PancakeSwap AMM": 288
+        },
+        "polygon_zkevm": {
+          "PancakeSwap AMM": 0
+        },
+        "era": {
+          "PancakeSwap AMM": 6
+        },
+        "arbitrum": {
+          "PancakeSwap AMM": 9
+        },
+        "linea": {
+          "PancakeSwap AMM": 1
+        },
+        "base": {
+          "PancakeSwap AMM": 5
+        },
+        "op_bnb": {
+          "PancakeSwap AMM": 398
         },
         "aptos": {
           "PancakeSwap AMM": 0
@@ -34470,5 +34506,5 @@
       }
     ]
   ],
-  "change_1d": -17.45
+  "change_1d": -40.38
 }

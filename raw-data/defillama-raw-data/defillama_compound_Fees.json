@@ -54,10 +54,10 @@
   "latestFetchIsOk": true,
   "slug": "compound-finance",
   "protocolType": "protocol",
-  "total24h": 153241,
-  "total48hto24h": 157885,
-  "total7d": 896422,
-  "totalAllTime": 528365788,
+  "total24h": 137697,
+  "total48hto24h": 153241,
+  "total7d": 927282,
+  "totalAllTime": 528509848,
   "totalDataChart": [
     [
       1557273600,
@@ -8965,7 +8965,11 @@
     ],
     [
       1749600000,
-      116716
+      137697
+    ],
+    [
+      1749686400,
+      123079
     ]
   ],
   "totalDataChartBreakdown": [
@@ -29754,28 +29758,61 @@
       1749600000,
       {
         "ethereum": {
-          "Compound V3": 99714
+          "Compound V2": 25034,
+          "Compound V3": 94764
         },
         "polygon": {
-          "Compound V3": 2323
+          "Compound V3": 1960
         },
         "arbitrum": {
-          "Compound V3": 7056
+          "Compound V3": 8160
         },
         "optimism": {
-          "Compound V3": 1702
+          "Compound V3": 1516
         },
         "base": {
-          "Compound V3": 4350
+          "Compound V3": 4282
         },
         "scroll": {
           "Compound V3": 4
         },
         "mantle": {
-          "Compound V3": 174
+          "Compound V3": 175
         },
         "unichain": {
-          "Compound V3": 1386
+          "Compound V3": 1795
+        },
+        "linea": {
+          "Compound V3": 7
+        }
+      }
+    ],
+    [
+      1749686400,
+      {
+        "ethereum": {
+          "Compound V3": 100612
+        },
+        "polygon": {
+          "Compound V3": 1687
+        },
+        "arbitrum": {
+          "Compound V3": 12596
+        },
+        "optimism": {
+          "Compound V3": 1706
+        },
+        "base": {
+          "Compound V3": 5467
+        },
+        "scroll": {
+          "Compound V3": 4
+        },
+        "mantle": {
+          "Compound V3": 176
+        },
+        "unichain": {
+          "Compound V3": 824
         },
         "linea": {
           "Compound V3": 7
@@ -29783,5 +29820,5 @@
       }
     ]
   ],
-  "change_1d": -2.94
+  "change_1d": -10.14
 }

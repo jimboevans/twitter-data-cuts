@@ -36,10 +36,10 @@
   "latestFetchIsOk": true,
   "slug": "trojan",
   "protocolType": "protocol",
-  "total24h": 179344,
-  "total48hto24h": 186744,
-  "total7d": 1076113,
-  "totalAllTime": 188443287,
+  "total24h": 180606,
+  "total48hto24h": 170115,
+  "total7d": 1120211,
+  "totalAllTime": 188636944,
   "totalDataChart": [
     [
       1708732800,
@@ -1923,7 +1923,11 @@
     ],
     [
       1749600000,
-      179344
+      192395
+    ],
+    [
+      1749686400,
+      180606
     ]
   ],
   "totalDataChartBreakdown": [
@@ -5691,10 +5695,18 @@
       1749600000,
       {
         "solana": {
-          "Trojan": 179344
+          "Trojan": 192395
+        }
+      }
+    ],
+    [
+      1749686400,
+      {
+        "solana": {
+          "Trojan": 180606
         }
       }
     ]
   ],
-  "change_1d": -3.96
+  "change_1d": 6.17
 }

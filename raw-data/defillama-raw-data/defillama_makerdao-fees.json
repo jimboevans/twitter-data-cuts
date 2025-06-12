@@ -37,9 +37,10 @@
   "methodologyURL": "https://github.com/DefiLlama/dimension-adapters/blob/master/fees/makerdao.ts",
   "methodology": {
     "UserFees": "Interest paid to borrow",
-    "Fees": "Interest paid by borrowers",
-    "Revenue": "Interest paid by borrowers",
-    "ProtocolRevenue": "Interest paid by borrowers"
+    "Fees": "Stability fees charged on DAI loans, liquidation income from collateral auctions, and PSM (Peg Stability Module) fees from USDC/DAI conversions",
+    "Revenue": "Fees collected minus savings rate paid to DSR depositors and operational expenses",
+    "ProtocolRevenue": "Net protocol revenue after subtracting SKY token buybacks",
+    "HoldersRevenue": "SKY token buybacks"
   },
   "forkedFrom": null,
   "versionKey": null,
@@ -53,10 +54,10 @@
     "Sky",
     "Sky Lending"
   ],
-  "total24h": 964600,
-  "total48hto24h": 970110,
-  "total7d": 6631231,
-  "totalAllTime": 742191766,
+  "total24h": 973069,
+  "total48hto24h": 964600,
+  "total7d": 6668015,
+  "totalAllTime": 743164835,
   "totalDataChart": [
     [
       1573776000,
@@ -8197,6 +8198,10 @@
     [
       1749513600,
       964600
+    ],
+    [
+      1749600000,
+      973069
     ]
   ],
   "totalDataChartBreakdown": [
@@ -24479,7 +24484,15 @@
           "Sky Lending": 964600
         }
       }
+    ],
+    [
+      1749600000,
+      {
+        "ethereum": {
+          "Sky Lending": 973069
+        }
+      }
     ]
   ],
-  "change_1d": -0.57
+  "change_1d": 0.88
 }

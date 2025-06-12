@@ -1,2173 +1,1945 @@
 {
-  "id": "5886",
-  "name": "TradeWiz",
-  "address": null,
-  "symbol": "-",
-  "url": "https://www.fastradewiz.com",
-  "description": "Fastest Copy Trading Bot on Solana",
-  "chain": "Solana",
-  "logo": "https://icons.llamao.fi/icons/protocols/tradewiz.jpg",
-  "audits": "0",
+  "id": "900",
+  "name": "Rocket Pool",
+  "address": "0xd33526068d116ce69f19a9ee46f0bd304f21a51f",
+  "symbol": "RPL",
+  "url": "https://rocketpool.net",
+  "description": "Rocket Pool is the first truly decentralised Ethereum staking pool. Liquid Staking, Audited SC, and Minimised Penalty Risk. Unlike solo stakers, who are required to put 32 ETH up for deposit to create a new validator, Rocket Pool nodes only need to deposit 16 ETH per validator. This will be coupled with 16 ETH from the staking pool (which stakers deposited in exchange for rETH) to create a new ETH2 validator.",
+  "chain": "Ethereum",
+  "logo": "https://icons.llamao.fi/icons/protocols/rocket-pool.jpg",
+  "audits": "2",
   "audit_note": null,
-  "gecko_id": null,
-  "cmcId": null,
-  "category": "Telegram Bot",
+  "gecko_id": "rocket-pool",
+  "cmcId": "2943",
+  "category": "Liquid Staking",
   "chains": [
-    "Solana"
+    "Ethereum"
   ],
-  "forkedFrom": [],
-  "module": "trade-wiz",
-  "twitter": "TradeWiz_Bot",
-  "defillamaId": "5886",
+  "module": "rocketpool",
+  "twitter": "Rocket_Pool",
+  "audit_links": [
+    "https://rocketpool.net/files/sigma-prime-audit.pdf",
+    "https://consensys.net/diligence/audits/2021/04/rocketpool",
+    "https://github.com/trailofbits/publications/blob/master/reviews/RocketPool.pdf",
+    "https://immunefi.com/bounty/rocketpool"
+  ],
+  "governanceID": [
+    "snapshot:rocketpool-dao.eth"
+  ],
+  "github": [
+    "rocket-pool"
+  ],
+  "listedAt": 1637712907,
+  "defillamaId": "900",
   "disabled": false,
-  "displayName": "TradeWiz",
-  "methodologyURL": "https://github.com/DefiLlama/dimension-adapters/blob/master/fees/trade-wiz.ts",
+  "displayName": "Rocket Pool",
+  "methodologyURL": "https://github.com/DefiLlama/dimension-adapters/blob/master/fees/rocketpool.ts",
   "methodology": {
-    "Fees": "All trading fees paid by users while using TradeWiz bot.",
-    "Revenue": "Trading fees are collected by TradeWiz protocol.",
-    "ProtocolRevenue": "Trading fees are collected by TradeWiz protocol."
+    "UserFees": "Percentage of rewards paid to protocol",
+    "Fees": "Total ETH staking rewards from Rocketpool active validators",
+    "Revenue": "Percentage of user rewards paid to protocol",
+    "ProtocolRevenue": "Fee from users rewards",
+    "SupplySideRevenue": "Total ETH staking rewards are distributed to rETH stakers and minipool depositors."
   },
-  "audit_links": null,
+  "forkedFrom": null,
   "versionKey": null,
-  "github": null,
-  "governanceID": null,
   "treasury": null,
   "parentProtocol": null,
   "previousNames": null,
   "latestFetchIsOk": true,
-  "slug": "tradewiz",
+  "slug": "rocket-pool",
   "protocolType": "protocol",
-  "total24h": 11298,
-  "total48hto24h": 11461,
-  "total7d": 149242,
-  "totalAllTime": 3136232,
+  "total24h": 74066,
+  "total48hto24h": 59501,
+  "total7d": 963194,
+  "totalAllTime": 25701140,
   "totalDataChart": [
     [
-      1734480000,
-      33096
-    ],
-    [
-      1734566400,
-      31366
-    ],
-    [
-      1734652800,
-      31214
-    ],
-    [
-      1734739200,
-      31814
-    ],
-    [
-      1734825600,
-      28180
-    ],
-    [
-      1734912000,
-      27779
-    ],
-    [
-      1734998400,
-      20901
-    ],
-    [
-      1735084800,
-      21551
-    ],
-    [
-      1735171200,
-      33772
-    ],
-    [
-      1735257600,
-      27263
-    ],
-    [
-      1735344000,
-      25676
-    ],
-    [
-      1735430400,
-      27146
-    ],
-    [
-      1735516800,
-      28861
-    ],
-    [
-      1735603200,
-      26425
-    ],
-    [
-      1735689600,
-      29899
-    ],
-    [
-      1735776000,
-      42734
-    ],
-    [
-      1735862400,
-      48997
-    ],
-    [
-      1735948800,
-      39175
-    ],
-    [
-      1736035200,
-      41996
-    ],
-    [
       1736121600,
-      38626
+      5402
     ],
     [
       1736208000,
-      32991
+      27935
     ],
     [
       1736294400,
-      31775
+      70583
     ],
     [
       1736380800,
-      29518
+      1539971
     ],
     [
       1736467200,
-      28193
+      1536774
     ],
     [
       1736553600,
-      26556
+      4797742
     ],
     [
       1736640000,
-      26560
+      200442
     ],
     [
       1736726400,
-      23002
+      247326
     ],
     [
       1736812800,
-      29910
+      50924
     ],
     [
       1736899200,
-      28988
+      18268
     ],
     [
       1736985600,
-      29177
+      356198
     ],
     [
       1737072000,
-      28850
+      34784
     ],
     [
       1737158400,
-      36738
+      10182
     ],
     [
       1737244800,
-      48193
+      11770
     ],
     [
       1737331200,
-      53277
+      41207
     ],
     [
       1737417600,
-      43930
+      161612
     ],
     [
       1737504000,
-      43156
+      72390
     ],
     [
       1737590400,
-      59747
+      104077
     ],
     [
       1737676800,
-      57169
+      8724
     ],
     [
       1737763200,
-      33763
+      60493
     ],
     [
       1737849600,
-      39973
+      1181146
     ],
     [
       1737936000,
-      45633
+      67843
     ],
     [
       1738022400,
-      38430
+      394442
     ],
     [
       1738108800,
-      35286
+      846759
     ],
     [
       1738195200,
-      47132
+      333457
     ],
     [
       1738281600,
-      38973
+      244203
     ],
     [
       1738368000,
-      26685
+      77015
     ],
     [
       1738454400,
-      18736
+      27974
     ],
     [
       1738540800,
-      22865
+      14474
     ],
     [
       1738627200,
-      22264
+      272422
     ],
     [
       1738713600,
-      22740
+      8462
     ],
     [
       1738800000,
-      16727
+      316417
     ],
     [
       1738886400,
-      18142
+      306062
     ],
     [
       1738972800,
-      18390
+      155099
     ],
     [
       1739059200,
-      24731
+      143057
     ],
     [
       1739145600,
-      34428
+      104895
     ],
     [
       1739232000,
-      24758
+      31039
     ],
     [
       1739318400,
-      23416
+      60778
     ],
     [
       1739404800,
-      20125
+      384535
     ],
     [
       1739491200,
-      18992
+      30531
     ],
     [
       1739577600,
-      14125
+      183950
     ],
     [
       1739664000,
-      12685
+      397285
     ],
     [
       1739750400,
-      12349
-    ],
-    [
-      1739836800,
-      11519
+      97151
     ],
     [
       1739923200,
-      11246
+      15942
     ],
     [
       1740009600,
-      10926
+      13846
     ],
     [
       1740096000,
-      9256
+      354
     ],
     [
       1740182400,
-      8482
+      11237
     ],
     [
       1740268800,
-      9703
+      8351
     ],
     [
       1740355200,
-      7418
+      10747
     ],
     [
       1740441600,
-      6042
+      14434
     ],
     [
       1740528000,
-      6359
+      6102
     ],
     [
       1740614400,
-      7727
+      13928
     ],
     [
       1740700800,
-      5821
+      431258
     ],
     [
       1740787200,
-      5590
+      264244
     ],
     [
       1740873600,
-      9632
+      210777
     ],
     [
       1740960000,
-      7371
+      208249
     ],
     [
       1741046400,
-      7507
+      384280
     ],
     [
       1741132800,
-      8342
+      126711
     ],
     [
       1741219200,
-      6881
+      208080
     ],
     [
       1741305600,
-      7744
+      195153
     ],
     [
       1741392000,
-      6793
+      159008
     ],
     [
       1741478400,
-      5271
+      91845
     ],
     [
       1741564800,
-      6094
+      23041
     ],
     [
       1741651200,
-      5477
+      19802
     ],
     [
       1741737600,
-      7043
+      139009
     ],
     [
       1741824000,
-      6802
+      405412
     ],
     [
       1741910400,
-      6145
+      8097
     ],
     [
       1741996800,
-      5726
+      276273
     ],
     [
       1742083200,
-      4465
+      160265
     ],
     [
       1742169600,
-      7608
+      116827
     ],
     [
       1742256000,
-      6287
+      94036
     ],
     [
       1742342400,
-      7090
+      23827
     ],
     [
       1742428800,
-      5758
+      16392
     ],
     [
       1742515200,
-      4139
+      118069
     ],
     [
       1742601600,
-      5342
+      81645
     ],
     [
       1742688000,
-      5881
+      0
     ],
     [
       1742774400,
-      12096
+      55
     ],
     [
       1742860800,
-      10405
+      1134
     ],
     [
       1742947200,
-      8158
+      211
     ],
     [
       1743033600,
-      7555
+      736
     ],
     [
       1743120000,
-      8805
+      2657
     ],
     [
       1743206400,
-      4982
+      7310
     ],
     [
       1743292800,
-      5702
+      43963
     ],
     [
       1743379200,
-      7659
+      31895
     ],
     [
       1743465600,
-      8177
+      111351
     ],
     [
       1743552000,
-      7564
+      11050
     ],
     [
       1743638400,
-      6288
+      169040
     ],
     [
       1743724800,
-      6740
+      125419
     ],
     [
       1743811200,
-      5548
+      436333
     ],
     [
       1743897600,
-      4574
+      25228
     ],
     [
       1743984000,
-      6431
+      495414
     ],
     [
       1744070400,
-      7003
+      56232
     ],
     [
       1744156800,
-      8804
+      109834
     ],
     [
       1744243200,
-      6541
+      133706
     ],
     [
       1744329600,
-      6932
+      62230
     ],
     [
       1744416000,
-      8017
+      210892
     ],
     [
       1744502400,
-      5919
+      157430
     ],
     [
       1744588800,
-      7199
+      91630
     ],
     [
       1744675200,
-      8558
+      75430
     ],
     [
       1744761600,
-      8763
+      21802
     ],
     [
       1744848000,
-      7849
+      13735
     ],
     [
       1744934400,
-      7809
+      113681
     ],
     [
       1745020800,
-      6609
+      44870
     ],
     [
       1745107200,
-      7044
+      6751
     ],
     [
       1745193600,
-      8280
+      120867
     ],
     [
       1745280000,
-      7539
+      239908
     ],
     [
       1745366400,
-      11242
+      104856
     ],
     [
       1745452800,
-      9663
+      98184
     ],
     [
       1745539200,
-      10017
+      25107
     ],
     [
       1745625600,
-      7890
+      24451
     ],
     [
       1745712000,
-      8714
+      47401
     ],
     [
       1745798400,
-      11576
+      21701
     ],
     [
       1745884800,
-      10726
+      4352
     ],
     [
       1745971200,
-      9975
+      24246
     ],
     [
       1746057600,
-      11558
+      46418
     ],
     [
       1746144000,
-      8919
+      28739
     ],
     [
       1746230400,
-      7079
+      28718
     ],
     [
       1746316800,
-      7045
+      12103
     ],
     [
       1746403200,
-      7693
+      37081
     ],
     [
       1746489600,
-      8622
+      30930
     ],
     [
       1746576000,
-      7257
+      207380
     ],
     [
       1746662400,
-      52589
+      134362
     ],
     [
       1746748800,
-      16121
+      9775
     ],
     [
       1746835200,
-      6576
+      121542
     ],
     [
       1746921600,
-      7810
+      31100
     ],
     [
       1747008000,
-      10299
+      92819
     ],
     [
       1747094400,
-      15220
+      78374
     ],
     [
       1747180800,
-      54378
+      216121
     ],
     [
       1747267200,
-      10919
+      422646
     ],
     [
       1747353600,
-      8509
+      38377
     ],
     [
       1747440000,
-      8144
+      215674
     ],
     [
       1747526400,
-      12559
+      280456
     ],
     [
       1747612800,
-      9209
+      73964
     ],
     [
       1747699200,
-      9988
+      86621
     ],
     [
       1747785600,
-      43691
+      13484
     ],
     [
       1747872000,
-      11464
+      23585
     ],
     [
       1747958400,
-      10311
+      2827
     ],
     [
       1748044800,
-      7898
+      8185
     ],
     [
       1748131200,
-      8323
+      64230
     ],
     [
       1748217600,
-      10449
+      8752
     ],
     [
       1748304000,
-      9385
+      7408
     ],
     [
       1748390400,
-      58851
+      4573
     ],
     [
       1748476800,
-      10701
+      8745
     ],
     [
       1748563200,
-      8594
+      6355
     ],
     [
       1748649600,
-      7264
+      5886
     ],
     [
       1748736000,
-      7221
+      27962
     ],
     [
       1748822400,
-      9338
+      7844
     ],
     [
       1748908800,
-      9796
+      19222
     ],
     [
       1748995200,
-      9523
+      97489
     ],
     [
       1749081600,
-      11693
+      171794
     ],
     [
       1749168000,
-      7421
+      213719
     ],
     [
       1749254400,
-      7079
+      229506
     ],
     [
       1749340800,
-      6080
+      102128
     ],
     [
       1749427200,
-      70699
+      177338
     ],
     [
       1749513600,
-      11461
+      59501
     ],
     [
       1749600000,
-      34809
+      9208
     ],
     [
       1749686400,
-      11298
+      74066
     ]
   ],
   "totalDataChartBreakdown": [
     [
-      1734480000,
-      {
-        "solana": {
-          "TradeWiz": 33096
-        }
-      }
-    ],
-    [
-      1734566400,
-      {
-        "solana": {
-          "TradeWiz": 31366
-        }
-      }
-    ],
-    [
-      1734652800,
-      {
-        "solana": {
-          "TradeWiz": 31214
-        }
-      }
-    ],
-    [
-      1734739200,
-      {
-        "solana": {
-          "TradeWiz": 31814
-        }
-      }
-    ],
-    [
-      1734825600,
-      {
-        "solana": {
-          "TradeWiz": 28180
-        }
-      }
-    ],
-    [
-      1734912000,
-      {
-        "solana": {
-          "TradeWiz": 27779
-        }
-      }
-    ],
-    [
-      1734998400,
-      {
-        "solana": {
-          "TradeWiz": 20901
-        }
-      }
-    ],
-    [
-      1735084800,
-      {
-        "solana": {
-          "TradeWiz": 21551
-        }
-      }
-    ],
-    [
-      1735171200,
-      {
-        "solana": {
-          "TradeWiz": 33772
-        }
-      }
-    ],
-    [
-      1735257600,
-      {
-        "solana": {
-          "TradeWiz": 27263
-        }
-      }
-    ],
-    [
-      1735344000,
-      {
-        "solana": {
-          "TradeWiz": 25676
-        }
-      }
-    ],
-    [
-      1735430400,
-      {
-        "solana": {
-          "TradeWiz": 27146
-        }
-      }
-    ],
-    [
-      1735516800,
-      {
-        "solana": {
-          "TradeWiz": 28861
-        }
-      }
-    ],
-    [
-      1735603200,
-      {
-        "solana": {
-          "TradeWiz": 26425
-        }
-      }
-    ],
-    [
-      1735689600,
-      {
-        "solana": {
-          "TradeWiz": 29899
-        }
-      }
-    ],
-    [
-      1735776000,
-      {
-        "solana": {
-          "TradeWiz": 42734
-        }
-      }
-    ],
-    [
-      1735862400,
-      {
-        "solana": {
-          "TradeWiz": 48997
-        }
-      }
-    ],
-    [
-      1735948800,
-      {
-        "solana": {
-          "TradeWiz": 39175
-        }
-      }
-    ],
-    [
-      1736035200,
-      {
-        "solana": {
-          "TradeWiz": 41996
-        }
-      }
-    ],
-    [
       1736121600,
       {
-        "solana": {
-          "TradeWiz": 38626
+        "ethereum": {
+          "Rocket Pool": 5402
         }
       }
     ],
     [
       1736208000,
       {
-        "solana": {
-          "TradeWiz": 32991
+        "ethereum": {
+          "Rocket Pool": 27935
         }
       }
     ],
     [
       1736294400,
       {
-        "solana": {
-          "TradeWiz": 31775
+        "ethereum": {
+          "Rocket Pool": 70583
         }
       }
     ],
     [
       1736380800,
       {
-        "solana": {
-          "TradeWiz": 29518
+        "ethereum": {
+          "Rocket Pool": 1539971
         }
       }
     ],
     [
       1736467200,
       {
-        "solana": {
-          "TradeWiz": 28193
+        "ethereum": {
+          "Rocket Pool": 1536774
         }
       }
     ],
     [
       1736553600,
       {
-        "solana": {
-          "TradeWiz": 26556
+        "ethereum": {
+          "Rocket Pool": 4797742
         }
       }
     ],
     [
       1736640000,
       {
-        "solana": {
-          "TradeWiz": 26560
+        "ethereum": {
+          "Rocket Pool": 200442
         }
       }
     ],
     [
       1736726400,
       {
-        "solana": {
-          "TradeWiz": 23002
+        "ethereum": {
+          "Rocket Pool": 247326
         }
       }
     ],
     [
       1736812800,
       {
-        "solana": {
-          "TradeWiz": 29910
+        "ethereum": {
+          "Rocket Pool": 50924
         }
       }
     ],
     [
       1736899200,
       {
-        "solana": {
-          "TradeWiz": 28988
+        "ethereum": {
+          "Rocket Pool": 18268
         }
       }
     ],
     [
       1736985600,
       {
-        "solana": {
-          "TradeWiz": 29177
+        "ethereum": {
+          "Rocket Pool": 356198
         }
       }
     ],
     [
       1737072000,
       {
-        "solana": {
-          "TradeWiz": 28850
+        "ethereum": {
+          "Rocket Pool": 34784
         }
       }
     ],
     [
       1737158400,
       {
-        "solana": {
-          "TradeWiz": 36738
+        "ethereum": {
+          "Rocket Pool": 10182
         }
       }
     ],
     [
       1737244800,
       {
-        "solana": {
-          "TradeWiz": 48193
+        "ethereum": {
+          "Rocket Pool": 11770
         }
       }
     ],
     [
       1737331200,
       {
-        "solana": {
-          "TradeWiz": 53277
+        "ethereum": {
+          "Rocket Pool": 41207
         }
       }
     ],
     [
       1737417600,
       {
-        "solana": {
-          "TradeWiz": 43930
+        "ethereum": {
+          "Rocket Pool": 161612
         }
       }
     ],
     [
       1737504000,
       {
-        "solana": {
-          "TradeWiz": 43156
+        "ethereum": {
+          "Rocket Pool": 72390
         }
       }
     ],
     [
       1737590400,
       {
-        "solana": {
-          "TradeWiz": 59747
+        "ethereum": {
+          "Rocket Pool": 104077
         }
       }
     ],
     [
       1737676800,
       {
-        "solana": {
-          "TradeWiz": 57169
+        "ethereum": {
+          "Rocket Pool": 8724
         }
       }
     ],
     [
       1737763200,
       {
-        "solana": {
-          "TradeWiz": 33763
+        "ethereum": {
+          "Rocket Pool": 60493
         }
       }
     ],
     [
       1737849600,
       {
-        "solana": {
-          "TradeWiz": 39973
+        "ethereum": {
+          "Rocket Pool": 1181146
         }
       }
     ],
     [
       1737936000,
       {
-        "solana": {
-          "TradeWiz": 45633
+        "ethereum": {
+          "Rocket Pool": 67843
         }
       }
     ],
     [
       1738022400,
       {
-        "solana": {
-          "TradeWiz": 38430
+        "ethereum": {
+          "Rocket Pool": 394442
         }
       }
     ],
     [
       1738108800,
       {
-        "solana": {
-          "TradeWiz": 35286
+        "ethereum": {
+          "Rocket Pool": 846759
         }
       }
     ],
     [
       1738195200,
       {
-        "solana": {
-          "TradeWiz": 47132
+        "ethereum": {
+          "Rocket Pool": 333457
         }
       }
     ],
     [
       1738281600,
       {
-        "solana": {
-          "TradeWiz": 38973
+        "ethereum": {
+          "Rocket Pool": 244203
         }
       }
     ],
     [
       1738368000,
       {
-        "solana": {
-          "TradeWiz": 26685
+        "ethereum": {
+          "Rocket Pool": 77015
         }
       }
     ],
     [
       1738454400,
       {
-        "solana": {
-          "TradeWiz": 18736
+        "ethereum": {
+          "Rocket Pool": 27974
         }
       }
     ],
     [
       1738540800,
       {
-        "solana": {
-          "TradeWiz": 22865
+        "ethereum": {
+          "Rocket Pool": 14474
         }
       }
     ],
     [
       1738627200,
       {
-        "solana": {
-          "TradeWiz": 22264
+        "ethereum": {
+          "Rocket Pool": 272422
         }
       }
     ],
     [
       1738713600,
       {
-        "solana": {
-          "TradeWiz": 22740
+        "ethereum": {
+          "Rocket Pool": 8462
         }
       }
     ],
     [
       1738800000,
       {
-        "solana": {
-          "TradeWiz": 16727
+        "ethereum": {
+          "Rocket Pool": 316417
         }
       }
     ],
     [
       1738886400,
       {
-        "solana": {
-          "TradeWiz": 18142
+        "ethereum": {
+          "Rocket Pool": 306062
         }
       }
     ],
     [
       1738972800,
       {
-        "solana": {
-          "TradeWiz": 18390
+        "ethereum": {
+          "Rocket Pool": 155099
         }
       }
     ],
     [
       1739059200,
       {
-        "solana": {
-          "TradeWiz": 24731
+        "ethereum": {
+          "Rocket Pool": 143057
         }
       }
     ],
     [
       1739145600,
       {
-        "solana": {
-          "TradeWiz": 34428
+        "ethereum": {
+          "Rocket Pool": 104895
         }
       }
     ],
     [
       1739232000,
       {
-        "solana": {
-          "TradeWiz": 24758
+        "ethereum": {
+          "Rocket Pool": 31039
         }
       }
     ],
     [
       1739318400,
       {
-        "solana": {
-          "TradeWiz": 23416
+        "ethereum": {
+          "Rocket Pool": 60778
         }
       }
     ],
     [
       1739404800,
       {
-        "solana": {
-          "TradeWiz": 20125
+        "ethereum": {
+          "Rocket Pool": 384535
         }
       }
     ],
     [
       1739491200,
       {
-        "solana": {
-          "TradeWiz": 18992
+        "ethereum": {
+          "Rocket Pool": 30531
         }
       }
     ],
     [
       1739577600,
       {
-        "solana": {
-          "TradeWiz": 14125
+        "ethereum": {
+          "Rocket Pool": 183950
         }
       }
     ],
     [
       1739664000,
       {
-        "solana": {
-          "TradeWiz": 12685
+        "ethereum": {
+          "Rocket Pool": 397285
         }
       }
     ],
     [
       1739750400,
       {
-        "solana": {
-          "TradeWiz": 12349
-        }
-      }
-    ],
-    [
-      1739836800,
-      {
-        "solana": {
-          "TradeWiz": 11519
+        "ethereum": {
+          "Rocket Pool": 97151
         }
       }
     ],
     [
       1739923200,
       {
-        "solana": {
-          "TradeWiz": 11246
+        "ethereum": {
+          "Rocket Pool": 15942
         }
       }
     ],
     [
       1740009600,
       {
-        "solana": {
-          "TradeWiz": 10926
+        "ethereum": {
+          "Rocket Pool": 13846
         }
       }
     ],
     [
       1740096000,
       {
-        "solana": {
-          "TradeWiz": 9256
+        "ethereum": {
+          "Rocket Pool": 354
         }
       }
     ],
     [
       1740182400,
       {
-        "solana": {
-          "TradeWiz": 8482
+        "ethereum": {
+          "Rocket Pool": 11237
         }
       }
     ],
     [
       1740268800,
       {
-        "solana": {
-          "TradeWiz": 9703
+        "ethereum": {
+          "Rocket Pool": 8351
         }
       }
     ],
     [
       1740355200,
       {
-        "solana": {
-          "TradeWiz": 7418
+        "ethereum": {
+          "Rocket Pool": 10747
         }
       }
     ],
     [
       1740441600,
       {
-        "solana": {
-          "TradeWiz": 6042
+        "ethereum": {
+          "Rocket Pool": 14434
         }
       }
     ],
     [
       1740528000,
       {
-        "solana": {
-          "TradeWiz": 6359
+        "ethereum": {
+          "Rocket Pool": 6102
         }
       }
     ],
     [
       1740614400,
       {
-        "solana": {
-          "TradeWiz": 7727
+        "ethereum": {
+          "Rocket Pool": 13928
         }
       }
     ],
     [
       1740700800,
       {
-        "solana": {
-          "TradeWiz": 5821
+        "ethereum": {
+          "Rocket Pool": 431258
         }
       }
     ],
     [
       1740787200,
       {
-        "solana": {
-          "TradeWiz": 5590
+        "ethereum": {
+          "Rocket Pool": 264244
         }
       }
     ],
     [
       1740873600,
       {
-        "solana": {
-          "TradeWiz": 9632
+        "ethereum": {
+          "Rocket Pool": 210777
         }
       }
     ],
     [
       1740960000,
       {
-        "solana": {
-          "TradeWiz": 7371
+        "ethereum": {
+          "Rocket Pool": 208249
         }
       }
     ],
     [
       1741046400,
       {
-        "solana": {
-          "TradeWiz": 7507
+        "ethereum": {
+          "Rocket Pool": 384280
         }
       }
     ],
     [
       1741132800,
       {
-        "solana": {
-          "TradeWiz": 8342
+        "ethereum": {
+          "Rocket Pool": 126711
         }
       }
     ],
     [
       1741219200,
       {
-        "solana": {
-          "TradeWiz": 6881
+        "ethereum": {
+          "Rocket Pool": 208080
         }
       }
     ],
     [
       1741305600,
       {
-        "solana": {
-          "TradeWiz": 7744
+        "ethereum": {
+          "Rocket Pool": 195153
         }
       }
     ],
     [
       1741392000,
       {
-        "solana": {
-          "TradeWiz": 6793
+        "ethereum": {
+          "Rocket Pool": 159008
         }
       }
     ],
     [
       1741478400,
       {
-        "solana": {
-          "TradeWiz": 5271
+        "ethereum": {
+          "Rocket Pool": 91845
         }
       }
     ],
     [
       1741564800,
       {
-        "solana": {
-          "TradeWiz": 6094
+        "ethereum": {
+          "Rocket Pool": 23041
         }
       }
     ],
     [
       1741651200,
       {
-        "solana": {
-          "TradeWiz": 5477
+        "ethereum": {
+          "Rocket Pool": 19802
         }
       }
     ],
     [
       1741737600,
       {
-        "solana": {
-          "TradeWiz": 7043
+        "ethereum": {
+          "Rocket Pool": 139009
         }
       }
     ],
     [
       1741824000,
       {
-        "solana": {
-          "TradeWiz": 6802
+        "ethereum": {
+          "Rocket Pool": 405412
         }
       }
     ],
     [
       1741910400,
       {
-        "solana": {
-          "TradeWiz": 6145
+        "ethereum": {
+          "Rocket Pool": 8097
         }
       }
     ],
     [
       1741996800,
       {
-        "solana": {
-          "TradeWiz": 5726
+        "ethereum": {
+          "Rocket Pool": 276273
         }
       }
     ],
     [
       1742083200,
       {
-        "solana": {
-          "TradeWiz": 4465
+        "ethereum": {
+          "Rocket Pool": 160265
         }
       }
     ],
     [
       1742169600,
       {
-        "solana": {
-          "TradeWiz": 7608
+        "ethereum": {
+          "Rocket Pool": 116827
         }
       }
     ],
     [
       1742256000,
       {
-        "solana": {
-          "TradeWiz": 6287
+        "ethereum": {
+          "Rocket Pool": 94036
         }
       }
     ],
     [
       1742342400,
       {
-        "solana": {
-          "TradeWiz": 7090
+        "ethereum": {
+          "Rocket Pool": 23827
         }
       }
     ],
     [
       1742428800,
       {
-        "solana": {
-          "TradeWiz": 5758
+        "ethereum": {
+          "Rocket Pool": 16392
         }
       }
     ],
     [
       1742515200,
       {
-        "solana": {
-          "TradeWiz": 4139
+        "ethereum": {
+          "Rocket Pool": 118069
         }
       }
     ],
     [
       1742601600,
       {
-        "solana": {
-          "TradeWiz": 5342
+        "ethereum": {
+          "Rocket Pool": 81645
         }
       }
     ],
     [
       1742688000,
       {
-        "solana": {
-          "TradeWiz": 5881
+        "ethereum": {
+          "Rocket Pool": 0
         }
       }
     ],
     [
       1742774400,
       {
-        "solana": {
-          "TradeWiz": 12096
+        "ethereum": {
+          "Rocket Pool": 55
         }
       }
     ],
     [
       1742860800,
       {
-        "solana": {
-          "TradeWiz": 10405
+        "ethereum": {
+          "Rocket Pool": 1134
         }
       }
     ],
     [
       1742947200,
       {
-        "solana": {
-          "TradeWiz": 8158
+        "ethereum": {
+          "Rocket Pool": 211
         }
       }
     ],
     [
       1743033600,
       {
-        "solana": {
-          "TradeWiz": 7555
+        "ethereum": {
+          "Rocket Pool": 736
         }
       }
     ],
     [
       1743120000,
       {
-        "solana": {
-          "TradeWiz": 8805
+        "ethereum": {
+          "Rocket Pool": 2657
         }
       }
     ],
     [
       1743206400,
       {
-        "solana": {
-          "TradeWiz": 4982
+        "ethereum": {
+          "Rocket Pool": 7310
         }
       }
     ],
     [
       1743292800,
       {
-        "solana": {
-          "TradeWiz": 5702
+        "ethereum": {
+          "Rocket Pool": 43963
         }
       }
     ],
     [
       1743379200,
       {
-        "solana": {
-          "TradeWiz": 7659
+        "ethereum": {
+          "Rocket Pool": 31895
         }
       }
     ],
     [
       1743465600,
       {
-        "solana": {
-          "TradeWiz": 8177
+        "ethereum": {
+          "Rocket Pool": 111351
         }
       }
     ],
     [
       1743552000,
       {
-        "solana": {
-          "TradeWiz": 7564
+        "ethereum": {
+          "Rocket Pool": 11050
         }
       }
     ],
     [
       1743638400,
       {
-        "solana": {
-          "TradeWiz": 6288
+        "ethereum": {
+          "Rocket Pool": 169040
         }
       }
     ],
     [
       1743724800,
       {
-        "solana": {
-          "TradeWiz": 6740
+        "ethereum": {
+          "Rocket Pool": 125419
         }
       }
     ],
     [
       1743811200,
       {
-        "solana": {
-          "TradeWiz": 5548
+        "ethereum": {
+          "Rocket Pool": 436333
         }
       }
     ],
     [
       1743897600,
       {
-        "solana": {
-          "TradeWiz": 4574
+        "ethereum": {
+          "Rocket Pool": 25228
         }
       }
     ],
     [
       1743984000,
       {
-        "solana": {
-          "TradeWiz": 6431
+        "ethereum": {
+          "Rocket Pool": 495414
         }
       }
     ],
     [
       1744070400,
       {
-        "solana": {
-          "TradeWiz": 7003
+        "ethereum": {
+          "Rocket Pool": 56232
         }
       }
     ],
     [
       1744156800,
       {
-        "solana": {
-          "TradeWiz": 8804
+        "ethereum": {
+          "Rocket Pool": 109834
         }
       }
     ],
     [
       1744243200,
       {
-        "solana": {
-          "TradeWiz": 6541
+        "ethereum": {
+          "Rocket Pool": 133706
         }
       }
     ],
     [
       1744329600,
       {
-        "solana": {
-          "TradeWiz": 6932
+        "ethereum": {
+          "Rocket Pool": 62230
         }
       }
     ],
     [
       1744416000,
       {
-        "solana": {
-          "TradeWiz": 8017
+        "ethereum": {
+          "Rocket Pool": 210892
         }
       }
     ],
     [
       1744502400,
       {
-        "solana": {
-          "TradeWiz": 5919
+        "ethereum": {
+          "Rocket Pool": 157430
         }
       }
     ],
     [
       1744588800,
       {
-        "solana": {
-          "TradeWiz": 7199
+        "ethereum": {
+          "Rocket Pool": 91630
         }
       }
     ],
     [
       1744675200,
       {
-        "solana": {
-          "TradeWiz": 8558
+        "ethereum": {
+          "Rocket Pool": 75430
         }
       }
     ],
     [
       1744761600,
       {
-        "solana": {
-          "TradeWiz": 8763
+        "ethereum": {
+          "Rocket Pool": 21802
         }
       }
     ],
     [
       1744848000,
       {
-        "solana": {
-          "TradeWiz": 7849
+        "ethereum": {
+          "Rocket Pool": 13735
         }
       }
     ],
     [
       1744934400,
       {
-        "solana": {
-          "TradeWiz": 7809
+        "ethereum": {
+          "Rocket Pool": 113681
         }
       }
     ],
     [
       1745020800,
       {
-        "solana": {
-          "TradeWiz": 6609
+        "ethereum": {
+          "Rocket Pool": 44870
         }
       }
     ],
     [
       1745107200,
       {
-        "solana": {
-          "TradeWiz": 7044
+        "ethereum": {
+          "Rocket Pool": 6751
         }
       }
     ],
     [
       1745193600,
       {
-        "solana": {
-          "TradeWiz": 8280
+        "ethereum": {
+          "Rocket Pool": 120867
         }
       }
     ],
     [
       1745280000,
       {
-        "solana": {
-          "TradeWiz": 7539
+        "ethereum": {
+          "Rocket Pool": 239908
         }
       }
     ],
     [
       1745366400,
       {
-        "solana": {
-          "TradeWiz": 11242
+        "ethereum": {
+          "Rocket Pool": 104856
         }
       }
     ],
     [
       1745452800,
       {
-        "solana": {
-          "TradeWiz": 9663
+        "ethereum": {
+          "Rocket Pool": 98184
         }
       }
     ],
     [
       1745539200,
       {
-        "solana": {
-          "TradeWiz": 10017
+        "ethereum": {
+          "Rocket Pool": 25107
         }
       }
     ],
     [
       1745625600,
       {
-        "solana": {
-          "TradeWiz": 7890
+        "ethereum": {
+          "Rocket Pool": 24451
         }
       }
     ],
     [
       1745712000,
       {
-        "solana": {
-          "TradeWiz": 8714
+        "ethereum": {
+          "Rocket Pool": 47401
         }
       }
     ],
     [
       1745798400,
       {
-        "solana": {
-          "TradeWiz": 11576
+        "ethereum": {
+          "Rocket Pool": 21701
         }
       }
     ],
     [
       1745884800,
       {
-        "solana": {
-          "TradeWiz": 10726
+        "ethereum": {
+          "Rocket Pool": 4352
         }
       }
     ],
     [
       1745971200,
       {
-        "solana": {
-          "TradeWiz": 9975
+        "ethereum": {
+          "Rocket Pool": 24246
         }
       }
     ],
     [
       1746057600,
       {
-        "solana": {
-          "TradeWiz": 11558
+        "ethereum": {
+          "Rocket Pool": 46418
         }
       }
     ],
     [
       1746144000,
       {
-        "solana": {
-          "TradeWiz": 8919
+        "ethereum": {
+          "Rocket Pool": 28739
         }
       }
     ],
     [
       1746230400,
       {
-        "solana": {
-          "TradeWiz": 7079
+        "ethereum": {
+          "Rocket Pool": 28718
         }
       }
     ],
     [
       1746316800,
       {
-        "solana": {
-          "TradeWiz": 7045
+        "ethereum": {
+          "Rocket Pool": 12103
         }
       }
     ],
     [
       1746403200,
       {
-        "solana": {
-          "TradeWiz": 7693
+        "ethereum": {
+          "Rocket Pool": 37081
         }
       }
     ],
     [
       1746489600,
       {
-        "solana": {
-          "TradeWiz": 8622
+        "ethereum": {
+          "Rocket Pool": 30930
         }
       }
     ],
     [
       1746576000,
       {
-        "solana": {
-          "TradeWiz": 7257
+        "ethereum": {
+          "Rocket Pool": 207380
         }
       }
     ],
     [
       1746662400,
       {
-        "solana": {
-          "TradeWiz": 52589
+        "ethereum": {
+          "Rocket Pool": 134362
         }
       }
     ],
     [
       1746748800,
       {
-        "solana": {
-          "TradeWiz": 16121
+        "ethereum": {
+          "Rocket Pool": 9775
         }
       }
     ],
     [
       1746835200,
       {
-        "solana": {
-          "TradeWiz": 6576
+        "ethereum": {
+          "Rocket Pool": 121542
         }
       }
     ],
     [
       1746921600,
       {
-        "solana": {
-          "TradeWiz": 7810
+        "ethereum": {
+          "Rocket Pool": 31100
         }
       }
     ],
     [
       1747008000,
       {
-        "solana": {
-          "TradeWiz": 10299
+        "ethereum": {
+          "Rocket Pool": 92819
         }
       }
     ],
     [
       1747094400,
       {
-        "solana": {
-          "TradeWiz": 15220
+        "ethereum": {
+          "Rocket Pool": 78374
         }
       }
     ],
     [
       1747180800,
       {
-        "solana": {
-          "TradeWiz": 54378
+        "ethereum": {
+          "Rocket Pool": 216121
         }
       }
     ],
     [
       1747267200,
       {
-        "solana": {
-          "TradeWiz": 10919
+        "ethereum": {
+          "Rocket Pool": 422646
         }
       }
     ],
     [
       1747353600,
       {
-        "solana": {
-          "TradeWiz": 8509
+        "ethereum": {
+          "Rocket Pool": 38377
         }
       }
     ],
     [
       1747440000,
       {
-        "solana": {
-          "TradeWiz": 8144
+        "ethereum": {
+          "Rocket Pool": 215674
         }
       }
     ],
     [
       1747526400,
       {
-        "solana": {
-          "TradeWiz": 12559
+        "ethereum": {
+          "Rocket Pool": 280456
         }
       }
     ],
     [
       1747612800,
       {
-        "solana": {
-          "TradeWiz": 9209
+        "ethereum": {
+          "Rocket Pool": 73964
         }
       }
     ],
     [
       1747699200,
       {
-        "solana": {
-          "TradeWiz": 9988
+        "ethereum": {
+          "Rocket Pool": 86621
         }
       }
     ],
     [
       1747785600,
       {
-        "solana": {
-          "TradeWiz": 43691
+        "ethereum": {
+          "Rocket Pool": 13484
         }
       }
     ],
     [
       1747872000,
       {
-        "solana": {
-          "TradeWiz": 11464
+        "ethereum": {
+          "Rocket Pool": 23585
         }
       }
     ],
     [
       1747958400,
       {
-        "solana": {
-          "TradeWiz": 10311
+        "ethereum": {
+          "Rocket Pool": 2827
         }
       }
     ],
     [
       1748044800,
       {
-        "solana": {
-          "TradeWiz": 7898
+        "ethereum": {
+          "Rocket Pool": 8185
         }
       }
     ],
     [
       1748131200,
       {
-        "solana": {
-          "TradeWiz": 8323
+        "ethereum": {
+          "Rocket Pool": 64230
         }
       }
     ],
     [
       1748217600,
       {
-        "solana": {
-          "TradeWiz": 10449
+        "ethereum": {
+          "Rocket Pool": 8752
         }
       }
     ],
     [
       1748304000,
       {
-        "solana": {
-          "TradeWiz": 9385
+        "ethereum": {
+          "Rocket Pool": 7408
         }
       }
     ],
     [
       1748390400,
       {
-        "solana": {
-          "TradeWiz": 58851
+        "ethereum": {
+          "Rocket Pool": 4573
         }
       }
     ],
     [
       1748476800,
       {
-        "solana": {
-          "TradeWiz": 10701
+        "ethereum": {
+          "Rocket Pool": 8745
         }
       }
     ],
     [
       1748563200,
       {
-        "solana": {
-          "TradeWiz": 8594
+        "ethereum": {
+          "Rocket Pool": 6355
         }
       }
     ],
     [
       1748649600,
       {
-        "solana": {
-          "TradeWiz": 7264
+        "ethereum": {
+          "Rocket Pool": 5886
         }
       }
     ],
     [
       1748736000,
       {
-        "solana": {
-          "TradeWiz": 7221
+        "ethereum": {
+          "Rocket Pool": 27962
         }
       }
     ],
     [
       1748822400,
       {
-        "solana": {
-          "TradeWiz": 9338
+        "ethereum": {
+          "Rocket Pool": 7844
         }
       }
     ],
     [
       1748908800,
       {
-        "solana": {
-          "TradeWiz": 9796
+        "ethereum": {
+          "Rocket Pool": 19222
         }
       }
     ],
     [
       1748995200,
       {
-        "solana": {
-          "TradeWiz": 9523
+        "ethereum": {
+          "Rocket Pool": 97489
         }
       }
     ],
     [
       1749081600,
       {
-        "solana": {
-          "TradeWiz": 11693
+        "ethereum": {
+          "Rocket Pool": 171794
         }
       }
     ],
     [
       1749168000,
       {
-        "solana": {
-          "TradeWiz": 7421
+        "ethereum": {
+          "Rocket Pool": 213719
         }
       }
     ],
     [
       1749254400,
       {
-        "solana": {
-          "TradeWiz": 7079
+        "ethereum": {
+          "Rocket Pool": 229506
         }
       }
     ],
     [
       1749340800,
       {
-        "solana": {
-          "TradeWiz": 6080
+        "ethereum": {
+          "Rocket Pool": 102128
         }
       }
     ],
     [
       1749427200,
       {
-        "solana": {
-          "TradeWiz": 70699
+        "ethereum": {
+          "Rocket Pool": 177338
         }
       }
     ],
     [
       1749513600,
       {
-        "solana": {
-          "TradeWiz": 11461
+        "ethereum": {
+          "Rocket Pool": 59501
         }
       }
     ],
     [
       1749600000,
       {
-        "solana": {
-          "TradeWiz": 34809
+        "ethereum": {
+          "Rocket Pool": 9208
         }
       }
     ],
     [
       1749686400,
       {
-        "solana": {
-          "TradeWiz": 11298
+        "ethereum": {
+          "Rocket Pool": 74066
         }
       }
     ]
   ],
-  "change_1d": -1.42
+  "change_1d": 24.48
 }
