@@ -4,7 +4,7 @@
   "address": "0x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
   "symbol": "UNI",
   "url": "https://uniswap.org/",
-  "description": "A fully decentralized protocol for automated liquidity provision on Ethereum. V2\r\n",
+  "description": "A fully decentralized protocol for automated liquidity provision on Ethereum. V2",
   "chain": "Ethereum",
   "logo": "https://icons.llamao.fi/icons/protocols/uniswap-v2.png",
   "audits": "2",
@@ -56,10 +56,10 @@
     "Uniswap V2",
     "Uniswap V3"
   ],
-  "total24h": 841701,
-  "total48hto24h": 1505064,
-  "total7d": 8353495,
-  "totalAllTime": 1608172042,
+  "total24h": 1048193,
+  "total48hto24h": 633465,
+  "total7d": 6791668,
+  "totalAllTime": 1611478567,
   "totalDataChart": [
     [
       1589155200,
@@ -6496,6 +6496,22 @@
     [
       1749600000,
       841701
+    ],
+    [
+      1749686400,
+      834374
+    ],
+    [
+      1749772800,
+      790493
+    ],
+    [
+      1749859200,
+      633465
+    ],
+    [
+      1749945600,
+      1048193
     ]
   ],
   "totalDataChartBreakdown": [
@@ -22883,7 +22899,99 @@
           "Uniswap V2": 9908
         }
       }
+    ],
+    [
+      1749686400,
+      {
+        "ethereum": {
+          "Uniswap V2": 270960
+        },
+        "arbitrum": {
+          "Uniswap V2": 862
+        },
+        "polygon": {
+          "Uniswap V2": 118
+        },
+        "base": {
+          "Uniswap V2": 555482
+        },
+        "bsc": {
+          "Uniswap V2": 32
+        },
+        "unichain": {
+          "Uniswap V2": 6920
+        }
+      }
+    ],
+    [
+      1749772800,
+      {
+        "ethereum": {
+          "Uniswap V2": 225242
+        },
+        "arbitrum": {
+          "Uniswap V2": 905
+        },
+        "polygon": {
+          "Uniswap V2": 85
+        },
+        "base": {
+          "Uniswap V2": 555589
+        },
+        "bsc": {
+          "Uniswap V2": 24
+        },
+        "unichain": {
+          "Uniswap V2": 8648
+        }
+      }
+    ],
+    [
+      1749859200,
+      {
+        "ethereum": {
+          "Uniswap V2": 119437
+        },
+        "arbitrum": {
+          "Uniswap V2": 1688
+        },
+        "polygon": {
+          "Uniswap V2": 21
+        },
+        "base": {
+          "Uniswap V2": 505839
+        },
+        "bsc": {
+          "Uniswap V2": 7
+        },
+        "unichain": {
+          "Uniswap V2": 6473
+        }
+      }
+    ],
+    [
+      1749945600,
+      {
+        "ethereum": {
+          "Uniswap V2": 561748
+        },
+        "arbitrum": {
+          "Uniswap V2": 1267
+        },
+        "polygon": {
+          "Uniswap V2": 93
+        },
+        "base": {
+          "Uniswap V2": 477758
+        },
+        "bsc": {
+          "Uniswap V2": 2954
+        },
+        "unichain": {
+          "Uniswap V2": 4373
+        }
+      }
     ]
   ],
-  "change_1d": -44.08
+  "change_1d": 65.47
 }

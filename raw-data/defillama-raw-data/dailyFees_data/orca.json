@@ -42,10 +42,10 @@
   "latestFetchIsOk": true,
   "slug": "orca",
   "protocolType": "protocol",
-  "total24h": 521634,
-  "total48hto24h": 549462,
-  "total7d": 2517366,
-  "totalAllTime": 124300637,
+  "total24h": 354699,
+  "total48hto24h": 210180,
+  "total7d": 2946407,
+  "totalAllTime": 125580517,
   "totalDataChart": [
     [
       1731369600,
@@ -897,7 +897,23 @@
     ],
     [
       1749686400,
-      521634
+      437777
+    ],
+    [
+      1749772800,
+      524456
+    ],
+    [
+      1749859200,
+      210180
+    ],
+    [
+      1749945600,
+      274402
+    ],
+    [
+      1750032000,
+      354699
     ]
   ],
   "totalDataChartBreakdown": [
@@ -3237,13 +3253,57 @@
       1749686400,
       {
         "solana": {
-          "Orca": 518309
+          "Orca": 435207
         },
         "eclipse": {
-          "Orca": 3325
+          "Orca": 2570
+        }
+      }
+    ],
+    [
+      1749772800,
+      {
+        "solana": {
+          "Orca": 521250
+        },
+        "eclipse": {
+          "Orca": 3206
+        }
+      }
+    ],
+    [
+      1749859200,
+      {
+        "solana": {
+          "Orca": 208642
+        },
+        "eclipse": {
+          "Orca": 1538
+        }
+      }
+    ],
+    [
+      1749945600,
+      {
+        "solana": {
+          "Orca": 272909
+        },
+        "eclipse": {
+          "Orca": 1493
+        }
+      }
+    ],
+    [
+      1750032000,
+      {
+        "solana": {
+          "Orca": 352909
+        },
+        "eclipse": {
+          "Orca": 1790
         }
       }
     ]
   ],
-  "change_1d": -5.06
+  "change_1d": 68.76
 }

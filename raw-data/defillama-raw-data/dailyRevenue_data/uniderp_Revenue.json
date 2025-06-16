@@ -1,0 +1,233 @@
+{
+  "id": "6126",
+  "name": "UniDerp",
+  "address": null,
+  "symbol": "-",
+  "url": "https://uniderp.fun",
+  "description": "Launch a coin that is instantly tradeable in one click for free. Make EVM Degen Again! Building on unichain.",
+  "chain": "Unichain",
+  "logo": "https://icons.llamao.fi/icons/protocols/uniderp.jpg",
+  "audits": "0",
+  "audit_note": null,
+  "gecko_id": null,
+  "cmcId": null,
+  "category": "Launchpad",
+  "chains": [
+    "Unichain"
+  ],
+  "module": "uniderp",
+  "twitter": "UniDerpFun",
+  "forkedFrom": [],
+  "github": [
+    "uniderp-fun"
+  ],
+  "listedAt": 1746099860,
+  "defillamaId": "6126",
+  "disabled": false,
+  "displayName": "UniDerp",
+  "methodologyURL": "https://github.com/DefiLlama/dimension-adapters/blob/master/fees/uniderp",
+  "methodology": {
+    "UserFees": "User pays 1.01% fees on each swap.",
+    "Fees": "All fees comes from the user. User pays 1.01% fees on each swap.",
+    "Revenue": "Treasury receives 0.51% of each swap. (0.5% from swap + 0.01% from LPs) + Launch Fees (0.00069 ETH for each token created)",
+    "ProtocolRevenue": "Treasury receives 0.51% of each swap. (0.5% from swap + 0.01% from LPs) + Launch Fees (0.00069 ETH for each token created)"
+  },
+  "audit_links": null,
+  "versionKey": null,
+  "governanceID": null,
+  "treasury": null,
+  "parentProtocol": null,
+  "previousNames": null,
+  "latestFetchIsOk": true,
+  "slug": "uniderp",
+  "protocolType": "protocol",
+  "total24h": 33786,
+  "total48hto24h": 36324,
+  "total7d": 1025943,
+  "totalAllTime": 1324940,
+  "totalDataChart": [
+    [
+      1748649600,
+      0
+    ],
+    [
+      1748736000,
+      0
+    ],
+    [
+      1748908800,
+      18
+    ],
+    [
+      1748995200,
+      4
+    ],
+    [
+      1749081600,
+      0
+    ],
+    [
+      1749168000,
+      110725
+    ],
+    [
+      1749254400,
+      110971
+    ],
+    [
+      1749340800,
+      77279
+    ],
+    [
+      1749427200,
+      118885
+    ],
+    [
+      1749513600,
+      460490
+    ],
+    [
+      1749600000,
+      207390
+    ],
+    [
+      1749686400,
+      84477
+    ],
+    [
+      1749772800,
+      84591
+    ],
+    [
+      1749859200,
+      36324
+    ],
+    [
+      1749945600,
+      33786
+    ]
+  ],
+  "totalDataChartBreakdown": [
+    [
+      1748649600,
+      {
+        "unichain": {
+          "UniDerp": 0
+        }
+      }
+    ],
+    [
+      1748736000,
+      {
+        "unichain": {
+          "UniDerp": 0
+        }
+      }
+    ],
+    [
+      1748908800,
+      {
+        "unichain": {
+          "UniDerp": 18
+        }
+      }
+    ],
+    [
+      1748995200,
+      {
+        "unichain": {
+          "UniDerp": 4
+        }
+      }
+    ],
+    [
+      1749081600,
+      {
+        "unichain": {
+          "UniDerp": 0
+        }
+      }
+    ],
+    [
+      1749168000,
+      {
+        "unichain": {
+          "UniDerp": 110725
+        }
+      }
+    ],
+    [
+      1749254400,
+      {
+        "unichain": {
+          "UniDerp": 110971
+        }
+      }
+    ],
+    [
+      1749340800,
+      {
+        "unichain": {
+          "UniDerp": 77279
+        }
+      }
+    ],
+    [
+      1749427200,
+      {
+        "unichain": {
+          "UniDerp": 118885
+        }
+      }
+    ],
+    [
+      1749513600,
+      {
+        "unichain": {
+          "UniDerp": 460490
+        }
+      }
+    ],
+    [
+      1749600000,
+      {
+        "unichain": {
+          "UniDerp": 207390
+        }
+      }
+    ],
+    [
+      1749686400,
+      {
+        "unichain": {
+          "UniDerp": 84477
+        }
+      }
+    ],
+    [
+      1749772800,
+      {
+        "unichain": {
+          "UniDerp": 84591
+        }
+      }
+    ],
+    [
+      1749859200,
+      {
+        "unichain": {
+          "UniDerp": 36324
+        }
+      }
+    ],
+    [
+      1749945600,
+      {
+        "unichain": {
+          "UniDerp": 33786
+        }
+      }
+    ]
+  ],
+  "change_1d": -6.99
+}

@@ -4,7 +4,7 @@
   "address": "0x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
   "symbol": "UNI",
   "url": "https://uniswap.org/",
-  "description": "A fully decentralized protocol for automated liquidity provision on Ethereum. V2\r\n",
+  "description": "A fully decentralized protocol for automated liquidity provision on Ethereum. V2",
   "chain": "Ethereum",
   "logo": "https://icons.llamao.fi/icons/protocols/uniswap-v3.png",
   "audits": "2",
@@ -83,10 +83,10 @@
     "Uniswap V2",
     "Uniswap V3"
   ],
-  "total24h": 2049956,
-  "total48hto24h": 2599169,
-  "total7d": 11952831,
-  "totalAllTime": 2993047356,
+  "total24h": 879358,
+  "total48hto24h": 916536,
+  "total7d": 13178586,
+  "totalAllTime": 2999779914,
   "totalDataChart": [
     [
       1541289600,
@@ -6087,6 +6087,22 @@
     [
       1749600000,
       2049956
+    ],
+    [
+      1749686400,
+      2342927
+    ],
+    [
+      1749772800,
+      2593737
+    ],
+    [
+      1749859200,
+      916536
+    ],
+    [
+      1749945600,
+      879358
     ]
   ],
   "totalDataChartBreakdown": [
@@ -54608,7 +54624,423 @@
           "Uniswap V3": 1435
         }
       }
+    ],
+    [
+      1749686400,
+      {
+        "optimism": {
+          "Uniswap V3": 12417
+        },
+        "polygon": {
+          "Uniswap V3": 27671
+        },
+        "base": {
+          "Uniswap V3": 467176
+        },
+        "era": {
+          "Uniswap V3": 390
+        },
+        "unichain": {
+          "Uniswap V3": 2282
+        },
+        "avax": {
+          "Uniswap V3": 4732
+        },
+        "ethereum": {
+          "Uniswap V3": 1359486
+        },
+        "sei": {
+          "Uniswap V3": 557
+        },
+        "taiko": {
+          "Uniswap V3": 8
+        },
+        "scroll": {
+          "Uniswap V3": 77
+        },
+        "rsk": {
+          "Uniswap V3": 855
+        },
+        "filecoin": {
+          "Uniswap V3": 308
+        },
+        "boba": {
+          "Uniswap V3": 180
+        },
+        "moonbeam": {
+          "Uniswap V3": 1
+        },
+        "manta": {
+          "Uniswap V3": 0
+        },
+        "mantle": {
+          "Uniswap V3": 154
+        },
+        "linea": {
+          "Uniswap V3": 55
+        },
+        "polygon_zkevm": {
+          "Uniswap V3": 0
+        },
+        "blast": {
+          "Uniswap V3": 13
+        },
+        "xdai": {
+          "Uniswap V3": 2976
+        },
+        "bob": {
+          "Uniswap V3": 419
+        },
+        "lisk": {
+          "Uniswap V3": 156
+        },
+        "corn": {
+          "Uniswap V3": 771
+        },
+        "goat": {
+          "Uniswap V3": 683
+        },
+        "bsc": {
+          "Uniswap V3": 93061
+        },
+        "hemi": {
+          "Uniswap V3": 104
+        },
+        "saga": {
+          "Uniswap V3": 4207
+        },
+        "xdc": {
+          "Uniswap V3": 25
+        },
+        "lightlink_phoenix": {
+          "Uniswap V3": 68
+        },
+        "arbitrum": {
+          "Uniswap V3": 362245
+        },
+        "lens": {
+          "Uniswap V3": 34
+        },
+        "telos": {
+          "Uniswap V3": 310
+        },
+        "celo": {
+          "Uniswap V3": 1506
+        }
+      }
+    ],
+    [
+      1749772800,
+      {
+        "optimism": {
+          "Uniswap V3": 22973
+        },
+        "polygon": {
+          "Uniswap V3": 42303
+        },
+        "base": {
+          "Uniswap V3": 497714
+        },
+        "era": {
+          "Uniswap V3": 427
+        },
+        "unichain": {
+          "Uniswap V3": 3074
+        },
+        "avax": {
+          "Uniswap V3": 5534
+        },
+        "ethereum": {
+          "Uniswap V3": 1515343
+        },
+        "sei": {
+          "Uniswap V3": 846
+        },
+        "taiko": {
+          "Uniswap V3": 8
+        },
+        "scroll": {
+          "Uniswap V3": 106
+        },
+        "rsk": {
+          "Uniswap V3": 1042
+        },
+        "filecoin": {
+          "Uniswap V3": 182
+        },
+        "boba": {
+          "Uniswap V3": 221
+        },
+        "moonbeam": {
+          "Uniswap V3": 1
+        },
+        "manta": {
+          "Uniswap V3": 1
+        },
+        "mantle": {
+          "Uniswap V3": 467
+        },
+        "linea": {
+          "Uniswap V3": 69
+        },
+        "polygon_zkevm": {
+          "Uniswap V3": 1
+        },
+        "blast": {
+          "Uniswap V3": 9
+        },
+        "xdai": {
+          "Uniswap V3": 3230
+        },
+        "bob": {
+          "Uniswap V3": 462
+        },
+        "lisk": {
+          "Uniswap V3": 171
+        },
+        "corn": {
+          "Uniswap V3": 792
+        },
+        "goat": {
+          "Uniswap V3": 523
+        },
+        "bsc": {
+          "Uniswap V3": 79334
+        },
+        "hemi": {
+          "Uniswap V3": 150
+        },
+        "saga": {
+          "Uniswap V3": 4266
+        },
+        "xdc": {
+          "Uniswap V3": 36
+        },
+        "lightlink_phoenix": {
+          "Uniswap V3": 40
+        },
+        "arbitrum": {
+          "Uniswap V3": 411740
+        },
+        "lens": {
+          "Uniswap V3": 38
+        },
+        "telos": {
+          "Uniswap V3": 192
+        },
+        "celo": {
+          "Uniswap V3": 2442
+        }
+      }
+    ],
+    [
+      1749859200,
+      {
+        "optimism": {
+          "Uniswap V3": 5590
+        },
+        "polygon": {
+          "Uniswap V3": 12329
+        },
+        "base": {
+          "Uniswap V3": 265073
+        },
+        "era": {
+          "Uniswap V3": 217
+        },
+        "unichain": {
+          "Uniswap V3": 683
+        },
+        "avax": {
+          "Uniswap V3": 1475
+        },
+        "ethereum": {
+          "Uniswap V3": 442136
+        },
+        "sei": {
+          "Uniswap V3": 479
+        },
+        "taiko": {
+          "Uniswap V3": 3
+        },
+        "scroll": {
+          "Uniswap V3": 23
+        },
+        "rsk": {
+          "Uniswap V3": 313
+        },
+        "filecoin": {
+          "Uniswap V3": 45
+        },
+        "boba": {
+          "Uniswap V3": 59
+        },
+        "moonbeam": {
+          "Uniswap V3": 0
+        },
+        "manta": {
+          "Uniswap V3": 0
+        },
+        "mantle": {
+          "Uniswap V3": 57
+        },
+        "linea": {
+          "Uniswap V3": 42
+        },
+        "polygon_zkevm": {
+          "Uniswap V3": 0
+        },
+        "blast": {
+          "Uniswap V3": 9
+        },
+        "xdai": {
+          "Uniswap V3": 1107
+        },
+        "bob": {
+          "Uniswap V3": 243
+        },
+        "lisk": {
+          "Uniswap V3": 56
+        },
+        "corn": {
+          "Uniswap V3": 572
+        },
+        "goat": {
+          "Uniswap V3": 527
+        },
+        "bsc": {
+          "Uniswap V3": 58506
+        },
+        "hemi": {
+          "Uniswap V3": 33
+        },
+        "saga": {
+          "Uniswap V3": 3044
+        },
+        "xdc": {
+          "Uniswap V3": 14
+        },
+        "lightlink_phoenix": {
+          "Uniswap V3": 8
+        },
+        "arbitrum": {
+          "Uniswap V3": 122830
+        },
+        "lens": {
+          "Uniswap V3": 12
+        },
+        "telos": {
+          "Uniswap V3": 54
+        },
+        "celo": {
+          "Uniswap V3": 997
+        }
+      }
+    ],
+    [
+      1749945600,
+      {
+        "optimism": {
+          "Uniswap V3": 5835
+        },
+        "polygon": {
+          "Uniswap V3": 11405
+        },
+        "base": {
+          "Uniswap V3": 257290
+        },
+        "era": {
+          "Uniswap V3": 246
+        },
+        "unichain": {
+          "Uniswap V3": 636
+        },
+        "avax": {
+          "Uniswap V3": 1787
+        },
+        "ethereum": {
+          "Uniswap V3": 409637
+        },
+        "sei": {
+          "Uniswap V3": 426
+        },
+        "taiko": {
+          "Uniswap V3": 4
+        },
+        "scroll": {
+          "Uniswap V3": 29
+        },
+        "rsk": {
+          "Uniswap V3": 279
+        },
+        "filecoin": {
+          "Uniswap V3": 40
+        },
+        "boba": {
+          "Uniswap V3": 64
+        },
+        "moonbeam": {
+          "Uniswap V3": 0
+        },
+        "manta": {
+          "Uniswap V3": 0
+        },
+        "mantle": {
+          "Uniswap V3": 53
+        },
+        "linea": {
+          "Uniswap V3": 27
+        },
+        "polygon_zkevm": {
+          "Uniswap V3": 0
+        },
+        "blast": {
+          "Uniswap V3": 5
+        },
+        "xdai": {
+          "Uniswap V3": 1025
+        },
+        "bob": {
+          "Uniswap V3": 216
+        },
+        "lisk": {
+          "Uniswap V3": 58
+        },
+        "corn": {
+          "Uniswap V3": 338
+        },
+        "goat": {
+          "Uniswap V3": 459
+        },
+        "bsc": {
+          "Uniswap V3": 74558
+        },
+        "hemi": {
+          "Uniswap V3": 46
+        },
+        "saga": {
+          "Uniswap V3": 3017
+        },
+        "xdc": {
+          "Uniswap V3": 245
+        },
+        "lightlink_phoenix": {
+          "Uniswap V3": 16
+        },
+        "arbitrum": {
+          "Uniswap V3": 110585
+        },
+        "lens": {
+          "Uniswap V3": 9
+        },
+        "telos": {
+          "Uniswap V3": 78
+        },
+        "celo": {
+          "Uniswap V3": 945
+        }
+      }
     ]
   ],
-  "change_1d": -21.13
+  "change_1d": -4.06
 }

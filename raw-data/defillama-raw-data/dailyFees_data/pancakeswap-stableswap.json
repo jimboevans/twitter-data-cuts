@@ -51,10 +51,10 @@
     "PancakeSwap AMM V3",
     "PancakeSwap Infinity"
   ],
-  "total24h": 38391,
-  "total48hto24h": 68113,
-  "total7d": 254373,
-  "totalAllTime": 1028716153,
+  "total24h": 50122,
+  "total48hto24h": 12544,
+  "total7d": 270127,
+  "totalAllTime": 1028895132,
   "totalDataChart": [
     [
       1619222400,
@@ -6078,7 +6078,23 @@
     ],
     [
       1749686400,
-      38391
+      60438
+    ],
+    [
+      1749772800,
+      19768
+    ],
+    [
+      1749859200,
+      12544
+    ],
+    [
+      1749945600,
+      74498
+    ],
+    [
+      1750032000,
+      50122
     ]
   ],
   "totalDataChartBreakdown": [
@@ -20448,13 +20464,69 @@
           "PancakeSwap StableSwap": 0
         },
         "bsc": {
-          "PancakeSwap StableSwap": 38059
+          "PancakeSwap StableSwap": 60054
         },
         "arbitrum": {
-          "PancakeSwap StableSwap": 332
+          "PancakeSwap StableSwap": 384
+        }
+      }
+    ],
+    [
+      1749772800,
+      {
+        "ethereum": {
+          "PancakeSwap StableSwap": 0
+        },
+        "bsc": {
+          "PancakeSwap StableSwap": 19229
+        },
+        "arbitrum": {
+          "PancakeSwap StableSwap": 539
+        }
+      }
+    ],
+    [
+      1749859200,
+      {
+        "ethereum": {
+          "PancakeSwap StableSwap": 0
+        },
+        "bsc": {
+          "PancakeSwap StableSwap": 12203
+        },
+        "arbitrum": {
+          "PancakeSwap StableSwap": 341
+        }
+      }
+    ],
+    [
+      1749945600,
+      {
+        "ethereum": {
+          "PancakeSwap StableSwap": 0
+        },
+        "bsc": {
+          "PancakeSwap StableSwap": 74223
+        },
+        "arbitrum": {
+          "PancakeSwap StableSwap": 275
+        }
+      }
+    ],
+    [
+      1750032000,
+      {
+        "ethereum": {
+          "PancakeSwap StableSwap": 0
+        },
+        "bsc": {
+          "PancakeSwap StableSwap": 49947
+        },
+        "arbitrum": {
+          "PancakeSwap StableSwap": 175
         }
       }
     ]
   ],
-  "change_1d": -43.64
+  "change_1d": 299.57
 }
