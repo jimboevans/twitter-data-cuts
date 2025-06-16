@@ -1,55 +1,49 @@
 {
-  "id": "5761",
-  "name": "Hyperliquid Spot Orderbook",
-  "address": "hyperliquid:0x0d01dc56dcaaca66ad901c959b4011ec",
-  "symbol": "HYPE",
+  "id": "parent#hyperliquid",
+  "name": "Hyperliquid",
   "url": "https://hyperliquid.xyz",
   "referralUrl": "https://app.hyperliquid.xyz/join/DEFILLAMAO",
-  "description": "The order book works in essentially the same way as all centralized exchanges but is fully on-chain",
-  "chain": "Hyperliquid L1",
-  "logo": "https://icons.llamao.fi/icons/protocols/hyperliquid.png",
-  "audits": "0",
-  "audit_note": null,
-  "gecko_id": null,
-  "cmcId": null,
-  "category": "Dexs",
+  "description": "Hyperliquid is a decentralized perpetual exchange with best-in-class speed, liquidity, and price",
+  "logo": "https://icons.llama.fi/hyperliquid.png",
+  "gecko_id": "hyperliquid",
+  "cmcId": "32196",
   "chains": [
     "Hyperliquid L1"
   ],
-  "forkedFrom": [],
-  "module": "hyperliquid",
   "twitter": "HyperliquidX",
-  "parentProtocol": "parent#hyperliquid",
-  "listedAt": 1738964061,
-  "defillamaId": "5761",
-  "disabled": false,
-  "displayName": "Hyperliquid",
-  "methodologyURL": "https://github.com/DefiLlama/dimension-adapters/blob/master/fees/hyperliquid.ts",
-  "methodology": {
-    "UserFees": "Swap fees paid by users",
-    "Fees": "Trade fees and Ticker auction proceeds. Note this excludes the HLP vault and HyperEVM fees.",
-    "Revenue": "Percentage of swap fees going to treasury and/or token holders",
-    "ProtocolRevenue": "Percentage of swap fees going to treasury",
-    "HoldersRevenue": "93% of fees go to Assistance Fund for burning tokens, remaining 7% go to HLP Vault",
-    "SupplySideRevenue": "Liquidity providers revenue"
-  },
-  "audit_links": null,
-  "versionKey": null,
-  "github": null,
-  "governanceID": null,
-  "treasury": null,
-  "previousNames": null,
-  "latestFetchIsOk": true,
-  "slug": "hyperliquid-spot-orderbook",
-  "protocolType": "protocol",
+  "github": [
+    "hyperliquid-dex"
+  ],
+  "childProtocols": [
+    {}
+  ],
   "linkedProtocols": [
     "Hyperliquid",
     "Hyperliquid Spot Orderbook"
   ],
-  "total24h": 2181067,
+  "defillamaId": "parent#hyperliquid",
+  "disabled": null,
+  "displayName": "Hyperliquid",
+  "module": null,
+  "category": null,
+  "methodologyURL": null,
+  "methodology": null,
+  "forkedFrom": null,
+  "audits": null,
+  "address": null,
+  "audit_links": null,
+  "versionKey": null,
+  "governanceID": null,
+  "treasury": null,
+  "parentProtocol": null,
+  "previousNames": null,
+  "latestFetchIsOk": true,
+  "slug": "hyperliquid",
+  "protocolType": "protocol",
+  "total24h": 1190441,
   "total48hto24h": 1353343,
-  "total7d": 15983252,
-  "totalAllTime": 416087246,
+  "total7d": 15162507,
+  "totalAllTime": 416122193,
   "totalDataChart": [
     [
       1734912000,
@@ -745,7 +739,7 @@
     ],
     [
       1750032000,
-      2181067
+      2216014
     ]
   ],
   "totalDataChartBreakdown": [
@@ -2137,10 +2131,10 @@
       1750032000,
       {
         "hyperliquid": {
-          "Hyperliquid Spot Orderbook": 2181067
+          "Hyperliquid Spot Orderbook": 2216014
         }
       }
     ]
   ],
-  "change_1d": 61.16
+  "change_1d": -12.04
 }
