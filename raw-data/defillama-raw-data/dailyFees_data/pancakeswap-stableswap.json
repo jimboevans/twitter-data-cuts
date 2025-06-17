@@ -51,10 +51,10 @@
     "PancakeSwap AMM V3",
     "PancakeSwap Infinity"
   ],
-  "total24h": 46491,
-  "total48hto24h": 12544,
-  "total7d": 270127,
-  "totalAllTime": 1028891501,
+  "total24h": 118007,
+  "total48hto24h": 74498,
+  "total7d": 334306,
+  "totalAllTime": 1029048818,
   "totalDataChart": [
     [
       1619222400,
@@ -6094,7 +6094,11 @@
     ],
     [
       1750032000,
-      46491
+      85801
+    ],
+    [
+      1750118400,
+      118007
     ]
   ],
   "totalDataChartBreakdown": [
@@ -20520,13 +20524,27 @@
           "PancakeSwap StableSwap": 0
         },
         "bsc": {
-          "PancakeSwap StableSwap": 46305
+          "PancakeSwap StableSwap": 85543
         },
         "arbitrum": {
-          "PancakeSwap StableSwap": 186
+          "PancakeSwap StableSwap": 258
+        }
+      }
+    ],
+    [
+      1750118400,
+      {
+        "ethereum": {
+          "PancakeSwap StableSwap": 0
+        },
+        "bsc": {
+          "PancakeSwap StableSwap": 117645
+        },
+        "arbitrum": {
+          "PancakeSwap StableSwap": 362
         }
       }
     ]
   ],
-  "change_1d": 270.62
+  "change_1d": 58.4
 }

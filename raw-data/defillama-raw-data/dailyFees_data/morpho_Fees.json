@@ -44,10 +44,10 @@
   "latestFetchIsOk": true,
   "slug": "morpho",
   "protocolType": "protocol",
-  "total24h": 281615,
-  "total48hto24h": 307684,
-  "total7d": 2090623,
-  "totalAllTime": 104680807,
+  "total24h": 311647,
+  "total48hto24h": 281615,
+  "total7d": 2071019,
+  "totalAllTime": 105002361,
   "totalDataChart": [
     [
       1710892800,
@@ -1863,7 +1863,11 @@
     ],
     [
       1750032000,
-      301225
+      311647
+    ],
+    [
+      1750118400,
+      311132
     ]
   ],
   "totalDataChartBreakdown": [
@@ -7397,19 +7401,36 @@
       1750032000,
       {
         "ethereum": {
-          "Morpho Blue": 225067
+          "Morpho Blue": 235675
         },
         "base": {
-          "Morpho Blue": 66697
+          "Morpho Blue": 67190
         },
         "polygon": {
-          "Morpho Blue": 6645
+          "Morpho Blue": 6015
         },
         "unichain": {
-          "Morpho Blue": 2816
+          "Morpho Blue": 2767
+        }
+      }
+    ],
+    [
+      1750118400,
+      {
+        "ethereum": {
+          "Morpho Blue": 236612
+        },
+        "base": {
+          "Morpho Blue": 66870
+        },
+        "polygon": {
+          "Morpho Blue": 5042
+        },
+        "unichain": {
+          "Morpho Blue": 2608
         }
       }
     ]
   ],
-  "change_1d": -8.47
+  "change_1d": 10.66
 }

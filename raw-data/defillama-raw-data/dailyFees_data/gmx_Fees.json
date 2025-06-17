@@ -45,10 +45,10 @@
   "latestFetchIsOk": true,
   "slug": "gmx",
   "protocolType": "protocol",
-  "total24h": 76458,
-  "total48hto24h": 83997,
-  "total7d": 1255503,
-  "totalAllTime": 430724228,
+  "total24h": 167846,
+  "total48hto24h": 76458,
+  "total7d": 1211633,
+  "totalAllTime": 430903790,
   "totalDataChart": [
     [
       1630627200,
@@ -5572,7 +5572,11 @@
     ],
     [
       1750032000,
-      2450
+      167846
+    ],
+    [
+      1750118400,
+      14166
     ]
   ],
   "totalDataChartBreakdown": [
@@ -22109,13 +22113,29 @@
       1750032000,
       {
         "arbitrum": {
-          "GMX V1": 1961
+          "GMX V1": 3578,
+          "GMX V2 Perps": 144177
         },
         "avax": {
-          "GMX V1": 489
+          "GMX V1": 5529,
+          "GMX V2 Perps": 14417
+        },
+        "solana": {
+          "GMX V2 Perps": 145
+        }
+      }
+    ],
+    [
+      1750118400,
+      {
+        "arbitrum": {
+          "GMX V1": 13409
+        },
+        "avax": {
+          "GMX V1": 757
         }
       }
     ]
   ],
-  "change_1d": -8.98
+  "change_1d": 119.53
 }

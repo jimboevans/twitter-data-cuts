@@ -43,10 +43,10 @@
     "pump.fun",
     "PumpSwap"
   ],
-  "total24h": 1175658,
-  "total48hto24h": 1205281,
-  "total7d": 9234179,
-  "totalAllTime": 676939597,
+  "total24h": 1207550,
+  "total48hto24h": 1175658,
+  "total7d": 8771932,
+  "totalAllTime": 678147147,
   "totalDataChart": [
     [
       1709251200,
@@ -1935,6 +1935,10 @@
     [
       1749945600,
       1175658
+    ],
+    [
+      1750032000,
+      1207550
     ]
   ],
   "totalDataChartBreakdown": [
@@ -5713,7 +5717,15 @@
           "pump.fun": 1175658
         }
       }
+    ],
+    [
+      1750032000,
+      {
+        "solana": {
+          "pump.fun": 1207550
+        }
+      }
     ]
   ],
-  "change_1d": -2.46
+  "change_1d": 2.71
 }

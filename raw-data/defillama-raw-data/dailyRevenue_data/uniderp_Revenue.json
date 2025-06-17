@@ -41,10 +41,10 @@
   "latestFetchIsOk": true,
   "slug": "uniderp",
   "protocolType": "protocol",
-  "total24h": 33786,
-  "total48hto24h": 36324,
-  "total7d": 1025943,
-  "totalAllTime": 1324940,
+  "total24h": 70199,
+  "total48hto24h": 33786,
+  "total7d": 977257,
+  "totalAllTime": 1395139,
   "totalDataChart": [
     [
       1748649600,
@@ -105,6 +105,10 @@
     [
       1749945600,
       33786
+    ],
+    [
+      1750032000,
+      70199
     ]
   ],
   "totalDataChartBreakdown": [
@@ -227,7 +231,15 @@
           "UniDerp": 33786
         }
       }
+    ],
+    [
+      1750032000,
+      {
+        "unichain": {
+          "UniDerp": 70199
+        }
+      }
     ]
   ],
-  "change_1d": -6.99
+  "change_1d": 107.78
 }

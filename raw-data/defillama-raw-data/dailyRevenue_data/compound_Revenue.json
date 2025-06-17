@@ -54,10 +54,10 @@
   "latestFetchIsOk": true,
   "slug": "compound-finance",
   "protocolType": "protocol",
-  "total24h": 3866,
-  "total48hto24h": 3958,
-  "total7d": 28152,
-  "totalAllTime": 62852416,
+  "total24h": 4226,
+  "total48hto24h": 3866,
+  "total7d": 28344,
+  "totalAllTime": 62856642,
   "totalDataChart": [
     [
       1557273600,
@@ -8934,6 +8934,10 @@
     [
       1749945600,
       3866
+    ],
+    [
+      1750032000,
+      4226
     ]
   ],
   "totalDataChartBreakdown": [
@@ -26688,7 +26692,15 @@
           "Compound V2": 3866
         }
       }
+    ],
+    [
+      1750032000,
+      {
+        "ethereum": {
+          "Compound V2": 4226
+        }
+      }
     ]
   ],
-  "change_1d": -2.32
+  "change_1d": 9.31
 }

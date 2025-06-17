@@ -61,10 +61,10 @@
   "latestFetchIsOk": true,
   "slug": "aave",
   "protocolType": "protocol",
-  "total24h": 199416,
-  "total48hto24h": 197186,
-  "total7d": 1502086,
-  "totalAllTime": 212751110,
+  "total24h": 203162,
+  "total48hto24h": 199416,
+  "total7d": 1469659,
+  "totalAllTime": 212944636,
   "totalDataChart": [
     [
       1607040000,
@@ -6684,7 +6684,11 @@
     ],
     [
       1750032000,
-      206091
+      203162
+    ],
+    [
+      1750118400,
+      196455
     ]
   ],
   "totalDataChartBreakdown": [
@@ -53938,49 +53942,49 @@
       1750032000,
       {
         "ethereum": {
-          "AAVE V2": 4385,
-          "AAVE V3": 175084
+          "AAVE V2": 4803,
+          "AAVE V3": 171190
         },
         "polygon": {
           "AAVE V2": 0,
-          "AAVE V3": 3879
+          "AAVE V3": 3808
         },
         "avax": {
-          "AAVE V2": 65,
-          "AAVE V3": 6799
+          "AAVE V2": 64,
+          "AAVE V3": 6621
         },
         "optimism": {
-          "AAVE V3": 798
+          "AAVE V3": 797
         },
         "arbitrum": {
-          "AAVE V3": 7043
+          "AAVE V3": 7448
         },
         "fantom": {
           "AAVE V3": 0
         },
         "base": {
-          "AAVE V3": 5173
+          "AAVE V3": 5589
         },
         "bsc": {
-          "AAVE V3": 1788
+          "AAVE V3": 1760
         },
         "metis": {
-          "AAVE V3": 65
+          "AAVE V3": 59
         },
         "xdai": {
-          "AAVE V3": 337
+          "AAVE V3": 363
         },
         "scroll": {
-          "AAVE V3": 157
+          "AAVE V3": 151
         },
         "era": {
-          "AAVE V3": 34
+          "AAVE V3": 35
         },
         "linea": {
           "AAVE V3": 37
         },
         "sonic": {
-          "AAVE V3": 439
+          "AAVE V3": 429
         },
         "celo": {
           "AAVE V3": 8
@@ -53989,7 +53993,63 @@
           "AAVE V3": 0
         }
       }
+    ],
+    [
+      1750118400,
+      {
+        "ethereum": {
+          "AAVE V2": 3826,
+          "AAVE V3": 163478
+        },
+        "polygon": {
+          "AAVE V2": 0,
+          "AAVE V3": 3954
+        },
+        "avax": {
+          "AAVE V2": 61,
+          "AAVE V3": 7334
+        },
+        "optimism": {
+          "AAVE V3": 884
+        },
+        "arbitrum": {
+          "AAVE V3": 8466
+        },
+        "fantom": {
+          "AAVE V3": 0
+        },
+        "base": {
+          "AAVE V3": 5861
+        },
+        "bsc": {
+          "AAVE V3": 1494
+        },
+        "metis": {
+          "AAVE V3": 45
+        },
+        "xdai": {
+          "AAVE V3": 347
+        },
+        "scroll": {
+          "AAVE V3": 205
+        },
+        "era": {
+          "AAVE V3": 37
+        },
+        "linea": {
+          "AAVE V3": 39
+        },
+        "sonic": {
+          "AAVE V3": 423
+        },
+        "celo": {
+          "AAVE V3": 1
+        },
+        "soneium": {
+          "AAVE V3": 0
+        }
+      }
     ]
   ],
-  "change_1d": 1.13
+  "change_1d": 1.88
 }

@@ -37,10 +37,10 @@
   "latestFetchIsOk": true,
   "slug": "launch-coin-on-believe",
   "protocolType": "protocol",
-  "total24h": 137913,
-  "total48hto24h": 62986,
-  "total7d": 1536521,
-  "totalAllTime": 25365164,
+  "total24h": 235288,
+  "total48hto24h": 137913,
+  "total7d": 1474884,
+  "totalAllTime": 25600452,
   "totalDataChart": [
     [
       1745798400,
@@ -237,6 +237,10 @@
     [
       1749945600,
       137913
+    ],
+    [
+      1750032000,
+      235288
     ]
   ],
   "totalDataChartBreakdown": [
@@ -631,7 +635,15 @@
           "Launch Coin on Believe": 137913
         }
       }
+    ],
+    [
+      1750032000,
+      {
+        "solana": {
+          "Launch Coin on Believe": 235288
+        }
+      }
     ]
   ],
-  "change_1d": 118.96
+  "change_1d": 70.61
 }

@@ -16,17 +16,13 @@
     "Solana"
   ],
   "forkedFrom": [],
-  "module": "stbot",
+  "module": "sol-trading-bot",
   "twitter": "SolTradingBot",
   "defillamaId": "4909",
   "disabled": false,
   "displayName": "SolTradingBot",
-  "methodologyURL": "https://github.com/DefiLlama/dimension-adapters/blob/master/fees/stbot.ts",
-  "methodology": {
-    "Fees": "All trading fees paid by users for using Sol Trading Bot.",
-    "Revenue": "Fees collected by Sol Trading Bot protocol.",
-    "ProtocolRevenue": "Fees collected by Sol Trading Bot protocol."
-  },
+  "methodologyURL": "https://github.com/DefiLlama/dimension-adapters/blob/master/fees/sol-trading-bot",
+  "methodology": {},
   "audit_links": null,
   "versionKey": null,
   "github": null,
@@ -37,10 +33,10 @@
   "latestFetchIsOk": true,
   "slug": "soltradingbot",
   "protocolType": "protocol",
-  "total24h": 19887,
-  "total48hto24h": 17360,
-  "total7d": 151522,
-  "totalAllTime": 26873310,
+  "total24h": 24624,
+  "total48hto24h": 17794,
+  "total7d": 153690,
+  "totalAllTime": 26903319,
   "totalDataChart": [
     [
       1721260800,
@@ -1352,7 +1348,11 @@
     ],
     [
       1750032000,
-      19887
+      25272
+    ],
+    [
+      1750118400,
+      24624
     ]
   ],
   "totalDataChartBreakdown": [
@@ -3976,10 +3976,18 @@
       1750032000,
       {
         "solana": {
-          "SolTradingBot": 19887
+          "SolTradingBot": 25272
+        }
+      }
+    ],
+    [
+      1750118400,
+      {
+        "solana": {
+          "SolTradingBot": 24624
         }
       }
     ]
   ],
-  "change_1d": 14.56
+  "change_1d": 38.38
 }

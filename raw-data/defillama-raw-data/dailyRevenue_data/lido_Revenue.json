@@ -48,10 +48,10 @@
   "latestFetchIsOk": true,
   "slug": "lido",
   "protocolType": "protocol",
-  "total24h": 178973,
-  "total48hto24h": 184908,
-  "total7d": 1392173,
-  "totalAllTime": 244628215,
+  "total24h": 191739,
+  "total48hto24h": 178973,
+  "total7d": 1398003,
+  "totalAllTime": 244819954,
   "totalDataChart": [
     [
       1609977600,
@@ -6536,6 +6536,10 @@
     [
       1749945600,
       178973
+    ],
+    [
+      1750032000,
+      191739
     ]
   ],
   "totalDataChartBreakdown": [
@@ -19506,7 +19510,15 @@
           "Lido": 178973
         }
       }
+    ],
+    [
+      1750032000,
+      {
+        "ethereum": {
+          "Lido": 191739
+        }
+      }
     ]
   ],
-  "change_1d": -3.21
+  "change_1d": 7.13
 }

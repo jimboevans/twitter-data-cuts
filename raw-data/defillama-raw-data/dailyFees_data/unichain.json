@@ -34,10 +34,10 @@
   "latestFetchIsOk": true,
   "slug": "unichain",
   "protocolType": "chain",
-  "total24h": 5603,
-  "total48hto24h": 6334,
-  "total7d": 90433,
-  "totalAllTime": 417404,
+  "total24h": 11399,
+  "total48hto24h": 5603,
+  "total7d": 92459,
+  "totalAllTime": 428803,
   "totalDataChart": [
     [
       1730678400,
@@ -934,6 +934,10 @@
     [
       1749945600,
       5603
+    ],
+    [
+      1750032000,
+      11399
     ]
   ],
   "totalDataChartBreakdown": [
@@ -2728,7 +2732,15 @@
           "Unichain": 5603
         }
       }
+    ],
+    [
+      1750032000,
+      {
+        "unichain": {
+          "Unichain": 11399
+        }
+      }
     ]
   ],
-  "change_1d": -11.54
+  "change_1d": 103.44
 }

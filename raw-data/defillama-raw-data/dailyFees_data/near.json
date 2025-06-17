@@ -36,10 +36,10 @@
   "latestFetchIsOk": true,
   "slug": "near",
   "protocolType": "chain",
-  "total24h": 7593,
-  "total48hto24h": 7328,
-  "total7d": 56746,
-  "totalAllTime": 15954556,
+  "total24h": 7917,
+  "total48hto24h": 7593,
+  "total7d": 55755,
+  "totalAllTime": 15962473,
   "totalDataChart": [
     [
       1595462400,
@@ -7196,6 +7196,10 @@
     [
       1749945600,
       7593
+    ],
+    [
+      1750032000,
+      7917
     ]
   ],
   "totalDataChartBreakdown": [
@@ -21510,7 +21514,15 @@
           "Near": 7593
         }
       }
+    ],
+    [
+      1750032000,
+      {
+        "near": {
+          "Near": 7917
+        }
+      }
     ]
   ],
-  "change_1d": 3.62
+  "change_1d": 4.27
 }

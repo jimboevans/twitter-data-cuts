@@ -35,10 +35,10 @@
   "latestFetchIsOk": true,
   "slug": "paal-ai",
   "protocolType": "protocol",
-  "total24h": 101,
-  "total48hto24h": 45,
-  "total7d": 215810,
-  "totalAllTime": 13798834,
+  "total24h": 239,
+  "total48hto24h": 0,
+  "total7d": 37266,
+  "totalAllTime": 13799493,
   "totalDataChart": [
     [
       1690070400,
@@ -2794,7 +2794,11 @@
     ],
     [
       1750032000,
-      101
+      521
+    ],
+    [
+      1750118400,
+      239
     ]
   ],
   "totalDataChartBreakdown": [
@@ -8306,10 +8310,17 @@
       1750032000,
       {
         "ethereum": {
-          "PAAL AI": 101
+          "PAAL AI": 521
+        }
+      }
+    ],
+    [
+      1750118400,
+      {
+        "ethereum": {
+          "PAAL AI": 239
         }
       }
     ]
-  ],
-  "change_1d": 124.44
+  ]
 }

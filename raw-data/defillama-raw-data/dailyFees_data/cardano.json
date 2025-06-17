@@ -36,10 +36,10 @@
   "latestFetchIsOk": true,
   "slug": "cardano",
   "protocolType": "chain",
-  "total24h": 5170,
-  "total48hto24h": 6032,
-  "total7d": 55004,
-  "totalAllTime": 8032583,
+  "total24h": 7648,
+  "total48hto24h": 5170,
+  "total7d": 52761,
+  "totalAllTime": 8040231,
   "totalDataChart": [
     [
       1685577600,
@@ -3020,6 +3020,10 @@
     [
       1749945600,
       5170
+    ],
+    [
+      1750032000,
+      7648
     ]
   ],
   "totalDataChartBreakdown": [
@@ -8982,7 +8986,15 @@
           "Cardano": 5170
         }
       }
+    ],
+    [
+      1750032000,
+      {
+        "cardano": {
+          "Cardano": 7648
+        }
+      }
     ]
   ],
-  "change_1d": -14.29
+  "change_1d": 47.93
 }
