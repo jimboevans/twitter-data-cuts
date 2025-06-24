@@ -19,6 +19,8 @@
     "dydxfoundation",
     "dydxprotocol"
   ],
+  "symbol": "DYDX",
+  "address": "0x92d6c1e31e14520e676a687f0a93788b716beff5",
   "childProtocols": [
     {},
     {}
@@ -37,7 +39,6 @@
   "methodology": null,
   "forkedFrom": null,
   "audits": null,
-  "address": null,
   "audit_links": null,
   "versionKey": null,
   "parentProtocol": null,
@@ -45,10 +46,10 @@
   "latestFetchIsOk": true,
   "slug": "dydx",
   "protocolType": "protocol",
-  "total24h": 51377,
-  "total48hto24h": 17228,
-  "total7d": 284679,
-  "totalAllTime": 87584356,
+  "total24h": 49233,
+  "total48hto24h": 53278,
+  "total7d": 272502,
+  "totalAllTime": 87856858,
   "totalDataChart": [
     [
       1699833600,
@@ -2361,13 +2362,41 @@
     [
       1750032000,
       51377
+    ],
+    [
+      1750118400,
+      55180
+    ],
+    [
+      1750204800,
+      34241
+    ],
+    [
+      1750291200,
+      17863
+    ],
+    [
+      1750377600,
+      35938
+    ],
+    [
+      1750464000,
+      26769
+    ],
+    [
+      1750550400,
+      53278
+    ],
+    [
+      1750636800,
+      49233
     ]
   ],
   "totalDataChartBreakdown": [
     [
       1699833600,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 0
         }
       }
@@ -2375,7 +2404,7 @@
     [
       1699920000,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 11
         }
       }
@@ -2383,7 +2412,7 @@
     [
       1700006400,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 15
         }
       }
@@ -2391,7 +2420,7 @@
     [
       1700092800,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 30
         }
       }
@@ -2399,7 +2428,7 @@
     [
       1700179200,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 66
         }
       }
@@ -2407,7 +2436,7 @@
     [
       1700265600,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 2
         }
       }
@@ -2415,10 +2444,10 @@
     [
       1700352000,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 239136
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 6
         }
       }
@@ -2426,10 +2455,10 @@
     [
       1700438400,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 270955
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 62
         }
       }
@@ -2437,10 +2466,10 @@
     [
       1700524800,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 417799
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 24
         }
       }
@@ -2448,10 +2477,10 @@
     [
       1700611200,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 350114
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 58
         }
       }
@@ -2459,10 +2488,10 @@
     [
       1700697600,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 155294
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 31
         }
       }
@@ -2470,10 +2499,10 @@
     [
       1700784000,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 233078
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 88
         }
       }
@@ -2481,10 +2510,10 @@
     [
       1700870400,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 80158
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 91
         }
       }
@@ -2492,10 +2521,10 @@
     [
       1700956800,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 131077
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 117
         }
       }
@@ -2503,10 +2532,10 @@
     [
       1701043200,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 197059
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 72
         }
       }
@@ -2514,10 +2543,10 @@
     [
       1701129600,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 227000
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 1664
         }
       }
@@ -2525,10 +2554,10 @@
     [
       1701216000,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 201129
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 8912
         }
       }
@@ -2536,10 +2565,10 @@
     [
       1701302400,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 149373
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 17564
         }
       }
@@ -2547,10 +2576,10 @@
     [
       1701388800,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 201256
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 21750
         }
       }
@@ -2558,10 +2587,10 @@
     [
       1701475200,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 168213
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 14937
         }
       }
@@ -2569,10 +2598,10 @@
     [
       1701561600,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 155545
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 12528
         }
       }
@@ -2580,10 +2609,10 @@
     [
       1701648000,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 391078
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 30735
         }
       }
@@ -2591,10 +2620,10 @@
     [
       1701734400,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 419696
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 44537
         }
       }
@@ -2602,10 +2631,10 @@
     [
       1701820800,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 294392
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 42189
         }
       }
@@ -2613,10 +2642,10 @@
     [
       1701907200,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 312689
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 42505
         }
       }
@@ -2624,10 +2653,10 @@
     [
       1701993600,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 276833
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 43122
         }
       }
@@ -2635,10 +2664,10 @@
     [
       1702080000,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 223965
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 40049
         }
       }
@@ -2646,10 +2675,10 @@
     [
       1702166400,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 180549
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 23757
         }
       }
@@ -2657,10 +2686,10 @@
     [
       1702252800,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 532064
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 80194
         }
       }
@@ -2668,10 +2697,10 @@
     [
       1702339200,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 274159
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 43882
         }
       }
@@ -2679,10 +2708,10 @@
     [
       1702425600,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 310407
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 44118
         }
       }
@@ -2690,10 +2719,10 @@
     [
       1702512000,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 291576
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 41168
         }
       }
@@ -2701,10 +2730,10 @@
     [
       1702598400,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 179853
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 33862
         }
       }
@@ -2712,10 +2741,10 @@
     [
       1702684800,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 115932
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 27022
         }
       }
@@ -2723,10 +2752,10 @@
     [
       1702771200,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 158756
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 28459
         }
       }
@@ -2734,10 +2763,10 @@
     [
       1702857600,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 238769
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 44145
         }
       }
@@ -2745,10 +2774,10 @@
     [
       1702944000,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 195164
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 43783
         }
       }
@@ -2756,10 +2785,10 @@
     [
       1703030400,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 282955
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 40778
         }
       }
@@ -2767,10 +2796,10 @@
     [
       1703116800,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 257221
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 47898
         }
       }
@@ -2778,10 +2807,10 @@
     [
       1703203200,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 223706
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 45232
         }
       }
@@ -2789,10 +2818,10 @@
     [
       1703289600,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 136401
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 35786
         }
       }
@@ -2800,10 +2829,10 @@
     [
       1703376000,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 154701
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 38059
         }
       }
@@ -2811,10 +2840,10 @@
     [
       1703462400,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 156463
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 44339
         }
       }
@@ -2822,10 +2851,10 @@
     [
       1703548800,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 218913
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 70876
         }
       }
@@ -2833,10 +2862,10 @@
     [
       1703635200,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 202524
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 71545
         }
       }
@@ -2844,10 +2873,10 @@
     [
       1703721600,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 220240
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 81656
         }
       }
@@ -2855,10 +2884,10 @@
     [
       1703808000,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 217828
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 98370
         }
       }
@@ -2866,10 +2895,10 @@
     [
       1703894400,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 129669
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 37988
         }
       }
@@ -2877,10 +2906,10 @@
     [
       1703980800,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 120383
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 50025
         }
       }
@@ -2888,10 +2917,10 @@
     [
       1704067200,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 118966
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 66272
         }
       }
@@ -2899,10 +2928,10 @@
     [
       1704153600,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 258002
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 88103
         }
       }
@@ -2910,10 +2939,10 @@
     [
       1704240000,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 369466
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 97277
         }
       }
@@ -2921,10 +2950,10 @@
     [
       1704326400,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 187291
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 66524
         }
       }
@@ -2932,10 +2961,10 @@
     [
       1704412800,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 191597
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 71987
         }
       }
@@ -2943,10 +2972,10 @@
     [
       1704499200,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 81960
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 46775
         }
       }
@@ -2954,10 +2983,10 @@
     [
       1704585600,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 110456
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 55581
         }
       }
@@ -2965,10 +2994,10 @@
     [
       1704672000,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 297098
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 123101
         }
       }
@@ -2976,10 +3005,10 @@
     [
       1704758400,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 335056
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 76819
         }
       }
@@ -2987,10 +3016,10 @@
     [
       1704844800,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 439574
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 105551
         }
       }
@@ -2998,10 +3027,10 @@
     [
       1704931200,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 350867
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 140799
         }
       }
@@ -3009,10 +3038,10 @@
     [
       1705017600,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 379369
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 164709
         }
       }
@@ -3020,10 +3049,10 @@
     [
       1705104000,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 125359
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 99781
         }
       }
@@ -3031,10 +3060,10 @@
     [
       1705190400,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 116891
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 96283
         }
       }
@@ -3042,10 +3071,10 @@
     [
       1705276800,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 120069
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 113660
         }
       }
@@ -3053,10 +3082,10 @@
     [
       1705363200,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 130570
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 114494
         }
       }
@@ -3064,10 +3093,10 @@
     [
       1705449600,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 118586
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 92885
         }
       }
@@ -3075,10 +3104,10 @@
     [
       1705536000,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 114366
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 75388
         }
       }
@@ -3086,10 +3115,10 @@
     [
       1705622400,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 151749
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 84574
         }
       }
@@ -3097,10 +3126,10 @@
     [
       1705708800,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 42812
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 52712
         }
       }
@@ -3108,10 +3137,10 @@
     [
       1705795200,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 29616
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 38273
         }
       }
@@ -3119,10 +3148,10 @@
     [
       1705881600,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 168010
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 107868
         }
       }
@@ -3130,10 +3159,10 @@
     [
       1705968000,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 135673
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 101837
         }
       }
@@ -3141,10 +3170,10 @@
     [
       1706054400,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 112623
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 83918
         }
       }
@@ -3152,10 +3181,10 @@
     [
       1706140800,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 84707
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 73794
         }
       }
@@ -3163,10 +3192,10 @@
     [
       1706227200,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 102303
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 91524
         }
       }
@@ -3174,10 +3203,10 @@
     [
       1706313600,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 41400
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 51566
         }
       }
@@ -3185,10 +3214,10 @@
     [
       1706400000,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 70556
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 86561
         }
       }
@@ -3196,10 +3225,10 @@
     [
       1706486400,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 87544
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 92089
         }
       }
@@ -3207,10 +3236,10 @@
     [
       1706572800,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 105775
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 106960
         }
       }
@@ -3218,10 +3247,10 @@
     [
       1706659200,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 131786
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 133958
         }
       }
@@ -3229,10 +3258,10 @@
     [
       1706745600,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 88973
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 138380
         }
       }
@@ -3240,10 +3269,10 @@
     [
       1706832000,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 74390
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 110229
         }
       }
@@ -3251,10 +3280,10 @@
     [
       1706918400,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 30373
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 58989
         }
       }
@@ -3262,10 +3291,10 @@
     [
       1707004800,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 64977
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 68375
         }
       }
@@ -3273,10 +3302,10 @@
     [
       1707091200,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 72944
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 102163
         }
       }
@@ -3284,10 +3313,10 @@
     [
       1707177600,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 77715
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 106242
         }
       }
@@ -3295,10 +3324,10 @@
     [
       1707264000,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 90094
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 112448
         }
       }
@@ -3306,10 +3335,10 @@
     [
       1707350400,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 109944
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 133069
         }
       }
@@ -3317,10 +3346,10 @@
     [
       1707436800,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 96636
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 162999
         }
       }
@@ -3328,10 +3357,10 @@
     [
       1707523200,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 52690
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 83496
         }
       }
@@ -3339,10 +3368,10 @@
     [
       1707609600,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 64308
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 89765
         }
       }
@@ -3350,10 +3379,10 @@
     [
       1707696000,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 200888
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 153717
         }
       }
@@ -3361,10 +3390,10 @@
     [
       1707782400,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 195444
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 189071
         }
       }
@@ -3372,10 +3401,10 @@
     [
       1707868800,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 167055
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 170623
         }
       }
@@ -3383,10 +3412,10 @@
     [
       1707955200,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 130835
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 188971
         }
       }
@@ -3394,10 +3423,10 @@
     [
       1708041600,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 121865
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 166299
         }
       }
@@ -3405,10 +3434,10 @@
     [
       1708128000,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 86083
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 127010
         }
       }
@@ -3416,10 +3445,10 @@
     [
       1708214400,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 78461
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 136917
         }
       }
@@ -3427,10 +3456,10 @@
     [
       1708300800,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 101993
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 171875
         }
       }
@@ -3438,10 +3467,10 @@
     [
       1708387200,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 208148
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 232318
         }
       }
@@ -3449,10 +3478,10 @@
     [
       1708473600,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 137942
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 188944
         }
       }
@@ -3460,10 +3489,10 @@
     [
       1708560000,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 103074
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 174906
         }
       }
@@ -3471,10 +3500,10 @@
     [
       1708646400,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 82756
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 154634
         }
       }
@@ -3482,10 +3511,10 @@
     [
       1708732800,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 64313
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 100074
         }
       }
@@ -3493,10 +3522,10 @@
     [
       1708819200,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 99592
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 142634
         }
       }
@@ -3504,10 +3533,10 @@
     [
       1708905600,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 149553
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 217511
         }
       }
@@ -3515,10 +3544,10 @@
     [
       1708992000,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 177482
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 231893
         }
       }
@@ -3526,10 +3555,10 @@
     [
       1709078400,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 247249
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 316223
         }
       }
@@ -3537,10 +3566,10 @@
     [
       1709164800,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 119868
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 340981
         }
       }
@@ -3548,10 +3577,10 @@
     [
       1709251200,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 70528
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 229150
         }
       }
@@ -3559,10 +3588,10 @@
     [
       1709337600,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 102957
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 148262
         }
       }
@@ -3570,10 +3599,10 @@
     [
       1709424000,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 213312
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 168735
         }
       }
@@ -3581,10 +3610,10 @@
     [
       1709510400,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 549982
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 337552
         }
       }
@@ -3592,10 +3621,10 @@
     [
       1709596800,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 257557
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 462616
         }
       }
@@ -3603,10 +3632,10 @@
     [
       1709683200,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 162976
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 301766
         }
       }
@@ -3614,10 +3643,10 @@
     [
       1709769600,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 185510
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 241179
         }
       }
@@ -3625,10 +3654,10 @@
     [
       1709856000,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 48554
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 257158
         }
       }
@@ -3636,10 +3665,10 @@
     [
       1709942400,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 91621
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 121632
         }
       }
@@ -3647,10 +3676,10 @@
     [
       1710028800,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 236931
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 172369
         }
       }
@@ -3658,10 +3687,10 @@
     [
       1710115200,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 225877
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 278792
         }
       }
@@ -3669,10 +3698,10 @@
     [
       1710201600,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 147832
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 267737
         }
       }
@@ -3680,10 +3709,10 @@
     [
       1710288000,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 249089
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 197446
         }
       }
@@ -3691,10 +3720,10 @@
     [
       1710374400,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 325243
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 268612
         }
       }
@@ -3702,10 +3731,10 @@
     [
       1710460800,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 156911
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 314077
         }
       }
@@ -3713,10 +3742,10 @@
     [
       1710547200,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 146121
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 231320
         }
       }
@@ -3724,10 +3753,10 @@
     [
       1710633600,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 133963
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 232308
         }
       }
@@ -3735,10 +3764,10 @@
     [
       1710720000,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 246650
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 227193
         }
       }
@@ -3746,10 +3775,10 @@
     [
       1710806400,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 289222
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 325492
         }
       }
@@ -3757,10 +3786,10 @@
     [
       1710892800,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 139011
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 320721
         }
       }
@@ -3768,10 +3797,10 @@
     [
       1710979200,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 127336
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 236097
         }
       }
@@ -3779,10 +3808,10 @@
     [
       1711065600,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 70948
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 185562
         }
       }
@@ -3790,10 +3819,10 @@
     [
       1711152000,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 55362
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 118477
         }
       }
@@ -3801,10 +3830,10 @@
     [
       1711238400,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 123774
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 132600
         }
       }
@@ -3812,10 +3841,10 @@
     [
       1711324800,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 100529
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 183446
         }
       }
@@ -3823,10 +3852,10 @@
     [
       1711411200,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 110083
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 168707
         }
       }
@@ -3834,10 +3863,10 @@
     [
       1711497600,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 85312
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 182168
         }
       }
@@ -3845,10 +3874,10 @@
     [
       1711584000,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 57191
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 159216
         }
       }
@@ -3856,10 +3885,10 @@
     [
       1711670400,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 46285
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 115532
         }
       }
@@ -3867,10 +3896,10 @@
     [
       1711756800,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 68807
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 85978
         }
       }
@@ -3878,10 +3907,10 @@
     [
       1711843200,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 108859
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 81978
         }
       }
@@ -3889,10 +3918,10 @@
     [
       1711929600,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 147886
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 153583
         }
       }
@@ -3900,10 +3929,10 @@
     [
       1712016000,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 103515
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 223091
         }
       }
@@ -3911,10 +3940,10 @@
     [
       1712102400,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 117156
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 160389
         }
       }
@@ -3922,10 +3951,10 @@
     [
       1712188800,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 122972
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 179385
         }
       }
@@ -3933,10 +3962,10 @@
     [
       1712275200,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 39585
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 184025
         }
       }
@@ -3944,10 +3973,10 @@
     [
       1712361600,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 61491
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 89371
         }
       }
@@ -3955,10 +3984,10 @@
     [
       1712448000,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 152667
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 7090
         }
       }
@@ -3966,10 +3995,10 @@
     [
       1712534400,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 120111
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 37406
         }
       }
@@ -3977,10 +4006,10 @@
     [
       1712620800,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 127904
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 247300
         }
       }
@@ -3988,10 +4017,10 @@
     [
       1712707200,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 92300
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 196591
         }
       }
@@ -3999,10 +4028,10 @@
     [
       1712793600,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 165008
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 197138
         }
       }
@@ -4010,10 +4039,10 @@
     [
       1712880000,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 244306
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 274432
         }
       }
@@ -4021,10 +4050,10 @@
     [
       1712966400,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 207509
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 295892
         }
       }
@@ -4032,10 +4061,10 @@
     [
       1713052800,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 163824
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 222235
         }
       }
@@ -4043,10 +4072,10 @@
     [
       1713139200,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 144653
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 236980
         }
       }
@@ -4054,10 +4083,10 @@
     [
       1713225600,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 128814
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 190137
         }
       }
@@ -4065,10 +4094,10 @@
     [
       1713312000,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 101345
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 193167
         }
       }
@@ -4076,10 +4105,10 @@
     [
       1713398400,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 183606
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 187324
         }
       }
@@ -4087,10 +4116,10 @@
     [
       1713484800,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 66685
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 234485
         }
       }
@@ -4098,10 +4127,10 @@
     [
       1713571200,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 69766
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 129622
         }
       }
@@ -4109,10 +4138,10 @@
     [
       1713657600,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 96747
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 105863
         }
       }
@@ -4120,10 +4149,10 @@
     [
       1713744000,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 77353
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 144818
         }
       }
@@ -4131,10 +4160,10 @@
     [
       1713830400,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 111338
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 121495
         }
       }
@@ -4142,10 +4171,10 @@
     [
       1713916800,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 98815
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 175180
         }
       }
@@ -4153,10 +4182,10 @@
     [
       1714003200,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 62805
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 172178
         }
       }
@@ -4164,10 +4193,10 @@
     [
       1714089600,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 80550
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 122443
         }
       }
@@ -4175,10 +4204,10 @@
     [
       1714176000,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 61388
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 116561
         }
       }
@@ -4186,10 +4215,10 @@
     [
       1714262400,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 86345
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 116130
         }
       }
@@ -4197,10 +4226,10 @@
     [
       1714348800,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 123141
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 139215
         }
       }
@@ -4208,10 +4237,10 @@
     [
       1714435200,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 141694
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 217324
         }
       }
@@ -4219,10 +4248,10 @@
     [
       1714521600,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 82911
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 270641
         }
       }
@@ -4230,10 +4259,10 @@
     [
       1714608000,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 89660
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 161121
         }
       }
@@ -4241,10 +4270,10 @@
     [
       1714694400,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 80970
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 200978
         }
       }
@@ -4252,10 +4281,10 @@
     [
       1714780800,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 50178
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 130813
         }
       }
@@ -4263,10 +4292,10 @@
     [
       1714867200,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 105866
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 127186
         }
       }
@@ -4274,10 +4303,10 @@
     [
       1714953600,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 109335
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 194306
         }
       }
@@ -4285,10 +4314,10 @@
     [
       1715040000,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 82580
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 174544
         }
       }
@@ -4296,10 +4325,10 @@
     [
       1715126400,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 70772
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 166782
         }
       }
@@ -4307,10 +4336,10 @@
     [
       1715212800,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 97608
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 138755
         }
       }
@@ -4318,10 +4347,10 @@
     [
       1715299200,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 23305
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 152892
         }
       }
@@ -4329,10 +4358,10 @@
     [
       1715385600,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 34834
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 73926
         }
       }
@@ -4340,10 +4369,10 @@
     [
       1715472000,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 72419
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 66014
         }
       }
@@ -4351,10 +4380,10 @@
     [
       1715558400,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 88020
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 196594
         }
       }
@@ -4362,10 +4391,10 @@
     [
       1715644800,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 96134
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 180403
         }
       }
@@ -4373,10 +4402,10 @@
     [
       1715731200,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 74813
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 210237
         }
       }
@@ -4384,10 +4413,10 @@
     [
       1715817600,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 56731
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 155706
         }
       }
@@ -4395,10 +4424,10 @@
     [
       1715904000,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 32989
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 180472
         }
       }
@@ -4406,10 +4435,10 @@
     [
       1715990400,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 57234
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 104676
         }
       }
@@ -4417,10 +4446,10 @@
     [
       1716076800,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 145624
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 126309
         }
       }
@@ -4428,10 +4457,10 @@
     [
       1716163200,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 130518
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 298581
         }
       }
@@ -4439,10 +4468,10 @@
     [
       1716249600,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 70891
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 301064
         }
       }
@@ -4450,10 +4479,10 @@
     [
       1716336000,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 166049
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 235797
         }
       }
@@ -4461,10 +4490,10 @@
     [
       1716422400,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 76970
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 273629
         }
       }
@@ -4472,10 +4501,10 @@
     [
       1716508800,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 30325
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 156551
         }
       }
@@ -4483,10 +4512,10 @@
     [
       1716595200,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 70416
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 62554
         }
       }
@@ -4494,10 +4523,10 @@
     [
       1716681600,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 82232
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 71969
         }
       }
@@ -4505,10 +4534,10 @@
     [
       1716768000,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 77846
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 127148
         }
       }
@@ -4516,10 +4545,10 @@
     [
       1716854400,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 45281
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 145879
         }
       }
@@ -4527,10 +4556,10 @@
     [
       1716940800,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 57209
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 129786
         }
       }
@@ -4538,10 +4567,10 @@
     [
       1717027200,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 70624
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 114827
         }
       }
@@ -4549,10 +4578,10 @@
     [
       1717113600,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 24392
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 109385
         }
       }
@@ -4560,10 +4589,10 @@
     [
       1717200000,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 22303
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 41003
         }
       }
@@ -4571,10 +4600,10 @@
     [
       1717286400,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 42224
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 59699
         }
       }
@@ -4582,10 +4611,10 @@
     [
       1717372800,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 50829
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 110307
         }
       }
@@ -4593,10 +4622,10 @@
     [
       1717459200,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 59215
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 105309
         }
       }
@@ -4604,10 +4633,10 @@
     [
       1717545600,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 63043
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 110700
         }
       }
@@ -4615,10 +4644,10 @@
     [
       1717632000,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 96431
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 79288
         }
       }
@@ -4626,10 +4655,10 @@
     [
       1717718400,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 27488
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 139283
         }
       }
@@ -4637,10 +4666,10 @@
     [
       1717804800,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 18967
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 51196
         }
       }
@@ -4648,10 +4677,10 @@
     [
       1717891200,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 33908
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 51389
         }
       }
@@ -4659,10 +4688,10 @@
     [
       1717977600,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 84487
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 81959
         }
       }
@@ -4670,10 +4699,10 @@
     [
       1718064000,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 79208
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 243211
         }
       }
@@ -4681,10 +4710,10 @@
     [
       1718150400,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 52232
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 163134
         }
       }
@@ -4692,10 +4721,10 @@
     [
       1718236800,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 95766
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 152601
         }
       }
@@ -4703,10 +4732,10 @@
     [
       1718323200,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 24751
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 169331
         }
       }
@@ -4714,10 +4743,10 @@
     [
       1718409600,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 27424
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 55847
         }
       }
@@ -4725,10 +4754,10 @@
     [
       1718496000,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 50803
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 62532
         }
       }
@@ -4736,10 +4765,10 @@
     [
       1718582400,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 83266
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 136092
         }
       }
@@ -4747,10 +4776,10 @@
     [
       1718668800,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 42424
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 184798
         }
       }
@@ -4758,10 +4787,10 @@
     [
       1718755200,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 59613
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 104989
         }
       }
@@ -4769,10 +4798,10 @@
     [
       1718841600,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 49879
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 127533
         }
       }
@@ -4780,10 +4809,10 @@
     [
       1718928000,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 18772
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 109124
         }
       }
@@ -4791,10 +4820,10 @@
     [
       1719014400,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 18943
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 34452
         }
       }
@@ -4802,10 +4831,10 @@
     [
       1719100800,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 102838
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 39900
         }
       }
@@ -4813,10 +4842,10 @@
     [
       1719187200,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 61485
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 209606
         }
       }
@@ -4824,10 +4853,10 @@
     [
       1719273600,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 54537
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 107767
         }
       }
@@ -4835,10 +4864,10 @@
     [
       1719360000,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 36182
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 88164
         }
       }
@@ -4846,10 +4875,10 @@
     [
       1719446400,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 65276
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 82032
         }
       }
@@ -4857,10 +4886,10 @@
     [
       1719532800,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 17769
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 104021
         }
       }
@@ -4868,10 +4897,10 @@
     [
       1719619200,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 33965
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 35804
         }
       }
@@ -4879,10 +4908,10 @@
     [
       1719705600,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 32067
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 61269
         }
       }
@@ -4890,10 +4919,10 @@
     [
       1719792000,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 20453
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 88942
         }
       }
@@ -4901,10 +4930,10 @@
     [
       1719878400,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 67128
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 93047
         }
       }
@@ -4912,10 +4941,10 @@
     [
       1719964800,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 78409
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 149901
         }
       }
@@ -4923,10 +4952,10 @@
     [
       1720051200,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 130498
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 277450
         }
       }
@@ -4934,10 +4963,10 @@
     [
       1720137600,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 33790
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 267001
         }
       }
@@ -4945,10 +4974,10 @@
     [
       1720224000,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 32729
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 85403
         }
       }
@@ -4956,10 +4985,10 @@
     [
       1720310400,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 71707
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 88560
         }
       }
@@ -4967,10 +4996,10 @@
     [
       1720396800,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 35618
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 171773
         }
       }
@@ -4978,10 +5007,10 @@
     [
       1720483200,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 45218
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 98443
         }
       }
@@ -4989,10 +5018,10 @@
     [
       1720569600,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 44331
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 102687
         }
       }
@@ -5000,10 +5029,10 @@
     [
       1720656000,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 40268
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 116098
         }
       }
@@ -5011,10 +5040,10 @@
     [
       1720742400,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 37102
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 96266
         }
       }
@@ -5022,10 +5051,10 @@
     [
       1720828800,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 45414
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 51038
         }
       }
@@ -5033,10 +5062,10 @@
     [
       1720915200,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 62270
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 83453
         }
       }
@@ -5044,10 +5073,10 @@
     [
       1721001600,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 70392
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 183768
         }
       }
@@ -5055,10 +5084,10 @@
     [
       1721088000,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 45072
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 194786
         }
       }
@@ -5066,10 +5095,10 @@
     [
       1721174400,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 41888
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 151212
         }
       }
@@ -5077,10 +5106,10 @@
     [
       1721260800,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 60069
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 123599
         }
       }
@@ -5088,10 +5117,10 @@
     [
       1721347200,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 29271
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 150655
         }
       }
@@ -5099,10 +5128,10 @@
     [
       1721433600,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 44844
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 66554
         }
       }
@@ -5110,10 +5139,10 @@
     [
       1721520000,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 42855
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 111558
         }
       }
@@ -5121,10 +5150,10 @@
     [
       1721606400,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 57600
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 100017
         }
       }
@@ -5132,10 +5161,10 @@
     [
       1721692800,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 31592
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 120093
         }
       }
@@ -5143,10 +5172,10 @@
     [
       1721779200,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 51857
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 95454
         }
       }
@@ -5154,10 +5183,10 @@
     [
       1721865600,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 29786
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 135830
         }
       }
@@ -5165,10 +5194,10 @@
     [
       1721952000,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 51799
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 90904
         }
       }
@@ -5176,10 +5205,10 @@
     [
       1722038400,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 25513
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 124442
         }
       }
@@ -5187,10 +5216,10 @@
     [
       1722124800,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 65159
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 44633
         }
       }
@@ -5198,10 +5227,10 @@
     [
       1722211200,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 64614
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 113160
         }
       }
@@ -5209,10 +5238,10 @@
     [
       1722297600,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 53126
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 93058
         }
       }
@@ -5220,10 +5249,10 @@
     [
       1722384000,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 73341
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 105212
         }
       }
@@ -5231,10 +5260,10 @@
     [
       1722470400,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 57522
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 226574
         }
       }
@@ -5242,10 +5271,10 @@
     [
       1722556800,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 55047
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 213840
         }
       }
@@ -5253,10 +5282,10 @@
     [
       1722643200,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 60695
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 155698
         }
       }
@@ -5264,10 +5293,10 @@
     [
       1722729600,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 212041
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 197326
         }
       }
@@ -5275,10 +5304,10 @@
     [
       1722816000,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 53966
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 367211
         }
       }
@@ -5286,10 +5315,10 @@
     [
       1722902400,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 42825
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 182247
         }
       }
@@ -5297,10 +5326,10 @@
     [
       1722988800,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 46668
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 166501
         }
       }
@@ -5308,10 +5337,10 @@
     [
       1723075200,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 35210
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 196687
         }
       }
@@ -5319,10 +5348,10 @@
     [
       1723161600,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 15659
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 160715
         }
       }
@@ -5330,10 +5359,10 @@
     [
       1723248000,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 27876
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 75900
         }
       }
@@ -5341,10 +5370,10 @@
     [
       1723334400,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 38608
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 124418
         }
       }
@@ -5352,10 +5381,10 @@
     [
       1723420800,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 37753
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 221601
         }
       }
@@ -5363,10 +5392,10 @@
     [
       1723507200,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 29463
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 145022
         }
       }
@@ -5374,10 +5403,10 @@
     [
       1723593600,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 37867
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 142522
         }
       }
@@ -5385,10 +5414,10 @@
     [
       1723680000,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 25415
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 147148
         }
       }
@@ -5396,10 +5425,10 @@
     [
       1723766400,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 11037
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 128632
         }
       }
@@ -5407,10 +5436,10 @@
     [
       1723852800,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 25217
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 36650
         }
       }
@@ -5418,10 +5447,10 @@
     [
       1723939200,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 24171
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 60274
         }
       }
@@ -5429,10 +5458,10 @@
     [
       1724025600,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 32645
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 83532
         }
       }
@@ -5440,10 +5469,10 @@
     [
       1724112000,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 32930
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 97909
         }
       }
@@ -5451,10 +5480,10 @@
     [
       1724198400,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 23075
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 102970
         }
       }
@@ -5462,10 +5491,10 @@
     [
       1724284800,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 56113
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 88566
         }
       }
@@ -5473,10 +5502,10 @@
     [
       1724371200,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 47370
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 131547
         }
       }
@@ -5484,10 +5513,10 @@
     [
       1724457600,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 31084
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 78695
         }
       }
@@ -5495,10 +5524,10 @@
     [
       1724544000,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 37627
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 58576
         }
       }
@@ -5506,10 +5535,10 @@
     [
       1724630400,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 40727
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 89747
         }
       }
@@ -5517,10 +5546,10 @@
     [
       1724716800,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 31158
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 110679
         }
       }
@@ -5528,10 +5557,10 @@
     [
       1724803200,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 27577
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 66423
         }
       }
@@ -5539,7 +5568,7 @@
     [
       1724889600,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 28429
         }
       }
@@ -5547,10 +5576,10 @@
     [
       1724976000,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 6950
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 43515
         }
       }
@@ -5558,10 +5587,10 @@
     [
       1725062400,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 22866
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 12167
         }
       }
@@ -5569,10 +5598,10 @@
     [
       1725148800,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 38378
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 20291
         }
       }
@@ -5580,7 +5609,7 @@
     [
       1725235200,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 30834
         }
       }
@@ -5588,10 +5617,10 @@
     [
       1725321600,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 41188
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 38766
         }
       }
@@ -5599,10 +5628,10 @@
     [
       1725408000,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 28340
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 61391
         }
       }
@@ -5610,10 +5639,10 @@
     [
       1725494400,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 46429
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 40072
         }
       }
@@ -5621,10 +5650,10 @@
     [
       1725580800,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 22502
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 54536
         }
       }
@@ -5632,10 +5661,10 @@
     [
       1725667200,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 15496
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 7883
         }
       }
@@ -5643,7 +5672,7 @@
     [
       1725753600,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 22230
         }
       }
@@ -5651,10 +5680,10 @@
     [
       1725840000,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 14349
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 27061
         }
       }
@@ -5662,10 +5691,10 @@
     [
       1725926400,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 38749
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 27791
         }
       }
@@ -5673,10 +5702,10 @@
     [
       1726012800,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 20505
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 44119
         }
       }
@@ -5684,10 +5713,10 @@
     [
       1726099200,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 26526
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 34942
         }
       }
@@ -5695,10 +5724,10 @@
     [
       1726185600,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 8741
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 47212
         }
       }
@@ -5706,10 +5735,10 @@
     [
       1726272000,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 11322
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 18771
         }
       }
@@ -5717,10 +5746,10 @@
     [
       1726358400,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 16890
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 28768
         }
       }
@@ -5728,10 +5757,10 @@
     [
       1726444800,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 23956
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 40409
         }
       }
@@ -5739,10 +5768,10 @@
     [
       1726531200,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 23338
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 9409
         }
       }
@@ -5750,7 +5779,7 @@
     [
       1726617600,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 33822
         }
       }
@@ -5758,10 +5787,10 @@
     [
       1726704000,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 17974
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 49586
         }
       }
@@ -5769,10 +5798,10 @@
     [
       1726790400,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 7031
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 59715
         }
       }
@@ -5780,10 +5809,10 @@
     [
       1726876800,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 13727
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 48030
         }
       }
@@ -5791,10 +5820,10 @@
     [
       1726963200,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 20306
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 23759
         }
       }
@@ -5802,10 +5831,10 @@
     [
       1727049600,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 18687
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 26204
         }
       }
@@ -5813,10 +5842,10 @@
     [
       1727136000,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 13044
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 48196
         }
       }
@@ -5824,10 +5853,10 @@
     [
       1727222400,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 25428
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 54143
         }
       }
@@ -5835,10 +5864,10 @@
     [
       1727308800,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 17673
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 36467
         }
       }
@@ -5846,10 +5875,10 @@
     [
       1727395200,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 6945
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 68054
         }
       }
@@ -5857,10 +5886,10 @@
     [
       1727481600,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 10002
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 23385
         }
       }
@@ -5868,10 +5897,10 @@
     [
       1727568000,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 19898
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 25705
         }
       }
@@ -5879,10 +5908,10 @@
     [
       1727654400,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 35978
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 48989
         }
       }
@@ -5890,10 +5919,10 @@
     [
       1727740800,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 18368
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 99030
         }
       }
@@ -5901,10 +5930,10 @@
     [
       1727827200,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 16993
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 92702
         }
       }
@@ -5912,10 +5941,10 @@
     [
       1727913600,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 18666
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 33141
         }
       }
@@ -5923,10 +5952,10 @@
     [
       1728000000,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 6266
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 20346
         }
       }
@@ -5934,10 +5963,10 @@
     [
       1728086400,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 10606
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 16247
         }
       }
@@ -5945,10 +5974,10 @@
     [
       1728172800,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 23929
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 21418
         }
       }
@@ -5956,10 +5985,10 @@
     [
       1728259200,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 13872
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 86014
         }
       }
@@ -5967,10 +5996,10 @@
     [
       1728345600,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 10713
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 75704
         }
       }
@@ -5978,10 +6007,10 @@
     [
       1728432000,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 11794
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 45526
         }
       }
@@ -5989,10 +6018,10 @@
     [
       1728518400,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 14081
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 46018
         }
       }
@@ -6000,10 +6029,10 @@
     [
       1728604800,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 5932
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 40841
         }
       }
@@ -6011,10 +6040,10 @@
     [
       1728691200,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 5745
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 19972
         }
       }
@@ -6022,7 +6051,7 @@
     [
       1728777600,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 23948
         }
       }
@@ -6030,10 +6059,10 @@
     [
       1728864000,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 14728
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 30817
         }
       }
@@ -6041,10 +6070,10 @@
     [
       1728950400,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 12553
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 74667
         }
       }
@@ -6052,10 +6081,10 @@
     [
       1729036800,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 9934
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 78750
         }
       }
@@ -6063,10 +6092,10 @@
     [
       1729123200,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 11246
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 50440
         }
       }
@@ -6074,10 +6103,10 @@
     [
       1729209600,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 3801
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 39448
         }
       }
@@ -6085,10 +6114,10 @@
     [
       1729296000,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 9335
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 44848
         }
       }
@@ -6096,10 +6125,10 @@
     [
       1729382400,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 13476
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 17578
         }
       }
@@ -6107,10 +6136,10 @@
     [
       1729468800,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 13307
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 37838
         }
       }
@@ -6118,10 +6147,10 @@
     [
       1729555200,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 16729
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 61039
         }
       }
@@ -6129,10 +6158,10 @@
     [
       1729641600,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 11798
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 51591
         }
       }
@@ -6140,10 +6169,10 @@
     [
       1729728000,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 13507
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 54923
         }
       }
@@ -6151,10 +6180,10 @@
     [
       1729814400,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 4181
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 48467
         }
       }
@@ -6162,10 +6191,10 @@
     [
       1729900800,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 8919
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 90351
         }
       }
@@ -6173,10 +6202,10 @@
     [
       1729987200,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 4138
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 25613
         }
       }
@@ -6184,10 +6213,10 @@
     [
       1730073600,
       {
-        "ethereum": {
+        "Ethereum": {
           "dYdX V3": 159
         },
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 41039
         }
       }
@@ -6195,7 +6224,7 @@
     [
       1730160000,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 68207
         }
       }
@@ -6203,7 +6232,7 @@
     [
       1730246400,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 61853
         }
       }
@@ -6211,7 +6240,7 @@
     [
       1730332800,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 70396
         }
       }
@@ -6219,7 +6248,7 @@
     [
       1730419200,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 65727
         }
       }
@@ -6227,7 +6256,7 @@
     [
       1730505600,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 20891
         }
       }
@@ -6235,7 +6264,7 @@
     [
       1730592000,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 52426
         }
       }
@@ -6243,7 +6272,7 @@
     [
       1730764800,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 16799
         }
       }
@@ -6251,7 +6280,7 @@
     [
       1730851200,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 220467
         }
       }
@@ -6259,7 +6288,7 @@
     [
       1730937600,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 100932
         }
       }
@@ -6267,7 +6296,7 @@
     [
       1731024000,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 92230
         }
       }
@@ -6275,7 +6304,7 @@
     [
       1731110400,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 69169
         }
       }
@@ -6283,7 +6312,7 @@
     [
       1731196800,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 231198
         }
       }
@@ -6291,7 +6320,7 @@
     [
       1731283200,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 252800
         }
       }
@@ -6299,7 +6328,7 @@
     [
       1731369600,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 52382
         }
       }
@@ -6307,7 +6336,7 @@
     [
       1731456000,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 138076
         }
       }
@@ -6315,7 +6344,7 @@
     [
       1731542400,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 160290
         }
       }
@@ -6323,7 +6352,7 @@
     [
       1731628800,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 121339
         }
       }
@@ -6331,7 +6360,7 @@
     [
       1731715200,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 84613
         }
       }
@@ -6339,7 +6368,7 @@
     [
       1731801600,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 94832
         }
       }
@@ -6347,7 +6376,7 @@
     [
       1731888000,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 149276
         }
       }
@@ -6355,7 +6384,7 @@
     [
       1731974400,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 145176
         }
       }
@@ -6363,7 +6392,7 @@
     [
       1732060800,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 152908
         }
       }
@@ -6371,7 +6400,7 @@
     [
       1732147200,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 168879
         }
       }
@@ -6379,7 +6408,7 @@
     [
       1732492800,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 191523
         }
       }
@@ -6387,7 +6416,7 @@
     [
       1732579200,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 179966
         }
       }
@@ -6395,7 +6424,7 @@
     [
       1732665600,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 130216
         }
       }
@@ -6403,7 +6432,7 @@
     [
       1732752000,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 67208
         }
       }
@@ -6411,7 +6440,7 @@
     [
       1732838400,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 100717
         }
       }
@@ -6419,7 +6448,7 @@
     [
       1732924800,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 86325
         }
       }
@@ -6427,7 +6456,7 @@
     [
       1733011200,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 78848
         }
       }
@@ -6435,7 +6464,7 @@
     [
       1733097600,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 180535
         }
       }
@@ -6443,7 +6472,7 @@
     [
       1733184000,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 184710
         }
       }
@@ -6451,7 +6480,7 @@
     [
       1733270400,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 187605
         }
       }
@@ -6459,7 +6488,7 @@
     [
       1733356800,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 309602
         }
       }
@@ -6467,7 +6496,7 @@
     [
       1733443200,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 181477
         }
       }
@@ -6475,7 +6504,7 @@
     [
       1733529600,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 71489
         }
       }
@@ -6483,7 +6512,7 @@
     [
       1733616000,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 75535
         }
       }
@@ -6491,7 +6520,7 @@
     [
       1733702400,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 242301
         }
       }
@@ -6499,7 +6528,7 @@
     [
       1733788800,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 235462
         }
       }
@@ -6507,7 +6536,7 @@
     [
       1733875200,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 124520
         }
       }
@@ -6515,7 +6544,7 @@
     [
       1733961600,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 135156
         }
       }
@@ -6523,7 +6552,7 @@
     [
       1734048000,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 80410
         }
       }
@@ -6531,7 +6560,7 @@
     [
       1734134400,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 57908
         }
       }
@@ -6539,7 +6568,7 @@
     [
       1734220800,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 59495
         }
       }
@@ -6547,7 +6576,7 @@
     [
       1734307200,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 154957
         }
       }
@@ -6555,7 +6584,7 @@
     [
       1734393600,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 102070
         }
       }
@@ -6563,7 +6592,7 @@
     [
       1734480000,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 137386
         }
       }
@@ -6571,7 +6600,7 @@
     [
       1734566400,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 175623
         }
       }
@@ -6579,7 +6608,7 @@
     [
       1734652800,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 175438
         }
       }
@@ -6587,7 +6616,7 @@
     [
       1734739200,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 100149
         }
       }
@@ -6595,7 +6624,7 @@
     [
       1734825600,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 62018
         }
       }
@@ -6603,7 +6632,7 @@
     [
       1734912000,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 78706
         }
       }
@@ -6611,7 +6640,7 @@
     [
       1734998400,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 52148
         }
       }
@@ -6619,7 +6648,7 @@
     [
       1735084800,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 28368
         }
       }
@@ -6627,7 +6656,7 @@
     [
       1735171200,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 42492
         }
       }
@@ -6635,7 +6664,7 @@
     [
       1735257600,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 36551
         }
       }
@@ -6643,7 +6672,7 @@
     [
       1735344000,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 17807
         }
       }
@@ -6651,7 +6680,7 @@
     [
       1735430400,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 18267
         }
       }
@@ -6659,7 +6688,7 @@
     [
       1735516800,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 46916
         }
       }
@@ -6667,7 +6696,7 @@
     [
       1735603200,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 38830
         }
       }
@@ -6675,7 +6704,7 @@
     [
       1735689600,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 20458
         }
       }
@@ -6683,7 +6712,7 @@
     [
       1735776000,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 50443
         }
       }
@@ -6691,7 +6720,7 @@
     [
       1735862400,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 57024
         }
       }
@@ -6699,7 +6728,7 @@
     [
       1735948800,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 31108
         }
       }
@@ -6707,7 +6736,7 @@
     [
       1736035200,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 21978
         }
       }
@@ -6715,7 +6744,7 @@
     [
       1736121600,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 73840
         }
       }
@@ -6723,7 +6752,7 @@
     [
       1736208000,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 92207
         }
       }
@@ -6731,7 +6760,7 @@
     [
       1736294400,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 93164
         }
       }
@@ -6739,7 +6768,7 @@
     [
       1736380800,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 84677
         }
       }
@@ -6747,7 +6776,7 @@
     [
       1736467200,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 76788
         }
       }
@@ -6755,7 +6784,7 @@
     [
       1736553600,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 19440
         }
       }
@@ -6763,7 +6792,7 @@
     [
       1736640000,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 26492
         }
       }
@@ -6771,7 +6800,7 @@
     [
       1736726400,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 97597
         }
       }
@@ -6779,7 +6808,7 @@
     [
       1736812800,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 44300
         }
       }
@@ -6787,7 +6816,7 @@
     [
       1736899200,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 69445
         }
       }
@@ -6795,7 +6824,7 @@
     [
       1736985600,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 79275
         }
       }
@@ -6803,7 +6832,7 @@
     [
       1737072000,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 105277
         }
       }
@@ -6811,7 +6840,7 @@
     [
       1737158400,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 104640
         }
       }
@@ -6819,7 +6848,7 @@
     [
       1737244800,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 155599
         }
       }
@@ -6827,7 +6856,7 @@
     [
       1737331200,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 178388
         }
       }
@@ -6835,7 +6864,7 @@
     [
       1737417600,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 92978
         }
       }
@@ -6843,7 +6872,7 @@
     [
       1737504000,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 51070
         }
       }
@@ -6851,7 +6880,7 @@
     [
       1737590400,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 92658
         }
       }
@@ -6859,7 +6888,7 @@
     [
       1737676800,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 53156
         }
       }
@@ -6867,7 +6896,7 @@
     [
       1737763200,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 28049
         }
       }
@@ -6875,7 +6904,7 @@
     [
       1737849600,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 29020
         }
       }
@@ -6883,7 +6912,7 @@
     [
       1737936000,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 109050
         }
       }
@@ -6891,7 +6920,7 @@
     [
       1738022400,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 57124
         }
       }
@@ -6899,7 +6928,7 @@
     [
       1738108800,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 56167
         }
       }
@@ -6907,7 +6936,7 @@
     [
       1738195200,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 61435
         }
       }
@@ -6915,7 +6944,7 @@
     [
       1738281600,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 64362
         }
       }
@@ -6923,7 +6952,7 @@
     [
       1738368000,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 43577
         }
       }
@@ -6931,7 +6960,7 @@
     [
       1738454400,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 105673
         }
       }
@@ -6939,7 +6968,7 @@
     [
       1738540800,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 243185
         }
       }
@@ -6947,7 +6976,7 @@
     [
       1738627200,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 36182
         }
       }
@@ -6955,7 +6984,7 @@
     [
       1738713600,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 48682
         }
       }
@@ -6963,7 +6992,7 @@
     [
       1738800000,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 4823
         }
       }
@@ -6971,7 +7000,7 @@
     [
       1738886400,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 59894
         }
       }
@@ -6979,7 +7008,7 @@
     [
       1738972800,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 24450
         }
       }
@@ -6987,7 +7016,7 @@
     [
       1739059200,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 34969
         }
       }
@@ -6995,7 +7024,7 @@
     [
       1739145600,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 41310
         }
       }
@@ -7003,7 +7032,7 @@
     [
       1739232000,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 40810
         }
       }
@@ -7011,7 +7040,7 @@
     [
       1739318400,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 50225
         }
       }
@@ -7019,7 +7048,7 @@
     [
       1739404800,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 24733
         }
       }
@@ -7027,7 +7056,7 @@
     [
       1739491200,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 31424
         }
       }
@@ -7035,7 +7064,7 @@
     [
       1739577600,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 13123
         }
       }
@@ -7043,7 +7072,7 @@
     [
       1739664000,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 22165
         }
       }
@@ -7051,7 +7080,7 @@
     [
       1739750400,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 29243
         }
       }
@@ -7059,7 +7088,7 @@
     [
       1739836800,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 37930
         }
       }
@@ -7067,7 +7096,7 @@
     [
       1739923200,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 24883
         }
       }
@@ -7075,7 +7104,7 @@
     [
       1740009600,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 31430
         }
       }
@@ -7083,7 +7112,7 @@
     [
       1740096000,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 17490
         }
       }
@@ -7091,7 +7120,7 @@
     [
       1740182400,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 7749
         }
       }
@@ -7099,7 +7128,7 @@
     [
       1740268800,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 3769
         }
       }
@@ -7107,7 +7136,7 @@
     [
       1740355200,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 30790
         }
       }
@@ -7115,7 +7144,7 @@
     [
       1740441600,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 22147
         }
       }
@@ -7123,7 +7152,7 @@
     [
       1740528000,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 83858
         }
       }
@@ -7131,7 +7160,7 @@
     [
       1740614400,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 52713
         }
       }
@@ -7139,7 +7168,7 @@
     [
       1740700800,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 120926
         }
       }
@@ -7147,7 +7176,7 @@
     [
       1740787200,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 21407
         }
       }
@@ -7155,7 +7184,7 @@
     [
       1740873600,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 178252
         }
       }
@@ -7163,7 +7192,7 @@
     [
       1740960000,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 105201
         }
       }
@@ -7171,7 +7200,7 @@
     [
       1741046400,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 111494
         }
       }
@@ -7179,7 +7208,7 @@
     [
       1741132800,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 48176
         }
       }
@@ -7187,7 +7216,7 @@
     [
       1741219200,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 18902
         }
       }
@@ -7195,7 +7224,7 @@
     [
       1741305600,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 15178
         }
       }
@@ -7203,7 +7232,7 @@
     [
       1741392000,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 14530
         }
       }
@@ -7211,7 +7240,7 @@
     [
       1741478400,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 45386
         }
       }
@@ -7219,7 +7248,7 @@
     [
       1741564800,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 113898
         }
       }
@@ -7227,7 +7256,7 @@
     [
       1741651200,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 90227
         }
       }
@@ -7235,7 +7264,7 @@
     [
       1741737600,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 23432
         }
       }
@@ -7243,7 +7272,7 @@
     [
       1741824000,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 38820
         }
       }
@@ -7251,7 +7280,7 @@
     [
       1741910400,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 31115
         }
       }
@@ -7259,7 +7288,7 @@
     [
       1741996800,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 20156
         }
       }
@@ -7267,7 +7296,7 @@
     [
       1742083200,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 27590
         }
       }
@@ -7275,7 +7304,7 @@
     [
       1742169600,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 33993
         }
       }
@@ -7283,7 +7312,7 @@
     [
       1742256000,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 14626
         }
       }
@@ -7291,7 +7320,7 @@
     [
       1742342400,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 54214
         }
       }
@@ -7299,7 +7328,7 @@
     [
       1742428800,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 29805
         }
       }
@@ -7307,7 +7336,7 @@
     [
       1742515200,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 23451
         }
       }
@@ -7315,7 +7344,7 @@
     [
       1742601600,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 10141
         }
       }
@@ -7323,7 +7352,7 @@
     [
       1742688000,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 17797
         }
       }
@@ -7331,7 +7360,7 @@
     [
       1742774400,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 14920
         }
       }
@@ -7339,7 +7368,7 @@
     [
       1742860800,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 26428
         }
       }
@@ -7347,7 +7376,7 @@
     [
       1742947200,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 29585
         }
       }
@@ -7355,7 +7384,7 @@
     [
       1743033600,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 25489
         }
       }
@@ -7363,7 +7392,7 @@
     [
       1743120000,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 37950
         }
       }
@@ -7371,7 +7400,7 @@
     [
       1743206400,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 24213
         }
       }
@@ -7379,7 +7408,7 @@
     [
       1743292800,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 6646
         }
       }
@@ -7387,7 +7416,7 @@
     [
       1743379200,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 40890
         }
       }
@@ -7395,7 +7424,7 @@
     [
       1743465600,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 10373
         }
       }
@@ -7403,7 +7432,7 @@
     [
       1743552000,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 62768
         }
       }
@@ -7411,7 +7440,7 @@
     [
       1743638400,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 48290
         }
       }
@@ -7419,7 +7448,7 @@
     [
       1743724800,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 1254
         }
       }
@@ -7427,7 +7456,7 @@
     [
       1743811200,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 13832
         }
       }
@@ -7435,7 +7464,7 @@
     [
       1743897600,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 2463
         }
       }
@@ -7443,7 +7472,7 @@
     [
       1743984000,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 95040
         }
       }
@@ -7451,7 +7480,7 @@
     [
       1744070400,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 47684
         }
       }
@@ -7459,7 +7488,7 @@
     [
       1744156800,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 87498
         }
       }
@@ -7467,7 +7496,7 @@
     [
       1744243200,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 37373
         }
       }
@@ -7475,7 +7504,7 @@
     [
       1744329600,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 49213
         }
       }
@@ -7483,7 +7512,7 @@
     [
       1744416000,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 37541
         }
       }
@@ -7491,7 +7520,7 @@
     [
       1744502400,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 40945
         }
       }
@@ -7499,7 +7528,7 @@
     [
       1744588800,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 56451
         }
       }
@@ -7507,7 +7536,7 @@
     [
       1744675200,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 25408
         }
       }
@@ -7515,7 +7544,7 @@
     [
       1744761600,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 40140
         }
       }
@@ -7523,7 +7552,7 @@
     [
       1744848000,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 21995
         }
       }
@@ -7531,7 +7560,7 @@
     [
       1744934400,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 10793
         }
       }
@@ -7539,7 +7568,7 @@
     [
       1745020800,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 3394
         }
       }
@@ -7547,7 +7576,7 @@
     [
       1745107200,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 13058
         }
       }
@@ -7555,7 +7584,7 @@
     [
       1745193600,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 40855
         }
       }
@@ -7563,7 +7592,7 @@
     [
       1745280000,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 36305
         }
       }
@@ -7571,7 +7600,7 @@
     [
       1745366400,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 66273
         }
       }
@@ -7579,7 +7608,7 @@
     [
       1745452800,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 11536
         }
       }
@@ -7587,7 +7616,7 @@
     [
       1745539200,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 28056
         }
       }
@@ -7595,7 +7624,7 @@
     [
       1745625600,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 15664
         }
       }
@@ -7603,7 +7632,7 @@
     [
       1745712000,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 18696
         }
       }
@@ -7611,7 +7640,7 @@
     [
       1745798400,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 29808
         }
       }
@@ -7619,7 +7648,7 @@
     [
       1745884800,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 30628
         }
       }
@@ -7627,7 +7656,7 @@
     [
       1745971200,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 17
         }
       }
@@ -7635,7 +7664,7 @@
     [
       1746057600,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 30571
         }
       }
@@ -7643,7 +7672,7 @@
     [
       1746144000,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 28902
         }
       }
@@ -7651,7 +7680,7 @@
     [
       1746230400,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 11389
         }
       }
@@ -7659,7 +7688,7 @@
     [
       1746316800,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 14269
         }
       }
@@ -7667,7 +7696,7 @@
     [
       1746403200,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 18696
         }
       }
@@ -7675,7 +7704,7 @@
     [
       1746489600,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 38146
         }
       }
@@ -7683,7 +7712,7 @@
     [
       1746576000,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 29449
         }
       }
@@ -7691,7 +7720,7 @@
     [
       1746662400,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 76769
         }
       }
@@ -7699,7 +7728,7 @@
     [
       1746748800,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 65748
         }
       }
@@ -7707,7 +7736,7 @@
     [
       1746835200,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 43518
         }
       }
@@ -7715,7 +7744,7 @@
     [
       1746921600,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 34383
         }
       }
@@ -7723,7 +7752,7 @@
     [
       1747008000,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 61020
         }
       }
@@ -7731,7 +7760,7 @@
     [
       1747094400,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 54136
         }
       }
@@ -7739,7 +7768,7 @@
     [
       1747180800,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 42922
         }
       }
@@ -7747,7 +7776,7 @@
     [
       1747267200,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 63170
         }
       }
@@ -7755,7 +7784,7 @@
     [
       1747353600,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 13494
         }
       }
@@ -7763,7 +7792,7 @@
     [
       1747440000,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 19708
         }
       }
@@ -7771,7 +7800,7 @@
     [
       1747526400,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 36240
         }
       }
@@ -7779,7 +7808,7 @@
     [
       1747612800,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 40643
         }
       }
@@ -7787,7 +7816,7 @@
     [
       1747699200,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 6757
         }
       }
@@ -7795,7 +7824,7 @@
     [
       1747785600,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 75766
         }
       }
@@ -7803,7 +7832,7 @@
     [
       1747872000,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 47635
         }
       }
@@ -7811,7 +7840,7 @@
     [
       1747958400,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 62844
         }
       }
@@ -7819,7 +7848,7 @@
     [
       1748044800,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 26979
         }
       }
@@ -7827,7 +7856,7 @@
     [
       1748131200,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 26258
         }
       }
@@ -7835,7 +7864,7 @@
     [
       1748217600,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 29237
         }
       }
@@ -7843,7 +7872,7 @@
     [
       1748304000,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 42935
         }
       }
@@ -7851,7 +7880,7 @@
     [
       1748390400,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 28960
         }
       }
@@ -7859,7 +7888,7 @@
     [
       1748476800,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 63304
         }
       }
@@ -7867,7 +7896,7 @@
     [
       1748563200,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 55473
         }
       }
@@ -7875,7 +7904,7 @@
     [
       1748649600,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 23091
         }
       }
@@ -7883,7 +7912,7 @@
     [
       1748736000,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 23072
         }
       }
@@ -7891,7 +7920,7 @@
     [
       1748822400,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 31314
         }
       }
@@ -7899,7 +7928,7 @@
     [
       1748908800,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 40291
         }
       }
@@ -7907,7 +7936,7 @@
     [
       1748995200,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 34307
         }
       }
@@ -7915,7 +7944,7 @@
     [
       1749081600,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 67139
         }
       }
@@ -7923,7 +7952,7 @@
     [
       1749168000,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 34608
         }
       }
@@ -7931,7 +7960,7 @@
     [
       1749254400,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 17065
         }
       }
@@ -7939,7 +7968,7 @@
     [
       1749340800,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 20551
         }
       }
@@ -7947,7 +7976,7 @@
     [
       1749427200,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 42730
         }
       }
@@ -7955,7 +7984,7 @@
     [
       1749513600,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 57370
         }
       }
@@ -7963,7 +7992,7 @@
     [
       1749600000,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 44151
         }
       }
@@ -7971,7 +8000,7 @@
     [
       1749686400,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 39149
         }
       }
@@ -7979,7 +8008,7 @@
     [
       1749772800,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 49261
         }
       }
@@ -7987,7 +8016,7 @@
     [
       1749859200,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 26143
         }
       }
@@ -7995,7 +8024,7 @@
     [
       1749945600,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 17228
         }
       }
@@ -8003,11 +8032,67 @@
     [
       1750032000,
       {
-        "dydx": {
+        "dYdX": {
           "dYdX V4": 51377
+        }
+      }
+    ],
+    [
+      1750118400,
+      {
+        "dYdX": {
+          "dYdX V4": 55180
+        }
+      }
+    ],
+    [
+      1750204800,
+      {
+        "dYdX": {
+          "dYdX V4": 34241
+        }
+      }
+    ],
+    [
+      1750291200,
+      {
+        "dYdX": {
+          "dYdX V4": 17863
+        }
+      }
+    ],
+    [
+      1750377600,
+      {
+        "dYdX": {
+          "dYdX V4": 35938
+        }
+      }
+    ],
+    [
+      1750464000,
+      {
+        "dYdX": {
+          "dYdX V4": 26769
+        }
+      }
+    ],
+    [
+      1750550400,
+      {
+        "dYdX": {
+          "dYdX V4": 53278
+        }
+      }
+    ],
+    [
+      1750636800,
+      {
+        "dYdX": {
+          "dYdX V4": 49233
         }
       }
     ]
   ],
-  "change_1d": 198.22
+  "change_1d": -7.59
 }

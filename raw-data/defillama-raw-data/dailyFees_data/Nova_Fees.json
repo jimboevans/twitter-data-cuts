@@ -1,0 +1,445 @@
+{
+  "id": "6326",
+  "name": "Nova",
+  "address": null,
+  "symbol": "-",
+  "url": "https://nova.trade/",
+  "description": "All-In-One Trading Platform",
+  "chain": "Solana",
+  "logo": "https://icons.llamao.fi/icons/protocols/nova.jpg",
+  "audits": "0",
+  "audit_note": null,
+  "gecko_id": null,
+  "cmcId": null,
+  "category": "Telegram Bot",
+  "chains": [
+    "Solana"
+  ],
+  "module": "nova",
+  "twitter": "TradeonNova",
+  "forkedFromIds": [],
+  "defillamaId": "6326",
+  "disabled": false,
+  "displayName": "Nova",
+  "methodologyURL": "https://github.com/DefiLlama/dimension-adapters/blob/master/fees/nova",
+  "methodology": {
+    "Fees": "Trading fees paid by users while using Nova bot.",
+    "Revenue": "All fees are collected by Nova protocol."
+  },
+  "forkedFrom": null,
+  "audit_links": null,
+  "versionKey": null,
+  "github": null,
+  "governanceID": null,
+  "treasury": null,
+  "parentProtocol": null,
+  "previousNames": null,
+  "latestFetchIsOk": true,
+  "slug": "nova",
+  "protocolType": "protocol",
+  "total24h": 4880,
+  "total48hto24h": 4198,
+  "total7d": 29292,
+  "totalAllTime": 214657,
+  "totalDataChart": [
+    [
+      1747872000,
+      2369
+    ],
+    [
+      1747958400,
+      2009
+    ],
+    [
+      1748044800,
+      2202
+    ],
+    [
+      1748131200,
+      1148
+    ],
+    [
+      1748217600,
+      1894
+    ],
+    [
+      1748304000,
+      3363
+    ],
+    [
+      1748390400,
+      7115
+    ],
+    [
+      1748476800,
+      6588
+    ],
+    [
+      1748563200,
+      7277
+    ],
+    [
+      1748649600,
+      7291
+    ],
+    [
+      1748736000,
+      9393
+    ],
+    [
+      1748822400,
+      11261
+    ],
+    [
+      1748908800,
+      7777
+    ],
+    [
+      1748995200,
+      11257
+    ],
+    [
+      1749081600,
+      14141
+    ],
+    [
+      1749168000,
+      9405
+    ],
+    [
+      1749254400,
+      5192
+    ],
+    [
+      1749340800,
+      6134
+    ],
+    [
+      1749427200,
+      6657
+    ],
+    [
+      1749513600,
+      12887
+    ],
+    [
+      1749600000,
+      9235
+    ],
+    [
+      1749686400,
+      10491
+    ],
+    [
+      1749772800,
+      9422
+    ],
+    [
+      1749859200,
+      6182
+    ],
+    [
+      1749945600,
+      5365
+    ],
+    [
+      1750032000,
+      9310
+    ],
+    [
+      1750118400,
+      5736
+    ],
+    [
+      1750204800,
+      2989
+    ],
+    [
+      1750291200,
+      3431
+    ],
+    [
+      1750377600,
+      4155
+    ],
+    [
+      1750464000,
+      3903
+    ],
+    [
+      1750550400,
+      4198
+    ],
+    [
+      1750636800,
+      4880
+    ]
+  ],
+  "totalDataChartBreakdown": [
+    [
+      1747872000,
+      {
+        "Solana": {
+          "Nova": 2369
+        }
+      }
+    ],
+    [
+      1747958400,
+      {
+        "Solana": {
+          "Nova": 2009
+        }
+      }
+    ],
+    [
+      1748044800,
+      {
+        "Solana": {
+          "Nova": 2202
+        }
+      }
+    ],
+    [
+      1748131200,
+      {
+        "Solana": {
+          "Nova": 1148
+        }
+      }
+    ],
+    [
+      1748217600,
+      {
+        "Solana": {
+          "Nova": 1894
+        }
+      }
+    ],
+    [
+      1748304000,
+      {
+        "Solana": {
+          "Nova": 3363
+        }
+      }
+    ],
+    [
+      1748390400,
+      {
+        "Solana": {
+          "Nova": 7115
+        }
+      }
+    ],
+    [
+      1748476800,
+      {
+        "Solana": {
+          "Nova": 6588
+        }
+      }
+    ],
+    [
+      1748563200,
+      {
+        "Solana": {
+          "Nova": 7277
+        }
+      }
+    ],
+    [
+      1748649600,
+      {
+        "Solana": {
+          "Nova": 7291
+        }
+      }
+    ],
+    [
+      1748736000,
+      {
+        "Solana": {
+          "Nova": 9393
+        }
+      }
+    ],
+    [
+      1748822400,
+      {
+        "Solana": {
+          "Nova": 11261
+        }
+      }
+    ],
+    [
+      1748908800,
+      {
+        "Solana": {
+          "Nova": 7777
+        }
+      }
+    ],
+    [
+      1748995200,
+      {
+        "Solana": {
+          "Nova": 11257
+        }
+      }
+    ],
+    [
+      1749081600,
+      {
+        "Solana": {
+          "Nova": 14141
+        }
+      }
+    ],
+    [
+      1749168000,
+      {
+        "Solana": {
+          "Nova": 9405
+        }
+      }
+    ],
+    [
+      1749254400,
+      {
+        "Solana": {
+          "Nova": 5192
+        }
+      }
+    ],
+    [
+      1749340800,
+      {
+        "Solana": {
+          "Nova": 6134
+        }
+      }
+    ],
+    [
+      1749427200,
+      {
+        "Solana": {
+          "Nova": 6657
+        }
+      }
+    ],
+    [
+      1749513600,
+      {
+        "Solana": {
+          "Nova": 12887
+        }
+      }
+    ],
+    [
+      1749600000,
+      {
+        "Solana": {
+          "Nova": 9235
+        }
+      }
+    ],
+    [
+      1749686400,
+      {
+        "Solana": {
+          "Nova": 10491
+        }
+      }
+    ],
+    [
+      1749772800,
+      {
+        "Solana": {
+          "Nova": 9422
+        }
+      }
+    ],
+    [
+      1749859200,
+      {
+        "Solana": {
+          "Nova": 6182
+        }
+      }
+    ],
+    [
+      1749945600,
+      {
+        "Solana": {
+          "Nova": 5365
+        }
+      }
+    ],
+    [
+      1750032000,
+      {
+        "Solana": {
+          "Nova": 9310
+        }
+      }
+    ],
+    [
+      1750118400,
+      {
+        "Solana": {
+          "Nova": 5736
+        }
+      }
+    ],
+    [
+      1750204800,
+      {
+        "Solana": {
+          "Nova": 2989
+        }
+      }
+    ],
+    [
+      1750291200,
+      {
+        "Solana": {
+          "Nova": 3431
+        }
+      }
+    ],
+    [
+      1750377600,
+      {
+        "Solana": {
+          "Nova": 4155
+        }
+      }
+    ],
+    [
+      1750464000,
+      {
+        "Solana": {
+          "Nova": 3903
+        }
+      }
+    ],
+    [
+      1750550400,
+      {
+        "Solana": {
+          "Nova": 4198
+        }
+      }
+    ],
+    [
+      1750636800,
+      {
+        "Solana": {
+          "Nova": 4880
+        }
+      }
+    ]
+  ],
+  "change_1d": 16.25
+}

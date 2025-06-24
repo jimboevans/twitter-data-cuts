@@ -1,14 +1,584 @@
 {
-    "execution_id": "01JWZPWYSQZ15ABK7BEWZ3H09K",
+    "execution_id": "01JYGVMAZ9A3HJ8DF0QMZJTGY1",
     "query_id": 4552208,
     "is_execution_finished": true,
     "state": "QUERY_STATE_COMPLETED",
-    "submitted_at": "2025-06-05T09:31:34.584255Z",
-    "expires_at": "2025-09-03T09:31:37.623851Z",
-    "execution_started_at": "2025-06-05T09:31:36.993116Z",
-    "execution_ended_at": "2025-06-05T09:31:37.62385Z",
+    "submitted_at": "2025-06-24T11:37:02.186032Z",
+    "expires_at": "2025-09-22T11:38:21.010484Z",
+    "execution_started_at": "2025-06-24T11:38:19.972904Z",
+    "execution_ended_at": "2025-06-24T11:38:21.010483Z",
     "result": {
         "rows": [
+            {
+                "date": "2025-06-23",
+                "pool_name": "High Yield Secured",
+                "trailing_xirr": 0.0970336370531122
+            },
+            {
+                "date": "2025-06-23",
+                "pool_name": "Syrup USDT",
+                "trailing_xirr": 0.06195100842932883
+            },
+            {
+                "date": "2025-06-23",
+                "pool_name": "Blue Chip Secured",
+                "trailing_xirr": 0.07031400983314627
+            },
+            {
+                "date": "2025-06-23",
+                "pool_name": "Corporate USDC",
+                "trailing_xirr": 0.10978430299576918
+            },
+            {
+                "date": "2025-06-23",
+                "pool_name": "Syrup USDC",
+                "trailing_xirr": 0.06513232006995785
+            },
+            {
+                "date": "2025-06-23",
+                "pool_name": "Corporate WETH",
+                "trailing_xirr": 0.050095811641845865
+            },
+            {
+                "date": "2025-06-22",
+                "pool_name": "Corporate WETH",
+                "trailing_xirr": 0.05010268681544564
+            },
+            {
+                "date": "2025-06-22",
+                "pool_name": "Syrup USDC",
+                "trailing_xirr": 0.0652037636171391
+            },
+            {
+                "date": "2025-06-22",
+                "pool_name": "Corporate USDC",
+                "trailing_xirr": 0.10982719383430127
+            },
+            {
+                "date": "2025-06-22",
+                "pool_name": "Blue Chip Secured",
+                "trailing_xirr": 0.07024170761334156
+            },
+            {
+                "date": "2025-06-22",
+                "pool_name": "Syrup USDT",
+                "trailing_xirr": 0.061370161247399926
+            },
+            {
+                "date": "2025-06-22",
+                "pool_name": "High Yield Secured",
+                "trailing_xirr": 0.09629883635577775
+            },
+            {
+                "date": "2025-06-21",
+                "pool_name": "High Yield Secured",
+                "trailing_xirr": 0.095478069029257
+            },
+            {
+                "date": "2025-06-21",
+                "pool_name": "Syrup USDT",
+                "trailing_xirr": 0.060769829913055046
+            },
+            {
+                "date": "2025-06-21",
+                "pool_name": "Blue Chip Secured",
+                "trailing_xirr": 0.0701693833855129
+            },
+            {
+                "date": "2025-06-21",
+                "pool_name": "Corporate USDC",
+                "trailing_xirr": 0.10988447972700865
+            },
+            {
+                "date": "2025-06-21",
+                "pool_name": "Syrup USDC",
+                "trailing_xirr": 0.06541713049817674
+            },
+            {
+                "date": "2025-06-21",
+                "pool_name": "Corporate WETH",
+                "trailing_xirr": 0.05010956387603843
+            },
+            {
+                "date": "2025-06-20",
+                "pool_name": "Corporate WETH",
+                "trailing_xirr": 0.050116442824407186
+            },
+            {
+                "date": "2025-06-20",
+                "pool_name": "Syrup USDC",
+                "trailing_xirr": 0.06545500252706238
+            },
+            {
+                "date": "2025-06-20",
+                "pool_name": "Corporate USDC",
+                "trailing_xirr": 0.10995415055743166
+            },
+            {
+                "date": "2025-06-20",
+                "pool_name": "Blue Chip Secured",
+                "trailing_xirr": 0.0700987002724655
+            },
+            {
+                "date": "2025-06-20",
+                "pool_name": "Syrup USDT",
+                "trailing_xirr": 0.06017429481299602
+            },
+            {
+                "date": "2025-06-20",
+                "pool_name": "High Yield Secured",
+                "trailing_xirr": 0.0958714211300274
+            },
+            {
+                "date": "2025-06-19",
+                "pool_name": "High Yield Secured",
+                "trailing_xirr": 0.09482960326945983
+            },
+            {
+                "date": "2025-06-19",
+                "pool_name": "Syrup USDT",
+                "trailing_xirr": 0.05958373610202774
+            },
+            {
+                "date": "2025-06-19",
+                "pool_name": "Blue Chip Secured",
+                "trailing_xirr": 0.0700401698606312
+            },
+            {
+                "date": "2025-06-19",
+                "pool_name": "Corporate USDC",
+                "trailing_xirr": 0.1097059483793413
+            },
+            {
+                "date": "2025-06-19",
+                "pool_name": "Syrup USDC",
+                "trailing_xirr": 0.06548067962368466
+            },
+            {
+                "date": "2025-06-19",
+                "pool_name": "Corporate WETH",
+                "trailing_xirr": 0.05012332366132979
+            },
+            {
+                "date": "2025-06-18",
+                "pool_name": "High Yield Secured",
+                "trailing_xirr": 0.09430192376963233
+            },
+            {
+                "date": "2025-06-18",
+                "pool_name": "Syrup USDT",
+                "trailing_xirr": 0.05947671941552086
+            },
+            {
+                "date": "2025-06-18",
+                "pool_name": "Blue Chip Secured",
+                "trailing_xirr": 0.06997582733817373
+            },
+            {
+                "date": "2025-06-18",
+                "pool_name": "Corporate USDC",
+                "trailing_xirr": 0.10919630920416247
+            },
+            {
+                "date": "2025-06-18",
+                "pool_name": "Syrup USDC",
+                "trailing_xirr": 0.06567361075922466
+            },
+            {
+                "date": "2025-06-18",
+                "pool_name": "Corporate WETH",
+                "trailing_xirr": 0.050130206387583046
+            },
+            {
+                "date": "2025-06-17",
+                "pool_name": "High Yield Secured",
+                "trailing_xirr": 0.09472575650842405
+            },
+            {
+                "date": "2025-06-17",
+                "pool_name": "Syrup USDT",
+                "trailing_xirr": 0.059458816521563165
+            },
+            {
+                "date": "2025-06-17",
+                "pool_name": "Blue Chip Secured",
+                "trailing_xirr": 0.06991146475539257
+            },
+            {
+                "date": "2025-06-17",
+                "pool_name": "Corporate USDC",
+                "trailing_xirr": 0.10901903380259123
+            },
+            {
+                "date": "2025-06-17",
+                "pool_name": "Syrup USDC",
+                "trailing_xirr": 0.06575144391635324
+            },
+            {
+                "date": "2025-06-17",
+                "pool_name": "Corporate WETH",
+                "trailing_xirr": 0.05013709100394476
+            },
+            {
+                "date": "2025-06-16",
+                "pool_name": "Corporate WETH",
+                "trailing_xirr": 0.050143977511196466
+            },
+            {
+                "date": "2025-06-16",
+                "pool_name": "Syrup USDC",
+                "trailing_xirr": 0.0659124713720219
+            },
+            {
+                "date": "2025-06-16",
+                "pool_name": "Corporate USDC",
+                "trailing_xirr": 0.10899248525146912
+            },
+            {
+                "date": "2025-06-16",
+                "pool_name": "Blue Chip Secured",
+                "trailing_xirr": 0.06984708210302411
+            },
+            {
+                "date": "2025-06-16",
+                "pool_name": "Syrup USDT",
+                "trailing_xirr": 0.059446440253882404
+            },
+            {
+                "date": "2025-06-16",
+                "pool_name": "High Yield Secured",
+                "trailing_xirr": 0.09438372517058627
+            },
+            {
+                "date": "2025-06-15",
+                "pool_name": "High Yield Secured",
+                "trailing_xirr": 0.09293631138046915
+            },
+            {
+                "date": "2025-06-15",
+                "pool_name": "Syrup USDT",
+                "trailing_xirr": 0.05942017817644346
+            },
+            {
+                "date": "2025-06-15",
+                "pool_name": "Blue Chip Secured",
+                "trailing_xirr": 0.06980148878403247
+            },
+            {
+                "date": "2025-06-15",
+                "pool_name": "Corporate USDC",
+                "trailing_xirr": 0.10896592220494732
+            },
+            {
+                "date": "2025-06-15",
+                "pool_name": "Syrup USDC",
+                "trailing_xirr": 0.06600722927731717
+            },
+            {
+                "date": "2025-06-15",
+                "pool_name": "Corporate WETH",
+                "trailing_xirr": 0.050150865910109726
+            },
+            {
+                "date": "2025-06-14",
+                "pool_name": "High Yield Secured",
+                "trailing_xirr": 0.09337255841085564
+            },
+            {
+                "date": "2025-06-14",
+                "pool_name": "Syrup USDT",
+                "trailing_xirr": 0.05940068307290762
+            },
+            {
+                "date": "2025-06-14",
+                "pool_name": "Blue Chip Secured",
+                "trailing_xirr": 0.0697642065526058
+            },
+            {
+                "date": "2025-06-14",
+                "pool_name": "Corporate USDC",
+                "trailing_xirr": 0.10893934465115619
+            },
+            {
+                "date": "2025-06-14",
+                "pool_name": "Syrup USDC",
+                "trailing_xirr": 0.06598737559623849
+            },
+            {
+                "date": "2025-06-14",
+                "pool_name": "Corporate WETH",
+                "trailing_xirr": 0.05015775620147374
+            },
+            {
+                "date": "2025-06-13",
+                "pool_name": "High Yield Secured",
+                "trailing_xirr": 0.0933633728051721
+            },
+            {
+                "date": "2025-06-13",
+                "pool_name": "Syrup USDT",
+                "trailing_xirr": 0.05949429774961983
+            },
+            {
+                "date": "2025-06-13",
+                "pool_name": "Blue Chip Secured",
+                "trailing_xirr": 0.06972691182194558
+            },
+            {
+                "date": "2025-06-13",
+                "pool_name": "Corporate USDC",
+                "trailing_xirr": 0.10890908677872642
+            },
+            {
+                "date": "2025-06-13",
+                "pool_name": "Syrup USDC",
+                "trailing_xirr": 0.06604577857859212
+            },
+            {
+                "date": "2025-06-13",
+                "pool_name": "Corporate WETH",
+                "trailing_xirr": 0.05016464838605874
+            },
+            {
+                "date": "2025-06-12",
+                "pool_name": "High Yield Secured",
+                "trailing_xirr": 0.09157778938805002
+            },
+            {
+                "date": "2025-06-12",
+                "pool_name": "Syrup USDT",
+                "trailing_xirr": 0.05965843929811259
+            },
+            {
+                "date": "2025-06-12",
+                "pool_name": "Blue Chip Secured",
+                "trailing_xirr": 0.06966387384738423
+            },
+            {
+                "date": "2025-06-12",
+                "pool_name": "Corporate USDC",
+                "trailing_xirr": 0.10890363657691918
+            },
+            {
+                "date": "2025-06-12",
+                "pool_name": "Syrup USDC",
+                "trailing_xirr": 0.06627063649334707
+            },
+            {
+                "date": "2025-06-12",
+                "pool_name": "Corporate WETH",
+                "trailing_xirr": 0.05017154246464913
+            },
+            {
+                "date": "2025-06-11",
+                "pool_name": "High Yield Secured",
+                "trailing_xirr": 0.0919684801178958
+            },
+            {
+                "date": "2025-06-11",
+                "pool_name": "Syrup USDT",
+                "trailing_xirr": 0.05979430632703508
+            },
+            {
+                "date": "2025-06-11",
+                "pool_name": "Blue Chip Secured",
+                "trailing_xirr": 0.06956926065218921
+            },
+            {
+                "date": "2025-06-11",
+                "pool_name": "Corporate USDC",
+                "trailing_xirr": 0.10883906148533938
+            },
+            {
+                "date": "2025-06-11",
+                "pool_name": "Syrup USDC",
+                "trailing_xirr": 0.06638236402348513
+            },
+            {
+                "date": "2025-06-11",
+                "pool_name": "Corporate WETH",
+                "trailing_xirr": 0.05017843843802755
+            },
+            {
+                "date": "2025-06-10",
+                "pool_name": "High Yield Secured",
+                "trailing_xirr": 0.09194394346952554
+            },
+            {
+                "date": "2025-06-10",
+                "pool_name": "Syrup USDT",
+                "trailing_xirr": 0.059874863246770424
+            },
+            {
+                "date": "2025-06-10",
+                "pool_name": "Blue Chip Secured",
+                "trailing_xirr": 0.06946821996350193
+            },
+            {
+                "date": "2025-06-10",
+                "pool_name": "Corporate USDC",
+                "trailing_xirr": 0.10877445316559385
+            },
+            {
+                "date": "2025-06-10",
+                "pool_name": "Syrup USDC",
+                "trailing_xirr": 0.06618589087191354
+            },
+            {
+                "date": "2025-06-10",
+                "pool_name": "Corporate WETH",
+                "trailing_xirr": 0.05018533630697826
+            },
+            {
+                "date": "2025-06-09",
+                "pool_name": "High Yield Secured",
+                "trailing_xirr": 0.09095152172651688
+            },
+            {
+                "date": "2025-06-09",
+                "pool_name": "Syrup USDT",
+                "trailing_xirr": 0.06014935351676643
+            },
+            {
+                "date": "2025-06-09",
+                "pool_name": "Blue Chip Secured",
+                "trailing_xirr": 0.06936715148330387
+            },
+            {
+                "date": "2025-06-09",
+                "pool_name": "Corporate USDC",
+                "trailing_xirr": 0.10875468571658767
+            },
+            {
+                "date": "2025-06-09",
+                "pool_name": "Syrup USDC",
+                "trailing_xirr": 0.06669435264666393
+            },
+            {
+                "date": "2025-06-09",
+                "pool_name": "Corporate WETH",
+                "trailing_xirr": 0.05019223607227479
+            },
+            {
+                "date": "2025-06-08",
+                "pool_name": "High Yield Secured",
+                "trailing_xirr": 0.0904870172191653
+            },
+            {
+                "date": "2025-06-08",
+                "pool_name": "Syrup USDT",
+                "trailing_xirr": 0.06035066866998871
+            },
+            {
+                "date": "2025-06-08",
+                "pool_name": "Blue Chip Secured",
+                "trailing_xirr": 0.06927922352791617
+            },
+            {
+                "date": "2025-06-08",
+                "pool_name": "Corporate USDC",
+                "trailing_xirr": 0.10877415160952483
+            },
+            {
+                "date": "2025-06-08",
+                "pool_name": "Syrup USDC",
+                "trailing_xirr": 0.06701817594894617
+            },
+            {
+                "date": "2025-06-08",
+                "pool_name": "Corporate WETH",
+                "trailing_xirr": 0.05019913773470139
+            },
+            {
+                "date": "2025-06-07",
+                "pool_name": "High Yield Secured",
+                "trailing_xirr": 0.09047039067742518
+            },
+            {
+                "date": "2025-06-07",
+                "pool_name": "Syrup USDT",
+                "trailing_xirr": 0.06076824417491638
+            },
+            {
+                "date": "2025-06-07",
+                "pool_name": "Blue Chip Secured",
+                "trailing_xirr": 0.06919303693043535
+            },
+            {
+                "date": "2025-06-07",
+                "pool_name": "Corporate USDC",
+                "trailing_xirr": 0.1087942206355166
+            },
+            {
+                "date": "2025-06-07",
+                "pool_name": "Syrup USDC",
+                "trailing_xirr": 0.06693310273847636
+            },
+            {
+                "date": "2025-06-07",
+                "pool_name": "Corporate WETH",
+                "trailing_xirr": 0.05020604129504224
+            },
+            {
+                "date": "2025-06-06",
+                "pool_name": "High Yield Secured",
+                "trailing_xirr": 0.0897843860190564
+            },
+            {
+                "date": "2025-06-06",
+                "pool_name": "Syrup USDT",
+                "trailing_xirr": 0.06115995590416619
+            },
+            {
+                "date": "2025-06-06",
+                "pool_name": "Blue Chip Secured",
+                "trailing_xirr": 0.06910682551270485
+            },
+            {
+                "date": "2025-06-06",
+                "pool_name": "Corporate USDC",
+                "trailing_xirr": 0.10881430140802345
+            },
+            {
+                "date": "2025-06-06",
+                "pool_name": "Syrup USDC",
+                "trailing_xirr": 0.06724369241526354
+            },
+            {
+                "date": "2025-06-06",
+                "pool_name": "Corporate WETH",
+                "trailing_xirr": 0.050207568087535154
+            },
+            {
+                "date": "2025-06-05",
+                "pool_name": "High Yield Secured",
+                "trailing_xirr": 0.08886653582326336
+            },
+            {
+                "date": "2025-06-05",
+                "pool_name": "Syrup USDT",
+                "trailing_xirr": 0.06170717218613237
+            },
+            {
+                "date": "2025-06-05",
+                "pool_name": "Blue Chip Secured",
+                "trailing_xirr": 0.06899111682228545
+            },
+            {
+                "date": "2025-06-05",
+                "pool_name": "Corporate USDC",
+                "trailing_xirr": 0.10883439394097011
+            },
+            {
+                "date": "2025-06-05",
+                "pool_name": "Syrup USDC",
+                "trailing_xirr": 0.06735781753255088
+            },
+            {
+                "date": "2025-06-05",
+                "pool_name": "Corporate WETH",
+                "trailing_xirr": 0.05020753971113312
+            },
             {
                 "date": "2025-06-04",
                 "pool_name": "High Yield Secured",
@@ -56,8 +626,8 @@
             },
             {
                 "date": "2025-06-03",
-                "pool_name": "Corporate USDC",
-                "trailing_xirr": 0.10886960342930406
+                "pool_name": "Corporate WETH",
+                "trailing_xirr": 0.05020689165710652
             },
             {
                 "date": "2025-06-03",
@@ -66,8 +636,8 @@
             },
             {
                 "date": "2025-06-03",
-                "pool_name": "Corporate WETH",
-                "trailing_xirr": 0.05020689165710652
+                "pool_name": "Corporate USDC",
+                "trailing_xirr": 0.10886960342930406
             },
             {
                 "date": "2025-06-02",
@@ -191,16 +761,6 @@
             },
             {
                 "date": "2025-05-29",
-                "pool_name": "Blue Chip Secured",
-                "trailing_xirr": 0.0687894331770622
-            },
-            {
-                "date": "2025-05-29",
-                "pool_name": "Corporate WETH",
-                "trailing_xirr": 0.050203328784422546
-            },
-            {
-                "date": "2025-05-29",
                 "pool_name": "Syrup USDT",
                 "trailing_xirr": 0.06382413036378089
             },
@@ -220,24 +780,19 @@
                 "trailing_xirr": 0.06830773882963513
             },
             {
-                "date": "2025-05-28",
-                "pool_name": "Corporate WETH",
-                "trailing_xirr": 0.05020261563803323
-            },
-            {
-                "date": "2025-05-28",
-                "pool_name": "Syrup USDC",
-                "trailing_xirr": 0.06833484918455265
-            },
-            {
-                "date": "2025-05-28",
-                "pool_name": "Corporate USDC",
-                "trailing_xirr": 0.10885103421810254
-            },
-            {
-                "date": "2025-05-28",
+                "date": "2025-05-29",
                 "pool_name": "Blue Chip Secured",
-                "trailing_xirr": 0.06882196381338472
+                "trailing_xirr": 0.0687894331770622
+            },
+            {
+                "date": "2025-05-29",
+                "pool_name": "Corporate WETH",
+                "trailing_xirr": 0.050203328784422546
+            },
+            {
+                "date": "2025-05-28",
+                "pool_name": "High Yield Secured",
+                "trailing_xirr": 0.08829877528240372
             },
             {
                 "date": "2025-05-28",
@@ -246,8 +801,23 @@
             },
             {
                 "date": "2025-05-28",
-                "pool_name": "High Yield Secured",
-                "trailing_xirr": 0.08829877528240372
+                "pool_name": "Blue Chip Secured",
+                "trailing_xirr": 0.06882196381338472
+            },
+            {
+                "date": "2025-05-28",
+                "pool_name": "Corporate USDC",
+                "trailing_xirr": 0.10885103421810254
+            },
+            {
+                "date": "2025-05-28",
+                "pool_name": "Syrup USDC",
+                "trailing_xirr": 0.06833484918455265
+            },
+            {
+                "date": "2025-05-28",
+                "pool_name": "Corporate WETH",
+                "trailing_xirr": 0.05020261563803323
             },
             {
                 "date": "2025-05-27",
@@ -281,21 +851,6 @@
             },
             {
                 "date": "2025-05-26",
-                "pool_name": "Corporate WETH",
-                "trailing_xirr": 0.05020118877280506
-            },
-            {
-                "date": "2025-05-26",
-                "pool_name": "Syrup USDC",
-                "trailing_xirr": 0.06863054667067646
-            },
-            {
-                "date": "2025-05-26",
-                "pool_name": "Corporate USDC",
-                "trailing_xirr": 0.10879596215438851
-            },
-            {
-                "date": "2025-05-26",
                 "pool_name": "Blue Chip Secured",
                 "trailing_xirr": 0.06851530621853874
             },
@@ -310,24 +865,24 @@
                 "trailing_xirr": 0.08701369691087374
             },
             {
-                "date": "2025-05-25",
-                "pool_name": "Corporate WETH",
-                "trailing_xirr": 0.05020047505380531
-            },
-            {
-                "date": "2025-05-25",
-                "pool_name": "Syrup USDC",
-                "trailing_xirr": 0.0686845804743408
-            },
-            {
-                "date": "2025-05-25",
+                "date": "2025-05-26",
                 "pool_name": "Corporate USDC",
-                "trailing_xirr": 0.10876840348816755
+                "trailing_xirr": 0.10879596215438851
+            },
+            {
+                "date": "2025-05-26",
+                "pool_name": "Syrup USDC",
+                "trailing_xirr": 0.06863054667067646
+            },
+            {
+                "date": "2025-05-26",
+                "pool_name": "Corporate WETH",
+                "trailing_xirr": 0.05020118877280506
             },
             {
                 "date": "2025-05-25",
-                "pool_name": "Blue Chip Secured",
-                "trailing_xirr": 0.06834303802408201
+                "pool_name": "High Yield Secured",
+                "trailing_xirr": 0.08808945311543002
             },
             {
                 "date": "2025-05-25",
@@ -336,8 +891,23 @@
             },
             {
                 "date": "2025-05-25",
-                "pool_name": "High Yield Secured",
-                "trailing_xirr": 0.08808945311543002
+                "pool_name": "Blue Chip Secured",
+                "trailing_xirr": 0.06834303802408201
+            },
+            {
+                "date": "2025-05-25",
+                "pool_name": "Corporate USDC",
+                "trailing_xirr": 0.10876840348816755
+            },
+            {
+                "date": "2025-05-25",
+                "pool_name": "Syrup USDC",
+                "trailing_xirr": 0.0686845804743408
+            },
+            {
+                "date": "2025-05-25",
+                "pool_name": "Corporate WETH",
+                "trailing_xirr": 0.05020047505380531
             },
             {
                 "date": "2025-05-24",
@@ -371,23 +941,8 @@
             },
             {
                 "date": "2025-05-23",
-                "pool_name": "High Yield Secured",
-                "trailing_xirr": 0.08680852652324754
-            },
-            {
-                "date": "2025-05-23",
-                "pool_name": "Syrup USDT",
-                "trailing_xirr": 0.0673127369129444
-            },
-            {
-                "date": "2025-05-23",
-                "pool_name": "Blue Chip Secured",
-                "trailing_xirr": 0.06770231864694405
-            },
-            {
-                "date": "2025-05-23",
-                "pool_name": "Corporate USDC",
-                "trailing_xirr": 0.10883251669571953
+                "pool_name": "Corporate WETH",
+                "trailing_xirr": 0.05019904704265832
             },
             {
                 "date": "2025-05-23",
@@ -396,18 +951,23 @@
             },
             {
                 "date": "2025-05-23",
-                "pool_name": "Corporate WETH",
-                "trailing_xirr": 0.05019904704265832
+                "pool_name": "Corporate USDC",
+                "trailing_xirr": 0.10883251669571953
             },
             {
-                "date": "2025-05-22",
+                "date": "2025-05-23",
                 "pool_name": "Blue Chip Secured",
-                "trailing_xirr": 0.06743823756385163
+                "trailing_xirr": 0.06770231864694405
             },
             {
-                "date": "2025-05-22",
+                "date": "2025-05-23",
                 "pool_name": "Syrup USDT",
-                "trailing_xirr": 0.06808198531971212
+                "trailing_xirr": 0.0673127369129444
+            },
+            {
+                "date": "2025-05-23",
+                "pool_name": "High Yield Secured",
+                "trailing_xirr": 0.08680852652324754
             },
             {
                 "date": "2025-05-22",
@@ -416,8 +976,18 @@
             },
             {
                 "date": "2025-05-22",
-                "pool_name": "Corporate WETH",
-                "trailing_xirr": 0.05019833275035771
+                "pool_name": "Syrup USDT",
+                "trailing_xirr": 0.06808198531971212
+            },
+            {
+                "date": "2025-05-22",
+                "pool_name": "Blue Chip Secured",
+                "trailing_xirr": 0.06743823756385163
+            },
+            {
+                "date": "2025-05-22",
+                "pool_name": "Corporate USDC",
+                "trailing_xirr": 0.10885469215685453
             },
             {
                 "date": "2025-05-22",
@@ -426,8 +996,8 @@
             },
             {
                 "date": "2025-05-22",
-                "pool_name": "Corporate USDC",
-                "trailing_xirr": 0.10885469215685453
+                "pool_name": "Corporate WETH",
+                "trailing_xirr": 0.05019833275035771
             },
             {
                 "date": "2025-05-21",
@@ -521,23 +1091,8 @@
             },
             {
                 "date": "2025-05-18",
-                "pool_name": "High Yield Secured",
-                "trailing_xirr": 0.08720801323437896
-            },
-            {
-                "date": "2025-05-18",
-                "pool_name": "Syrup USDT",
-                "trailing_xirr": 0.07056059309988795
-            },
-            {
-                "date": "2025-05-18",
-                "pool_name": "Blue Chip Secured",
-                "trailing_xirr": 0.06637408118825885
-            },
-            {
-                "date": "2025-05-18",
-                "pool_name": "Corporate USDC",
-                "trailing_xirr": 0.11002758266686413
+                "pool_name": "Corporate WETH",
+                "trailing_xirr": 0.050195473667840794
             },
             {
                 "date": "2025-05-18",
@@ -546,28 +1101,28 @@
             },
             {
                 "date": "2025-05-18",
-                "pool_name": "Corporate WETH",
-                "trailing_xirr": 0.050195473667840794
-            },
-            {
-                "date": "2025-05-17",
-                "pool_name": "Corporate WETH",
-                "trailing_xirr": 0.05019475841849583
-            },
-            {
-                "date": "2025-05-17",
-                "pool_name": "Syrup USDC",
-                "trailing_xirr": 0.06864278396267673
-            },
-            {
-                "date": "2025-05-17",
                 "pool_name": "Corporate USDC",
-                "trailing_xirr": 0.11013309347682816
+                "trailing_xirr": 0.11002758266686413
+            },
+            {
+                "date": "2025-05-18",
+                "pool_name": "Blue Chip Secured",
+                "trailing_xirr": 0.06637408118825885
+            },
+            {
+                "date": "2025-05-18",
+                "pool_name": "Syrup USDT",
+                "trailing_xirr": 0.07056059309988795
+            },
+            {
+                "date": "2025-05-18",
+                "pool_name": "High Yield Secured",
+                "trailing_xirr": 0.08720801323437896
             },
             {
                 "date": "2025-05-17",
-                "pool_name": "Blue Chip Secured",
-                "trailing_xirr": 0.06610796860416239
+                "pool_name": "High Yield Secured",
+                "trailing_xirr": 0.08667316031887473
             },
             {
                 "date": "2025-05-17",
@@ -576,28 +1131,28 @@
             },
             {
                 "date": "2025-05-17",
-                "pool_name": "High Yield Secured",
-                "trailing_xirr": 0.08667316031887473
-            },
-            {
-                "date": "2025-05-16",
-                "pool_name": "Corporate WETH",
-                "trailing_xirr": 0.050194042977515306
-            },
-            {
-                "date": "2025-05-16",
-                "pool_name": "Syrup USDC",
-                "trailing_xirr": 0.06848892061287659
-            },
-            {
-                "date": "2025-05-16",
-                "pool_name": "Corporate USDC",
-                "trailing_xirr": 0.11024408676497437
-            },
-            {
-                "date": "2025-05-16",
                 "pool_name": "Blue Chip Secured",
-                "trailing_xirr": 0.06584183022711662
+                "trailing_xirr": 0.06610796860416239
+            },
+            {
+                "date": "2025-05-17",
+                "pool_name": "Corporate USDC",
+                "trailing_xirr": 0.11013309347682816
+            },
+            {
+                "date": "2025-05-17",
+                "pool_name": "Syrup USDC",
+                "trailing_xirr": 0.06864278396267673
+            },
+            {
+                "date": "2025-05-17",
+                "pool_name": "Corporate WETH",
+                "trailing_xirr": 0.05019475841849583
+            },
+            {
+                "date": "2025-05-16",
+                "pool_name": "High Yield Secured",
+                "trailing_xirr": 0.08683070212161742
             },
             {
                 "date": "2025-05-16",
@@ -606,8 +1161,23 @@
             },
             {
                 "date": "2025-05-16",
-                "pool_name": "High Yield Secured",
-                "trailing_xirr": 0.08683070212161742
+                "pool_name": "Blue Chip Secured",
+                "trailing_xirr": 0.06584183022711662
+            },
+            {
+                "date": "2025-05-16",
+                "pool_name": "Corporate USDC",
+                "trailing_xirr": 0.11024408676497437
+            },
+            {
+                "date": "2025-05-16",
+                "pool_name": "Syrup USDC",
+                "trailing_xirr": 0.06848892061287659
+            },
+            {
+                "date": "2025-05-16",
+                "pool_name": "Corporate WETH",
+                "trailing_xirr": 0.050194042977515306
             },
             {
                 "date": "2025-05-15",
@@ -641,8 +1211,8 @@
             },
             {
                 "date": "2025-05-14",
-                "pool_name": "Blue Chip Secured",
-                "trailing_xirr": 0.06530618866974346
+                "pool_name": "High Yield Secured",
+                "trailing_xirr": 0.08674287447598705
             },
             {
                 "date": "2025-05-14",
@@ -651,13 +1221,13 @@
             },
             {
                 "date": "2025-05-14",
-                "pool_name": "High Yield Secured",
-                "trailing_xirr": 0.08674287447598705
+                "pool_name": "Blue Chip Secured",
+                "trailing_xirr": 0.06530618866974346
             },
             {
                 "date": "2025-05-14",
-                "pool_name": "Corporate WETH",
-                "trailing_xirr": 0.05019261152032783
+                "pool_name": "Corporate USDC",
+                "trailing_xirr": 0.11046996960532873
             },
             {
                 "date": "2025-05-14",
@@ -666,13 +1236,13 @@
             },
             {
                 "date": "2025-05-14",
-                "pool_name": "Corporate USDC",
-                "trailing_xirr": 0.11046996960532873
+                "pool_name": "Corporate WETH",
+                "trailing_xirr": 0.05019261152032783
             },
             {
                 "date": "2025-05-13",
-                "pool_name": "Corporate WETH",
-                "trailing_xirr": 0.05019189550396922
+                "pool_name": "Blue Chip Secured",
+                "trailing_xirr": 0.06506198347423209
             },
             {
                 "date": "2025-05-13",
@@ -681,8 +1251,8 @@
             },
             {
                 "date": "2025-05-13",
-                "pool_name": "Blue Chip Secured",
-                "trailing_xirr": 0.06506198347423209
+                "pool_name": "Corporate WETH",
+                "trailing_xirr": 0.05019189550396922
             },
             {
                 "date": "2025-05-12",
@@ -746,6 +1316,21 @@
             },
             {
                 "date": "2025-05-10",
+                "pool_name": "High Yield Secured",
+                "trailing_xirr": 0.08691111139445097
+            },
+            {
+                "date": "2025-05-10",
+                "pool_name": "Syrup USDT",
+                "trailing_xirr": 0.0727464283785812
+            },
+            {
+                "date": "2025-05-10",
+                "pool_name": "Blue Chip Secured",
+                "trailing_xirr": 0.06436856017573767
+            },
+            {
+                "date": "2025-05-10",
                 "pool_name": "Corporate USDC",
                 "trailing_xirr": 0.1109352525933901
             },
@@ -758,21 +1343,6 @@
                 "date": "2025-05-10",
                 "pool_name": "Corporate WETH",
                 "trailing_xirr": 0.05018974630289021
-            },
-            {
-                "date": "2025-05-10",
-                "pool_name": "Blue Chip Secured",
-                "trailing_xirr": 0.06436856017573767
-            },
-            {
-                "date": "2025-05-10",
-                "pool_name": "Syrup USDT",
-                "trailing_xirr": 0.0727464283785812
-            },
-            {
-                "date": "2025-05-10",
-                "pool_name": "High Yield Secured",
-                "trailing_xirr": 0.08691111139445097
             },
             {
                 "date": "2025-05-09",
@@ -866,23 +1436,8 @@
             },
             {
                 "date": "2025-05-06",
-                "pool_name": "Blue Chip Secured",
-                "trailing_xirr": 0.063624137
-            },
-            {
-                "date": "2025-05-06",
-                "pool_name": "Corporate WETH",
-                "trailing_xirr": 0.050634032
-            },
-            {
-                "date": "2025-05-06",
-                "pool_name": "Corporate USDC",
-                "trailing_xirr": 0.109474157
-            },
-            {
-                "date": "2025-05-06",
-                "pool_name": "High Yield Secured",
-                "trailing_xirr": 0.087558074
+                "pool_name": "Syrup USDC",
+                "trailing_xirr": 0.067276413
             },
             {
                 "date": "2025-05-06",
@@ -891,8 +1446,23 @@
             },
             {
                 "date": "2025-05-06",
-                "pool_name": "Syrup USDC",
-                "trailing_xirr": 0.067276413
+                "pool_name": "High Yield Secured",
+                "trailing_xirr": 0.087558074
+            },
+            {
+                "date": "2025-05-06",
+                "pool_name": "Corporate USDC",
+                "trailing_xirr": 0.109474157
+            },
+            {
+                "date": "2025-05-06",
+                "pool_name": "Corporate WETH",
+                "trailing_xirr": 0.050634032
+            },
+            {
+                "date": "2025-05-06",
+                "pool_name": "Blue Chip Secured",
+                "trailing_xirr": 0.063624137
             },
             {
                 "date": "2025-05-05",
@@ -926,23 +1496,8 @@
             },
             {
                 "date": "2025-05-04",
-                "pool_name": "Corporate USDC",
-                "trailing_xirr": 0.108383454
-            },
-            {
-                "date": "2025-05-04",
-                "pool_name": "Syrup USDC",
-                "trailing_xirr": 0.067285803
-            },
-            {
-                "date": "2025-05-04",
-                "pool_name": "Corporate WETH",
-                "trailing_xirr": 0.051418132
-            },
-            {
-                "date": "2025-05-04",
-                "pool_name": "Blue Chip Secured",
-                "trailing_xirr": 0.063590664
+                "pool_name": "Syrup USDT",
+                "trailing_xirr": 0.074060377
             },
             {
                 "date": "2025-05-04",
@@ -951,8 +1506,23 @@
             },
             {
                 "date": "2025-05-04",
-                "pool_name": "Syrup USDT",
-                "trailing_xirr": 0.074060377
+                "pool_name": "Blue Chip Secured",
+                "trailing_xirr": 0.063590664
+            },
+            {
+                "date": "2025-05-04",
+                "pool_name": "Corporate WETH",
+                "trailing_xirr": 0.051418132
+            },
+            {
+                "date": "2025-05-04",
+                "pool_name": "Syrup USDC",
+                "trailing_xirr": 0.067285803
+            },
+            {
+                "date": "2025-05-04",
+                "pool_name": "Corporate USDC",
+                "trailing_xirr": 0.108383454
             },
             {
                 "date": "2025-05-03",
@@ -1076,23 +1646,8 @@
             },
             {
                 "date": "2025-04-29",
-                "pool_name": "Corporate USDC",
-                "trailing_xirr": 0.106320536
-            },
-            {
-                "date": "2025-04-29",
-                "pool_name": "Blue Chip Secured",
-                "trailing_xirr": 0.063861581
-            },
-            {
-                "date": "2025-04-29",
-                "pool_name": "Syrup USDC",
-                "trailing_xirr": 0.068108461
-            },
-            {
-                "date": "2025-04-29",
-                "pool_name": "Syrup USDT",
-                "trailing_xirr": 0.0748519
+                "pool_name": "High Yield Secured",
+                "trailing_xirr": 0.091129891
             },
             {
                 "date": "2025-04-29",
@@ -1101,28 +1656,28 @@
             },
             {
                 "date": "2025-04-29",
-                "pool_name": "High Yield Secured",
-                "trailing_xirr": 0.091129891
-            },
-            {
-                "date": "2025-04-28",
-                "pool_name": "Blue Chip Secured",
-                "trailing_xirr": 0.063760236
-            },
-            {
-                "date": "2025-04-28",
-                "pool_name": "Corporate USDC",
-                "trailing_xirr": 0.105948313
-            },
-            {
-                "date": "2025-04-28",
-                "pool_name": "Syrup USDC",
-                "trailing_xirr": 0.068399477
-            },
-            {
-                "date": "2025-04-28",
                 "pool_name": "Syrup USDT",
-                "trailing_xirr": 0.075215601
+                "trailing_xirr": 0.0748519
+            },
+            {
+                "date": "2025-04-29",
+                "pool_name": "Syrup USDC",
+                "trailing_xirr": 0.068108461
+            },
+            {
+                "date": "2025-04-29",
+                "pool_name": "Blue Chip Secured",
+                "trailing_xirr": 0.063861581
+            },
+            {
+                "date": "2025-04-29",
+                "pool_name": "Corporate USDC",
+                "trailing_xirr": 0.106320536
+            },
+            {
+                "date": "2025-04-28",
+                "pool_name": "Corporate WETH",
+                "trailing_xirr": 0.053779101
             },
             {
                 "date": "2025-04-28",
@@ -1131,28 +1686,28 @@
             },
             {
                 "date": "2025-04-28",
-                "pool_name": "Corporate WETH",
-                "trailing_xirr": 0.053779101
+                "pool_name": "Syrup USDT",
+                "trailing_xirr": 0.075215601
             },
             {
-                "date": "2025-04-27",
-                "pool_name": "High Yield Secured",
-                "trailing_xirr": 0.090462091
-            },
-            {
-                "date": "2025-04-27",
-                "pool_name": "Corporate USDC",
-                "trailing_xirr": 0.105580667
-            },
-            {
-                "date": "2025-04-27",
-                "pool_name": "Corporate WETH",
-                "trailing_xirr": 0.054173523
-            },
-            {
-                "date": "2025-04-27",
+                "date": "2025-04-28",
                 "pool_name": "Syrup USDC",
-                "trailing_xirr": 0.068307073
+                "trailing_xirr": 0.068399477
+            },
+            {
+                "date": "2025-04-28",
+                "pool_name": "Corporate USDC",
+                "trailing_xirr": 0.105948313
+            },
+            {
+                "date": "2025-04-28",
+                "pool_name": "Blue Chip Secured",
+                "trailing_xirr": 0.063760236
+            },
+            {
+                "date": "2025-04-27",
+                "pool_name": "Blue Chip Secured",
+                "trailing_xirr": 0.063819135
             },
             {
                 "date": "2025-04-27",
@@ -1161,8 +1716,23 @@
             },
             {
                 "date": "2025-04-27",
-                "pool_name": "Blue Chip Secured",
-                "trailing_xirr": 0.063819135
+                "pool_name": "Syrup USDC",
+                "trailing_xirr": 0.068307073
+            },
+            {
+                "date": "2025-04-27",
+                "pool_name": "Corporate WETH",
+                "trailing_xirr": 0.054173523
+            },
+            {
+                "date": "2025-04-27",
+                "pool_name": "Corporate USDC",
+                "trailing_xirr": 0.105580667
+            },
+            {
+                "date": "2025-04-27",
+                "pool_name": "High Yield Secured",
+                "trailing_xirr": 0.090462091
             },
             {
                 "date": "2025-04-26",
@@ -1226,23 +1796,8 @@
             },
             {
                 "date": "2025-04-24",
-                "pool_name": "High Yield Secured",
-                "trailing_xirr": 0.092672607
-            },
-            {
-                "date": "2025-04-24",
-                "pool_name": "Blue Chip Secured",
-                "trailing_xirr": 0.06460893
-            },
-            {
-                "date": "2025-04-24",
-                "pool_name": "Syrup USDT",
-                "trailing_xirr": 0.076743059
-            },
-            {
-                "date": "2025-04-24",
-                "pool_name": "Syrup USDC",
-                "trailing_xirr": 0.068608813
+                "pool_name": "Corporate WETH",
+                "trailing_xirr": 0.055358385
             },
             {
                 "date": "2025-04-24",
@@ -1251,8 +1806,23 @@
             },
             {
                 "date": "2025-04-24",
-                "pool_name": "Corporate WETH",
-                "trailing_xirr": 0.055358385
+                "pool_name": "Syrup USDC",
+                "trailing_xirr": 0.068608813
+            },
+            {
+                "date": "2025-04-24",
+                "pool_name": "Syrup USDT",
+                "trailing_xirr": 0.076743059
+            },
+            {
+                "date": "2025-04-24",
+                "pool_name": "Blue Chip Secured",
+                "trailing_xirr": 0.06460893
+            },
+            {
+                "date": "2025-04-24",
+                "pool_name": "High Yield Secured",
+                "trailing_xirr": 0.092672607
             },
             {
                 "date": "2025-04-23",
@@ -1286,23 +1856,8 @@
             },
             {
                 "date": "2025-04-22",
-                "pool_name": "Corporate USDC",
-                "trailing_xirr": 0.103549877
-            },
-            {
-                "date": "2025-04-22",
-                "pool_name": "Blue Chip Secured",
-                "trailing_xirr": 0.065381082
-            },
-            {
-                "date": "2025-04-22",
-                "pool_name": "High Yield Secured",
-                "trailing_xirr": 0.095125198
-            },
-            {
-                "date": "2025-04-22",
-                "pool_name": "Syrup USDT",
-                "trailing_xirr": 0.077313525
+                "pool_name": "Syrup USDC",
+                "trailing_xirr": 0.068453633
             },
             {
                 "date": "2025-04-22",
@@ -1311,8 +1866,23 @@
             },
             {
                 "date": "2025-04-22",
-                "pool_name": "Syrup USDC",
-                "trailing_xirr": 0.068453633
+                "pool_name": "Syrup USDT",
+                "trailing_xirr": 0.077313525
+            },
+            {
+                "date": "2025-04-22",
+                "pool_name": "High Yield Secured",
+                "trailing_xirr": 0.095125198
+            },
+            {
+                "date": "2025-04-22",
+                "pool_name": "Blue Chip Secured",
+                "trailing_xirr": 0.065381082
+            },
+            {
+                "date": "2025-04-22",
+                "pool_name": "Corporate USDC",
+                "trailing_xirr": 0.103549877
             },
             {
                 "date": "2025-04-21",
@@ -1436,23 +2006,8 @@
             },
             {
                 "date": "2025-04-17",
-                "pool_name": "Corporate USDC",
-                "trailing_xirr": 0.10135379
-            },
-            {
-                "date": "2025-04-17",
-                "pool_name": "Blue Chip Secured",
-                "trailing_xirr": 0.066673471
-            },
-            {
-                "date": "2025-04-17",
-                "pool_name": "Corporate WETH",
-                "trailing_xirr": 0.058132395
-            },
-            {
-                "date": "2025-04-17",
-                "pool_name": "Syrup USDT",
-                "trailing_xirr": 0.077359639
+                "pool_name": "High Yield Secured",
+                "trailing_xirr": 0.097921097
             },
             {
                 "date": "2025-04-17",
@@ -1461,28 +2016,28 @@
             },
             {
                 "date": "2025-04-17",
-                "pool_name": "High Yield Secured",
-                "trailing_xirr": 0.097921097
-            },
-            {
-                "date": "2025-04-16",
-                "pool_name": "High Yield Secured",
-                "trailing_xirr": 0.099577317
-            },
-            {
-                "date": "2025-04-16",
-                "pool_name": "Corporate USDC",
-                "trailing_xirr": 0.10090659
-            },
-            {
-                "date": "2025-04-16",
                 "pool_name": "Syrup USDT",
-                "trailing_xirr": 0.077241255
+                "trailing_xirr": 0.077359639
+            },
+            {
+                "date": "2025-04-17",
+                "pool_name": "Corporate WETH",
+                "trailing_xirr": 0.058132395
+            },
+            {
+                "date": "2025-04-17",
+                "pool_name": "Blue Chip Secured",
+                "trailing_xirr": 0.066673471
+            },
+            {
+                "date": "2025-04-17",
+                "pool_name": "Corporate USDC",
+                "trailing_xirr": 0.10135379
             },
             {
                 "date": "2025-04-16",
-                "pool_name": "Corporate WETH",
-                "trailing_xirr": 0.058529752
+                "pool_name": "Syrup USDC",
+                "trailing_xirr": 0.069985477
             },
             {
                 "date": "2025-04-16",
@@ -1491,28 +2046,28 @@
             },
             {
                 "date": "2025-04-16",
-                "pool_name": "Syrup USDC",
-                "trailing_xirr": 0.069985477
-            },
-            {
-                "date": "2025-04-15",
-                "pool_name": "High Yield Secured",
-                "trailing_xirr": 0.099157393
-            },
-            {
-                "date": "2025-04-15",
-                "pool_name": "Corporate USDC",
-                "trailing_xirr": 0.100459325
-            },
-            {
-                "date": "2025-04-15",
                 "pool_name": "Corporate WETH",
-                "trailing_xirr": 0.058927378
+                "trailing_xirr": 0.058529752
+            },
+            {
+                "date": "2025-04-16",
+                "pool_name": "Syrup USDT",
+                "trailing_xirr": 0.077241255
+            },
+            {
+                "date": "2025-04-16",
+                "pool_name": "Corporate USDC",
+                "trailing_xirr": 0.10090659
+            },
+            {
+                "date": "2025-04-16",
+                "pool_name": "High Yield Secured",
+                "trailing_xirr": 0.099577317
             },
             {
                 "date": "2025-04-15",
-                "pool_name": "Syrup USDC",
-                "trailing_xirr": 0.069900203
+                "pool_name": "Blue Chip Secured",
+                "trailing_xirr": 0.06799276
             },
             {
                 "date": "2025-04-15",
@@ -1521,8 +2076,23 @@
             },
             {
                 "date": "2025-04-15",
-                "pool_name": "Blue Chip Secured",
-                "trailing_xirr": 0.06799276
+                "pool_name": "Syrup USDC",
+                "trailing_xirr": 0.069900203
+            },
+            {
+                "date": "2025-04-15",
+                "pool_name": "Corporate WETH",
+                "trailing_xirr": 0.058927378
+            },
+            {
+                "date": "2025-04-15",
+                "pool_name": "Corporate USDC",
+                "trailing_xirr": 0.100459325
+            },
+            {
+                "date": "2025-04-15",
+                "pool_name": "High Yield Secured",
+                "trailing_xirr": 0.099157393
             },
             {
                 "date": "2025-04-14",
@@ -1556,23 +2126,8 @@
             },
             {
                 "date": "2025-04-13",
-                "pool_name": "Blue Chip Secured",
-                "trailing_xirr": 0.06938729
-            },
-            {
-                "date": "2025-04-13",
-                "pool_name": "Syrup USDC",
-                "trailing_xirr": 0.070531334
-            },
-            {
-                "date": "2025-04-13",
-                "pool_name": "Syrup USDT",
-                "trailing_xirr": 0.076855775
-            },
-            {
-                "date": "2025-04-13",
-                "pool_name": "Corporate USDC",
-                "trailing_xirr": 0.099564601
+                "pool_name": "Corporate WETH",
+                "trailing_xirr": 0.059723435
             },
             {
                 "date": "2025-04-13",
@@ -1581,28 +2136,28 @@
             },
             {
                 "date": "2025-04-13",
-                "pool_name": "Corporate WETH",
-                "trailing_xirr": 0.059723435
-            },
-            {
-                "date": "2025-04-12",
                 "pool_name": "Corporate USDC",
-                "trailing_xirr": 0.099116598
+                "trailing_xirr": 0.099564601
             },
             {
-                "date": "2025-04-12",
+                "date": "2025-04-13",
                 "pool_name": "Syrup USDT",
-                "trailing_xirr": 0.077117914
+                "trailing_xirr": 0.076855775
             },
             {
-                "date": "2025-04-12",
+                "date": "2025-04-13",
+                "pool_name": "Syrup USDC",
+                "trailing_xirr": 0.070531334
+            },
+            {
+                "date": "2025-04-13",
                 "pool_name": "Blue Chip Secured",
-                "trailing_xirr": 0.069659333
+                "trailing_xirr": 0.06938729
             },
             {
                 "date": "2025-04-12",
-                "pool_name": "Corporate WETH",
-                "trailing_xirr": 0.060121626
+                "pool_name": "High Yield Secured",
+                "trailing_xirr": 0.101954721
             },
             {
                 "date": "2025-04-12",
@@ -1611,8 +2166,23 @@
             },
             {
                 "date": "2025-04-12",
-                "pool_name": "High Yield Secured",
-                "trailing_xirr": 0.101954721
+                "pool_name": "Corporate WETH",
+                "trailing_xirr": 0.060121626
+            },
+            {
+                "date": "2025-04-12",
+                "pool_name": "Blue Chip Secured",
+                "trailing_xirr": 0.069659333
+            },
+            {
+                "date": "2025-04-12",
+                "pool_name": "Syrup USDT",
+                "trailing_xirr": 0.077117914
+            },
+            {
+                "date": "2025-04-12",
+                "pool_name": "Corporate USDC",
+                "trailing_xirr": 0.099116598
             },
             {
                 "date": "2025-04-11",
@@ -1646,23 +2216,8 @@
             },
             {
                 "date": "2025-04-10",
-                "pool_name": "High Yield Secured",
-                "trailing_xirr": 0.103984822
-            },
-            {
-                "date": "2025-04-10",
-                "pool_name": "Syrup USDC",
-                "trailing_xirr": 0.072050421
-            },
-            {
-                "date": "2025-04-10",
-                "pool_name": "Corporate WETH",
-                "trailing_xirr": 0.060919539
-            },
-            {
-                "date": "2025-04-10",
-                "pool_name": "Syrup USDT",
-                "trailing_xirr": 0.076807583
+                "pool_name": "Blue Chip Secured",
+                "trailing_xirr": 0.070862101
             },
             {
                 "date": "2025-04-10",
@@ -1671,28 +2226,28 @@
             },
             {
                 "date": "2025-04-10",
-                "pool_name": "Blue Chip Secured",
-                "trailing_xirr": 0.070862101
-            },
-            {
-                "date": "2025-04-09",
-                "pool_name": "Corporate USDC",
-                "trailing_xirr": 0.097774791
-            },
-            {
-                "date": "2025-04-09",
                 "pool_name": "Syrup USDT",
-                "trailing_xirr": 0.07736132
+                "trailing_xirr": 0.076807583
             },
             {
-                "date": "2025-04-09",
-                "pool_name": "Blue Chip Secured",
-                "trailing_xirr": 0.071165925
-            },
-            {
-                "date": "2025-04-09",
+                "date": "2025-04-10",
                 "pool_name": "Corporate WETH",
-                "trailing_xirr": 0.061318779
+                "trailing_xirr": 0.060919539
+            },
+            {
+                "date": "2025-04-10",
+                "pool_name": "Syrup USDC",
+                "trailing_xirr": 0.072050421
+            },
+            {
+                "date": "2025-04-10",
+                "pool_name": "High Yield Secured",
+                "trailing_xirr": 0.103984822
+            },
+            {
+                "date": "2025-04-09",
+                "pool_name": "Syrup USDC",
+                "trailing_xirr": 0.071741817
             },
             {
                 "date": "2025-04-09",
@@ -1701,8 +2256,23 @@
             },
             {
                 "date": "2025-04-09",
-                "pool_name": "Syrup USDC",
-                "trailing_xirr": 0.071741817
+                "pool_name": "Corporate WETH",
+                "trailing_xirr": 0.061318779
+            },
+            {
+                "date": "2025-04-09",
+                "pool_name": "Blue Chip Secured",
+                "trailing_xirr": 0.071165925
+            },
+            {
+                "date": "2025-04-09",
+                "pool_name": "Syrup USDT",
+                "trailing_xirr": 0.07736132
+            },
+            {
+                "date": "2025-04-09",
+                "pool_name": "Corporate USDC",
+                "trailing_xirr": 0.097774791
             },
             {
                 "date": "2025-04-08",
@@ -1736,23 +2306,8 @@
             },
             {
                 "date": "2025-04-07",
-                "pool_name": "Corporate USDC",
-                "trailing_xirr": 0.09812751
-            },
-            {
-                "date": "2025-04-07",
-                "pool_name": "Syrup USDT",
-                "trailing_xirr": 0.077887766
-            },
-            {
-                "date": "2025-04-07",
-                "pool_name": "Syrup USDC",
-                "trailing_xirr": 0.0737678
-            },
-            {
-                "date": "2025-04-07",
-                "pool_name": "Blue Chip Secured",
-                "trailing_xirr": 0.072840877
+                "pool_name": "Corporate WETH",
+                "trailing_xirr": 0.062067809
             },
             {
                 "date": "2025-04-07",
@@ -1761,8 +2316,23 @@
             },
             {
                 "date": "2025-04-07",
-                "pool_name": "Corporate WETH",
-                "trailing_xirr": 0.062067809
+                "pool_name": "Blue Chip Secured",
+                "trailing_xirr": 0.072840877
+            },
+            {
+                "date": "2025-04-07",
+                "pool_name": "Syrup USDC",
+                "trailing_xirr": 0.0737678
+            },
+            {
+                "date": "2025-04-07",
+                "pool_name": "Syrup USDT",
+                "trailing_xirr": 0.077887766
+            },
+            {
+                "date": "2025-04-07",
+                "pool_name": "Corporate USDC",
+                "trailing_xirr": 0.09812751
             },
             {
                 "date": "2025-04-06",
@@ -1796,23 +2366,8 @@
             },
             {
                 "date": "2025-04-05",
-                "pool_name": "High Yield Secured",
-                "trailing_xirr": 0.107646066
-            },
-            {
-                "date": "2025-04-05",
-                "pool_name": "Corporate USDC",
-                "trailing_xirr": 0.098538886
-            },
-            {
-                "date": "2025-04-05",
-                "pool_name": "Syrup USDC",
-                "trailing_xirr": 0.074416927
-            },
-            {
-                "date": "2025-04-05",
-                "pool_name": "Syrup USDT",
-                "trailing_xirr": 0.079812124
+                "pool_name": "Corporate WETH",
+                "trailing_xirr": 0.062088919
             },
             {
                 "date": "2025-04-05",
@@ -1821,8 +2376,23 @@
             },
             {
                 "date": "2025-04-05",
-                "pool_name": "Corporate WETH",
-                "trailing_xirr": 0.062088919
+                "pool_name": "Syrup USDT",
+                "trailing_xirr": 0.079812124
+            },
+            {
+                "date": "2025-04-05",
+                "pool_name": "Syrup USDC",
+                "trailing_xirr": 0.074416927
+            },
+            {
+                "date": "2025-04-05",
+                "pool_name": "Corporate USDC",
+                "trailing_xirr": 0.098538886
+            },
+            {
+                "date": "2025-04-05",
+                "pool_name": "High Yield Secured",
+                "trailing_xirr": 0.107646066
             },
             {
                 "date": "2025-04-04",
@@ -1886,23 +2456,8 @@
             },
             {
                 "date": "2025-04-02",
-                "pool_name": "Syrup USDC",
-                "trailing_xirr": 0.077299912
-            },
-            {
-                "date": "2025-04-02",
-                "pool_name": "Corporate USDC",
-                "trailing_xirr": 0.099078306
-            },
-            {
-                "date": "2025-04-02",
-                "pool_name": "Blue Chip Secured",
-                "trailing_xirr": 0.074051112
-            },
-            {
-                "date": "2025-04-02",
-                "pool_name": "Syrup USDT",
-                "trailing_xirr": 0.082642397
+                "pool_name": "High Yield Secured",
+                "trailing_xirr": 0.110048694
             },
             {
                 "date": "2025-04-02",
@@ -1911,8 +2466,23 @@
             },
             {
                 "date": "2025-04-02",
-                "pool_name": "High Yield Secured",
-                "trailing_xirr": 0.110048694
+                "pool_name": "Syrup USDT",
+                "trailing_xirr": 0.082642397
+            },
+            {
+                "date": "2025-04-02",
+                "pool_name": "Blue Chip Secured",
+                "trailing_xirr": 0.074051112
+            },
+            {
+                "date": "2025-04-02",
+                "pool_name": "Corporate USDC",
+                "trailing_xirr": 0.099078306
+            },
+            {
+                "date": "2025-04-02",
+                "pool_name": "Syrup USDC",
+                "trailing_xirr": 0.077299912
             },
             {
                 "date": "2025-04-01",
@@ -1946,23 +2516,8 @@
             },
             {
                 "date": "2025-03-31",
-                "pool_name": "Syrup USDT",
-                "trailing_xirr": 0.083602568
-            },
-            {
-                "date": "2025-03-31",
-                "pool_name": "Syrup USDC",
-                "trailing_xirr": 0.079075394
-            },
-            {
-                "date": "2025-03-31",
-                "pool_name": "Blue Chip Secured",
-                "trailing_xirr": 0.074754995
-            },
-            {
-                "date": "2025-03-31",
-                "pool_name": "Corporate WETH",
-                "trailing_xirr": 0.062141757
+                "pool_name": "High Yield Secured",
+                "trailing_xirr": 0.112418456
             },
             {
                 "date": "2025-03-31",
@@ -1971,8 +2526,23 @@
             },
             {
                 "date": "2025-03-31",
-                "pool_name": "High Yield Secured",
-                "trailing_xirr": 0.112418456
+                "pool_name": "Corporate WETH",
+                "trailing_xirr": 0.062141757
+            },
+            {
+                "date": "2025-03-31",
+                "pool_name": "Blue Chip Secured",
+                "trailing_xirr": 0.074754995
+            },
+            {
+                "date": "2025-03-31",
+                "pool_name": "Syrup USDC",
+                "trailing_xirr": 0.079075394
+            },
+            {
+                "date": "2025-03-31",
+                "pool_name": "Syrup USDT",
+                "trailing_xirr": 0.083602568
             },
             {
                 "date": "2025-03-30",
@@ -2096,23 +2666,8 @@
             },
             {
                 "date": "2025-03-26",
-                "pool_name": "Blue Chip Secured",
-                "trailing_xirr": 0.076750203
-            },
-            {
-                "date": "2025-03-26",
-                "pool_name": "Corporate WETH",
-                "trailing_xirr": 0.062194685
-            },
-            {
-                "date": "2025-03-26",
-                "pool_name": "Syrup USDT",
-                "trailing_xirr": 0.086441948
-            },
-            {
-                "date": "2025-03-26",
-                "pool_name": "Syrup USDC",
-                "trailing_xirr": 0.080472504
+                "pool_name": "High Yield Secured",
+                "trailing_xirr": 0.11414101
             },
             {
                 "date": "2025-03-26",
@@ -2121,13 +2676,23 @@
             },
             {
                 "date": "2025-03-26",
-                "pool_name": "High Yield Secured",
-                "trailing_xirr": 0.11414101
+                "pool_name": "Syrup USDC",
+                "trailing_xirr": 0.080472504
             },
             {
-                "date": "2025-03-25",
-                "pool_name": "High Yield Secured",
-                "trailing_xirr": 0.116064721
+                "date": "2025-03-26",
+                "pool_name": "Syrup USDT",
+                "trailing_xirr": 0.086441948
+            },
+            {
+                "date": "2025-03-26",
+                "pool_name": "Corporate WETH",
+                "trailing_xirr": 0.062194685
+            },
+            {
+                "date": "2025-03-26",
+                "pool_name": "Blue Chip Secured",
+                "trailing_xirr": 0.076750203
             },
             {
                 "date": "2025-03-25",
@@ -2136,13 +2701,13 @@
             },
             {
                 "date": "2025-03-25",
-                "pool_name": "Syrup USDT",
-                "trailing_xirr": 0.087437758
+                "pool_name": "High Yield Secured",
+                "trailing_xirr": 0.116064721
             },
             {
                 "date": "2025-03-25",
-                "pool_name": "Corporate USDC",
-                "trailing_xirr": 0.100016409
+                "pool_name": "Blue Chip Secured",
+                "trailing_xirr": 0.077528111
             },
             {
                 "date": "2025-03-25",
@@ -2151,13 +2716,13 @@
             },
             {
                 "date": "2025-03-25",
-                "pool_name": "Blue Chip Secured",
-                "trailing_xirr": 0.077528111
+                "pool_name": "Corporate USDC",
+                "trailing_xirr": 0.100016409
             },
             {
-                "date": "2025-03-24",
-                "pool_name": "Syrup USDC",
-                "trailing_xirr": 0.084079842
+                "date": "2025-03-25",
+                "pool_name": "Syrup USDT",
+                "trailing_xirr": 0.087437758
             },
             {
                 "date": "2025-03-24",
@@ -2166,8 +2731,8 @@
             },
             {
                 "date": "2025-03-24",
-                "pool_name": "Corporate WETH",
-                "trailing_xirr": 0.062215881
+                "pool_name": "Syrup USDC",
+                "trailing_xirr": 0.084079842
             },
             {
                 "date": "2025-03-24",
@@ -2176,13 +2741,18 @@
             },
             {
                 "date": "2025-03-24",
-                "pool_name": "Syrup USDT",
-                "trailing_xirr": 0.088429363
+                "pool_name": "Corporate WETH",
+                "trailing_xirr": 0.062215881
             },
             {
                 "date": "2025-03-24",
                 "pool_name": "Blue Chip Secured",
                 "trailing_xirr": 0.077948513
+            },
+            {
+                "date": "2025-03-24",
+                "pool_name": "Syrup USDT",
+                "trailing_xirr": 0.088429363
             },
             {
                 "date": "2025-03-23",
@@ -3626,6 +4196,11 @@
             },
             {
                 "date": "2025-02-03",
+                "pool_name": "Blue Chip Secured",
+                "trailing_xirr": 0.117411903
+            },
+            {
+                "date": "2025-02-03",
                 "pool_name": "Corporate USDC",
                 "trailing_xirr": 0.114258837
             },
@@ -3648,11 +4223,6 @@
                 "date": "2025-02-03",
                 "pool_name": "Syrup USDC",
                 "trailing_xirr": 0.134672189
-            },
-            {
-                "date": "2025-02-03",
-                "pool_name": "Blue Chip Secured",
-                "trailing_xirr": 0.117411903
             },
             {
                 "date": "2025-02-02",
@@ -3776,23 +4346,8 @@
             },
             {
                 "date": "2025-01-29",
-                "pool_name": "Syrup USDC",
-                "trailing_xirr": 0.136526456
-            },
-            {
-                "date": "2025-01-29",
-                "pool_name": "High Yield Secured",
-                "trailing_xirr": 0.139101091
-            },
-            {
-                "date": "2025-01-29",
-                "pool_name": "Blue Chip Secured",
-                "trailing_xirr": 0.117265015
-            },
-            {
-                "date": "2025-01-29",
-                "pool_name": "Syrup USDT",
-                "trailing_xirr": 0.136712583
+                "pool_name": "Corporate USDC",
+                "trailing_xirr": 0.114171629
             },
             {
                 "date": "2025-01-29",
@@ -3801,8 +4356,23 @@
             },
             {
                 "date": "2025-01-29",
-                "pool_name": "Corporate USDC",
-                "trailing_xirr": 0.114171629
+                "pool_name": "Syrup USDT",
+                "trailing_xirr": 0.136712583
+            },
+            {
+                "date": "2025-01-29",
+                "pool_name": "Blue Chip Secured",
+                "trailing_xirr": 0.117265015
+            },
+            {
+                "date": "2025-01-29",
+                "pool_name": "High Yield Secured",
+                "trailing_xirr": 0.139101091
+            },
+            {
+                "date": "2025-01-29",
+                "pool_name": "Syrup USDC",
+                "trailing_xirr": 0.136526456
             },
             {
                 "date": "2025-01-28",
@@ -3956,23 +4526,8 @@
             },
             {
                 "date": "2025-01-23",
-                "pool_name": "High Yield Secured",
-                "trailing_xirr": 0.135836009
-            },
-            {
-                "date": "2025-01-23",
-                "pool_name": "Corporate WETH",
-                "trailing_xirr": 0.064338482
-            },
-            {
-                "date": "2025-01-23",
-                "pool_name": "Syrup USDT",
-                "trailing_xirr": 0.134767878
-            },
-            {
-                "date": "2025-01-23",
-                "pool_name": "Blue Chip Secured",
-                "trailing_xirr": 0.116361223
+                "pool_name": "Syrup USDC",
+                "trailing_xirr": 0.134442911
             },
             {
                 "date": "2025-01-23",
@@ -3981,8 +4536,23 @@
             },
             {
                 "date": "2025-01-23",
-                "pool_name": "Syrup USDC",
-                "trailing_xirr": 0.134442911
+                "pool_name": "Blue Chip Secured",
+                "trailing_xirr": 0.116361223
+            },
+            {
+                "date": "2025-01-23",
+                "pool_name": "Syrup USDT",
+                "trailing_xirr": 0.134767878
+            },
+            {
+                "date": "2025-01-23",
+                "pool_name": "Corporate WETH",
+                "trailing_xirr": 0.064338482
+            },
+            {
+                "date": "2025-01-23",
+                "pool_name": "High Yield Secured",
+                "trailing_xirr": 0.135836009
             },
             {
                 "date": "2025-01-22",
@@ -4106,23 +4676,8 @@
             },
             {
                 "date": "2025-01-18",
-                "pool_name": "Corporate USDC",
-                "trailing_xirr": 0.114109874
-            },
-            {
-                "date": "2025-01-18",
-                "pool_name": "Syrup USDT",
-                "trailing_xirr": 0.138390206
-            },
-            {
-                "date": "2025-01-18",
-                "pool_name": "Corporate WETH",
-                "trailing_xirr": 0.065306139
-            },
-            {
-                "date": "2025-01-18",
-                "pool_name": "Syrup USDC",
-                "trailing_xirr": 0.130378045
+                "pool_name": "Blue Chip Secured",
+                "trailing_xirr": 0.11518909
             },
             {
                 "date": "2025-01-18",
@@ -4131,8 +4686,23 @@
             },
             {
                 "date": "2025-01-18",
-                "pool_name": "Blue Chip Secured",
-                "trailing_xirr": 0.11518909
+                "pool_name": "Syrup USDC",
+                "trailing_xirr": 0.130378045
+            },
+            {
+                "date": "2025-01-18",
+                "pool_name": "Corporate WETH",
+                "trailing_xirr": 0.065306139
+            },
+            {
+                "date": "2025-01-18",
+                "pool_name": "Syrup USDT",
+                "trailing_xirr": 0.138390206
+            },
+            {
+                "date": "2025-01-18",
+                "pool_name": "Corporate USDC",
+                "trailing_xirr": 0.114109874
             },
             {
                 "date": "2025-01-17",
@@ -4226,23 +4796,8 @@
             },
             {
                 "date": "2025-01-14",
-                "pool_name": "Syrup USDC",
-                "trailing_xirr": 0.13472206
-            },
-            {
-                "date": "2025-01-14",
-                "pool_name": "Corporate USDC",
-                "trailing_xirr": 0.114087318
-            },
-            {
-                "date": "2025-01-14",
-                "pool_name": "Blue Chip Secured",
-                "trailing_xirr": 0.114321885
-            },
-            {
-                "date": "2025-01-14",
-                "pool_name": "Corporate WETH",
-                "trailing_xirr": 0.066169847
+                "pool_name": "Syrup USDT",
+                "trailing_xirr": 0.138670684
             },
             {
                 "date": "2025-01-14",
@@ -4251,8 +4806,23 @@
             },
             {
                 "date": "2025-01-14",
-                "pool_name": "Syrup USDT",
-                "trailing_xirr": 0.138670684
+                "pool_name": "Corporate WETH",
+                "trailing_xirr": 0.066169847
+            },
+            {
+                "date": "2025-01-14",
+                "pool_name": "Blue Chip Secured",
+                "trailing_xirr": 0.114321885
+            },
+            {
+                "date": "2025-01-14",
+                "pool_name": "Corporate USDC",
+                "trailing_xirr": 0.114087318
+            },
+            {
+                "date": "2025-01-14",
+                "pool_name": "Syrup USDC",
+                "trailing_xirr": 0.13472206
             },
             {
                 "date": "2025-01-13",
@@ -4346,23 +4916,8 @@
             },
             {
                 "date": "2025-01-10",
-                "pool_name": "Corporate USDC",
-                "trailing_xirr": 0.114558714
-            },
-            {
-                "date": "2025-01-10",
-                "pool_name": "Syrup USDT",
-                "trailing_xirr": 0.137839164
-            },
-            {
-                "date": "2025-01-10",
-                "pool_name": "Syrup USDC",
-                "trailing_xirr": 0.129344611
-            },
-            {
-                "date": "2025-01-10",
-                "pool_name": "Corporate WETH",
-                "trailing_xirr": 0.066980832
+                "pool_name": "High Yield Secured",
+                "trailing_xirr": 0.144397452
             },
             {
                 "date": "2025-01-10",
@@ -4371,8 +4926,23 @@
             },
             {
                 "date": "2025-01-10",
-                "pool_name": "High Yield Secured",
-                "trailing_xirr": 0.144397452
+                "pool_name": "Corporate WETH",
+                "trailing_xirr": 0.066980832
+            },
+            {
+                "date": "2025-01-10",
+                "pool_name": "Syrup USDC",
+                "trailing_xirr": 0.129344611
+            },
+            {
+                "date": "2025-01-10",
+                "pool_name": "Syrup USDT",
+                "trailing_xirr": 0.137839164
+            },
+            {
+                "date": "2025-01-10",
+                "pool_name": "Corporate USDC",
+                "trailing_xirr": 0.114558714
             },
             {
                 "date": "2025-01-09",
@@ -4436,23 +5006,8 @@
             },
             {
                 "date": "2025-01-07",
-                "pool_name": "Corporate WETH",
-                "trailing_xirr": 0.06757314
-            },
-            {
-                "date": "2025-01-07",
-                "pool_name": "Blue Chip Secured",
-                "trailing_xirr": 0.112898088
-            },
-            {
-                "date": "2025-01-07",
-                "pool_name": "High Yield Secured",
-                "trailing_xirr": 0.140409521
-            },
-            {
-                "date": "2025-01-07",
-                "pool_name": "Corporate USDC",
-                "trailing_xirr": 0.114613837
+                "pool_name": "Syrup USDC",
+                "trailing_xirr": 0.123551275
             },
             {
                 "date": "2025-01-07",
@@ -4461,28 +5016,28 @@
             },
             {
                 "date": "2025-01-07",
-                "pool_name": "Syrup USDC",
-                "trailing_xirr": 0.123551275
-            },
-            {
-                "date": "2025-01-06",
                 "pool_name": "Corporate USDC",
-                "trailing_xirr": 0.114680301
+                "trailing_xirr": 0.114613837
             },
             {
-                "date": "2025-01-06",
+                "date": "2025-01-07",
                 "pool_name": "High Yield Secured",
-                "trailing_xirr": 0.139997601
+                "trailing_xirr": 0.140409521
             },
             {
-                "date": "2025-01-06",
-                "pool_name": "Syrup USDC",
-                "trailing_xirr": 0.122993361
-            },
-            {
-                "date": "2025-01-06",
+                "date": "2025-01-07",
                 "pool_name": "Blue Chip Secured",
-                "trailing_xirr": 0.112737157
+                "trailing_xirr": 0.112898088
+            },
+            {
+                "date": "2025-01-07",
+                "pool_name": "Corporate WETH",
+                "trailing_xirr": 0.06757314
+            },
+            {
+                "date": "2025-01-06",
+                "pool_name": "Corporate WETH",
+                "trailing_xirr": 0.067809833
             },
             {
                 "date": "2025-01-06",
@@ -4491,28 +5046,28 @@
             },
             {
                 "date": "2025-01-06",
-                "pool_name": "Corporate WETH",
-                "trailing_xirr": 0.067809833
+                "pool_name": "Blue Chip Secured",
+                "trailing_xirr": 0.112737157
             },
             {
-                "date": "2025-01-05",
-                "pool_name": "Corporate USDC",
-                "trailing_xirr": 0.114746855
-            },
-            {
-                "date": "2025-01-05",
-                "pool_name": "Corporate WETH",
-                "trailing_xirr": 0.068046663
-            },
-            {
-                "date": "2025-01-05",
-                "pool_name": "Syrup USDT",
-                "trailing_xirr": 0.139518316
-            },
-            {
-                "date": "2025-01-05",
+                "date": "2025-01-06",
                 "pool_name": "Syrup USDC",
-                "trailing_xirr": 0.122512795
+                "trailing_xirr": 0.122993361
+            },
+            {
+                "date": "2025-01-06",
+                "pool_name": "High Yield Secured",
+                "trailing_xirr": 0.139997601
+            },
+            {
+                "date": "2025-01-06",
+                "pool_name": "Corporate USDC",
+                "trailing_xirr": 0.114680301
+            },
+            {
+                "date": "2025-01-05",
+                "pool_name": "High Yield Secured",
+                "trailing_xirr": 0.138029881
             },
             {
                 "date": "2025-01-05",
@@ -4521,8 +5076,23 @@
             },
             {
                 "date": "2025-01-05",
-                "pool_name": "High Yield Secured",
-                "trailing_xirr": 0.138029881
+                "pool_name": "Syrup USDC",
+                "trailing_xirr": 0.122512795
+            },
+            {
+                "date": "2025-01-05",
+                "pool_name": "Syrup USDT",
+                "trailing_xirr": 0.139518316
+            },
+            {
+                "date": "2025-01-05",
+                "pool_name": "Corporate WETH",
+                "trailing_xirr": 0.068046663
+            },
+            {
+                "date": "2025-01-05",
+                "pool_name": "Corporate USDC",
+                "trailing_xirr": 0.114746855
             },
             {
                 "date": "2025-01-04",
@@ -4556,23 +5126,8 @@
             },
             {
                 "date": "2025-01-03",
-                "pool_name": "Syrup USDC",
-                "trailing_xirr": 0.134885334
-            },
-            {
-                "date": "2025-01-03",
-                "pool_name": "Corporate USDC",
-                "trailing_xirr": 0.114880156
-            },
-            {
-                "date": "2025-01-03",
-                "pool_name": "Blue Chip Secured",
-                "trailing_xirr": 0.112287142
-            },
-            {
-                "date": "2025-01-03",
-                "pool_name": "Syrup USDT",
-                "trailing_xirr": 0.13830459
+                "pool_name": "Corporate WETH",
+                "trailing_xirr": 0.068520734
             },
             {
                 "date": "2025-01-03",
@@ -4581,8 +5136,23 @@
             },
             {
                 "date": "2025-01-03",
-                "pool_name": "Corporate WETH",
-                "trailing_xirr": 0.068520734
+                "pool_name": "Syrup USDT",
+                "trailing_xirr": 0.13830459
+            },
+            {
+                "date": "2025-01-03",
+                "pool_name": "Blue Chip Secured",
+                "trailing_xirr": 0.112287142
+            },
+            {
+                "date": "2025-01-03",
+                "pool_name": "Corporate USDC",
+                "trailing_xirr": 0.114880156
+            },
+            {
+                "date": "2025-01-03",
+                "pool_name": "Syrup USDC",
+                "trailing_xirr": 0.134885334
             },
             {
                 "date": "2025-01-02",
@@ -4616,23 +5186,8 @@
             },
             {
                 "date": "2025-01-01",
-                "pool_name": "Syrup USDC",
-                "trailing_xirr": 0.135043096
-            },
-            {
-                "date": "2025-01-01",
-                "pool_name": "Syrup USDT",
-                "trailing_xirr": 0.145443741
-            },
-            {
-                "date": "2025-01-01",
-                "pool_name": "Blue Chip Secured",
-                "trailing_xirr": 0.110984148
-            },
-            {
-                "date": "2025-01-01",
-                "pool_name": "Corporate USDC",
-                "trailing_xirr": 0.11498092
+                "pool_name": "Corporate WETH",
+                "trailing_xirr": 0.068995353
             },
             {
                 "date": "2025-01-01",
@@ -4641,8 +5196,23 @@
             },
             {
                 "date": "2025-01-01",
-                "pool_name": "Corporate WETH",
-                "trailing_xirr": 0.068995353
+                "pool_name": "Corporate USDC",
+                "trailing_xirr": 0.11498092
+            },
+            {
+                "date": "2025-01-01",
+                "pool_name": "Blue Chip Secured",
+                "trailing_xirr": 0.110984148
+            },
+            {
+                "date": "2025-01-01",
+                "pool_name": "Syrup USDT",
+                "trailing_xirr": 0.145443741
+            },
+            {
+                "date": "2025-01-01",
+                "pool_name": "Syrup USDC",
+                "trailing_xirr": 0.135043096
             },
             {
                 "date": "2024-12-31",
@@ -4826,23 +5396,8 @@
             },
             {
                 "date": "2024-12-25",
-                "pool_name": "Syrup USDT",
-                "trailing_xirr": 0.13927472
-            },
-            {
-                "date": "2024-12-25",
-                "pool_name": "Corporate USDC",
-                "trailing_xirr": 0.115201971
-            },
-            {
-                "date": "2024-12-25",
-                "pool_name": "Corporate WETH",
-                "trailing_xirr": 0.070561549
-            },
-            {
-                "date": "2024-12-25",
-                "pool_name": "Syrup USDC",
-                "trailing_xirr": 0.13361032
+                "pool_name": "High Yield Secured",
+                "trailing_xirr": 0.140222376
             },
             {
                 "date": "2024-12-25",
@@ -4851,8 +5406,23 @@
             },
             {
                 "date": "2024-12-25",
-                "pool_name": "High Yield Secured",
-                "trailing_xirr": 0.140222376
+                "pool_name": "Syrup USDC",
+                "trailing_xirr": 0.13361032
+            },
+            {
+                "date": "2024-12-25",
+                "pool_name": "Corporate WETH",
+                "trailing_xirr": 0.070561549
+            },
+            {
+                "date": "2024-12-25",
+                "pool_name": "Corporate USDC",
+                "trailing_xirr": 0.115201971
+            },
+            {
+                "date": "2024-12-25",
+                "pool_name": "Syrup USDT",
+                "trailing_xirr": 0.13927472
             },
             {
                 "date": "2024-12-24",
@@ -4946,23 +5516,8 @@
             },
             {
                 "date": "2024-12-21",
-                "pool_name": "Corporate USDC",
-                "trailing_xirr": 0.115191717
-            },
-            {
-                "date": "2024-12-21",
-                "pool_name": "Corporate WETH",
-                "trailing_xirr": 0.070711529
-            },
-            {
-                "date": "2024-12-21",
-                "pool_name": "Syrup USDC",
-                "trailing_xirr": 0.134789765
-            },
-            {
-                "date": "2024-12-21",
-                "pool_name": "Syrup USDT",
-                "trailing_xirr": 0.135384723
+                "pool_name": "High Yield Secured",
+                "trailing_xirr": 0.129867657
             },
             {
                 "date": "2024-12-21",
@@ -4971,8 +5526,23 @@
             },
             {
                 "date": "2024-12-21",
-                "pool_name": "High Yield Secured",
-                "trailing_xirr": 0.129867657
+                "pool_name": "Syrup USDT",
+                "trailing_xirr": 0.135384723
+            },
+            {
+                "date": "2024-12-21",
+                "pool_name": "Syrup USDC",
+                "trailing_xirr": 0.134789765
+            },
+            {
+                "date": "2024-12-21",
+                "pool_name": "Corporate WETH",
+                "trailing_xirr": 0.070711529
+            },
+            {
+                "date": "2024-12-21",
+                "pool_name": "Corporate USDC",
+                "trailing_xirr": 0.115191717
             },
             {
                 "date": "2024-12-20",
@@ -5006,23 +5576,8 @@
             },
             {
                 "date": "2024-12-19",
-                "pool_name": "Corporate USDC",
-                "trailing_xirr": 0.115115649
-            },
-            {
-                "date": "2024-12-19",
-                "pool_name": "Syrup USDC",
-                "trailing_xirr": 0.13240817
-            },
-            {
-                "date": "2024-12-19",
-                "pool_name": "Blue Chip Secured",
-                "trailing_xirr": 0.103280323
-            },
-            {
-                "date": "2024-12-19",
-                "pool_name": "Corporate WETH",
-                "trailing_xirr": 0.070670934
+                "pool_name": "High Yield Secured",
+                "trailing_xirr": 0.131562652
             },
             {
                 "date": "2024-12-19",
@@ -5031,8 +5586,23 @@
             },
             {
                 "date": "2024-12-19",
-                "pool_name": "High Yield Secured",
-                "trailing_xirr": 0.131562652
+                "pool_name": "Corporate WETH",
+                "trailing_xirr": 0.070670934
+            },
+            {
+                "date": "2024-12-19",
+                "pool_name": "Blue Chip Secured",
+                "trailing_xirr": 0.103280323
+            },
+            {
+                "date": "2024-12-19",
+                "pool_name": "Syrup USDC",
+                "trailing_xirr": 0.13240817
+            },
+            {
+                "date": "2024-12-19",
+                "pool_name": "Corporate USDC",
+                "trailing_xirr": 0.115115649
             },
             {
                 "date": "2024-12-18",
@@ -5156,23 +5726,8 @@
             },
             {
                 "date": "2024-12-14",
-                "pool_name": "Corporate WETH",
-                "trailing_xirr": 0.069860224
-            },
-            {
-                "date": "2024-12-14",
-                "pool_name": "Corporate USDC",
-                "trailing_xirr": 0.114714034
-            },
-            {
-                "date": "2024-12-14",
-                "pool_name": "High Yield Secured",
-                "trailing_xirr": 0.13332932
-            },
-            {
-                "date": "2024-12-14",
-                "pool_name": "Syrup USDC",
-                "trailing_xirr": 0.120170171
+                "pool_name": "Syrup USDT",
+                "trailing_xirr": 0.132258143
             },
             {
                 "date": "2024-12-14",
@@ -5181,8 +5736,23 @@
             },
             {
                 "date": "2024-12-14",
-                "pool_name": "Syrup USDT",
-                "trailing_xirr": 0.132258143
+                "pool_name": "Syrup USDC",
+                "trailing_xirr": 0.120170171
+            },
+            {
+                "date": "2024-12-14",
+                "pool_name": "High Yield Secured",
+                "trailing_xirr": 0.13332932
+            },
+            {
+                "date": "2024-12-14",
+                "pool_name": "Corporate USDC",
+                "trailing_xirr": 0.114714034
+            },
+            {
+                "date": "2024-12-14",
+                "pool_name": "Corporate WETH",
+                "trailing_xirr": 0.069860224
             },
             {
                 "date": "2024-12-13",
@@ -5366,23 +5936,8 @@
             },
             {
                 "date": "2024-12-07",
-                "pool_name": "Blue Chip Secured",
-                "trailing_xirr": 0.096533009
-            },
-            {
-                "date": "2024-12-07",
-                "pool_name": "Syrup USDC",
-                "trailing_xirr": 0.121006384
-            },
-            {
-                "date": "2024-12-07",
-                "pool_name": "High Yield Secured",
-                "trailing_xirr": 0.137752314
-            },
-            {
-                "date": "2024-12-07",
-                "pool_name": "Corporate WETH",
-                "trailing_xirr": 0.068713685
+                "pool_name": "Syrup USDT",
+                "trailing_xirr": 0.119044655
             },
             {
                 "date": "2024-12-07",
@@ -5391,8 +5946,23 @@
             },
             {
                 "date": "2024-12-07",
-                "pool_name": "Syrup USDT",
-                "trailing_xirr": 0.119044655
+                "pool_name": "Corporate WETH",
+                "trailing_xirr": 0.068713685
+            },
+            {
+                "date": "2024-12-07",
+                "pool_name": "High Yield Secured",
+                "trailing_xirr": 0.137752314
+            },
+            {
+                "date": "2024-12-07",
+                "pool_name": "Syrup USDC",
+                "trailing_xirr": 0.121006384
+            },
+            {
+                "date": "2024-12-07",
+                "pool_name": "Blue Chip Secured",
+                "trailing_xirr": 0.096533009
             },
             {
                 "date": "2024-12-06",
@@ -5426,23 +5996,8 @@
             },
             {
                 "date": "2024-12-05",
-                "pool_name": "Corporate WETH",
-                "trailing_xirr": 0.068385745
-            },
-            {
-                "date": "2024-12-05",
-                "pool_name": "Syrup USDC",
-                "trailing_xirr": 0.115543457
-            },
-            {
-                "date": "2024-12-05",
-                "pool_name": "Syrup USDT",
-                "trailing_xirr": 0.112052611
-            },
-            {
-                "date": "2024-12-05",
-                "pool_name": "Blue Chip Secured",
-                "trailing_xirr": 0.09529176
+                "pool_name": "Corporate USDC",
+                "trailing_xirr": 0.11391438
             },
             {
                 "date": "2024-12-05",
@@ -5451,8 +6006,23 @@
             },
             {
                 "date": "2024-12-05",
-                "pool_name": "Corporate USDC",
-                "trailing_xirr": 0.11391438
+                "pool_name": "Blue Chip Secured",
+                "trailing_xirr": 0.09529176
+            },
+            {
+                "date": "2024-12-05",
+                "pool_name": "Syrup USDT",
+                "trailing_xirr": 0.112052611
+            },
+            {
+                "date": "2024-12-05",
+                "pool_name": "Syrup USDC",
+                "trailing_xirr": 0.115543457
+            },
+            {
+                "date": "2024-12-05",
+                "pool_name": "Corporate WETH",
+                "trailing_xirr": 0.068385745
             },
             {
                 "date": "2024-12-04",
@@ -5636,23 +6206,8 @@
             },
             {
                 "date": "2024-11-28",
-                "pool_name": "Blue Chip Secured",
-                "trailing_xirr": 0.093141632
-            },
-            {
-                "date": "2024-11-28",
-                "pool_name": "Syrup USDT",
-                "trailing_xirr": 0.105449555
-            },
-            {
-                "date": "2024-11-28",
-                "pool_name": "Syrup USDC",
-                "trailing_xirr": 0.096438034
-            },
-            {
-                "date": "2024-11-28",
-                "pool_name": "High Yield Secured",
-                "trailing_xirr": 0.127394408
+                "pool_name": "Corporate USDC",
+                "trailing_xirr": 0.113199644
             },
             {
                 "date": "2024-11-28",
@@ -5661,8 +6216,23 @@
             },
             {
                 "date": "2024-11-28",
-                "pool_name": "Corporate USDC",
-                "trailing_xirr": 0.113199644
+                "pool_name": "High Yield Secured",
+                "trailing_xirr": 0.127394408
+            },
+            {
+                "date": "2024-11-28",
+                "pool_name": "Syrup USDC",
+                "trailing_xirr": 0.096438034
+            },
+            {
+                "date": "2024-11-28",
+                "pool_name": "Syrup USDT",
+                "trailing_xirr": 0.105449555
+            },
+            {
+                "date": "2024-11-28",
+                "pool_name": "Blue Chip Secured",
+                "trailing_xirr": 0.093141632
             },
             {
                 "date": "2024-11-27",
@@ -5756,23 +6326,8 @@
             },
             {
                 "date": "2024-11-24",
-                "pool_name": "Blue Chip Secured",
-                "trailing_xirr": 0.092861802
-            },
-            {
-                "date": "2024-11-24",
-                "pool_name": "Corporate USDC",
-                "trailing_xirr": 0.112757935
-            },
-            {
-                "date": "2024-11-24",
-                "pool_name": "Syrup USDT",
-                "trailing_xirr": 0.104044109
-            },
-            {
-                "date": "2024-11-24",
-                "pool_name": "Corporate WETH",
-                "trailing_xirr": 0.067309821
+                "pool_name": "High Yield Secured",
+                "trailing_xirr": 0.124974734
             },
             {
                 "date": "2024-11-24",
@@ -5781,8 +6336,23 @@
             },
             {
                 "date": "2024-11-24",
-                "pool_name": "High Yield Secured",
-                "trailing_xirr": 0.124974734
+                "pool_name": "Corporate WETH",
+                "trailing_xirr": 0.067309821
+            },
+            {
+                "date": "2024-11-24",
+                "pool_name": "Syrup USDT",
+                "trailing_xirr": 0.104044109
+            },
+            {
+                "date": "2024-11-24",
+                "pool_name": "Corporate USDC",
+                "trailing_xirr": 0.112757935
+            },
+            {
+                "date": "2024-11-24",
+                "pool_name": "Blue Chip Secured",
+                "trailing_xirr": 0.092861802
             },
             {
                 "date": "2024-11-23",
@@ -5876,23 +6446,8 @@
             },
             {
                 "date": "2024-11-20",
-                "pool_name": "High Yield Secured",
-                "trailing_xirr": 0.11938786
-            },
-            {
-                "date": "2024-11-20",
-                "pool_name": "Syrup USDC",
-                "trailing_xirr": 0.094706695
-            },
-            {
-                "date": "2024-11-20",
-                "pool_name": "Blue Chip Secured",
-                "trailing_xirr": 0.092494762
-            },
-            {
-                "date": "2024-11-20",
-                "pool_name": "Syrup USDT",
-                "trailing_xirr": 0.094404927
+                "pool_name": "Corporate USDC",
+                "trailing_xirr": 0.112430839
             },
             {
                 "date": "2024-11-20",
@@ -5901,8 +6456,23 @@
             },
             {
                 "date": "2024-11-20",
-                "pool_name": "Corporate USDC",
-                "trailing_xirr": 0.112430839
+                "pool_name": "Syrup USDT",
+                "trailing_xirr": 0.094404927
+            },
+            {
+                "date": "2024-11-20",
+                "pool_name": "Blue Chip Secured",
+                "trailing_xirr": 0.092494762
+            },
+            {
+                "date": "2024-11-20",
+                "pool_name": "Syrup USDC",
+                "trailing_xirr": 0.094706695
+            },
+            {
+                "date": "2024-11-20",
+                "pool_name": "High Yield Secured",
+                "trailing_xirr": 0.11938786
             },
             {
                 "date": "2024-11-19",
@@ -5996,23 +6566,8 @@
             },
             {
                 "date": "2024-11-16",
-                "pool_name": "Corporate WETH",
-                "trailing_xirr": 0.067525941
-            },
-            {
-                "date": "2024-11-16",
-                "pool_name": "Blue Chip Secured",
-                "trailing_xirr": 0.092055743
-            },
-            {
-                "date": "2024-11-16",
-                "pool_name": "Syrup USDC",
-                "trailing_xirr": 0.095566659
-            },
-            {
-                "date": "2024-11-16",
-                "pool_name": "High Yield Secured",
-                "trailing_xirr": 0.114074165
+                "pool_name": "Corporate USDC",
+                "trailing_xirr": 0.112226123
             },
             {
                 "date": "2024-11-16",
@@ -6021,8 +6576,23 @@
             },
             {
                 "date": "2024-11-16",
-                "pool_name": "Corporate USDC",
-                "trailing_xirr": 0.112226123
+                "pool_name": "High Yield Secured",
+                "trailing_xirr": 0.114074165
+            },
+            {
+                "date": "2024-11-16",
+                "pool_name": "Syrup USDC",
+                "trailing_xirr": 0.095566659
+            },
+            {
+                "date": "2024-11-16",
+                "pool_name": "Blue Chip Secured",
+                "trailing_xirr": 0.092055743
+            },
+            {
+                "date": "2024-11-16",
+                "pool_name": "Corporate WETH",
+                "trailing_xirr": 0.067525941
             },
             {
                 "date": "2024-11-15",
@@ -6086,23 +6656,8 @@
             },
             {
                 "date": "2024-11-13",
-                "pool_name": "Syrup USDT",
-                "trailing_xirr": 0.088966351
-            },
-            {
-                "date": "2024-11-13",
-                "pool_name": "Corporate USDC",
-                "trailing_xirr": 0.112364946
-            },
-            {
-                "date": "2024-11-13",
-                "pool_name": "Corporate WETH",
-                "trailing_xirr": 0.068019585
-            },
-            {
-                "date": "2024-11-13",
-                "pool_name": "Syrup USDC",
-                "trailing_xirr": 0.097133397
+                "pool_name": "Blue Chip Secured",
+                "trailing_xirr": 0.091186136
             },
             {
                 "date": "2024-11-13",
@@ -6111,28 +6666,28 @@
             },
             {
                 "date": "2024-11-13",
-                "pool_name": "Blue Chip Secured",
-                "trailing_xirr": 0.091186136
-            },
-            {
-                "date": "2024-11-12",
-                "pool_name": "High Yield Secured",
-                "trailing_xirr": 0.110739086
-            },
-            {
-                "date": "2024-11-12",
-                "pool_name": "Syrup USDT",
-                "trailing_xirr": 0.088555984
-            },
-            {
-                "date": "2024-11-12",
-                "pool_name": "Blue Chip Secured",
-                "trailing_xirr": 0.091135581
-            },
-            {
-                "date": "2024-11-12",
                 "pool_name": "Syrup USDC",
-                "trailing_xirr": 0.096882268
+                "trailing_xirr": 0.097133397
+            },
+            {
+                "date": "2024-11-13",
+                "pool_name": "Corporate WETH",
+                "trailing_xirr": 0.068019585
+            },
+            {
+                "date": "2024-11-13",
+                "pool_name": "Corporate USDC",
+                "trailing_xirr": 0.112364946
+            },
+            {
+                "date": "2024-11-13",
+                "pool_name": "Syrup USDT",
+                "trailing_xirr": 0.088966351
+            },
+            {
+                "date": "2024-11-12",
+                "pool_name": "Corporate USDC",
+                "trailing_xirr": 0.112412599
             },
             {
                 "date": "2024-11-12",
@@ -6141,8 +6696,23 @@
             },
             {
                 "date": "2024-11-12",
-                "pool_name": "Corporate USDC",
-                "trailing_xirr": 0.112412599
+                "pool_name": "Syrup USDC",
+                "trailing_xirr": 0.096882268
+            },
+            {
+                "date": "2024-11-12",
+                "pool_name": "Blue Chip Secured",
+                "trailing_xirr": 0.091135581
+            },
+            {
+                "date": "2024-11-12",
+                "pool_name": "Syrup USDT",
+                "trailing_xirr": 0.088555984
+            },
+            {
+                "date": "2024-11-12",
+                "pool_name": "High Yield Secured",
+                "trailing_xirr": 0.110739086
             },
             {
                 "date": "2024-11-11",
@@ -6266,23 +6836,8 @@
             },
             {
                 "date": "2024-11-07",
-                "pool_name": "High Yield Secured",
-                "trailing_xirr": 0.113797212
-            },
-            {
-                "date": "2024-11-07",
-                "pool_name": "Syrup USDC",
-                "trailing_xirr": 0.099579454
-            },
-            {
-                "date": "2024-11-07",
-                "pool_name": "Corporate WETH",
-                "trailing_xirr": 0.069084833
-            },
-            {
-                "date": "2024-11-07",
-                "pool_name": "Corporate USDC",
-                "trailing_xirr": 0.112484234
+                "pool_name": "Syrup USDT",
+                "trailing_xirr": 0.088499536
             },
             {
                 "date": "2024-11-07",
@@ -6291,8 +6846,23 @@
             },
             {
                 "date": "2024-11-07",
-                "pool_name": "Syrup USDT",
-                "trailing_xirr": 0.088499536
+                "pool_name": "Corporate USDC",
+                "trailing_xirr": 0.112484234
+            },
+            {
+                "date": "2024-11-07",
+                "pool_name": "Corporate WETH",
+                "trailing_xirr": 0.069084833
+            },
+            {
+                "date": "2024-11-07",
+                "pool_name": "Syrup USDC",
+                "trailing_xirr": 0.099579454
+            },
+            {
+                "date": "2024-11-07",
+                "pool_name": "High Yield Secured",
+                "trailing_xirr": 0.113797212
             },
             {
                 "date": "2024-11-06",
@@ -6446,23 +7016,8 @@
             },
             {
                 "date": "2024-11-01",
-                "pool_name": "Syrup USDC",
-                "trailing_xirr": 0.096874722
-            },
-            {
-                "date": "2024-11-01",
-                "pool_name": "High Yield Secured",
-                "trailing_xirr": 0.113683447
-            },
-            {
-                "date": "2024-11-01",
-                "pool_name": "Corporate WETH",
-                "trailing_xirr": 0.071011
-            },
-            {
-                "date": "2024-11-01",
-                "pool_name": "Corporate USDC",
-                "trailing_xirr": 0.112536269
+                "pool_name": "Blue Chip Secured",
+                "trailing_xirr": 0.091313133
             },
             {
                 "date": "2024-11-01",
@@ -6471,8 +7026,23 @@
             },
             {
                 "date": "2024-11-01",
-                "pool_name": "Blue Chip Secured",
-                "trailing_xirr": 0.091313133
+                "pool_name": "Corporate USDC",
+                "trailing_xirr": 0.112536269
+            },
+            {
+                "date": "2024-11-01",
+                "pool_name": "Corporate WETH",
+                "trailing_xirr": 0.071011
+            },
+            {
+                "date": "2024-11-01",
+                "pool_name": "High Yield Secured",
+                "trailing_xirr": 0.113683447
+            },
+            {
+                "date": "2024-11-01",
+                "pool_name": "Syrup USDC",
+                "trailing_xirr": 0.096874722
             },
             {
                 "date": "2024-10-31",
@@ -6566,23 +7136,8 @@
             },
             {
                 "date": "2024-10-28",
-                "pool_name": "Syrup USDC",
-                "trailing_xirr": 0.097105635
-            },
-            {
-                "date": "2024-10-28",
-                "pool_name": "High Yield Secured",
-                "trailing_xirr": 0.12252884
-            },
-            {
-                "date": "2024-10-28",
-                "pool_name": "Blue Chip Secured",
-                "trailing_xirr": 0.091362357
-            },
-            {
-                "date": "2024-10-28",
-                "pool_name": "Syrup USDT",
-                "trailing_xirr": 0.082787634
+                "pool_name": "Corporate USDC",
+                "trailing_xirr": 0.113154656
             },
             {
                 "date": "2024-10-28",
@@ -6591,8 +7146,23 @@
             },
             {
                 "date": "2024-10-28",
-                "pool_name": "Corporate USDC",
-                "trailing_xirr": 0.113154656
+                "pool_name": "Syrup USDT",
+                "trailing_xirr": 0.082787634
+            },
+            {
+                "date": "2024-10-28",
+                "pool_name": "Blue Chip Secured",
+                "trailing_xirr": 0.091362357
+            },
+            {
+                "date": "2024-10-28",
+                "pool_name": "High Yield Secured",
+                "trailing_xirr": 0.12252884
+            },
+            {
+                "date": "2024-10-28",
+                "pool_name": "Syrup USDC",
+                "trailing_xirr": 0.097105635
             },
             {
                 "date": "2024-10-27",
@@ -6626,23 +7196,8 @@
             },
             {
                 "date": "2024-10-26",
-                "pool_name": "Corporate WETH",
-                "trailing_xirr": 0.072505833
-            },
-            {
-                "date": "2024-10-26",
-                "pool_name": "Syrup USDC",
-                "trailing_xirr": 0.099096286
-            },
-            {
-                "date": "2024-10-26",
-                "pool_name": "High Yield Secured",
-                "trailing_xirr": 0.129129096
-            },
-            {
-                "date": "2024-10-26",
-                "pool_name": "Blue Chip Secured",
-                "trailing_xirr": 0.091335008
+                "pool_name": "Corporate USDC",
+                "trailing_xirr": 0.11336313
             },
             {
                 "date": "2024-10-26",
@@ -6651,8 +7206,23 @@
             },
             {
                 "date": "2024-10-26",
-                "pool_name": "Corporate USDC",
-                "trailing_xirr": 0.11336313
+                "pool_name": "Blue Chip Secured",
+                "trailing_xirr": 0.091335008
+            },
+            {
+                "date": "2024-10-26",
+                "pool_name": "High Yield Secured",
+                "trailing_xirr": 0.129129096
+            },
+            {
+                "date": "2024-10-26",
+                "pool_name": "Syrup USDC",
+                "trailing_xirr": 0.099096286
+            },
+            {
+                "date": "2024-10-26",
+                "pool_name": "Corporate WETH",
+                "trailing_xirr": 0.072505833
             },
             {
                 "date": "2024-10-25",
@@ -6776,18 +7346,8 @@
             },
             {
                 "date": "2024-10-21",
-                "pool_name": "High Yield Secured",
-                "trailing_xirr": 0.136954541
-            },
-            {
-                "date": "2024-10-21",
-                "pool_name": "Corporate WETH",
-                "trailing_xirr": 0.07376186
-            },
-            {
-                "date": "2024-10-21",
-                "pool_name": "Syrup USDT",
-                "trailing_xirr": 0.084933701
+                "pool_name": "Blue Chip Secured",
+                "trailing_xirr": 0.091270039
             },
             {
                 "date": "2024-10-21",
@@ -6796,8 +7356,18 @@
             },
             {
                 "date": "2024-10-21",
-                "pool_name": "Blue Chip Secured",
-                "trailing_xirr": 0.091270039
+                "pool_name": "Syrup USDT",
+                "trailing_xirr": 0.084933701
+            },
+            {
+                "date": "2024-10-21",
+                "pool_name": "Corporate WETH",
+                "trailing_xirr": 0.07376186
+            },
+            {
+                "date": "2024-10-21",
+                "pool_name": "High Yield Secured",
+                "trailing_xirr": 0.136954541
             },
             {
                 "date": "2024-10-21",
@@ -6836,6 +7406,11 @@
             },
             {
                 "date": "2024-10-19",
+                "pool_name": "Blue Chip Secured",
+                "trailing_xirr": 0.091240271
+            },
+            {
+                "date": "2024-10-19",
                 "pool_name": "Corporate USDC",
                 "trailing_xirr": 0.113841336
             },
@@ -6858,11 +7433,6 @@
                 "date": "2024-10-19",
                 "pool_name": "Syrup USDC",
                 "trailing_xirr": 0.099586981
-            },
-            {
-                "date": "2024-10-19",
-                "pool_name": "Blue Chip Secured",
-                "trailing_xirr": 0.091240271
             },
             {
                 "date": "2024-10-18",
@@ -11421,13 +11991,13 @@
                 "varchar",
                 "double"
             ],
-            "row_count": 2280,
-            "result_set_bytes": 60011,
-            "total_row_count": 2280,
-            "total_result_set_bytes": 60011,
-            "datapoint_count": 6840,
-            "pending_time_millis": 2408,
-            "execution_time_millis": 630
+            "row_count": 2394,
+            "result_set_bytes": 62956,
+            "total_row_count": 2394,
+            "total_result_set_bytes": 62956,
+            "datapoint_count": 7182,
+            "pending_time_millis": 77786,
+            "execution_time_millis": 1037
         }
     }
 }

@@ -20,6 +20,8 @@
   "github": [
     "morpho-org"
   ],
+  "symbol": "MORPHO",
+  "address": "0x58D97B57BB95320F9a05dC918Aef65434969c2B2",
   "childProtocols": [
     {}
   ],
@@ -36,7 +38,6 @@
   "methodology": null,
   "forkedFrom": null,
   "audits": null,
-  "address": null,
   "audit_links": null,
   "versionKey": null,
   "parentProtocol": null,
@@ -44,14 +45,150 @@
   "latestFetchIsOk": true,
   "slug": "morpho",
   "protocolType": "protocol",
-  "total24h": 311647,
-  "total48hto24h": 281615,
-  "total7d": 2071019,
-  "totalAllTime": 105002361,
+  "total24h": 289668,
+  "total48hto24h": 307891,
+  "total7d": 2030083,
+  "totalAllTime": 107408502,
   "totalDataChart": [
     [
+      1707955200,
+      4575
+    ],
+    [
+      1708041600,
+      4315
+    ],
+    [
+      1708128000,
+      5704
+    ],
+    [
+      1708214400,
+      4419
+    ],
+    [
+      1708300800,
+      5346
+    ],
+    [
+      1708387200,
+      4762
+    ],
+    [
+      1708473600,
+      8130
+    ],
+    [
+      1708560000,
+      6572
+    ],
+    [
+      1708646400,
+      6455
+    ],
+    [
+      1708732800,
+      4870
+    ],
+    [
+      1708819200,
+      5607
+    ],
+    [
+      1708905600,
+      10147
+    ],
+    [
+      1708992000,
+      5018
+    ],
+    [
+      1709078400,
+      7710
+    ],
+    [
+      1709164800,
+      14771
+    ],
+    [
+      1709251200,
+      11926
+    ],
+    [
+      1709337600,
+      11376
+    ],
+    [
+      1709424000,
+      13761
+    ],
+    [
+      1709510400,
+      12507
+    ],
+    [
+      1709596800,
+      9274
+    ],
+    [
+      1709683200,
+      14089
+    ],
+    [
+      1709769600,
+      11008
+    ],
+    [
+      1709856000,
+      7501
+    ],
+    [
+      1709942400,
+      18027
+    ],
+    [
+      1710028800,
+      13187
+    ],
+    [
+      1710115200,
+      28168
+    ],
+    [
+      1710201600,
+      17935
+    ],
+    [
+      1710288000,
+      19596
+    ],
+    [
+      1710374400,
+      16474
+    ],
+    [
+      1710460800,
+      19854
+    ],
+    [
+      1710547200,
+      16048
+    ],
+    [
+      1710633600,
+      23188
+    ],
+    [
+      1710720000,
+      27692
+    ],
+    [
+      1710806400,
+      25261
+    ],
+    [
       1710892800,
-      35108
+      26789
     ],
     [
       1710979200,
@@ -1867,22 +2004,322 @@
     ],
     [
       1750118400,
-      311132
+      295802
+    ],
+    [
+      1750204800,
+      289431
+    ],
+    [
+      1750291200,
+      277294
+    ],
+    [
+      1750377600,
+      286454
+    ],
+    [
+      1750464000,
+      283543
+    ],
+    [
+      1750550400,
+      307891
+    ],
+    [
+      1750636800,
+      289668
+    ],
+    [
+      1750723200,
+      280236
     ]
   ],
   "totalDataChartBreakdown": [
     [
+      1707955200,
+      {
+        "Ethereum": {
+          "Morpho Blue": 4575
+        }
+      }
+    ],
+    [
+      1708041600,
+      {
+        "Ethereum": {
+          "Morpho Blue": 4315
+        }
+      }
+    ],
+    [
+      1708128000,
+      {
+        "Ethereum": {
+          "Morpho Blue": 5704
+        }
+      }
+    ],
+    [
+      1708214400,
+      {
+        "Ethereum": {
+          "Morpho Blue": 4419
+        }
+      }
+    ],
+    [
+      1708300800,
+      {
+        "Ethereum": {
+          "Morpho Blue": 5346
+        }
+      }
+    ],
+    [
+      1708387200,
+      {
+        "Ethereum": {
+          "Morpho Blue": 4762
+        }
+      }
+    ],
+    [
+      1708473600,
+      {
+        "Ethereum": {
+          "Morpho Blue": 8130
+        }
+      }
+    ],
+    [
+      1708560000,
+      {
+        "Ethereum": {
+          "Morpho Blue": 6572
+        }
+      }
+    ],
+    [
+      1708646400,
+      {
+        "Ethereum": {
+          "Morpho Blue": 6455
+        }
+      }
+    ],
+    [
+      1708732800,
+      {
+        "Ethereum": {
+          "Morpho Blue": 4870
+        }
+      }
+    ],
+    [
+      1708819200,
+      {
+        "Ethereum": {
+          "Morpho Blue": 5607
+        }
+      }
+    ],
+    [
+      1708905600,
+      {
+        "Ethereum": {
+          "Morpho Blue": 10147
+        }
+      }
+    ],
+    [
+      1708992000,
+      {
+        "Ethereum": {
+          "Morpho Blue": 5018
+        }
+      }
+    ],
+    [
+      1709078400,
+      {
+        "Ethereum": {
+          "Morpho Blue": 7710
+        }
+      }
+    ],
+    [
+      1709164800,
+      {
+        "Ethereum": {
+          "Morpho Blue": 14771
+        }
+      }
+    ],
+    [
+      1709251200,
+      {
+        "Ethereum": {
+          "Morpho Blue": 11926
+        }
+      }
+    ],
+    [
+      1709337600,
+      {
+        "Ethereum": {
+          "Morpho Blue": 11376
+        }
+      }
+    ],
+    [
+      1709424000,
+      {
+        "Ethereum": {
+          "Morpho Blue": 13761
+        }
+      }
+    ],
+    [
+      1709510400,
+      {
+        "Ethereum": {
+          "Morpho Blue": 12507
+        }
+      }
+    ],
+    [
+      1709596800,
+      {
+        "Ethereum": {
+          "Morpho Blue": 9274
+        }
+      }
+    ],
+    [
+      1709683200,
+      {
+        "Ethereum": {
+          "Morpho Blue": 14089
+        }
+      }
+    ],
+    [
+      1709769600,
+      {
+        "Ethereum": {
+          "Morpho Blue": 11008
+        }
+      }
+    ],
+    [
+      1709856000,
+      {
+        "Ethereum": {
+          "Morpho Blue": 7501
+        }
+      }
+    ],
+    [
+      1709942400,
+      {
+        "Ethereum": {
+          "Morpho Blue": 18027
+        }
+      }
+    ],
+    [
+      1710028800,
+      {
+        "Ethereum": {
+          "Morpho Blue": 13187
+        }
+      }
+    ],
+    [
+      1710115200,
+      {
+        "Ethereum": {
+          "Morpho Blue": 28168
+        }
+      }
+    ],
+    [
+      1710201600,
+      {
+        "Ethereum": {
+          "Morpho Blue": 17935
+        }
+      }
+    ],
+    [
+      1710288000,
+      {
+        "Ethereum": {
+          "Morpho Blue": 19596
+        }
+      }
+    ],
+    [
+      1710374400,
+      {
+        "Ethereum": {
+          "Morpho Blue": 16474
+        }
+      }
+    ],
+    [
+      1710460800,
+      {
+        "Ethereum": {
+          "Morpho Blue": 19854
+        }
+      }
+    ],
+    [
+      1710547200,
+      {
+        "Ethereum": {
+          "Morpho Blue": 16048
+        }
+      }
+    ],
+    [
+      1710633600,
+      {
+        "Ethereum": {
+          "Morpho Blue": 23188
+        }
+      }
+    ],
+    [
+      1710720000,
+      {
+        "Ethereum": {
+          "Morpho Blue": 27692
+        }
+      }
+    ],
+    [
+      1710806400,
+      {
+        "Ethereum": {
+          "Morpho Blue": 25261
+        }
+      }
+    ],
+    [
       1710892800,
       {
-        "ethereum": {
-          "Morpho Blue": 35108
+        "Ethereum": {
+          "Morpho Blue": 26789
         }
       }
     ],
     [
       1710979200,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 21543
         }
       }
@@ -1890,7 +2327,7 @@
     [
       1711065600,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 19999
         }
       }
@@ -1898,7 +2335,7 @@
     [
       1711152000,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 21777
         }
       }
@@ -1906,7 +2343,7 @@
     [
       1711238400,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 21807
         }
       }
@@ -1914,7 +2351,7 @@
     [
       1711324800,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 18748
         }
       }
@@ -1922,7 +2359,7 @@
     [
       1711411200,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 26113
         }
       }
@@ -1930,7 +2367,7 @@
     [
       1711497600,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 47288
         }
       }
@@ -1938,7 +2375,7 @@
     [
       1711584000,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 36926
         }
       }
@@ -1946,7 +2383,7 @@
     [
       1711670400,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 135526
         }
       }
@@ -1954,7 +2391,7 @@
     [
       1711756800,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 166519
         }
       }
@@ -1962,7 +2399,7 @@
     [
       1711843200,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 206162
         }
       }
@@ -1970,7 +2407,7 @@
     [
       1711929600,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 210633
         }
       }
@@ -1978,7 +2415,7 @@
     [
       1712016000,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 140788
         }
       }
@@ -1986,7 +2423,7 @@
     [
       1712102400,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 213844
         }
       }
@@ -1994,7 +2431,7 @@
     [
       1712188800,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 180608
         }
       }
@@ -2002,7 +2439,7 @@
     [
       1712275200,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 204871
         }
       }
@@ -2010,7 +2447,7 @@
     [
       1712361600,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 201310
         }
       }
@@ -2018,7 +2455,7 @@
     [
       1712448000,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 252491
         }
       }
@@ -2026,7 +2463,7 @@
     [
       1712534400,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 131403
         }
       }
@@ -2034,7 +2471,7 @@
     [
       1712620800,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 268757
         }
       }
@@ -2042,7 +2479,7 @@
     [
       1712707200,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 210655
         }
       }
@@ -2050,7 +2487,7 @@
     [
       1712793600,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 382746
         }
       }
@@ -2058,7 +2495,7 @@
     [
       1712880000,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 241789
         }
       }
@@ -2066,7 +2503,7 @@
     [
       1712966400,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 290833
         }
       }
@@ -2074,7 +2511,7 @@
     [
       1713052800,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 216498
         }
       }
@@ -2082,7 +2519,7 @@
     [
       1713139200,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 222783
         }
       }
@@ -2090,7 +2527,7 @@
     [
       1713225600,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 219698
         }
       }
@@ -2098,7 +2535,7 @@
     [
       1713312000,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 230609
         }
       }
@@ -2106,7 +2543,7 @@
     [
       1713398400,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 228895
         }
       }
@@ -2114,7 +2551,7 @@
     [
       1713484800,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 257949
         }
       }
@@ -2122,7 +2559,7 @@
     [
       1713571200,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 287156
         }
       }
@@ -2130,7 +2567,7 @@
     [
       1713657600,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 253475
         }
       }
@@ -2138,7 +2575,7 @@
     [
       1713744000,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 223542
         }
       }
@@ -2146,7 +2583,7 @@
     [
       1713830400,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 256613
         }
       }
@@ -2154,7 +2591,7 @@
     [
       1713916800,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 194465
         }
       }
@@ -2162,7 +2599,7 @@
     [
       1714003200,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 199245
         }
       }
@@ -2170,7 +2607,7 @@
     [
       1714089600,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 200340
         }
       }
@@ -2178,7 +2615,7 @@
     [
       1714176000,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 200230
         }
       }
@@ -2186,7 +2623,7 @@
     [
       1714262400,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 195941
         }
       }
@@ -2194,7 +2631,7 @@
     [
       1714348800,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 185474
         }
       }
@@ -2202,7 +2639,7 @@
     [
       1714435200,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 180441
         }
       }
@@ -2210,7 +2647,7 @@
     [
       1714521600,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 174807
         }
       }
@@ -2218,7 +2655,7 @@
     [
       1714608000,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 187682
         }
       }
@@ -2226,7 +2663,7 @@
     [
       1714694400,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 174487
         }
       }
@@ -2234,7 +2671,7 @@
     [
       1714780800,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 174914
         }
       }
@@ -2242,7 +2679,7 @@
     [
       1714867200,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 156455
         }
       }
@@ -2250,7 +2687,7 @@
     [
       1714953600,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 147687
         }
       }
@@ -2258,7 +2695,7 @@
     [
       1715040000,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 148109
         }
       }
@@ -2266,7 +2703,7 @@
     [
       1715126400,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 146400
         }
       }
@@ -2274,7 +2711,7 @@
     [
       1715212800,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 143751
         }
       }
@@ -2282,7 +2719,7 @@
     [
       1715299200,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 138584
         }
       }
@@ -2290,7 +2727,7 @@
     [
       1715385600,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 136804
         }
       }
@@ -2298,7 +2735,7 @@
     [
       1715472000,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 139122
         }
       }
@@ -2306,7 +2743,7 @@
     [
       1715558400,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 153710
         }
       }
@@ -2314,7 +2751,7 @@
     [
       1715644800,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 133519
         }
       }
@@ -2322,7 +2759,7 @@
     [
       1715731200,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 148067
         }
       }
@@ -2330,7 +2767,7 @@
     [
       1715817600,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 130091
         }
       }
@@ -2338,7 +2775,7 @@
     [
       1715904000,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 149049
         }
       }
@@ -2346,7 +2783,7 @@
     [
       1715990400,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 165343
         }
       }
@@ -2354,7 +2791,7 @@
     [
       1716076800,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 173351
         }
       }
@@ -2362,7 +2799,7 @@
     [
       1716163200,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 176398
         }
       }
@@ -2370,7 +2807,7 @@
     [
       1716249600,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 159080
         }
       }
@@ -2378,7 +2815,7 @@
     [
       1716336000,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 153482
         }
       }
@@ -2386,7 +2823,7 @@
     [
       1716422400,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 159929
         }
       }
@@ -2394,7 +2831,7 @@
     [
       1716508800,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 159703
         }
       }
@@ -2402,7 +2839,7 @@
     [
       1716595200,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 162353
         }
       }
@@ -2410,7 +2847,7 @@
     [
       1716681600,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 167036
         }
       }
@@ -2418,7 +2855,7 @@
     [
       1716768000,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 170583
         }
       }
@@ -2426,7 +2863,7 @@
     [
       1716854400,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 182873
         }
       }
@@ -2434,7 +2871,7 @@
     [
       1716940800,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 160425
         }
       }
@@ -2442,7 +2879,7 @@
     [
       1717027200,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 113566
         }
       }
@@ -2450,7 +2887,7 @@
     [
       1717113600,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 121795
         }
       }
@@ -2458,7 +2895,7 @@
     [
       1717200000,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 129051
         }
       }
@@ -2466,7 +2903,7 @@
     [
       1717286400,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 218488
         }
       }
@@ -2474,7 +2911,7 @@
     [
       1717372800,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 172048
         }
       }
@@ -2482,7 +2919,7 @@
     [
       1717459200,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 212927
         }
       }
@@ -2490,7 +2927,7 @@
     [
       1717545600,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 129171
         }
       }
@@ -2498,7 +2935,7 @@
     [
       1717632000,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 136531
         }
       }
@@ -2506,7 +2943,7 @@
     [
       1717718400,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 128705
         }
       }
@@ -2514,7 +2951,7 @@
     [
       1717804800,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 123985
         }
       }
@@ -2522,7 +2959,7 @@
     [
       1717891200,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 119682
         }
       }
@@ -2530,10 +2967,10 @@
     [
       1717977600,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 152547
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 0
         }
       }
@@ -2541,10 +2978,10 @@
     [
       1718064000,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 159488
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 0
         }
       }
@@ -2552,10 +2989,10 @@
     [
       1718150400,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 167170
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 0
         }
       }
@@ -2563,10 +3000,10 @@
     [
       1718236800,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 183779
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 0
         }
       }
@@ -2574,10 +3011,10 @@
     [
       1718323200,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 172481
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 0
         }
       }
@@ -2585,10 +3022,10 @@
     [
       1718409600,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 171905
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 0
         }
       }
@@ -2596,10 +3033,10 @@
     [
       1718496000,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 168946
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 0
         }
       }
@@ -2607,10 +3044,10 @@
     [
       1718582400,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 114533
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 0
         }
       }
@@ -2618,10 +3055,10 @@
     [
       1718668800,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 108557
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 3
         }
       }
@@ -2629,10 +3066,10 @@
     [
       1718755200,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 119471
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 15
         }
       }
@@ -2640,10 +3077,10 @@
     [
       1718841600,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 104110
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 63
         }
       }
@@ -2651,10 +3088,10 @@
     [
       1718928000,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 105347
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 85
         }
       }
@@ -2662,10 +3099,10 @@
     [
       1719014400,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 94880
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 110
         }
       }
@@ -2673,10 +3110,10 @@
     [
       1719100800,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 93733
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 258
         }
       }
@@ -2684,10 +3121,10 @@
     [
       1719187200,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 89801
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 230
         }
       }
@@ -2695,10 +3132,10 @@
     [
       1719273600,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 89063
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 253
         }
       }
@@ -2706,10 +3143,10 @@
     [
       1719360000,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 88516
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 274
         }
       }
@@ -2717,10 +3154,10 @@
     [
       1719446400,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 84368
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 357
         }
       }
@@ -2728,10 +3165,10 @@
     [
       1719532800,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 80991
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 450
         }
       }
@@ -2739,10 +3176,10 @@
     [
       1719619200,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 79994
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 535
         }
       }
@@ -2750,10 +3187,10 @@
     [
       1719705600,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 78488
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 477
         }
       }
@@ -2761,10 +3198,10 @@
     [
       1719792000,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 83763
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 593
         }
       }
@@ -2772,10 +3209,10 @@
     [
       1719878400,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 82559
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 827
         }
       }
@@ -2783,10 +3220,10 @@
     [
       1719964800,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 81954
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 629
         }
       }
@@ -2794,10 +3231,10 @@
     [
       1720051200,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 79416
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 1976
         }
       }
@@ -2805,10 +3242,10 @@
     [
       1720137600,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 73492
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 2329
         }
       }
@@ -2816,10 +3253,10 @@
     [
       1720224000,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 71249
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 2278
         }
       }
@@ -2827,10 +3264,10 @@
     [
       1720310400,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 66390
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 3472
         }
       }
@@ -2838,10 +3275,10 @@
     [
       1720396800,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 66193
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 2259
         }
       }
@@ -2849,10 +3286,10 @@
     [
       1720483200,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 65854
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 2329
         }
       }
@@ -2860,10 +3297,10 @@
     [
       1720569600,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 61779
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 5091
         }
       }
@@ -2871,10 +3308,10 @@
     [
       1720656000,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 65002
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 4464
         }
       }
@@ -2882,10 +3319,10 @@
     [
       1720742400,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 62846
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 4965
         }
       }
@@ -2893,10 +3330,10 @@
     [
       1720828800,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 61925
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 2486
         }
       }
@@ -2904,10 +3341,10 @@
     [
       1720915200,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 80868
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 2581
         }
       }
@@ -2915,10 +3352,10 @@
     [
       1721001600,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 71638
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 3984
         }
       }
@@ -2926,10 +3363,10 @@
     [
       1721088000,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 72260
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 4487
         }
       }
@@ -2937,10 +3374,10 @@
     [
       1721174400,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 72316
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 5791
         }
       }
@@ -2948,10 +3385,10 @@
     [
       1721260800,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 68842
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 8380
         }
       }
@@ -2959,10 +3396,10 @@
     [
       1721347200,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 62548
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 4627
         }
       }
@@ -2970,10 +3407,10 @@
     [
       1721433600,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 69071
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 6645
         }
       }
@@ -2981,10 +3418,10 @@
     [
       1721520000,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 69079
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 8329
         }
       }
@@ -2992,10 +3429,10 @@
     [
       1721606400,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 64276
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 5733
         }
       }
@@ -3003,10 +3440,10 @@
     [
       1721692800,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 69594
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 7680
         }
       }
@@ -3014,10 +3451,10 @@
     [
       1721779200,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 71871
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 6702
         }
       }
@@ -3025,10 +3462,10 @@
     [
       1721865600,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 62769
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 7421
         }
       }
@@ -3036,10 +3473,10 @@
     [
       1721952000,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 63405
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 4802
         }
       }
@@ -3047,10 +3484,10 @@
     [
       1722038400,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 64839
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 4318
         }
       }
@@ -3058,10 +3495,10 @@
     [
       1722124800,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 72093
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 5671
         }
       }
@@ -3069,10 +3506,10 @@
     [
       1722211200,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 78714
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 5540
         }
       }
@@ -3080,10 +3517,10 @@
     [
       1722297600,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 68800
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 4458
         }
       }
@@ -3091,10 +3528,10 @@
     [
       1722384000,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 83961
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 4389
         }
       }
@@ -3102,10 +3539,10 @@
     [
       1722470400,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 72396
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 5915
         }
       }
@@ -3113,10 +3550,10 @@
     [
       1722556800,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 69292
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 4359
         }
       }
@@ -3124,10 +3561,10 @@
     [
       1722643200,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 63662
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 5059
         }
       }
@@ -3135,10 +3572,10 @@
     [
       1722729600,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 66669
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 4164
         }
       }
@@ -3146,10 +3583,10 @@
     [
       1722816000,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 77346
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 2690
         }
       }
@@ -3157,10 +3594,10 @@
     [
       1722902400,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 52826
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 2457
         }
       }
@@ -3168,10 +3605,10 @@
     [
       1722988800,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 49425
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 2545
         }
       }
@@ -3179,10 +3616,10 @@
     [
       1723075200,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 63067
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 2461
         }
       }
@@ -3190,10 +3627,10 @@
     [
       1723161600,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 48578
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 2646
         }
       }
@@ -3201,10 +3638,10 @@
     [
       1723248000,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 48722
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 1846
         }
       }
@@ -3212,10 +3649,10 @@
     [
       1723334400,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 49083
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 2526
         }
       }
@@ -3223,10 +3660,10 @@
     [
       1723420800,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 54412
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 2589
         }
       }
@@ -3234,10 +3671,10 @@
     [
       1723507200,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 58021
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 2418
         }
       }
@@ -3245,10 +3682,10 @@
     [
       1723593600,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 69927
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 2403
         }
       }
@@ -3256,10 +3693,10 @@
     [
       1723680000,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 69632
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 2152
         }
       }
@@ -3267,10 +3704,10 @@
     [
       1723766400,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 63649
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 2170
         }
       }
@@ -3278,10 +3715,10 @@
     [
       1723852800,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 64817
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 3441
         }
       }
@@ -3289,10 +3726,10 @@
     [
       1723939200,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 73271
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 3129
         }
       }
@@ -3300,10 +3737,10 @@
     [
       1724025600,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 77263
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 3325
         }
       }
@@ -3311,10 +3748,10 @@
     [
       1724112000,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 66013
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 2884
         }
       }
@@ -3322,10 +3759,10 @@
     [
       1724198400,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 72635
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 3175
         }
       }
@@ -3333,10 +3770,10 @@
     [
       1724284800,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 69932
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 3100
         }
       }
@@ -3344,10 +3781,10 @@
     [
       1724371200,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 78052
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 3169
         }
       }
@@ -3355,10 +3792,10 @@
     [
       1724457600,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 70016
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 3487
         }
       }
@@ -3366,10 +3803,10 @@
     [
       1724544000,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 64165
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 2975
         }
       }
@@ -3377,10 +3814,10 @@
     [
       1724630400,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 73167
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 3369
         }
       }
@@ -3388,10 +3825,10 @@
     [
       1724716800,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 69044
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 3509
         }
       }
@@ -3399,10 +3836,10 @@
     [
       1724803200,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 64350
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 3412
         }
       }
@@ -3410,10 +3847,10 @@
     [
       1724889600,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 62337
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 3779
         }
       }
@@ -3421,10 +3858,10 @@
     [
       1724976000,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 64126
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 2981
         }
       }
@@ -3432,10 +3869,10 @@
     [
       1725062400,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 65249
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 3363
         }
       }
@@ -3443,10 +3880,10 @@
     [
       1725148800,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 65772
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 2915
         }
       }
@@ -3454,10 +3891,10 @@
     [
       1725235200,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 68015
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 3227
         }
       }
@@ -3465,10 +3902,10 @@
     [
       1725321600,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 61946
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 2779
         }
       }
@@ -3476,10 +3913,10 @@
     [
       1725408000,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 79120
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 3698
         }
       }
@@ -3487,10 +3924,10 @@
     [
       1725494400,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 68541
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 3944
         }
       }
@@ -3498,10 +3935,10 @@
     [
       1725580800,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 65594
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 2608
         }
       }
@@ -3509,10 +3946,10 @@
     [
       1725667200,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 64594
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 3161
         }
       }
@@ -3520,10 +3957,10 @@
     [
       1725753600,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 64497
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 3007
         }
       }
@@ -3531,10 +3968,10 @@
     [
       1725840000,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 60611
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 2856
         }
       }
@@ -3542,10 +3979,10 @@
     [
       1725926400,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 59519
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 3647
         }
       }
@@ -3553,10 +3990,10 @@
     [
       1726012800,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 59545
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 3209
         }
       }
@@ -3564,10 +4001,10 @@
     [
       1726099200,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 61634
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 3697
         }
       }
@@ -3575,10 +4012,10 @@
     [
       1726185600,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 62602
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 4249
         }
       }
@@ -3586,10 +4023,10 @@
     [
       1726272000,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 61492
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 2656
         }
       }
@@ -3597,10 +4034,10 @@
     [
       1726358400,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 80845
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 3019
         }
       }
@@ -3608,10 +4045,10 @@
     [
       1726444800,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 65972
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 3473
         }
       }
@@ -3619,10 +4056,10 @@
     [
       1726531200,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 82436
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 3851
         }
       }
@@ -3630,10 +4067,10 @@
     [
       1726617600,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 72288
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 3246
         }
       }
@@ -3641,10 +4078,10 @@
     [
       1726704000,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 62815
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 3492
         }
       }
@@ -3652,10 +4089,10 @@
     [
       1726790400,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 63944
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 3315
         }
       }
@@ -3663,10 +4100,10 @@
     [
       1726876800,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 66366
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 3249
         }
       }
@@ -3674,10 +4111,10 @@
     [
       1726963200,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 67718
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 3181
         }
       }
@@ -3685,10 +4122,10 @@
     [
       1727049600,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 62920
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 2964
         }
       }
@@ -3696,10 +4133,10 @@
     [
       1727136000,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 78144
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 3028
         }
       }
@@ -3707,10 +4144,10 @@
     [
       1727222400,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 56494
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 3238
         }
       }
@@ -3718,10 +4155,10 @@
     [
       1727308800,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 44239
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 3014
         }
       }
@@ -3729,10 +4166,10 @@
     [
       1727395200,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 37357
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 4054
         }
       }
@@ -3740,10 +4177,10 @@
     [
       1727481600,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 37348
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 3385
         }
       }
@@ -3751,10 +4188,10 @@
     [
       1727568000,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 32901
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 3241
         }
       }
@@ -3762,10 +4199,10 @@
     [
       1727654400,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 36230
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 3667
         }
       }
@@ -3773,10 +4210,10 @@
     [
       1727740800,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 34522
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 3282
         }
       }
@@ -3784,10 +4221,10 @@
     [
       1727827200,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 34418
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 3508
         }
       }
@@ -3795,10 +4232,10 @@
     [
       1727913600,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 112825
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 2995
         }
       }
@@ -3806,10 +4243,10 @@
     [
       1728000000,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 58107
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 3332
         }
       }
@@ -3817,10 +4254,10 @@
     [
       1728086400,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 63006
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 2699
         }
       }
@@ -3828,10 +4265,10 @@
     [
       1728172800,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 89006
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 2392
         }
       }
@@ -3839,10 +4276,10 @@
     [
       1728259200,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 83075
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 3684
         }
       }
@@ -3850,10 +4287,10 @@
     [
       1728345600,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 136637
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 3175
         }
       }
@@ -3861,10 +4298,10 @@
     [
       1728432000,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 51433
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 3105
         }
       }
@@ -3872,10 +4309,10 @@
     [
       1728518400,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 121526
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 3096
         }
       }
@@ -3883,10 +4320,10 @@
     [
       1728604800,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 77918
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 3710
         }
       }
@@ -3894,10 +4331,10 @@
     [
       1728691200,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 40885
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 4136
         }
       }
@@ -3905,10 +4342,10 @@
     [
       1728777600,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 68543
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 4546
         }
       }
@@ -3916,10 +4353,10 @@
     [
       1728864000,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 91855
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 3940
         }
       }
@@ -3927,10 +4364,10 @@
     [
       1728950400,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 68478
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 4790
         }
       }
@@ -3938,10 +4375,10 @@
     [
       1729036800,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 102884
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 3746
         }
       }
@@ -3949,10 +4386,10 @@
     [
       1729123200,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 74308
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 5282
         }
       }
@@ -3960,10 +4397,10 @@
     [
       1729209600,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 36659
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 4440
         }
       }
@@ -3971,10 +4408,10 @@
     [
       1729296000,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 80284
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 3696
         }
       }
@@ -3982,10 +4419,10 @@
     [
       1729382400,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 69956
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 5287
         }
       }
@@ -3993,10 +4430,10 @@
     [
       1729468800,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 56353
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 4353
         }
       }
@@ -4004,10 +4441,10 @@
     [
       1729555200,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 69264
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 4170
         }
       }
@@ -4015,10 +4452,10 @@
     [
       1729641600,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 55247
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 4646
         }
       }
@@ -4026,10 +4463,10 @@
     [
       1729728000,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 66187
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 4134
         }
       }
@@ -4037,10 +4474,10 @@
     [
       1729814400,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 115934
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 6951
         }
       }
@@ -4048,10 +4485,10 @@
     [
       1729900800,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 67019
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 4296
         }
       }
@@ -4059,10 +4496,10 @@
     [
       1729987200,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 103162
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 4019
         }
       }
@@ -4070,10 +4507,10 @@
     [
       1730073600,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 146370
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 4233
         }
       }
@@ -4081,10 +4518,10 @@
     [
       1730160000,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 123061
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 4176
         }
       }
@@ -4092,10 +4529,10 @@
     [
       1730246400,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 157521
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 4559
         }
       }
@@ -4103,10 +4540,10 @@
     [
       1730332800,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 111465
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 4712
         }
       }
@@ -4114,10 +4551,10 @@
     [
       1730419200,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 158277
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 6693
         }
       }
@@ -4125,10 +4562,10 @@
     [
       1730505600,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 160919
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 4585
         }
       }
@@ -4136,10 +4573,10 @@
     [
       1730592000,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 146639
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 5045
         }
       }
@@ -4147,10 +4584,10 @@
     [
       1730678400,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 108985
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 4453
         }
       }
@@ -4158,10 +4595,10 @@
     [
       1730764800,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 131041
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 5396
         }
       }
@@ -4169,10 +4606,10 @@
     [
       1730851200,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 124190
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 6259
         }
       }
@@ -4180,10 +4617,10 @@
     [
       1730937600,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 125665
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 7076
         }
       }
@@ -4191,10 +4628,10 @@
     [
       1731024000,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 100105
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 5777
         }
       }
@@ -4202,10 +4639,10 @@
     [
       1731110400,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 111590
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 6613
         }
       }
@@ -4213,10 +4650,10 @@
     [
       1731196800,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 138417
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 6565
         }
       }
@@ -4224,10 +4661,10 @@
     [
       1731283200,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 188632
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 8908
         }
       }
@@ -4235,10 +4672,10 @@
     [
       1731369600,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 164133
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 10286
         }
       }
@@ -4246,10 +4683,10 @@
     [
       1731456000,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 164387
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 12809
         }
       }
@@ -4257,10 +4694,10 @@
     [
       1731542400,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 190538
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 13463
         }
       }
@@ -4268,10 +4705,10 @@
     [
       1731628800,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 157543
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 11213
         }
       }
@@ -4279,10 +4716,10 @@
     [
       1731715200,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 191109
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 11883
         }
       }
@@ -4290,10 +4727,10 @@
     [
       1731801600,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 198450
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 11756
         }
       }
@@ -4301,10 +4738,10 @@
     [
       1731888000,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 157841
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 9253
         }
       }
@@ -4312,10 +4749,10 @@
     [
       1731974400,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 190660
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 11413
         }
       }
@@ -4323,10 +4760,10 @@
     [
       1732060800,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 199812
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 15161
         }
       }
@@ -4334,10 +4771,10 @@
     [
       1732147200,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 201813
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 12576
         }
       }
@@ -4345,10 +4782,10 @@
     [
       1732233600,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 192796
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 12042
         }
       }
@@ -4356,10 +4793,10 @@
     [
       1732320000,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 277468
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 12017
         }
       }
@@ -4367,10 +4804,10 @@
     [
       1732406400,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 291833
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 11426
         }
       }
@@ -4378,10 +4815,10 @@
     [
       1732492800,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 237137
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 14985
         }
       }
@@ -4389,10 +4826,10 @@
     [
       1732579200,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 247254
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 14460
         }
       }
@@ -4400,10 +4837,10 @@
     [
       1732665600,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 300786
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 12638
         }
       }
@@ -4411,10 +4848,10 @@
     [
       1732752000,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 282443
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 12362
         }
       }
@@ -4422,10 +4859,10 @@
     [
       1732838400,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 354588
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 13345
         }
       }
@@ -4433,10 +4870,10 @@
     [
       1732924800,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 347324
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 14818
         }
       }
@@ -4444,10 +4881,10 @@
     [
       1733011200,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 327829
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 16889
         }
       }
@@ -4455,10 +4892,10 @@
     [
       1733097600,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 327757
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 22657
         }
       }
@@ -4466,10 +4903,10 @@
     [
       1733184000,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 436079
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 28511
         }
       }
@@ -4477,10 +4914,10 @@
     [
       1733270400,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 391107
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 20097
         }
       }
@@ -4488,10 +4925,10 @@
     [
       1733356800,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 400768
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 23013
         }
       }
@@ -4499,10 +4936,10 @@
     [
       1733443200,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 380760
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 27096
         }
       }
@@ -4510,10 +4947,10 @@
     [
       1733529600,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 331064
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 21660
         }
       }
@@ -4521,10 +4958,10 @@
     [
       1733616000,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 456280
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 21673
         }
       }
@@ -4532,10 +4969,10 @@
     [
       1733702400,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 384798
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 25570
         }
       }
@@ -4543,10 +4980,10 @@
     [
       1733788800,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 433525
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 26668
         }
       }
@@ -4554,10 +4991,10 @@
     [
       1733875200,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 478768
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 23653
         }
       }
@@ -4565,10 +5002,10 @@
     [
       1733961600,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 444471
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 22893
         }
       }
@@ -4576,10 +5013,10 @@
     [
       1734048000,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 387927
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 22566
         }
       }
@@ -4587,10 +5024,10 @@
     [
       1734134400,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 362437
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 30138
         }
       }
@@ -4598,10 +5035,10 @@
     [
       1734220800,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 392483
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 27704
         }
       }
@@ -4609,10 +5046,10 @@
     [
       1734307200,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 425896
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 28249
         }
       }
@@ -4620,10 +5057,10 @@
     [
       1734393600,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 438893
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 23207
         }
       }
@@ -4631,10 +5068,10 @@
     [
       1734480000,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 379758
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 28076
         }
       }
@@ -4642,10 +5079,10 @@
     [
       1734566400,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 517687
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 22365
         }
       }
@@ -4653,10 +5090,10 @@
     [
       1734652800,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 403002
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 23061
         }
       }
@@ -4664,10 +5101,10 @@
     [
       1734739200,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 328197
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 21705
         }
       }
@@ -4675,10 +5112,10 @@
     [
       1734825600,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 358544
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 21363
         }
       }
@@ -4686,10 +5123,10 @@
     [
       1734912000,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 413924
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 21227
         }
       }
@@ -4697,10 +5134,10 @@
     [
       1734998400,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 383090
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 24438
         }
       }
@@ -4708,10 +5145,10 @@
     [
       1735084800,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 374245
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 22779
         }
       }
@@ -4719,10 +5156,10 @@
     [
       1735171200,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 369256
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 20206
         }
       }
@@ -4730,10 +5167,10 @@
     [
       1735257600,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 351671
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 20364
         }
       }
@@ -4741,10 +5178,10 @@
     [
       1735344000,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 324211
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 20234
         }
       }
@@ -4752,10 +5189,10 @@
     [
       1735430400,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 402883
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 18177
         }
       }
@@ -4763,10 +5200,10 @@
     [
       1735516800,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 353186
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 21293
         }
       }
@@ -4774,10 +5211,10 @@
     [
       1735603200,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 405694
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 19737
         }
       }
@@ -4785,10 +5222,10 @@
     [
       1735689600,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 394151
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 18863
         }
       }
@@ -4796,10 +5233,10 @@
     [
       1735776000,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 364862
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 19603
         }
       }
@@ -4807,10 +5244,10 @@
     [
       1735862400,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 391327
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 21608
         }
       }
@@ -4818,10 +5255,10 @@
     [
       1735948800,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 459457
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 19549
         }
       }
@@ -4829,10 +5266,10 @@
     [
       1736035200,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 431588
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 19481
         }
       }
@@ -4840,10 +5277,10 @@
     [
       1736121600,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 448688
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 19789
         }
       }
@@ -4851,10 +5288,10 @@
     [
       1736208000,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 410319
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 16760
         }
       }
@@ -4862,10 +5299,10 @@
     [
       1736294400,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 468055
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 19422
         }
       }
@@ -4873,10 +5310,10 @@
     [
       1736380800,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 414043
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 23070
         }
       }
@@ -4884,10 +5321,10 @@
     [
       1736467200,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 425391
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 19742
         }
       }
@@ -4895,10 +5332,10 @@
     [
       1736553600,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 485151
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 20354
         }
       }
@@ -4906,10 +5343,10 @@
     [
       1736640000,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 506005
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 19007
         }
       }
@@ -4917,10 +5354,10 @@
     [
       1736726400,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 561790
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 19309
         }
       }
@@ -4928,10 +5365,10 @@
     [
       1736812800,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 524591
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 19339
         }
       }
@@ -4939,10 +5376,10 @@
     [
       1736899200,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 521462
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 21084
         }
       }
@@ -4950,10 +5387,10 @@
     [
       1736985600,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 564171
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 17907
         }
       }
@@ -4961,10 +5398,10 @@
     [
       1737072000,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 501605
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 21002
         }
       }
@@ -4972,10 +5409,10 @@
     [
       1737158400,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 576820
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 24601
         }
       }
@@ -4983,10 +5420,10 @@
     [
       1737244800,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 625176
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 30143
         }
       }
@@ -4994,10 +5431,10 @@
     [
       1737331200,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 604346
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 30440
         }
       }
@@ -5005,13 +5442,13 @@
     [
       1737417600,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 530250
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 29545
         },
-        "polygon": {
+        "Polygon": {
           "Morpho Blue": 0
         }
       }
@@ -5019,13 +5456,13 @@
     [
       1737504000,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 519408
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 37693
         },
-        "polygon": {
+        "Polygon": {
           "Morpho Blue": 0
         }
       }
@@ -5033,13 +5470,13 @@
     [
       1737590400,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 518940
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 31803
         },
-        "polygon": {
+        "Polygon": {
           "Morpho Blue": 0
         }
       }
@@ -5047,13 +5484,13 @@
     [
       1737676800,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 522919
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 28273
         },
-        "polygon": {
+        "Polygon": {
           "Morpho Blue": 0
         }
       }
@@ -5061,13 +5498,13 @@
     [
       1737763200,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 533649
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 28557
         },
-        "polygon": {
+        "Polygon": {
           "Morpho Blue": 0
         }
       }
@@ -5075,13 +5512,13 @@
     [
       1737849600,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 430421
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 29389
         },
-        "polygon": {
+        "Polygon": {
           "Morpho Blue": 0
         }
       }
@@ -5089,13 +5526,13 @@
     [
       1737936000,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 587080
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 33162
         },
-        "polygon": {
+        "Polygon": {
           "Morpho Blue": 0
         }
       }
@@ -5103,13 +5540,13 @@
     [
       1738022400,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 473294
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 34109
         },
-        "polygon": {
+        "Polygon": {
           "Morpho Blue": 0
         }
       }
@@ -5117,13 +5554,13 @@
     [
       1738108800,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 490639
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 29557
         },
-        "polygon": {
+        "Polygon": {
           "Morpho Blue": 0
         }
       }
@@ -5131,13 +5568,13 @@
     [
       1738195200,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 541986
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 29523
         },
-        "polygon": {
+        "Polygon": {
           "Morpho Blue": 0
         }
       }
@@ -5145,13 +5582,13 @@
     [
       1738281600,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 556332
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 30383
         },
-        "polygon": {
+        "Polygon": {
           "Morpho Blue": 0
         }
       }
@@ -5159,13 +5596,13 @@
     [
       1738368000,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 635770
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 32541
         },
-        "polygon": {
+        "Polygon": {
           "Morpho Blue": 0
         }
       }
@@ -5173,13 +5610,13 @@
     [
       1738454400,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 596514
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 32037
         },
-        "polygon": {
+        "Polygon": {
           "Morpho Blue": 0
         }
       }
@@ -5187,13 +5624,13 @@
     [
       1738540800,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 804439
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 38404
         },
-        "polygon": {
+        "Polygon": {
           "Morpho Blue": 0
         }
       }
@@ -5201,13 +5638,13 @@
     [
       1738627200,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 555580
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 30259
         },
-        "polygon": {
+        "Polygon": {
           "Morpho Blue": 0
         }
       }
@@ -5215,13 +5652,13 @@
     [
       1738713600,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 577967
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 33108
         },
-        "polygon": {
+        "Polygon": {
           "Morpho Blue": 0
         }
       }
@@ -5229,13 +5666,13 @@
     [
       1738800000,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 521759
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 26018
         },
-        "polygon": {
+        "Polygon": {
           "Morpho Blue": 0
         }
       }
@@ -5243,13 +5680,13 @@
     [
       1738886400,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 463078
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 23374
         },
-        "polygon": {
+        "Polygon": {
           "Morpho Blue": 0
         }
       }
@@ -5257,13 +5694,13 @@
     [
       1738972800,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 551755
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 25342
         },
-        "polygon": {
+        "Polygon": {
           "Morpho Blue": 0
         }
       }
@@ -5271,13 +5708,13 @@
     [
       1739059200,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 471374
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 21648
         },
-        "polygon": {
+        "Polygon": {
           "Morpho Blue": 0
         }
       }
@@ -5285,13 +5722,13 @@
     [
       1739145600,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 513484
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 24630
         },
-        "polygon": {
+        "Polygon": {
           "Morpho Blue": 0
         }
       }
@@ -5299,13 +5736,13 @@
     [
       1739232000,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 462454
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 22099
         },
-        "polygon": {
+        "Polygon": {
           "Morpho Blue": 0
         }
       }
@@ -5313,13 +5750,13 @@
     [
       1739318400,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 460743
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 25453
         },
-        "polygon": {
+        "Polygon": {
           "Morpho Blue": 0
         }
       }
@@ -5327,13 +5764,13 @@
     [
       1739404800,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 435861
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 32662
         },
-        "polygon": {
+        "Polygon": {
           "Morpho Blue": 0
         }
       }
@@ -5341,13 +5778,13 @@
     [
       1739491200,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 428795
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 32085
         },
-        "polygon": {
+        "Polygon": {
           "Morpho Blue": 0
         }
       }
@@ -5355,13 +5792,13 @@
     [
       1739577600,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 445133
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 28411
         },
-        "polygon": {
+        "Polygon": {
           "Morpho Blue": 0
         }
       }
@@ -5369,13 +5806,13 @@
     [
       1739664000,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 408273
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 27211
         },
-        "polygon": {
+        "Polygon": {
           "Morpho Blue": 0
         }
       }
@@ -5383,13 +5820,13 @@
     [
       1739750400,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 457008
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 30926
         },
-        "polygon": {
+        "Polygon": {
           "Morpho Blue": 0
         }
       }
@@ -5397,13 +5834,13 @@
     [
       1739836800,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 376771
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 41669
         },
-        "polygon": {
+        "Polygon": {
           "Morpho Blue": 0
         }
       }
@@ -5411,16 +5848,16 @@
     [
       1739923200,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 438953
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 34680
         },
-        "polygon": {
+        "Polygon": {
           "Morpho Blue": 0
         },
-        "unichain": {
+        "Unichain": {
           "Morpho Blue": 0
         }
       }
@@ -5428,16 +5865,16 @@
     [
       1740009600,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 441709
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 48075
         },
-        "polygon": {
+        "Polygon": {
           "Morpho Blue": 0
         },
-        "unichain": {
+        "Unichain": {
           "Morpho Blue": 0
         }
       }
@@ -5445,16 +5882,16 @@
     [
       1740096000,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 425816
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 33368
         },
-        "polygon": {
+        "Polygon": {
           "Morpho Blue": 0
         },
-        "unichain": {
+        "Unichain": {
           "Morpho Blue": 0
         }
       }
@@ -5462,16 +5899,16 @@
     [
       1740182400,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 399865
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 37444
         },
-        "polygon": {
+        "Polygon": {
           "Morpho Blue": 0
         },
-        "unichain": {
+        "Unichain": {
           "Morpho Blue": 0
         }
       }
@@ -5479,16 +5916,16 @@
     [
       1740268800,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 404086
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 36689
         },
-        "polygon": {
+        "Polygon": {
           "Morpho Blue": 0
         },
-        "unichain": {
+        "Unichain": {
           "Morpho Blue": 0
         }
       }
@@ -5496,16 +5933,16 @@
     [
       1740355200,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 499088
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 35338
         },
-        "polygon": {
+        "Polygon": {
           "Morpho Blue": 0
         },
-        "unichain": {
+        "Unichain": {
           "Morpho Blue": 0
         }
       }
@@ -5513,16 +5950,16 @@
     [
       1740441600,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 692309
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 43121
         },
-        "polygon": {
+        "Polygon": {
           "Morpho Blue": 0
         },
-        "unichain": {
+        "Unichain": {
           "Morpho Blue": 0
         }
       }
@@ -5530,16 +5967,16 @@
     [
       1740528000,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 685075
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 32017
         },
-        "polygon": {
+        "Polygon": {
           "Morpho Blue": 0
         },
-        "unichain": {
+        "Unichain": {
           "Morpho Blue": 0
         }
       }
@@ -5547,16 +5984,16 @@
     [
       1740614400,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 493283
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 33641
         },
-        "polygon": {
+        "Polygon": {
           "Morpho Blue": 0
         },
-        "unichain": {
+        "Unichain": {
           "Morpho Blue": 0
         }
       }
@@ -5564,16 +6001,16 @@
     [
       1740700800,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 400803
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 32029
         },
-        "polygon": {
+        "Polygon": {
           "Morpho Blue": 0
         },
-        "unichain": {
+        "Unichain": {
           "Morpho Blue": 0
         }
       }
@@ -5581,16 +6018,16 @@
     [
       1740787200,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 396619
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 31807
         },
-        "polygon": {
+        "Polygon": {
           "Morpho Blue": 0
         },
-        "unichain": {
+        "Unichain": {
           "Morpho Blue": 0
         }
       }
@@ -5598,16 +6035,16 @@
     [
       1740873600,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 408465
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 33971
         },
-        "polygon": {
+        "Polygon": {
           "Morpho Blue": 0
         },
-        "unichain": {
+        "Unichain": {
           "Morpho Blue": 0
         }
       }
@@ -5615,16 +6052,16 @@
     [
       1740960000,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 386043
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 32639
         },
-        "polygon": {
+        "Polygon": {
           "Morpho Blue": 0
         },
-        "unichain": {
+        "Unichain": {
           "Morpho Blue": 0
         }
       }
@@ -5632,16 +6069,16 @@
     [
       1741046400,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 372660
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 35902
         },
-        "polygon": {
+        "Polygon": {
           "Morpho Blue": 0
         },
-        "unichain": {
+        "Unichain": {
           "Morpho Blue": 0
         }
       }
@@ -5649,16 +6086,16 @@
     [
       1741132800,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 352967
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 36073
         },
-        "polygon": {
+        "Polygon": {
           "Morpho Blue": 0
         },
-        "unichain": {
+        "Unichain": {
           "Morpho Blue": 0
         }
       }
@@ -5666,16 +6103,16 @@
     [
       1741219200,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 320746
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 35776
         },
-        "polygon": {
+        "Polygon": {
           "Morpho Blue": 0
         },
-        "unichain": {
+        "Unichain": {
           "Morpho Blue": 0
         }
       }
@@ -5683,16 +6120,16 @@
     [
       1741305600,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 349511
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 34409
         },
-        "polygon": {
+        "Polygon": {
           "Morpho Blue": 0
         },
-        "unichain": {
+        "Unichain": {
           "Morpho Blue": 0
         }
       }
@@ -5700,16 +6137,16 @@
     [
       1741392000,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 316510
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 34012
         },
-        "polygon": {
+        "Polygon": {
           "Morpho Blue": 0
         },
-        "unichain": {
+        "Unichain": {
           "Morpho Blue": 0
         }
       }
@@ -5717,16 +6154,16 @@
     [
       1741478400,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 341667
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 35001
         },
-        "polygon": {
+        "Polygon": {
           "Morpho Blue": 0
         },
-        "unichain": {
+        "Unichain": {
           "Morpho Blue": 0
         }
       }
@@ -5734,16 +6171,16 @@
     [
       1741564800,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 305434
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 31514
         },
-        "polygon": {
+        "Polygon": {
           "Morpho Blue": 0
         },
-        "unichain": {
+        "Unichain": {
           "Morpho Blue": 0
         }
       }
@@ -5751,16 +6188,16 @@
     [
       1741651200,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 307640
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 34213
         },
-        "polygon": {
+        "Polygon": {
           "Morpho Blue": 0
         },
-        "unichain": {
+        "Unichain": {
           "Morpho Blue": 0
         }
       }
@@ -5768,16 +6205,16 @@
     [
       1741737600,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 274781
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 29525
         },
-        "polygon": {
+        "Polygon": {
           "Morpho Blue": 0
         },
-        "unichain": {
+        "Unichain": {
           "Morpho Blue": 0
         }
       }
@@ -5785,16 +6222,16 @@
     [
       1741824000,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 325989
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 30762
         },
-        "polygon": {
+        "Polygon": {
           "Morpho Blue": 0
         },
-        "unichain": {
+        "Unichain": {
           "Morpho Blue": 0
         }
       }
@@ -5802,16 +6239,16 @@
     [
       1741910400,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 278239
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 32117
         },
-        "polygon": {
+        "Polygon": {
           "Morpho Blue": 8
         },
-        "unichain": {
+        "Unichain": {
           "Morpho Blue": 0
         }
       }
@@ -5819,16 +6256,16 @@
     [
       1741996800,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 279528
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 27750
         },
-        "polygon": {
+        "Polygon": {
           "Morpho Blue": 9
         },
-        "unichain": {
+        "Unichain": {
           "Morpho Blue": 0
         }
       }
@@ -5836,16 +6273,16 @@
     [
       1742083200,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 289651
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 26807
         },
-        "polygon": {
+        "Polygon": {
           "Morpho Blue": 0
         },
-        "unichain": {
+        "Unichain": {
           "Morpho Blue": 0
         }
       }
@@ -5853,16 +6290,16 @@
     [
       1742169600,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 320573
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 30260
         },
-        "polygon": {
+        "Polygon": {
           "Morpho Blue": 0
         },
-        "unichain": {
+        "Unichain": {
           "Morpho Blue": 0
         }
       }
@@ -5870,16 +6307,16 @@
     [
       1742256000,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 300291
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 28220
         },
-        "polygon": {
+        "Polygon": {
           "Morpho Blue": 18
         },
-        "unichain": {
+        "Unichain": {
           "Morpho Blue": 0
         }
       }
@@ -5887,16 +6324,16 @@
     [
       1742342400,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 280677
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 29569
         },
-        "polygon": {
+        "Polygon": {
           "Morpho Blue": 116
         },
-        "unichain": {
+        "Unichain": {
           "Morpho Blue": 0
         }
       }
@@ -5904,16 +6341,16 @@
     [
       1742428800,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 322878
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 32683
         },
-        "polygon": {
+        "Polygon": {
           "Morpho Blue": 3
         },
-        "unichain": {
+        "Unichain": {
           "Morpho Blue": 0
         }
       }
@@ -5921,16 +6358,16 @@
     [
       1742515200,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 351091
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 33570
         },
-        "polygon": {
+        "Polygon": {
           "Morpho Blue": 154
         },
-        "unichain": {
+        "Unichain": {
           "Morpho Blue": 0
         }
       }
@@ -5938,16 +6375,16 @@
     [
       1742601600,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 265761
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 32183
         },
-        "polygon": {
+        "Polygon": {
           "Morpho Blue": 64
         },
-        "unichain": {
+        "Unichain": {
           "Morpho Blue": 0
         }
       }
@@ -5955,16 +6392,16 @@
     [
       1742688000,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 307535
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 33480
         },
-        "polygon": {
+        "Polygon": {
           "Morpho Blue": 66
         },
-        "unichain": {
+        "Unichain": {
           "Morpho Blue": 0
         }
       }
@@ -5972,16 +6409,16 @@
     [
       1742774400,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 244007
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 33720
         },
-        "polygon": {
+        "Polygon": {
           "Morpho Blue": 35
         },
-        "unichain": {
+        "Unichain": {
           "Morpho Blue": 0
         }
       }
@@ -5989,16 +6426,16 @@
     [
       1742860800,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 259828
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 31496
         },
-        "polygon": {
+        "Polygon": {
           "Morpho Blue": 37
         },
-        "unichain": {
+        "Unichain": {
           "Morpho Blue": 0
         }
       }
@@ -6006,16 +6443,16 @@
     [
       1742947200,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 233495
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 32518
         },
-        "polygon": {
+        "Polygon": {
           "Morpho Blue": 121
         },
-        "unichain": {
+        "Unichain": {
           "Morpho Blue": 0
         }
       }
@@ -6023,16 +6460,16 @@
     [
       1743033600,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 215082
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 31790
         },
-        "polygon": {
+        "Polygon": {
           "Morpho Blue": 116
         },
-        "unichain": {
+        "Unichain": {
           "Morpho Blue": 0
         }
       }
@@ -6040,16 +6477,16 @@
     [
       1743120000,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 225986
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 30202
         },
-        "polygon": {
+        "Polygon": {
           "Morpho Blue": 227
         },
-        "unichain": {
+        "Unichain": {
           "Morpho Blue": 0
         }
       }
@@ -6057,16 +6494,16 @@
     [
       1743206400,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 208153
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 33160
         },
-        "polygon": {
+        "Polygon": {
           "Morpho Blue": 65
         },
-        "unichain": {
+        "Unichain": {
           "Morpho Blue": 0
         }
       }
@@ -6074,16 +6511,16 @@
     [
       1743292800,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 202227
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 21945
         },
-        "polygon": {
+        "Polygon": {
           "Morpho Blue": 194
         },
-        "unichain": {
+        "Unichain": {
           "Morpho Blue": 0
         }
       }
@@ -6091,16 +6528,16 @@
     [
       1743379200,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 182516
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 22383
         },
-        "polygon": {
+        "Polygon": {
           "Morpho Blue": 108
         },
-        "unichain": {
+        "Unichain": {
           "Morpho Blue": 0
         }
       }
@@ -6108,16 +6545,16 @@
     [
       1743465600,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 192842
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 27008
         },
-        "polygon": {
+        "Polygon": {
           "Morpho Blue": 53
         },
-        "unichain": {
+        "Unichain": {
           "Morpho Blue": 0
         }
       }
@@ -6125,16 +6562,16 @@
     [
       1743552000,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 211389
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 28543
         },
-        "polygon": {
+        "Polygon": {
           "Morpho Blue": 185
         },
-        "unichain": {
+        "Unichain": {
           "Morpho Blue": 0
         }
       }
@@ -6142,16 +6579,16 @@
     [
       1743638400,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 210504
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 31812
         },
-        "polygon": {
+        "Polygon": {
           "Morpho Blue": 231
         },
-        "unichain": {
+        "Unichain": {
           "Morpho Blue": 0
         }
       }
@@ -6159,16 +6596,16 @@
     [
       1743724800,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 196466
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 31845
         },
-        "polygon": {
+        "Polygon": {
           "Morpho Blue": 205
         },
-        "unichain": {
+        "Unichain": {
           "Morpho Blue": 0
         }
       }
@@ -6176,16 +6613,16 @@
     [
       1743811200,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 195754
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 35153
         },
-        "polygon": {
+        "Polygon": {
           "Morpho Blue": 45
         },
-        "unichain": {
+        "Unichain": {
           "Morpho Blue": 0
         }
       }
@@ -6193,16 +6630,16 @@
     [
       1743897600,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 216892
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 36663
         },
-        "polygon": {
+        "Polygon": {
           "Morpho Blue": 324
         },
-        "unichain": {
+        "Unichain": {
           "Morpho Blue": 0
         }
       }
@@ -6210,16 +6647,16 @@
     [
       1743984000,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 224478
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 37275
         },
-        "polygon": {
+        "Polygon": {
           "Morpho Blue": 205
         },
-        "unichain": {
+        "Unichain": {
           "Morpho Blue": 0
         }
       }
@@ -6227,16 +6664,16 @@
     [
       1744070400,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 179316
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 30889
         },
-        "polygon": {
+        "Polygon": {
           "Morpho Blue": 186
         },
-        "unichain": {
+        "Unichain": {
           "Morpho Blue": 0
         }
       }
@@ -6244,16 +6681,16 @@
     [
       1744156800,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 182847
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 32398
         },
-        "polygon": {
+        "Polygon": {
           "Morpho Blue": 269
         },
-        "unichain": {
+        "Unichain": {
           "Morpho Blue": 0
         }
       }
@@ -6261,16 +6698,16 @@
     [
       1744243200,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 204103
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 34393
         },
-        "polygon": {
+        "Polygon": {
           "Morpho Blue": 186
         },
-        "unichain": {
+        "Unichain": {
           "Morpho Blue": 0
         }
       }
@@ -6278,16 +6715,16 @@
     [
       1744329600,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 245229
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 34011
         },
-        "polygon": {
+        "Polygon": {
           "Morpho Blue": 234
         },
-        "unichain": {
+        "Unichain": {
           "Morpho Blue": 0
         }
       }
@@ -6295,16 +6732,16 @@
     [
       1744416000,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 208782
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 31753
         },
-        "polygon": {
+        "Polygon": {
           "Morpho Blue": 224
         },
-        "unichain": {
+        "Unichain": {
           "Morpho Blue": 0
         }
       }
@@ -6312,16 +6749,16 @@
     [
       1744502400,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 190939
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 28219
         },
-        "polygon": {
+        "Polygon": {
           "Morpho Blue": 140
         },
-        "unichain": {
+        "Unichain": {
           "Morpho Blue": 0
         }
       }
@@ -6329,16 +6766,16 @@
     [
       1744588800,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 212436
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 29053
         },
-        "polygon": {
+        "Polygon": {
           "Morpho Blue": 400
         },
-        "unichain": {
+        "Unichain": {
           "Morpho Blue": 0
         }
       }
@@ -6346,16 +6783,16 @@
     [
       1744675200,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 188849
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 30242
         },
-        "polygon": {
+        "Polygon": {
           "Morpho Blue": 166
         },
-        "unichain": {
+        "Unichain": {
           "Morpho Blue": 0
         }
       }
@@ -6363,16 +6800,16 @@
     [
       1744761600,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 180771
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 29327
         },
-        "polygon": {
+        "Polygon": {
           "Morpho Blue": 148
         },
-        "unichain": {
+        "Unichain": {
           "Morpho Blue": 0
         }
       }
@@ -6380,16 +6817,16 @@
     [
       1744848000,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 178553
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 28872
         },
-        "polygon": {
+        "Polygon": {
           "Morpho Blue": 512
         },
-        "unichain": {
+        "Unichain": {
           "Morpho Blue": 0
         }
       }
@@ -6397,16 +6834,16 @@
     [
       1744934400,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 212761
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 26926
         },
-        "polygon": {
+        "Polygon": {
           "Morpho Blue": 468
         },
-        "unichain": {
+        "Unichain": {
           "Morpho Blue": 0
         }
       }
@@ -6414,16 +6851,16 @@
     [
       1745020800,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 187324
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 28024
         },
-        "polygon": {
+        "Polygon": {
           "Morpho Blue": 322
         },
-        "unichain": {
+        "Unichain": {
           "Morpho Blue": 0
         }
       }
@@ -6431,16 +6868,16 @@
     [
       1745107200,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 190214
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 27628
         },
-        "polygon": {
+        "Polygon": {
           "Morpho Blue": 452
         },
-        "unichain": {
+        "Unichain": {
           "Morpho Blue": 0
         }
       }
@@ -6448,16 +6885,16 @@
     [
       1745193600,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 195731
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 28238
         },
-        "polygon": {
+        "Polygon": {
           "Morpho Blue": 349
         },
-        "unichain": {
+        "Unichain": {
           "Morpho Blue": 0
         }
       }
@@ -6465,16 +6902,16 @@
     [
       1745280000,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 220263
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 29393
         },
-        "polygon": {
+        "Polygon": {
           "Morpho Blue": 746
         },
-        "unichain": {
+        "Unichain": {
           "Morpho Blue": 0
         }
       }
@@ -6482,16 +6919,16 @@
     [
       1745366400,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 188523
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 30867
         },
-        "polygon": {
+        "Polygon": {
           "Morpho Blue": 504
         },
-        "unichain": {
+        "Unichain": {
           "Morpho Blue": 0
         }
       }
@@ -6499,16 +6936,16 @@
     [
       1745452800,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 187564
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 27556
         },
-        "polygon": {
+        "Polygon": {
           "Morpho Blue": 367
         },
-        "unichain": {
+        "Unichain": {
           "Morpho Blue": 0
         }
       }
@@ -6516,16 +6953,16 @@
     [
       1745539200,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 187451
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 27938
         },
-        "polygon": {
+        "Polygon": {
           "Morpho Blue": 539
         },
-        "unichain": {
+        "Unichain": {
           "Morpho Blue": 0
         }
       }
@@ -6533,16 +6970,16 @@
     [
       1745625600,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 175138
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 27949
         },
-        "polygon": {
+        "Polygon": {
           "Morpho Blue": 688
         },
-        "unichain": {
+        "Unichain": {
           "Morpho Blue": 0
         }
       }
@@ -6550,16 +6987,16 @@
     [
       1745712000,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 173341
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 28304
         },
-        "polygon": {
+        "Polygon": {
           "Morpho Blue": 741
         },
-        "unichain": {
+        "Unichain": {
           "Morpho Blue": 0
         }
       }
@@ -6567,16 +7004,16 @@
     [
       1745798400,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 197774
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 28301
         },
-        "polygon": {
+        "Polygon": {
           "Morpho Blue": 881
         },
-        "unichain": {
+        "Unichain": {
           "Morpho Blue": 0
         }
       }
@@ -6584,16 +7021,16 @@
     [
       1745884800,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 186437
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 29762
         },
-        "polygon": {
+        "Polygon": {
           "Morpho Blue": 1631
         },
-        "unichain": {
+        "Unichain": {
           "Morpho Blue": 0
         }
       }
@@ -6601,16 +7038,16 @@
     [
       1745971200,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 189312
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 37085
         },
-        "polygon": {
+        "Polygon": {
           "Morpho Blue": 1620
         },
-        "unichain": {
+        "Unichain": {
           "Morpho Blue": 0
         }
       }
@@ -6618,16 +7055,16 @@
     [
       1746057600,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 181663
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 44768
         },
-        "polygon": {
+        "Polygon": {
           "Morpho Blue": 2398
         },
-        "unichain": {
+        "Unichain": {
           "Morpho Blue": 0
         }
       }
@@ -6635,16 +7072,16 @@
     [
       1746144000,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 177492
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 40926
         },
-        "polygon": {
+        "Polygon": {
           "Morpho Blue": 1974
         },
-        "unichain": {
+        "Unichain": {
           "Morpho Blue": 0
         }
       }
@@ -6652,16 +7089,16 @@
     [
       1746230400,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 160178
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 32179
         },
-        "polygon": {
+        "Polygon": {
           "Morpho Blue": 2698
         },
-        "unichain": {
+        "Unichain": {
           "Morpho Blue": 0
         }
       }
@@ -6669,16 +7106,16 @@
     [
       1746316800,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 183932
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 33127
         },
-        "polygon": {
+        "Polygon": {
           "Morpho Blue": 2496
         },
-        "unichain": {
+        "Unichain": {
           "Morpho Blue": 0
         }
       }
@@ -6686,16 +7123,16 @@
     [
       1746403200,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 182810
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 33712
         },
-        "polygon": {
+        "Polygon": {
           "Morpho Blue": 2957
         },
-        "unichain": {
+        "Unichain": {
           "Morpho Blue": 0
         }
       }
@@ -6703,16 +7140,16 @@
     [
       1746489600,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 152151
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 33998
         },
-        "polygon": {
+        "Polygon": {
           "Morpho Blue": 2776
         },
-        "unichain": {
+        "Unichain": {
           "Morpho Blue": 0
         }
       }
@@ -6720,16 +7157,16 @@
     [
       1746576000,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 158244
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 34355
         },
-        "polygon": {
+        "Polygon": {
           "Morpho Blue": 3200
         },
-        "unichain": {
+        "Unichain": {
           "Morpho Blue": 0
         }
       }
@@ -6737,16 +7174,16 @@
     [
       1746662400,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 164331
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 36389
         },
-        "polygon": {
+        "Polygon": {
           "Morpho Blue": 2530
         },
-        "unichain": {
+        "Unichain": {
           "Morpho Blue": 0
         }
       }
@@ -6754,16 +7191,16 @@
     [
       1746748800,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 194260
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 38243
         },
-        "polygon": {
+        "Polygon": {
           "Morpho Blue": 3641
         },
-        "unichain": {
+        "Unichain": {
           "Morpho Blue": 0
         }
       }
@@ -6771,16 +7208,16 @@
     [
       1746835200,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 161721
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 38494
         },
-        "polygon": {
+        "Polygon": {
           "Morpho Blue": 4140
         },
-        "unichain": {
+        "Unichain": {
           "Morpho Blue": 0
         }
       }
@@ -6788,16 +7225,16 @@
     [
       1746921600,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 185680
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 38734
         },
-        "polygon": {
+        "Polygon": {
           "Morpho Blue": 4200
         },
-        "unichain": {
+        "Unichain": {
           "Morpho Blue": 0
         }
       }
@@ -6805,16 +7242,16 @@
     [
       1747008000,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 208359
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 39760
         },
-        "polygon": {
+        "Polygon": {
           "Morpho Blue": 4471
         },
-        "unichain": {
+        "Unichain": {
           "Morpho Blue": 0
         }
       }
@@ -6822,16 +7259,16 @@
     [
       1747094400,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 186651
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 40719
         },
-        "polygon": {
+        "Polygon": {
           "Morpho Blue": 5027
         },
-        "unichain": {
+        "Unichain": {
           "Morpho Blue": 0
         }
       }
@@ -6839,16 +7276,16 @@
     [
       1747180800,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 214573
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 42063
         },
-        "polygon": {
+        "Polygon": {
           "Morpho Blue": 4312
         },
-        "unichain": {
+        "Unichain": {
           "Morpho Blue": 0
         }
       }
@@ -6856,16 +7293,16 @@
     [
       1747267200,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 199916
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 44034
         },
-        "polygon": {
+        "Polygon": {
           "Morpho Blue": 4451
         },
-        "unichain": {
+        "Unichain": {
           "Morpho Blue": 0
         }
       }
@@ -6873,16 +7310,16 @@
     [
       1747353600,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 210136
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 44954
         },
-        "polygon": {
+        "Polygon": {
           "Morpho Blue": 5703
         },
-        "unichain": {
+        "Unichain": {
           "Morpho Blue": 0
         }
       }
@@ -6890,16 +7327,16 @@
     [
       1747440000,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 205888
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 44498
         },
-        "polygon": {
+        "Polygon": {
           "Morpho Blue": 6726
         },
-        "unichain": {
+        "Unichain": {
           "Morpho Blue": 0
         }
       }
@@ -6907,16 +7344,16 @@
     [
       1747526400,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 201975
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 46674
         },
-        "polygon": {
+        "Polygon": {
           "Morpho Blue": 4949
         },
-        "unichain": {
+        "Unichain": {
           "Morpho Blue": 0
         }
       }
@@ -6924,16 +7361,16 @@
     [
       1747612800,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 231246
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 47063
         },
-        "polygon": {
+        "Polygon": {
           "Morpho Blue": 6058
         },
-        "unichain": {
+        "Unichain": {
           "Morpho Blue": 0
         }
       }
@@ -6941,16 +7378,16 @@
     [
       1747699200,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 200674
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 48676
         },
-        "polygon": {
+        "Polygon": {
           "Morpho Blue": 7651
         },
-        "unichain": {
+        "Unichain": {
           "Morpho Blue": 0
         }
       }
@@ -6958,16 +7395,16 @@
     [
       1747785600,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 211140
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 48315
         },
-        "polygon": {
+        "Polygon": {
           "Morpho Blue": 6519
         },
-        "unichain": {
+        "Unichain": {
           "Morpho Blue": 0
         }
       }
@@ -6975,16 +7412,16 @@
     [
       1747872000,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 212249
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 49622
         },
-        "polygon": {
+        "Polygon": {
           "Morpho Blue": 6747
         },
-        "unichain": {
+        "Unichain": {
           "Morpho Blue": 0
         }
       }
@@ -6992,16 +7429,16 @@
     [
       1747958400,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 311232
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 50531
         },
-        "polygon": {
+        "Polygon": {
           "Morpho Blue": 5860
         },
-        "unichain": {
+        "Unichain": {
           "Morpho Blue": 0
         }
       }
@@ -7009,16 +7446,16 @@
     [
       1748044800,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 222637
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 51734
         },
-        "polygon": {
+        "Polygon": {
           "Morpho Blue": 4997
         },
-        "unichain": {
+        "Unichain": {
           "Morpho Blue": 0
         }
       }
@@ -7026,16 +7463,16 @@
     [
       1748131200,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 215308
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 52658
         },
-        "polygon": {
+        "Polygon": {
           "Morpho Blue": 7287
         },
-        "unichain": {
+        "Unichain": {
           "Morpho Blue": 0
         }
       }
@@ -7043,16 +7480,16 @@
     [
       1748217600,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 205098
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 52540
         },
-        "polygon": {
+        "Polygon": {
           "Morpho Blue": 6892
         },
-        "unichain": {
+        "Unichain": {
           "Morpho Blue": 0
         }
       }
@@ -7060,16 +7497,16 @@
     [
       1748304000,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 207835
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 52838
         },
-        "polygon": {
+        "Polygon": {
           "Morpho Blue": 5831
         },
-        "unichain": {
+        "Unichain": {
           "Morpho Blue": 0
         }
       }
@@ -7077,16 +7514,16 @@
     [
       1748390400,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 207850
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 54088
         },
-        "polygon": {
+        "Polygon": {
           "Morpho Blue": 6331
         },
-        "unichain": {
+        "Unichain": {
           "Morpho Blue": 0
         }
       }
@@ -7094,16 +7531,16 @@
     [
       1748476800,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 194849
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 55115
         },
-        "polygon": {
+        "Polygon": {
           "Morpho Blue": 7226
         },
-        "unichain": {
+        "Unichain": {
           "Morpho Blue": 0
         }
       }
@@ -7111,16 +7548,16 @@
     [
       1748563200,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 200334
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 55463
         },
-        "polygon": {
+        "Polygon": {
           "Morpho Blue": 3662
         },
-        "unichain": {
+        "Unichain": {
           "Morpho Blue": 0
         }
       }
@@ -7128,16 +7565,16 @@
     [
       1748649600,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 185480
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 56256
         },
-        "polygon": {
+        "Polygon": {
           "Morpho Blue": 4975
         },
-        "unichain": {
+        "Unichain": {
           "Morpho Blue": 0
         }
       }
@@ -7145,16 +7582,16 @@
     [
       1748736000,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 180915
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 57581
         },
-        "polygon": {
+        "Polygon": {
           "Morpho Blue": 6889
         },
-        "unichain": {
+        "Unichain": {
           "Morpho Blue": 0
         }
       }
@@ -7162,16 +7599,16 @@
     [
       1748822400,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 203054
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 57831
         },
-        "polygon": {
+        "Polygon": {
           "Morpho Blue": 4508
         },
-        "unichain": {
+        "Unichain": {
           "Morpho Blue": 0
         }
       }
@@ -7179,16 +7616,16 @@
     [
       1748908800,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 188166
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 58976
         },
-        "polygon": {
+        "Polygon": {
           "Morpho Blue": 7583
         },
-        "unichain": {
+        "Unichain": {
           "Morpho Blue": 11
         }
       }
@@ -7196,16 +7633,16 @@
     [
       1748995200,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 216542
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 56368
         },
-        "polygon": {
+        "Polygon": {
           "Morpho Blue": 7336
         },
-        "unichain": {
+        "Unichain": {
           "Morpho Blue": 157
         }
       }
@@ -7213,16 +7650,16 @@
     [
       1749081600,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 251021
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 58123
         },
-        "polygon": {
+        "Polygon": {
           "Morpho Blue": 6051
         },
-        "unichain": {
+        "Unichain": {
           "Morpho Blue": 350
         }
       }
@@ -7230,16 +7667,16 @@
     [
       1749168000,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 228177
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 59442
         },
-        "polygon": {
+        "Polygon": {
           "Morpho Blue": 4082
         },
-        "unichain": {
+        "Unichain": {
           "Morpho Blue": 654
         }
       }
@@ -7247,16 +7684,16 @@
     [
       1749254400,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 206338
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 60012
         },
-        "polygon": {
+        "Polygon": {
           "Morpho Blue": 6849
         },
-        "unichain": {
+        "Unichain": {
           "Morpho Blue": 724
         }
       }
@@ -7264,16 +7701,16 @@
     [
       1749340800,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 251150
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 60096
         },
-        "polygon": {
+        "Polygon": {
           "Morpho Blue": 4585
         },
-        "unichain": {
+        "Unichain": {
           "Morpho Blue": 959
         }
       }
@@ -7281,16 +7718,16 @@
     [
       1749427200,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 262174
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 61479
         },
-        "polygon": {
+        "Polygon": {
           "Morpho Blue": 6627
         },
-        "unichain": {
+        "Unichain": {
           "Morpho Blue": 971
         }
       }
@@ -7298,16 +7735,16 @@
     [
       1749513600,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 209983
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 62841
         },
-        "polygon": {
+        "Polygon": {
           "Morpho Blue": 5562
         },
-        "unichain": {
+        "Unichain": {
           "Morpho Blue": 1020
         }
       }
@@ -7315,16 +7752,16 @@
     [
       1749600000,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 225088
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 64167
         },
-        "polygon": {
+        "Polygon": {
           "Morpho Blue": 5837
         },
-        "unichain": {
+        "Unichain": {
           "Morpho Blue": 1319
         }
       }
@@ -7332,16 +7769,16 @@
     [
       1749686400,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 250211
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 64717
         },
-        "polygon": {
+        "Polygon": {
           "Morpho Blue": 6895
         },
-        "unichain": {
+        "Unichain": {
           "Morpho Blue": 1181
         }
       }
@@ -7349,16 +7786,16 @@
     [
       1749772800,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 198617
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 67205
         },
-        "polygon": {
+        "Polygon": {
           "Morpho Blue": 4351
         },
-        "unichain": {
+        "Unichain": {
           "Morpho Blue": 1079
         }
       }
@@ -7366,16 +7803,16 @@
     [
       1749859200,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 236141
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 65153
         },
-        "polygon": {
+        "Polygon": {
           "Morpho Blue": 4869
         },
-        "unichain": {
+        "Unichain": {
           "Morpho Blue": 1521
         }
       }
@@ -7383,16 +7820,16 @@
     [
       1749945600,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 205691
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 66000
         },
-        "polygon": {
+        "Polygon": {
           "Morpho Blue": 7040
         },
-        "unichain": {
+        "Unichain": {
           "Morpho Blue": 2884
         }
       }
@@ -7400,16 +7837,16 @@
     [
       1750032000,
       {
-        "ethereum": {
+        "Ethereum": {
           "Morpho Blue": 235675
         },
-        "base": {
+        "Base": {
           "Morpho Blue": 67190
         },
-        "polygon": {
+        "Polygon": {
           "Morpho Blue": 6015
         },
-        "unichain": {
+        "Unichain": {
           "Morpho Blue": 2767
         }
       }
@@ -7417,20 +7854,139 @@
     [
       1750118400,
       {
-        "ethereum": {
-          "Morpho Blue": 236612
+        "Ethereum": {
+          "Morpho Blue": 220489
         },
-        "base": {
-          "Morpho Blue": 66870
+        "Base": {
+          "Morpho Blue": 67647
         },
-        "polygon": {
-          "Morpho Blue": 5042
+        "Polygon": {
+          "Morpho Blue": 5432
         },
-        "unichain": {
-          "Morpho Blue": 2608
+        "Unichain": {
+          "Morpho Blue": 2234
+        }
+      }
+    ],
+    [
+      1750204800,
+      {
+        "Ethereum": {
+          "Morpho Blue": 213161
+        },
+        "Base": {
+          "Morpho Blue": 67259
+        },
+        "Polygon": {
+          "Morpho Blue": 6129
+        },
+        "Unichain": {
+          "Morpho Blue": 2882
+        }
+      }
+    ],
+    [
+      1750291200,
+      {
+        "Ethereum": {
+          "Morpho Blue": 201388
+        },
+        "Base": {
+          "Morpho Blue": 68089
+        },
+        "Polygon": {
+          "Morpho Blue": 5410
+        },
+        "Unichain": {
+          "Morpho Blue": 2407
+        }
+      }
+    ],
+    [
+      1750377600,
+      {
+        "Ethereum": {
+          "Morpho Blue": 208891
+        },
+        "Base": {
+          "Morpho Blue": 68836
+        },
+        "Polygon": {
+          "Morpho Blue": 6193
+        },
+        "Unichain": {
+          "Morpho Blue": 2534
+        }
+      }
+    ],
+    [
+      1750464000,
+      {
+        "Ethereum": {
+          "Morpho Blue": 202114
+        },
+        "Base": {
+          "Morpho Blue": 73178
+        },
+        "Polygon": {
+          "Morpho Blue": 5706
+        },
+        "Unichain": {
+          "Morpho Blue": 2545
+        }
+      }
+    ],
+    [
+      1750550400,
+      {
+        "Ethereum": {
+          "Morpho Blue": 209766
+        },
+        "Base": {
+          "Morpho Blue": 89937
+        },
+        "Polygon": {
+          "Morpho Blue": 5306
+        },
+        "Unichain": {
+          "Morpho Blue": 2882
+        }
+      }
+    ],
+    [
+      1750636800,
+      {
+        "Ethereum": {
+          "Morpho Blue": 209613
+        },
+        "Base": {
+          "Morpho Blue": 70125
+        },
+        "Polygon": {
+          "Morpho Blue": 6668
+        },
+        "Unichain": {
+          "Morpho Blue": 3262
+        }
+      }
+    ],
+    [
+      1750723200,
+      {
+        "Ethereum": {
+          "Morpho Blue": 200918
+        },
+        "Base": {
+          "Morpho Blue": 69607
+        },
+        "Polygon": {
+          "Morpho Blue": 7049
+        },
+        "Unichain": {
+          "Morpho Blue": 2662
         }
       }
     ]
   ],
-  "change_1d": 10.66
+  "change_1d": -5.92
 }

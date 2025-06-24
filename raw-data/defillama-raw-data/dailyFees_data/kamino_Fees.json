@@ -13,6 +13,8 @@
     "hubbleprotocol"
   ],
   "twitter": "KaminoFinance",
+  "symbol": "KMNO",
+  "address": "solana:KMNo3nJsBXfcpJTVhZcXLW7RmTwTt4GVFE7suUBo9sS",
   "childProtocols": [
     {},
     {}
@@ -31,7 +33,6 @@
   "methodology": null,
   "forkedFrom": null,
   "audits": null,
-  "address": null,
   "audit_links": null,
   "versionKey": null,
   "governanceID": null,
@@ -41,10 +42,10 @@
   "latestFetchIsOk": true,
   "slug": "kamino",
   "protocolType": "protocol",
-  "total24h": 289680,
-  "total48hto24h": 265520,
-  "total7d": 2068407,
-  "totalAllTime": 145163016,
+  "total24h": 259714,
+  "total48hto24h": 248005,
+  "total7d": 1868361,
+  "totalAllTime": 147220741,
   "totalDataChart": [
     [
       1697068800,
@@ -1544,7 +1545,7 @@
     ],
     [
       1729382400,
-      20645
+      210009
     ],
     [
       1729468800,
@@ -2501,13 +2502,41 @@
     [
       1750032000,
       289680
+    ],
+    [
+      1750118400,
+      270086
+    ],
+    [
+      1750204800,
+      278599
+    ],
+    [
+      1750291200,
+      276332
+    ],
+    [
+      1750377600,
+      271758
+    ],
+    [
+      1750464000,
+      263867
+    ],
+    [
+      1750550400,
+      248005
+    ],
+    [
+      1750636800,
+      259714
     ]
   ],
   "totalDataChartBreakdown": [
     [
       1697068800,
       {
-        "solana": {
+        "Solana": {
           "Kamino Lend": 0
         }
       }
@@ -2515,7 +2544,7 @@
     [
       1697155200,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 600,
           "Kamino Lend": 0
         }
@@ -2524,7 +2553,7 @@
     [
       1697241600,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 588,
           "Kamino Lend": 0
         }
@@ -2533,7 +2562,7 @@
     [
       1697328000,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 595,
           "Kamino Lend": 0
         }
@@ -2542,7 +2571,7 @@
     [
       1697414400,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 390,
           "Kamino Lend": 0
         }
@@ -2551,7 +2580,7 @@
     [
       1697500800,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 2090,
           "Kamino Lend": 0
         }
@@ -2560,7 +2589,7 @@
     [
       1697587200,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 1265,
           "Kamino Lend": 0
         }
@@ -2569,7 +2598,7 @@
     [
       1697673600,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 562,
           "Kamino Lend": 0
         }
@@ -2578,7 +2607,7 @@
     [
       1697760000,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 1212,
           "Kamino Lend": 0
         }
@@ -2587,7 +2616,7 @@
     [
       1697846400,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 1874,
           "Kamino Lend": 2
         }
@@ -2596,7 +2625,7 @@
     [
       1697932800,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 3129,
           "Kamino Lend": 3
         }
@@ -2605,7 +2634,7 @@
     [
       1698019200,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 1793,
           "Kamino Lend": 4
         }
@@ -2614,7 +2643,7 @@
     [
       1698105600,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 4660,
           "Kamino Lend": 4
         }
@@ -2623,7 +2652,7 @@
     [
       1698192000,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 6464,
           "Kamino Lend": 4
         }
@@ -2632,7 +2661,7 @@
     [
       1698278400,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 5407,
           "Kamino Lend": 4
         }
@@ -2641,7 +2670,7 @@
     [
       1698364800,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 4080,
           "Kamino Lend": 5
         }
@@ -2650,7 +2679,7 @@
     [
       1698451200,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 2609,
           "Kamino Lend": 5
         }
@@ -2659,7 +2688,7 @@
     [
       1698537600,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 1111,
           "Kamino Lend": 6
         }
@@ -2668,7 +2697,7 @@
     [
       1698624000,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 1189,
           "Kamino Lend": 7
         }
@@ -2677,7 +2706,7 @@
     [
       1698710400,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 3883,
           "Kamino Lend": 11
         }
@@ -2686,7 +2715,7 @@
     [
       1698796800,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 12589,
           "Kamino Lend": 14
         }
@@ -2695,7 +2724,7 @@
     [
       1698883200,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 20413,
           "Kamino Lend": 15
         }
@@ -2704,7 +2733,7 @@
     [
       1698969600,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 12754,
           "Kamino Lend": 14
         }
@@ -2713,7 +2742,7 @@
     [
       1699056000,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 5458,
           "Kamino Lend": 17
         }
@@ -2722,7 +2751,7 @@
     [
       1699142400,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 5469,
           "Kamino Lend": 15
         }
@@ -2731,7 +2760,7 @@
     [
       1699228800,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 4136,
           "Kamino Lend": 14
         }
@@ -2740,7 +2769,7 @@
     [
       1699315200,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 3110,
           "Kamino Lend": 16
         }
@@ -2749,7 +2778,7 @@
     [
       1699401600,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 5939,
           "Kamino Lend": 31
         }
@@ -2758,7 +2787,7 @@
     [
       1699488000,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 5056,
           "Kamino Lend": 20
         }
@@ -2767,7 +2796,7 @@
     [
       1699574400,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 14879,
           "Kamino Lend": 21
         }
@@ -2776,7 +2805,7 @@
     [
       1699660800,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 20662,
           "Kamino Lend": 24
         }
@@ -2785,7 +2814,7 @@
     [
       1699747200,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 17631,
           "Kamino Lend": 24
         }
@@ -2794,7 +2823,7 @@
     [
       1699833600,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 8075,
           "Kamino Lend": 23
         }
@@ -2803,7 +2832,7 @@
     [
       1699920000,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 7800,
           "Kamino Lend": 25
         }
@@ -2812,7 +2841,7 @@
     [
       1700006400,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 8751,
           "Kamino Lend": 29
         }
@@ -2821,7 +2850,7 @@
     [
       1700092800,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 11008,
           "Kamino Lend": 34
         }
@@ -2830,7 +2859,7 @@
     [
       1700179200,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 7455,
           "Kamino Lend": 27
         }
@@ -2839,7 +2868,7 @@
     [
       1700265600,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 6839,
           "Kamino Lend": 30
         }
@@ -2848,7 +2877,7 @@
     [
       1700352000,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 4497,
           "Kamino Lend": 37
         }
@@ -2857,7 +2886,7 @@
     [
       1700438400,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 8711,
           "Kamino Lend": 41
         }
@@ -2866,7 +2895,7 @@
     [
       1700524800,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 10672,
           "Kamino Lend": 79
         }
@@ -2875,7 +2904,7 @@
     [
       1700611200,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 9561,
           "Kamino Lend": 93
         }
@@ -2884,7 +2913,7 @@
     [
       1700697600,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 11916,
           "Kamino Lend": 144
         }
@@ -2893,7 +2922,7 @@
     [
       1700784000,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 6057,
           "Kamino Lend": 233
         }
@@ -2902,7 +2931,7 @@
     [
       1700870400,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 7221,
           "Kamino Lend": 273
         }
@@ -2911,7 +2940,7 @@
     [
       1700956800,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 3930,
           "Kamino Lend": 306
         }
@@ -2920,7 +2949,7 @@
     [
       1701043200,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 3309,
           "Kamino Lend": 297
         }
@@ -2929,7 +2958,7 @@
     [
       1701129600,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 5799,
           "Kamino Lend": 539
         }
@@ -2938,7 +2967,7 @@
     [
       1701216000,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 6046,
           "Kamino Lend": 707
         }
@@ -2947,7 +2976,7 @@
     [
       1701302400,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 5047,
           "Kamino Lend": 833
         }
@@ -2956,7 +2985,7 @@
     [
       1701388800,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 4067,
           "Kamino Lend": 947
         }
@@ -2965,7 +2994,7 @@
     [
       1701475200,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 5496,
           "Kamino Lend": 1394
         }
@@ -2974,7 +3003,7 @@
     [
       1701561600,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 6930,
           "Kamino Lend": 1589
         }
@@ -2983,7 +3012,7 @@
     [
       1701648000,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 6243,
           "Kamino Lend": 1589
         }
@@ -2992,7 +3021,7 @@
     [
       1701734400,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 13171,
           "Kamino Lend": 1529
         }
@@ -3001,7 +3030,7 @@
     [
       1701820800,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 10268,
           "Kamino Lend": 2321
         }
@@ -3010,7 +3039,7 @@
     [
       1701907200,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 16221,
           "Kamino Lend": 1657
         }
@@ -3019,7 +3048,7 @@
     [
       1701993600,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 65044,
           "Kamino Lend": 1811
         }
@@ -3028,7 +3057,7 @@
     [
       1702080000,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 153816,
           "Kamino Lend": 2155
         }
@@ -3037,7 +3066,7 @@
     [
       1702166400,
       {
-        "solana": {
+        "Solana": {
           "Kamino Lend": 2230
         }
       }
@@ -3045,7 +3074,7 @@
     [
       1702252800,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 37949,
           "Kamino Lend": 3547
         }
@@ -3054,7 +3083,7 @@
     [
       1702339200,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 38462,
           "Kamino Lend": 3611
         }
@@ -3063,7 +3092,7 @@
     [
       1702425600,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 35689,
           "Kamino Lend": 4114
         }
@@ -3072,7 +3101,7 @@
     [
       1702512000,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 36775,
           "Kamino Lend": 4344
         }
@@ -3081,7 +3110,7 @@
     [
       1702598400,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 83515,
           "Kamino Lend": 4313
         }
@@ -3090,7 +3119,7 @@
     [
       1702684800,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 109784,
           "Kamino Lend": 4193
         }
@@ -3099,7 +3128,7 @@
     [
       1702771200,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 51605,
           "Kamino Lend": 4084
         }
@@ -3108,7 +3137,7 @@
     [
       1702857600,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 45199,
           "Kamino Lend": 5228
         }
@@ -3117,7 +3146,7 @@
     [
       1702944000,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 69414,
           "Kamino Lend": 5832
         }
@@ -3126,7 +3155,7 @@
     [
       1703030400,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 53065,
           "Kamino Lend": 4671
         }
@@ -3135,7 +3164,7 @@
     [
       1703116800,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 69461,
           "Kamino Lend": 5263
         }
@@ -3144,7 +3173,7 @@
     [
       1703203200,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 70850,
           "Kamino Lend": 4809
         }
@@ -3153,7 +3182,7 @@
     [
       1703289600,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 77982,
           "Kamino Lend": 5584
         }
@@ -3162,7 +3191,7 @@
     [
       1703376000,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 68533,
           "Kamino Lend": 6426
         }
@@ -3171,7 +3200,7 @@
     [
       1703462400,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 58826,
           "Kamino Lend": 7139
         }
@@ -3180,7 +3209,7 @@
     [
       1703548800,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 64713,
           "Kamino Lend": 6992
         }
@@ -3189,7 +3218,7 @@
     [
       1703635200,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 57316,
           "Kamino Lend": 8494
         }
@@ -3198,7 +3227,7 @@
     [
       1703721600,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 42478,
           "Kamino Lend": 10794
         }
@@ -3207,7 +3236,7 @@
     [
       1703808000,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 45933,
           "Kamino Lend": 14543
         }
@@ -3216,7 +3245,7 @@
     [
       1703894400,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 40215,
           "Kamino Lend": 11946
         }
@@ -3225,7 +3254,7 @@
     [
       1703980800,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 21550,
           "Kamino Lend": 13589
         }
@@ -3234,7 +3263,7 @@
     [
       1704067200,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 23779,
           "Kamino Lend": 16179
         }
@@ -3243,7 +3272,7 @@
     [
       1704153600,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 25509,
           "Kamino Lend": 13915
         }
@@ -3252,7 +3281,7 @@
     [
       1704240000,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 34888,
           "Kamino Lend": 14535
         }
@@ -3261,7 +3290,7 @@
     [
       1704326400,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 46140,
           "Kamino Lend": 14850
         }
@@ -3270,7 +3299,7 @@
     [
       1704412800,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 31323,
           "Kamino Lend": 9083
         }
@@ -3279,7 +3308,7 @@
     [
       1704499200,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 26113,
           "Kamino Lend": 8266
         }
@@ -3288,7 +3317,7 @@
     [
       1704585600,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 36579,
           "Kamino Lend": 13714
         }
@@ -3297,7 +3326,7 @@
     [
       1704672000,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 20283,
           "Kamino Lend": 18351
         }
@@ -3306,7 +3335,7 @@
     [
       1704758400,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 34741,
           "Kamino Lend": 10836
         }
@@ -3315,7 +3344,7 @@
     [
       1704844800,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 40049,
           "Kamino Lend": 7507
         }
@@ -3324,7 +3353,7 @@
     [
       1704931200,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 59801,
           "Kamino Lend": 8409
         }
@@ -3333,7 +3362,7 @@
     [
       1705017600,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 63241,
           "Kamino Lend": 7799
         }
@@ -3342,7 +3371,7 @@
     [
       1705104000,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 44468,
           "Kamino Lend": 7709
         }
@@ -3351,7 +3380,7 @@
     [
       1705190400,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 37613,
           "Kamino Lend": 7938
         }
@@ -3360,7 +3389,7 @@
     [
       1705276800,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 49948,
           "Kamino Lend": 9527
         }
@@ -3369,7 +3398,7 @@
     [
       1705363200,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 39600,
           "Kamino Lend": 12747
         }
@@ -3378,7 +3407,7 @@
     [
       1705449600,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 40273,
           "Kamino Lend": 14207
         }
@@ -3387,7 +3416,7 @@
     [
       1705536000,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 53567,
           "Kamino Lend": 13158
         }
@@ -3396,7 +3425,7 @@
     [
       1705622400,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 61398,
           "Kamino Lend": 13428
         }
@@ -3405,7 +3434,7 @@
     [
       1705708800,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 51096,
           "Kamino Lend": 12457
         }
@@ -3414,7 +3443,7 @@
     [
       1705795200,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 28413,
           "Kamino Lend": 12013
         }
@@ -3423,7 +3452,7 @@
     [
       1705881600,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 21717,
           "Kamino Lend": 11272
         }
@@ -3432,7 +3461,7 @@
     [
       1705968000,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 38547,
           "Kamino Lend": 11280
         }
@@ -3441,7 +3470,7 @@
     [
       1706054400,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 39975,
           "Kamino Lend": 12705
         }
@@ -3450,7 +3479,7 @@
     [
       1706140800,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 34091,
           "Kamino Lend": 13004
         }
@@ -3459,7 +3488,7 @@
     [
       1706227200,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 25458,
           "Kamino Lend": 14902
         }
@@ -3468,7 +3497,7 @@
     [
       1706313600,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 29355,
           "Kamino Lend": 14898
         }
@@ -3477,7 +3506,7 @@
     [
       1706400000,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 47609,
           "Kamino Lend": 16304
         }
@@ -3486,7 +3515,7 @@
     [
       1706486400,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 30274,
           "Kamino Lend": 20295
         }
@@ -3495,7 +3524,7 @@
     [
       1706572800,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 65044,
           "Kamino Lend": 28746
         }
@@ -3504,7 +3533,7 @@
     [
       1706659200,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 71136,
           "Kamino Lend": 29073
         }
@@ -3513,7 +3542,7 @@
     [
       1706745600,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 116653,
           "Kamino Lend": 20839
         }
@@ -3522,7 +3551,7 @@
     [
       1706832000,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 111080,
           "Kamino Lend": 24588
         }
@@ -3531,7 +3560,7 @@
     [
       1706918400,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 116027,
           "Kamino Lend": 24980
         }
@@ -3540,7 +3569,7 @@
     [
       1707004800,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 25282,
           "Kamino Lend": 26226
         }
@@ -3549,7 +3578,7 @@
     [
       1707091200,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 53758,
           "Kamino Lend": 29694
         }
@@ -3558,7 +3587,7 @@
     [
       1707177600,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 37996,
           "Kamino Lend": 33037
         }
@@ -3567,7 +3596,7 @@
     [
       1707264000,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 36785,
           "Kamino Lend": 30999
         }
@@ -3576,7 +3605,7 @@
     [
       1707350400,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 96608,
           "Kamino Lend": 36390
         }
@@ -3585,7 +3614,7 @@
     [
       1707436800,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 48521,
           "Kamino Lend": 33436
         }
@@ -3594,7 +3623,7 @@
     [
       1707523200,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 70814,
           "Kamino Lend": 35437
         }
@@ -3603,7 +3632,7 @@
     [
       1707609600,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 37249,
           "Kamino Lend": 35427
         }
@@ -3612,7 +3641,7 @@
     [
       1707696000,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 43566,
           "Kamino Lend": 35655
         }
@@ -3621,7 +3650,7 @@
     [
       1707782400,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 62158,
           "Kamino Lend": 40584
         }
@@ -3630,7 +3659,7 @@
     [
       1707868800,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 71313,
           "Kamino Lend": 44199
         }
@@ -3639,7 +3668,7 @@
     [
       1707955200,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 98827,
           "Kamino Lend": 44285
         }
@@ -3648,7 +3677,7 @@
     [
       1708041600,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 77584,
           "Kamino Lend": 39799
         }
@@ -3657,7 +3686,7 @@
     [
       1708128000,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 73804,
           "Kamino Lend": 39357
         }
@@ -3666,7 +3695,7 @@
     [
       1708214400,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 42076,
           "Kamino Lend": 42291
         }
@@ -3675,7 +3704,7 @@
     [
       1708300800,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 55691,
           "Kamino Lend": 40995
         }
@@ -3684,7 +3713,7 @@
     [
       1708387200,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 46414,
           "Kamino Lend": 36820
         }
@@ -3693,7 +3722,7 @@
     [
       1708473600,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 47944,
           "Kamino Lend": 35722
         }
@@ -3702,7 +3731,7 @@
     [
       1708560000,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 41002,
           "Kamino Lend": 38579
         }
@@ -3711,7 +3740,7 @@
     [
       1708646400,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 29850,
           "Kamino Lend": 37756
         }
@@ -3720,7 +3749,7 @@
     [
       1708732800,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 46794,
           "Kamino Lend": 42532
         }
@@ -3729,7 +3758,7 @@
     [
       1708819200,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 46591,
           "Kamino Lend": 32274
         }
@@ -3738,7 +3767,7 @@
     [
       1708905600,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 26535,
           "Kamino Lend": 35066
         }
@@ -3747,7 +3776,7 @@
     [
       1708992000,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 62440,
           "Kamino Lend": 45572
         }
@@ -3756,7 +3785,7 @@
     [
       1709078400,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 101337,
           "Kamino Lend": 54005
         }
@@ -3765,7 +3794,7 @@
     [
       1709164800,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 205047,
           "Kamino Lend": 60243
         }
@@ -3774,7 +3803,7 @@
     [
       1709251200,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 203474,
           "Kamino Lend": 72758
         }
@@ -3783,7 +3812,7 @@
     [
       1709337600,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 224573,
           "Kamino Lend": 63416
         }
@@ -3792,7 +3821,7 @@
     [
       1709424000,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 189723,
           "Kamino Lend": 69615
         }
@@ -3801,7 +3830,7 @@
     [
       1709510400,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 369693,
           "Kamino Lend": 76455
         }
@@ -3810,7 +3839,7 @@
     [
       1709596800,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 210847,
           "Kamino Lend": 104013
         }
@@ -3819,7 +3848,7 @@
     [
       1709683200,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 602755,
           "Kamino Lend": 113644
         }
@@ -3828,7 +3857,7 @@
     [
       1709769600,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 226022,
           "Kamino Lend": 121507
         }
@@ -3837,7 +3866,7 @@
     [
       1709856000,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 380465,
           "Kamino Lend": 93001
         }
@@ -3846,7 +3875,7 @@
     [
       1709942400,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 193203,
           "Kamino Lend": 89674
         }
@@ -3855,7 +3884,7 @@
     [
       1710028800,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 157265,
           "Kamino Lend": 106302
         }
@@ -3864,7 +3893,7 @@
     [
       1710115200,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 165649,
           "Kamino Lend": 102243
         }
@@ -3873,7 +3902,7 @@
     [
       1710201600,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 105194,
           "Kamino Lend": 97938
         }
@@ -3882,7 +3911,7 @@
     [
       1710288000,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 148823,
           "Kamino Lend": 127492
         }
@@ -3891,7 +3920,7 @@
     [
       1710374400,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 205258,
           "Kamino Lend": 123315
         }
@@ -3900,7 +3929,7 @@
     [
       1710460800,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 256762,
           "Kamino Lend": 119005
         }
@@ -3909,7 +3938,7 @@
     [
       1710547200,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 327408,
           "Kamino Lend": 108313
         }
@@ -3918,7 +3947,7 @@
     [
       1710633600,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 289304,
           "Kamino Lend": 119773
         }
@@ -3927,7 +3956,7 @@
     [
       1710720000,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 196270,
           "Kamino Lend": 103826
         }
@@ -3936,7 +3965,7 @@
     [
       1710806400,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 312142,
           "Kamino Lend": 92099
         }
@@ -3945,7 +3974,7 @@
     [
       1710892800,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 217952,
           "Kamino Lend": 87894
         }
@@ -3954,7 +3983,7 @@
     [
       1710979200,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 192322,
           "Kamino Lend": 84572
         }
@@ -3963,7 +3992,7 @@
     [
       1711065600,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 127453,
           "Kamino Lend": 76713
         }
@@ -3972,7 +4001,7 @@
     [
       1711152000,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 95883,
           "Kamino Lend": 81560
         }
@@ -3981,7 +4010,7 @@
     [
       1711238400,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 56248,
           "Kamino Lend": 97189
         }
@@ -3990,7 +4019,7 @@
     [
       1711324800,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 70631,
           "Kamino Lend": 98560
         }
@@ -3999,7 +4028,7 @@
     [
       1711411200,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 41268,
           "Kamino Lend": 89971
         }
@@ -4008,7 +4037,7 @@
     [
       1711497600,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 204073,
           "Kamino Lend": 91940
         }
@@ -4017,7 +4046,7 @@
     [
       1711584000,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 126836,
           "Kamino Lend": 107218
         }
@@ -4026,7 +4055,7 @@
     [
       1711670400,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 125210,
           "Kamino Lend": 114091
         }
@@ -4035,7 +4064,7 @@
     [
       1711756800,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 99263,
           "Kamino Lend": 146073
         }
@@ -4044,7 +4073,7 @@
     [
       1711843200,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 184501,
           "Kamino Lend": 165729
         }
@@ -4053,7 +4082,7 @@
     [
       1711929600,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 159148,
           "Kamino Lend": 175045
         }
@@ -4062,7 +4091,7 @@
     [
       1712016000,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 16440,
           "Kamino Lend": 156386
         }
@@ -4071,7 +4100,7 @@
     [
       1712102400,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 343728,
           "Kamino Lend": 145439
         }
@@ -4080,7 +4109,7 @@
     [
       1712188800,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 107256,
           "Kamino Lend": 160593
         }
@@ -4089,7 +4118,7 @@
     [
       1712275200,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 120699,
           "Kamino Lend": 159682
         }
@@ -4098,7 +4127,7 @@
     [
       1712361600,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 17212,
           "Kamino Lend": 149986
         }
@@ -4107,7 +4136,7 @@
     [
       1712448000,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 103967,
           "Kamino Lend": 151640
         }
@@ -4116,7 +4145,7 @@
     [
       1712534400,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 45357,
           "Kamino Lend": 154442
         }
@@ -4125,7 +4154,7 @@
     [
       1712620800,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 119284,
           "Kamino Lend": 145941
         }
@@ -4134,7 +4163,7 @@
     [
       1712707200,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 110695,
           "Kamino Lend": 149813
         }
@@ -4143,7 +4172,7 @@
     [
       1712793600,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 20489,
           "Kamino Lend": 151653
         }
@@ -4152,7 +4181,7 @@
     [
       1712880000,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 38514,
           "Kamino Lend": 159878
         }
@@ -4161,7 +4190,7 @@
     [
       1712966400,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 194700,
           "Kamino Lend": 145066
         }
@@ -4170,7 +4199,7 @@
     [
       1713052800,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 69421,
           "Kamino Lend": 113887
         }
@@ -4179,7 +4208,7 @@
     [
       1713139200,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 106387,
           "Kamino Lend": 109042
         }
@@ -4188,7 +4217,7 @@
     [
       1713225600,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 164958,
           "Kamino Lend": 96897
         }
@@ -4197,7 +4226,7 @@
     [
       1713312000,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 90979,
           "Kamino Lend": 99098
         }
@@ -4206,7 +4235,7 @@
     [
       1713398400,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 59423,
           "Kamino Lend": 101983
         }
@@ -4215,7 +4244,7 @@
     [
       1713484800,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 54549,
           "Kamino Lend": 104896
         }
@@ -4224,7 +4253,7 @@
     [
       1713571200,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 97936,
           "Kamino Lend": 101600
         }
@@ -4233,7 +4262,7 @@
     [
       1713657600,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 73622,
           "Kamino Lend": 105291
         }
@@ -4242,7 +4271,7 @@
     [
       1713744000,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 56715,
           "Kamino Lend": 111951
         }
@@ -4251,7 +4280,7 @@
     [
       1713830400,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 61160,
           "Kamino Lend": 123712
         }
@@ -4260,7 +4289,7 @@
     [
       1713916800,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 8443,
           "Kamino Lend": 131036
         }
@@ -4269,7 +4298,7 @@
     [
       1714003200,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 131888,
           "Kamino Lend": 119308
         }
@@ -4278,7 +4307,7 @@
     [
       1714089600,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 68103,
           "Kamino Lend": 119896
         }
@@ -4287,7 +4316,7 @@
     [
       1714176000,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 1912,
           "Kamino Lend": 112755
         }
@@ -4296,7 +4325,7 @@
     [
       1714262400,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 105176,
           "Kamino Lend": 111363
         }
@@ -4305,7 +4334,7 @@
     [
       1714348800,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 38804,
           "Kamino Lend": 112149
         }
@@ -4314,7 +4343,7 @@
     [
       1714435200,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 54482,
           "Kamino Lend": 102695
         }
@@ -4323,7 +4352,7 @@
     [
       1714521600,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 65984,
           "Kamino Lend": 101574
         }
@@ -4332,7 +4361,7 @@
     [
       1714608000,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 82285,
           "Kamino Lend": 103768
         }
@@ -4341,7 +4370,7 @@
     [
       1714694400,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 79886,
           "Kamino Lend": 101299
         }
@@ -4350,7 +4379,7 @@
     [
       1714780800,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 106821,
           "Kamino Lend": 107384
         }
@@ -4359,7 +4388,7 @@
     [
       1714867200,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 39528,
           "Kamino Lend": 107781
         }
@@ -4368,7 +4397,7 @@
     [
       1714953600,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 65971,
           "Kamino Lend": 108147
         }
@@ -4377,7 +4406,7 @@
     [
       1715040000,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 67276,
           "Kamino Lend": 109073
         }
@@ -4386,7 +4415,7 @@
     [
       1715126400,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 52987,
           "Kamino Lend": 107904
         }
@@ -4395,7 +4424,7 @@
     [
       1715212800,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 49230,
           "Kamino Lend": 107315
         }
@@ -4404,7 +4433,7 @@
     [
       1715299200,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 48462,
           "Kamino Lend": 110968
         }
@@ -4413,7 +4442,7 @@
     [
       1715385600,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 44679,
           "Kamino Lend": 110056
         }
@@ -4422,7 +4451,7 @@
     [
       1715472000,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 32741,
           "Kamino Lend": 112666
         }
@@ -4431,7 +4460,7 @@
     [
       1715558400,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 26731,
           "Kamino Lend": 117286
         }
@@ -4440,7 +4469,7 @@
     [
       1715644800,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 59505,
           "Kamino Lend": 119694
         }
@@ -4449,7 +4478,7 @@
     [
       1715731200,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 48624,
           "Kamino Lend": 118889
         }
@@ -4458,7 +4487,7 @@
     [
       1715817600,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 62060,
           "Kamino Lend": 115289
         }
@@ -4467,7 +4496,7 @@
     [
       1715904000,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 60050,
           "Kamino Lend": 117778
         }
@@ -4476,7 +4505,7 @@
     [
       1715990400,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 61109,
           "Kamino Lend": 122518
         }
@@ -4485,7 +4514,7 @@
     [
       1716076800,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 70904,
           "Kamino Lend": 121454
         }
@@ -4494,7 +4523,7 @@
     [
       1716163200,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 40870,
           "Kamino Lend": 126912
         }
@@ -4503,7 +4532,7 @@
     [
       1716249600,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 77448,
           "Kamino Lend": 137334
         }
@@ -4512,7 +4541,7 @@
     [
       1716336000,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 65029,
           "Kamino Lend": 144419
         }
@@ -4521,7 +4550,7 @@
     [
       1716422400,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 65521,
           "Kamino Lend": 144125
         }
@@ -4530,7 +4559,7 @@
     [
       1716508800,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 64700,
           "Kamino Lend": 139405
         }
@@ -4539,7 +4568,7 @@
     [
       1716595200,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 20179,
           "Kamino Lend": 133895
         }
@@ -4548,7 +4577,7 @@
     [
       1716681600,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 6365,
           "Kamino Lend": 128155
         }
@@ -4557,7 +4586,7 @@
     [
       1716768000,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 15285,
           "Kamino Lend": 135743
         }
@@ -4566,7 +4595,7 @@
     [
       1716854400,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 133980,
           "Kamino Lend": 143139
         }
@@ -4575,7 +4604,7 @@
     [
       1716940800,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 71559,
           "Kamino Lend": 151035
         }
@@ -4584,7 +4613,7 @@
     [
       1717027200,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 63391,
           "Kamino Lend": 156362
         }
@@ -4593,7 +4622,7 @@
     [
       1717113600,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 39271,
           "Kamino Lend": 150437
         }
@@ -4602,7 +4631,7 @@
     [
       1717200000,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 37045,
           "Kamino Lend": 157342
         }
@@ -4611,7 +4640,7 @@
     [
       1717286400,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 23316,
           "Kamino Lend": 159791
         }
@@ -4620,7 +4649,7 @@
     [
       1717372800,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 33769,
           "Kamino Lend": 167698
         }
@@ -4629,7 +4658,7 @@
     [
       1717459200,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 44090,
           "Kamino Lend": 159311
         }
@@ -4638,7 +4667,7 @@
     [
       1717545600,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 39028,
           "Kamino Lend": 165490
         }
@@ -4647,7 +4676,7 @@
     [
       1717632000,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 37629,
           "Kamino Lend": 160958
         }
@@ -4656,7 +4685,7 @@
     [
       1717718400,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 36351,
           "Kamino Lend": 153854
         }
@@ -4665,7 +4694,7 @@
     [
       1717804800,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 80253,
           "Kamino Lend": 150342
         }
@@ -4674,7 +4703,7 @@
     [
       1717891200,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 31924,
           "Kamino Lend": 146547
         }
@@ -4683,7 +4712,7 @@
     [
       1717977600,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 24375,
           "Kamino Lend": 149449
         }
@@ -4692,7 +4721,7 @@
     [
       1718064000,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 27987,
           "Kamino Lend": 148095
         }
@@ -4701,7 +4730,7 @@
     [
       1718150400,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 37023,
           "Kamino Lend": 157164
         }
@@ -4710,7 +4739,7 @@
     [
       1718236800,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 34839,
           "Kamino Lend": 156509
         }
@@ -4719,7 +4748,7 @@
     [
       1718323200,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 26521,
           "Kamino Lend": 155172
         }
@@ -4728,7 +4757,7 @@
     [
       1718409600,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 34259,
           "Kamino Lend": 161184
         }
@@ -4737,7 +4766,7 @@
     [
       1718496000,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 20533,
           "Kamino Lend": 162827
         }
@@ -4746,7 +4775,7 @@
     [
       1718582400,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 24364,
           "Kamino Lend": 162813
         }
@@ -4755,7 +4784,7 @@
     [
       1718668800,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 36823,
           "Kamino Lend": 155121
         }
@@ -4764,7 +4793,7 @@
     [
       1718755200,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 72677,
           "Kamino Lend": 163936
         }
@@ -4773,7 +4802,7 @@
     [
       1718841600,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 43902,
           "Kamino Lend": 169428
         }
@@ -4782,7 +4811,7 @@
     [
       1718928000,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 41050,
           "Kamino Lend": 157969
         }
@@ -4791,7 +4820,7 @@
     [
       1719014400,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 33778,
           "Kamino Lend": 167094
         }
@@ -4800,7 +4829,7 @@
     [
       1719100800,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 14919,
           "Kamino Lend": 156625
         }
@@ -4809,7 +4838,7 @@
     [
       1719187200,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 19330,
           "Kamino Lend": 148980
         }
@@ -4818,7 +4847,7 @@
     [
       1719273600,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 40468,
           "Kamino Lend": 152517
         }
@@ -4827,7 +4856,7 @@
     [
       1719360000,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 31218,
           "Kamino Lend": 154088
         }
@@ -4836,7 +4865,7 @@
     [
       1719446400,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 25508,
           "Kamino Lend": 154005
         }
@@ -4845,7 +4874,7 @@
     [
       1719532800,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 53016,
           "Kamino Lend": 159743
         }
@@ -4854,7 +4883,7 @@
     [
       1719619200,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 32878,
           "Kamino Lend": 155029
         }
@@ -4863,7 +4892,7 @@
     [
       1719705600,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 25577,
           "Kamino Lend": 150463
         }
@@ -4872,7 +4901,7 @@
     [
       1719792000,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 25303,
           "Kamino Lend": 155529
         }
@@ -4881,7 +4910,7 @@
     [
       1719878400,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 31038,
           "Kamino Lend": 155378
         }
@@ -4890,7 +4919,7 @@
     [
       1719964800,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 34569,
           "Kamino Lend": 152169
         }
@@ -4899,7 +4928,7 @@
     [
       1720051200,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 45284,
           "Kamino Lend": 152911
         }
@@ -4908,7 +4937,7 @@
     [
       1720137600,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 54290,
           "Kamino Lend": 147779
         }
@@ -4917,7 +4946,7 @@
     [
       1720224000,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 68738,
           "Kamino Lend": 144792
         }
@@ -4926,7 +4955,7 @@
     [
       1720310400,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 31582,
           "Kamino Lend": 139621
         }
@@ -4935,7 +4964,7 @@
     [
       1720396800,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 26788,
           "Kamino Lend": 135135
         }
@@ -4944,7 +4973,7 @@
     [
       1720483200,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 46654,
           "Kamino Lend": 131006
         }
@@ -4953,7 +4982,7 @@
     [
       1720569600,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 37057,
           "Kamino Lend": 127582
         }
@@ -4962,7 +4991,7 @@
     [
       1720656000,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 25429,
           "Kamino Lend": 130246
         }
@@ -4971,7 +5000,7 @@
     [
       1720742400,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 27144,
           "Kamino Lend": 126147
         }
@@ -4980,7 +5009,7 @@
     [
       1720828800,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 20634,
           "Kamino Lend": 127421
         }
@@ -4989,7 +5018,7 @@
     [
       1720915200,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 17624,
           "Kamino Lend": 131201
         }
@@ -4998,7 +5027,7 @@
     [
       1721001600,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 23552,
           "Kamino Lend": 136699
         }
@@ -5007,7 +5036,7 @@
     [
       1721088000,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 40550,
           "Kamino Lend": 137981
         }
@@ -5016,7 +5045,7 @@
     [
       1721174400,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 53438,
           "Kamino Lend": 139316
         }
@@ -5025,7 +5054,7 @@
     [
       1721260800,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 41557,
           "Kamino Lend": 138966
         }
@@ -5034,7 +5063,7 @@
     [
       1721347200,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 43624,
           "Kamino Lend": 136414
         }
@@ -5043,7 +5072,7 @@
     [
       1721433600,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 58509,
           "Kamino Lend": 136510
         }
@@ -5052,7 +5081,7 @@
     [
       1721520000,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 38681,
           "Kamino Lend": 138482
         }
@@ -5061,7 +5090,7 @@
     [
       1721606400,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 52488,
           "Kamino Lend": 141659
         }
@@ -5070,7 +5099,7 @@
     [
       1721692800,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 49148,
           "Kamino Lend": 143547
         }
@@ -5079,7 +5108,7 @@
     [
       1721779200,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 48661,
           "Kamino Lend": 143507
         }
@@ -5088,7 +5117,7 @@
     [
       1721865600,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 37281,
           "Kamino Lend": 139105
         }
@@ -5097,7 +5126,7 @@
     [
       1721952000,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 50406,
           "Kamino Lend": 149385
         }
@@ -5106,7 +5135,7 @@
     [
       1722038400,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 44491,
           "Kamino Lend": 145907
         }
@@ -5115,7 +5144,7 @@
     [
       1722124800,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 48910,
           "Kamino Lend": 142324
         }
@@ -5124,7 +5153,7 @@
     [
       1722211200,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 28384,
           "Kamino Lend": 161553
         }
@@ -5133,7 +5162,7 @@
     [
       1722297600,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 42607,
           "Kamino Lend": 160930
         }
@@ -5142,7 +5171,7 @@
     [
       1722384000,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 32385,
           "Kamino Lend": 170621
         }
@@ -5151,7 +5180,7 @@
     [
       1722470400,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 40512,
           "Kamino Lend": 156242
         }
@@ -5160,7 +5189,7 @@
     [
       1722556800,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 49520,
           "Kamino Lend": 156052
         }
@@ -5169,7 +5198,7 @@
     [
       1722643200,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 44973,
           "Kamino Lend": 169104
         }
@@ -5178,7 +5207,7 @@
     [
       1722729600,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 37799,
           "Kamino Lend": 167940
         }
@@ -5187,7 +5216,7 @@
     [
       1722816000,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 46763,
           "Kamino Lend": 152652
         }
@@ -5196,7 +5225,7 @@
     [
       1722902400,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 175444,
           "Kamino Lend": 144826
         }
@@ -5205,7 +5234,7 @@
     [
       1722988800,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 59049,
           "Kamino Lend": 159305
         }
@@ -5214,7 +5243,7 @@
     [
       1723075200,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 55859,
           "Kamino Lend": 163892
         }
@@ -5223,7 +5252,7 @@
     [
       1723161600,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 68729,
           "Kamino Lend": 175355
         }
@@ -5232,7 +5261,7 @@
     [
       1723248000,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 37071,
           "Kamino Lend": 171009
         }
@@ -5241,7 +5270,7 @@
     [
       1723334400,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 19345,
           "Kamino Lend": 172690
         }
@@ -5250,7 +5279,7 @@
     [
       1723420800,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 23921,
           "Kamino Lend": 165948
         }
@@ -5259,7 +5288,7 @@
     [
       1723507200,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 33184,
           "Kamino Lend": 167370
         }
@@ -5268,7 +5297,7 @@
     [
       1723593600,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 19591,
           "Kamino Lend": 168546
         }
@@ -5277,7 +5306,7 @@
     [
       1723680000,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 21644,
           "Kamino Lend": 171537
         }
@@ -5286,7 +5315,7 @@
     [
       1723766400,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 34762,
           "Kamino Lend": 169267
         }
@@ -5295,7 +5324,7 @@
     [
       1723852800,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 24922,
           "Kamino Lend": 164254
         }
@@ -5304,7 +5333,7 @@
     [
       1723939200,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 18850,
           "Kamino Lend": 161025
         }
@@ -5313,7 +5342,7 @@
     [
       1724025600,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 20110,
           "Kamino Lend": 160725
         }
@@ -5322,7 +5351,7 @@
     [
       1724112000,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 25301,
           "Kamino Lend": 166896
         }
@@ -5331,7 +5360,7 @@
     [
       1724198400,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 42202,
           "Kamino Lend": 181979
         }
@@ -5340,7 +5369,7 @@
     [
       1724284800,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 25586,
           "Kamino Lend": 167325
         }
@@ -5349,7 +5378,7 @@
     [
       1724371200,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 25532,
           "Kamino Lend": 159704
         }
@@ -5358,7 +5387,7 @@
     [
       1724457600,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 39902,
           "Kamino Lend": 200513
         }
@@ -5367,7 +5396,7 @@
     [
       1724544000,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 43980,
           "Kamino Lend": 171690
         }
@@ -5376,7 +5405,7 @@
     [
       1724630400,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 27323,
           "Kamino Lend": 159645
         }
@@ -5385,7 +5414,7 @@
     [
       1724716800,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 35012,
           "Kamino Lend": 150480
         }
@@ -5394,7 +5423,7 @@
     [
       1724803200,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 34364,
           "Kamino Lend": 155992
         }
@@ -5403,7 +5432,7 @@
     [
       1724889600,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 32624,
           "Kamino Lend": 148335
         }
@@ -5412,7 +5441,7 @@
     [
       1724976000,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 27453,
           "Kamino Lend": 158024
         }
@@ -5421,7 +5450,7 @@
     [
       1725062400,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 22475,
           "Kamino Lend": 159055
         }
@@ -5430,7 +5459,7 @@
     [
       1725148800,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 8968,
           "Kamino Lend": 139089
         }
@@ -5439,7 +5468,7 @@
     [
       1725235200,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 20029,
           "Kamino Lend": 145374
         }
@@ -5448,7 +5477,7 @@
     [
       1725321600,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 23175,
           "Kamino Lend": 136757
         }
@@ -5457,7 +5486,7 @@
     [
       1725408000,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 12766,
           "Kamino Lend": 130178
         }
@@ -5466,7 +5495,7 @@
     [
       1725494400,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 23274,
           "Kamino Lend": 153602
         }
@@ -5475,7 +5504,7 @@
     [
       1725580800,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 22017,
           "Kamino Lend": 129604
         }
@@ -5484,7 +5513,7 @@
     [
       1725667200,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 26698,
           "Kamino Lend": 136180
         }
@@ -5493,7 +5522,7 @@
     [
       1725753600,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 12304,
           "Kamino Lend": 122077
         }
@@ -5502,7 +5531,7 @@
     [
       1725840000,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 14884,
           "Kamino Lend": 123567
         }
@@ -5511,7 +5540,7 @@
     [
       1725926400,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 21131,
           "Kamino Lend": 124117
         }
@@ -5520,7 +5549,7 @@
     [
       1726012800,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 17005,
           "Kamino Lend": 127437
         }
@@ -5529,7 +5558,7 @@
     [
       1726099200,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 20818,
           "Kamino Lend": 179338
         }
@@ -5538,7 +5567,7 @@
     [
       1726185600,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 26026,
           "Kamino Lend": 140856
         }
@@ -5547,7 +5576,7 @@
     [
       1726272000,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 20968,
           "Kamino Lend": 129195
         }
@@ -5556,7 +5585,7 @@
     [
       1726358400,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 10876,
           "Kamino Lend": 142789
         }
@@ -5565,7 +5594,7 @@
     [
       1726444800,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 13961,
           "Kamino Lend": 143527
         }
@@ -5574,7 +5603,7 @@
     [
       1726531200,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 14939,
           "Kamino Lend": 144829
         }
@@ -5583,7 +5612,7 @@
     [
       1726617600,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 18947,
           "Kamino Lend": 146167
         }
@@ -5592,7 +5621,7 @@
     [
       1726704000,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 25026,
           "Kamino Lend": 145685
         }
@@ -5601,7 +5630,7 @@
     [
       1726790400,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 35869,
           "Kamino Lend": 191068
         }
@@ -5610,7 +5639,7 @@
     [
       1726876800,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 38001,
           "Kamino Lend": 163562
         }
@@ -5619,7 +5648,7 @@
     [
       1726963200,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 16847,
           "Kamino Lend": 138883
         }
@@ -5628,7 +5657,7 @@
     [
       1727049600,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 18297,
           "Kamino Lend": 145234
         }
@@ -5637,7 +5666,7 @@
     [
       1727136000,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 33979,
           "Kamino Lend": 138857
         }
@@ -5646,7 +5675,7 @@
     [
       1727222400,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 40533,
           "Kamino Lend": 138286
         }
@@ -5655,7 +5684,7 @@
     [
       1727308800,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 28520,
           "Kamino Lend": 156482
         }
@@ -5664,7 +5693,7 @@
     [
       1727395200,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 43869,
           "Kamino Lend": 157146
         }
@@ -5673,7 +5702,7 @@
     [
       1727481600,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 43184,
           "Kamino Lend": 160668
         }
@@ -5682,7 +5711,7 @@
     [
       1727568000,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 21448,
           "Kamino Lend": 153820
         }
@@ -5691,7 +5720,7 @@
     [
       1727654400,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 27767,
           "Kamino Lend": 150477
         }
@@ -5700,7 +5729,7 @@
     [
       1727740800,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 34210,
           "Kamino Lend": 147790
         }
@@ -5709,7 +5738,7 @@
     [
       1727827200,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 46295,
           "Kamino Lend": 149982
         }
@@ -5718,7 +5747,7 @@
     [
       1727913600,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 39262,
           "Kamino Lend": 149876
         }
@@ -5727,7 +5756,7 @@
     [
       1728000000,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 34380,
           "Kamino Lend": 150628
         }
@@ -5736,7 +5765,7 @@
     [
       1728086400,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 25850,
           "Kamino Lend": 150474
         }
@@ -5745,7 +5774,7 @@
     [
       1728172800,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 19141,
           "Kamino Lend": 145831
         }
@@ -5754,7 +5783,7 @@
     [
       1728259200,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 22756,
           "Kamino Lend": 146113
         }
@@ -5763,7 +5792,7 @@
     [
       1728345600,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 34541,
           "Kamino Lend": 150517
         }
@@ -5772,7 +5801,7 @@
     [
       1728432000,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 27441,
           "Kamino Lend": 149227
         }
@@ -5781,7 +5810,7 @@
     [
       1728518400,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 33332,
           "Kamino Lend": 159824
         }
@@ -5790,7 +5819,7 @@
     [
       1728604800,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 36130,
           "Kamino Lend": 157589
         }
@@ -5799,7 +5828,7 @@
     [
       1728691200,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 31048,
           "Kamino Lend": 143403
         }
@@ -5808,7 +5837,7 @@
     [
       1728777600,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 26773,
           "Kamino Lend": 148328
         }
@@ -5817,7 +5846,7 @@
     [
       1728864000,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 24261,
           "Kamino Lend": 149746
         }
@@ -5826,7 +5855,7 @@
     [
       1728950400,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 41297,
           "Kamino Lend": 157338
         }
@@ -5835,7 +5864,7 @@
     [
       1729036800,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 48205,
           "Kamino Lend": 166783
         }
@@ -5844,7 +5873,7 @@
     [
       1729123200,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 40491,
           "Kamino Lend": 175211
         }
@@ -5853,7 +5882,7 @@
     [
       1729209600,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 25142,
           "Kamino Lend": 192928
         }
@@ -5862,7 +5891,7 @@
     [
       1729296000,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 25229,
           "Kamino Lend": 186805
         }
@@ -5871,15 +5900,16 @@
     [
       1729382400,
       {
-        "solana": {
-          "Kamino Liquidity": 20645
+        "Solana": {
+          "Kamino Liquidity": 20645,
+          "Kamino Lend": 189364
         }
       }
     ],
     [
       1729468800,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 32114,
           "Kamino Lend": 189304
         }
@@ -5888,7 +5918,7 @@
     [
       1729555200,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 40916,
           "Kamino Lend": 207515
         }
@@ -5897,7 +5927,7 @@
     [
       1729641600,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 36828,
           "Kamino Lend": 185519
         }
@@ -5906,7 +5936,7 @@
     [
       1729728000,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 47723,
           "Kamino Lend": 185539
         }
@@ -5915,7 +5945,7 @@
     [
       1729814400,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 53261,
           "Kamino Lend": 196376
         }
@@ -5924,7 +5954,7 @@
     [
       1729900800,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 47481,
           "Kamino Lend": 204176
         }
@@ -5933,7 +5963,7 @@
     [
       1729987200,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 32668,
           "Kamino Lend": 196981
         }
@@ -5942,7 +5972,7 @@
     [
       1730073600,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 35006,
           "Kamino Lend": 199213
         }
@@ -5951,7 +5981,7 @@
     [
       1730160000,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 48624,
           "Kamino Lend": 200274
         }
@@ -5960,7 +5990,7 @@
     [
       1730246400,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 52246,
           "Kamino Lend": 219801
         }
@@ -5969,7 +5999,7 @@
     [
       1730332800,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 34740,
           "Kamino Lend": 206673
         }
@@ -5978,7 +6008,7 @@
     [
       1730419200,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 22611,
           "Kamino Lend": 228227
         }
@@ -5987,7 +6017,7 @@
     [
       1730505600,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 32272,
           "Kamino Lend": 219070
         }
@@ -5996,7 +6026,7 @@
     [
       1730592000,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 21529,
           "Kamino Lend": 219045
         }
@@ -6005,7 +6035,7 @@
     [
       1730678400,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 34570,
           "Kamino Lend": 217034
         }
@@ -6014,7 +6044,7 @@
     [
       1730764800,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 40130,
           "Kamino Lend": 232169
         }
@@ -6023,7 +6053,7 @@
     [
       1730851200,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 33922,
           "Kamino Lend": 265193
         }
@@ -6032,7 +6062,7 @@
     [
       1730937600,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 71800,
           "Kamino Lend": 250494
         }
@@ -6041,7 +6071,7 @@
     [
       1731024000,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 55670,
           "Kamino Lend": 246371
         }
@@ -6050,7 +6080,7 @@
     [
       1731110400,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 245751,
           "Kamino Lend": 293124
         }
@@ -6059,7 +6089,7 @@
     [
       1731196800,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 114753,
           "Kamino Lend": 234509
         }
@@ -6068,7 +6098,7 @@
     [
       1731283200,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 98538,
           "Kamino Lend": 327313
         }
@@ -6077,7 +6107,7 @@
     [
       1731369600,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 79047,
           "Kamino Lend": 416881
         }
@@ -6086,7 +6116,7 @@
     [
       1731456000,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 141673,
           "Kamino Lend": 343785
         }
@@ -6095,7 +6125,7 @@
     [
       1731542400,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 172077,
           "Kamino Lend": 316634
         }
@@ -6104,7 +6134,7 @@
     [
       1731628800,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 111967,
           "Kamino Lend": 352659
         }
@@ -6113,7 +6143,7 @@
     [
       1731715200,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 114540,
           "Kamino Lend": 335355
         }
@@ -6122,7 +6152,7 @@
     [
       1731801600,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 147909,
           "Kamino Lend": 316152
         }
@@ -6131,7 +6161,7 @@
     [
       1731888000,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 68044,
           "Kamino Lend": 310997
         }
@@ -6140,7 +6170,7 @@
     [
       1731974400,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 73029,
           "Kamino Lend": 440226
         }
@@ -6149,7 +6179,7 @@
     [
       1732060800,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 63303,
           "Kamino Lend": 453897
         }
@@ -6158,7 +6188,7 @@
     [
       1732147200,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 89661,
           "Kamino Lend": 495309
         }
@@ -6167,7 +6197,7 @@
     [
       1732233600,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 84510,
           "Kamino Lend": 486591
         }
@@ -6176,7 +6206,7 @@
     [
       1732320000,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 76777,
           "Kamino Lend": 423749
         }
@@ -6185,7 +6215,7 @@
     [
       1732406400,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 64767,
           "Kamino Lend": 402434
         }
@@ -6194,7 +6224,7 @@
     [
       1732492800,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 71288,
           "Kamino Lend": 413970
         }
@@ -6203,7 +6233,7 @@
     [
       1732579200,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 47770,
           "Kamino Lend": 446522
         }
@@ -6212,7 +6242,7 @@
     [
       1732665600,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 54939,
           "Kamino Lend": 461816
         }
@@ -6221,7 +6251,7 @@
     [
       1732752000,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 42793,
           "Kamino Lend": 440840
         }
@@ -6230,7 +6260,7 @@
     [
       1732838400,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 47057,
           "Kamino Lend": 527341
         }
@@ -6239,7 +6269,7 @@
     [
       1732924800,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 36290,
           "Kamino Lend": 426493
         }
@@ -6248,7 +6278,7 @@
     [
       1733011200,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 69447,
           "Kamino Lend": 435557
         }
@@ -6257,7 +6287,7 @@
     [
       1733097600,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 91300,
           "Kamino Lend": 435316
         }
@@ -6266,7 +6296,7 @@
     [
       1733184000,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 93523,
           "Kamino Lend": 496811
         }
@@ -6275,7 +6305,7 @@
     [
       1733270400,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 81029,
           "Kamino Lend": 506581
         }
@@ -6284,7 +6314,7 @@
     [
       1733356800,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 105515,
           "Kamino Lend": 510006
         }
@@ -6293,7 +6323,7 @@
     [
       1733443200,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 79694,
           "Kamino Lend": 578553
         }
@@ -6302,7 +6332,7 @@
     [
       1733529600,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 69449,
           "Kamino Lend": 512864
         }
@@ -6311,7 +6341,7 @@
     [
       1733616000,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 48516,
           "Kamino Lend": 468124
         }
@@ -6320,7 +6350,7 @@
     [
       1733702400,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 98150,
           "Kamino Lend": 678422
         }
@@ -6329,7 +6359,7 @@
     [
       1733788800,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 0,
           "Kamino Lend": 619975
         }
@@ -6338,7 +6368,7 @@
     [
       1733875200,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 0,
           "Kamino Lend": 580240
         }
@@ -6347,7 +6377,7 @@
     [
       1733961600,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 0,
           "Kamino Lend": 464994
         }
@@ -6356,7 +6386,7 @@
     [
       1734048000,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 0,
           "Kamino Lend": 509602
         }
@@ -6365,7 +6395,7 @@
     [
       1734134400,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 0,
           "Kamino Lend": 565045
         }
@@ -6374,7 +6404,7 @@
     [
       1734220800,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 26186,
           "Kamino Lend": 626101
         }
@@ -6383,7 +6413,7 @@
     [
       1734307200,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 0,
           "Kamino Lend": 560472
         }
@@ -6392,7 +6422,7 @@
     [
       1734393600,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 50968,
           "Kamino Lend": 563134
         }
@@ -6401,7 +6431,7 @@
     [
       1734480000,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 0,
           "Kamino Lend": 495722
         }
@@ -6410,7 +6440,7 @@
     [
       1734566400,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 0,
           "Kamino Lend": 487258
         }
@@ -6419,7 +6449,7 @@
     [
       1734652800,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 97031,
           "Kamino Lend": 623106
         }
@@ -6428,7 +6458,7 @@
     [
       1734739200,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 0,
           "Kamino Lend": 551202
         }
@@ -6437,7 +6467,7 @@
     [
       1734825600,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 0,
           "Kamino Lend": 333191
         }
@@ -6446,7 +6476,7 @@
     [
       1734912000,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 0,
           "Kamino Lend": 313871
         }
@@ -6455,7 +6485,7 @@
     [
       1734998400,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 12835,
           "Kamino Lend": 321342
         }
@@ -6464,7 +6494,7 @@
     [
       1735084800,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 0,
           "Kamino Lend": 324970
         }
@@ -6473,7 +6503,7 @@
     [
       1735171200,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 0,
           "Kamino Lend": 326604
         }
@@ -6482,7 +6512,7 @@
     [
       1735257600,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 0,
           "Kamino Lend": 322943
         }
@@ -6491,7 +6521,7 @@
     [
       1735344000,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 0,
           "Kamino Lend": 335100
         }
@@ -6500,7 +6530,7 @@
     [
       1735430400,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 0,
           "Kamino Lend": 337299
         }
@@ -6509,7 +6539,7 @@
     [
       1735516800,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 0,
           "Kamino Lend": 345587
         }
@@ -6518,7 +6548,7 @@
     [
       1735603200,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 59825,
           "Kamino Lend": 343817
         }
@@ -6527,7 +6557,7 @@
     [
       1735689600,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 43740,
           "Kamino Lend": 330325
         }
@@ -6536,7 +6566,7 @@
     [
       1735776000,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 76468,
           "Kamino Lend": 330123
         }
@@ -6545,7 +6575,7 @@
     [
       1735862400,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 56976,
           "Kamino Lend": 330574
         }
@@ -6554,7 +6584,7 @@
     [
       1735948800,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 33069,
           "Kamino Lend": 332346
         }
@@ -6563,7 +6593,7 @@
     [
       1736035200,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 39093,
           "Kamino Lend": 340923
         }
@@ -6572,7 +6602,7 @@
     [
       1736121600,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 43668,
           "Kamino Lend": 326268
         }
@@ -6581,7 +6611,7 @@
     [
       1736208000,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 41743,
           "Kamino Lend": 326290
         }
@@ -6590,7 +6620,7 @@
     [
       1736294400,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 50344,
           "Kamino Lend": 337812
         }
@@ -6599,7 +6629,7 @@
     [
       1736380800,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 49675,
           "Kamino Lend": 367249
         }
@@ -6608,7 +6638,7 @@
     [
       1736467200,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 45117,
           "Kamino Lend": 374340
         }
@@ -6617,7 +6647,7 @@
     [
       1736553600,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 32732,
           "Kamino Lend": 334098
         }
@@ -6626,7 +6656,7 @@
     [
       1736640000,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 25185,
           "Kamino Lend": 290588
         }
@@ -6635,7 +6665,7 @@
     [
       1736726400,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 64717,
           "Kamino Lend": 278362
         }
@@ -6644,7 +6674,7 @@
     [
       1736812800,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 38685,
           "Kamino Lend": 379800
         }
@@ -6653,7 +6683,7 @@
     [
       1736899200,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 53898,
           "Kamino Lend": 319849
         }
@@ -6662,7 +6692,7 @@
     [
       1736985600,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 56813,
           "Kamino Lend": 301599
         }
@@ -6671,7 +6701,7 @@
     [
       1737072000,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 52462,
           "Kamino Lend": 305755
         }
@@ -6680,7 +6710,7 @@
     [
       1737158400,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 307470,
           "Kamino Lend": 347293
         }
@@ -6689,7 +6719,7 @@
     [
       1737244800,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 217522,
           "Kamino Lend": 436123
         }
@@ -6698,7 +6728,7 @@
     [
       1737331200,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 336044,
           "Kamino Lend": 555337
         }
@@ -6707,7 +6737,7 @@
     [
       1737417600,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 135302,
           "Kamino Lend": 627276
         }
@@ -6716,7 +6746,7 @@
     [
       1737504000,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 150645,
           "Kamino Lend": 347945
         }
@@ -6725,7 +6755,7 @@
     [
       1737590400,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 99882,
           "Kamino Lend": 390687
         }
@@ -6734,7 +6764,7 @@
     [
       1737676800,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 71706,
           "Kamino Lend": 466686
         }
@@ -6743,7 +6773,7 @@
     [
       1737763200,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 119277,
           "Kamino Lend": 419512
         }
@@ -6752,7 +6782,7 @@
     [
       1737849600,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 184134,
           "Kamino Lend": 474639
         }
@@ -6761,7 +6791,7 @@
     [
       1737936000,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 157899,
           "Kamino Lend": 442461
         }
@@ -6770,7 +6800,7 @@
     [
       1738022400,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 85089,
           "Kamino Lend": 569476
         }
@@ -6779,7 +6809,7 @@
     [
       1738108800,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 78717,
           "Kamino Lend": 448004
         }
@@ -6788,7 +6818,7 @@
     [
       1738195200,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 57794,
           "Kamino Lend": 419102
         }
@@ -6797,7 +6827,7 @@
     [
       1738281600,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 54808,
           "Kamino Lend": 395319
         }
@@ -6806,7 +6836,7 @@
     [
       1738368000,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 50243,
           "Kamino Lend": 397354
         }
@@ -6815,7 +6845,7 @@
     [
       1738454400,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 85626,
           "Kamino Lend": 482563
         }
@@ -6824,7 +6854,7 @@
     [
       1738540800,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 170300,
           "Kamino Lend": 544529
         }
@@ -6833,7 +6863,7 @@
     [
       1738627200,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 81521,
           "Kamino Lend": 752701
         }
@@ -6842,7 +6872,7 @@
     [
       1738713600,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 37959,
           "Kamino Lend": 412040
         }
@@ -6851,7 +6881,7 @@
     [
       1738800000,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 48342,
           "Kamino Lend": 343908
         }
@@ -6860,7 +6890,7 @@
     [
       1738886400,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 55410,
           "Kamino Lend": 346526
         }
@@ -6869,7 +6899,7 @@
     [
       1738972800,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 40833,
           "Kamino Lend": 335243
         }
@@ -6878,7 +6908,7 @@
     [
       1739059200,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 44977,
           "Kamino Lend": 333894
         }
@@ -6887,7 +6917,7 @@
     [
       1739145600,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 36072,
           "Kamino Lend": 340008
         }
@@ -6896,7 +6926,7 @@
     [
       1739232000,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 38845,
           "Kamino Lend": 378969
         }
@@ -6905,7 +6935,7 @@
     [
       1739318400,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 64616,
           "Kamino Lend": 362267
         }
@@ -6914,7 +6944,7 @@
     [
       1739404800,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 41773,
           "Kamino Lend": 381468
         }
@@ -6923,7 +6953,7 @@
     [
       1739491200,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 75328,
           "Kamino Lend": 415058
         }
@@ -6932,7 +6962,7 @@
     [
       1739577600,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 27520,
           "Kamino Lend": 396670
         }
@@ -6941,7 +6971,7 @@
     [
       1739664000,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 35098,
           "Kamino Lend": 403454
         }
@@ -6950,7 +6980,7 @@
     [
       1739750400,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 45746,
           "Kamino Lend": 381399
         }
@@ -6959,7 +6989,7 @@
     [
       1739836800,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 67426,
           "Kamino Lend": 425403
         }
@@ -6968,7 +6998,7 @@
     [
       1739923200,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 41774,
           "Kamino Lend": 569394
         }
@@ -6977,7 +7007,7 @@
     [
       1740009600,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 36407,
           "Kamino Lend": 350739
         }
@@ -6986,7 +7016,7 @@
     [
       1740096000,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 85285,
           "Kamino Lend": 346435
         }
@@ -6995,7 +7025,7 @@
     [
       1740182400,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 29830,
           "Kamino Lend": 364120
         }
@@ -7004,7 +7034,7 @@
     [
       1740268800,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 14902,
           "Kamino Lend": 350698
         }
@@ -7013,7 +7043,7 @@
     [
       1740355200,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 51969,
           "Kamino Lend": 339974
         }
@@ -7022,7 +7052,7 @@
     [
       1740441600,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 74622,
           "Kamino Lend": 677074
         }
@@ -7031,7 +7061,7 @@
     [
       1740528000,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 35889,
           "Kamino Lend": 533092
         }
@@ -7040,7 +7070,7 @@
     [
       1740614400,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 30846,
           "Kamino Lend": 406560
         }
@@ -7049,7 +7079,7 @@
     [
       1740700800,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 55839,
           "Kamino Lend": 246308
         }
@@ -7058,7 +7088,7 @@
     [
       1740787200,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 21653,
           "Kamino Lend": 420452
         }
@@ -7067,7 +7097,7 @@
     [
       1740873600,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 82954,
           "Kamino Lend": 220005
         }
@@ -7076,7 +7106,7 @@
     [
       1740960000,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 50364,
           "Kamino Lend": 288089
         }
@@ -7085,7 +7115,7 @@
     [
       1741046400,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 56855,
           "Kamino Lend": 336529
         }
@@ -7094,7 +7124,7 @@
     [
       1741132800,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 32308,
           "Kamino Lend": 278641
         }
@@ -7103,7 +7133,7 @@
     [
       1741219200,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 31642,
           "Kamino Lend": 228353
         }
@@ -7112,7 +7142,7 @@
     [
       1741305600,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 39626,
           "Kamino Lend": 248143
         }
@@ -7121,7 +7151,7 @@
     [
       1741392000,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 19291,
           "Kamino Lend": 238490
         }
@@ -7130,7 +7160,7 @@
     [
       1741478400,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 33146,
           "Kamino Lend": 264407
         }
@@ -7139,7 +7169,7 @@
     [
       1741564800,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 48937,
           "Kamino Lend": 551747
         }
@@ -7148,7 +7178,7 @@
     [
       1741651200,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 54866,
           "Kamino Lend": 297890
         }
@@ -7157,7 +7187,7 @@
     [
       1741737600,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 27604,
           "Kamino Lend": 186194
         }
@@ -7166,7 +7196,7 @@
     [
       1741824000,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 23793,
           "Kamino Lend": 141439
         }
@@ -7175,7 +7205,7 @@
     [
       1741910400,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 22590,
           "Kamino Lend": 190579
         }
@@ -7184,7 +7214,7 @@
     [
       1741996800,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 14590,
           "Kamino Lend": 188442
         }
@@ -7193,7 +7223,7 @@
     [
       1742083200,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 15102,
           "Kamino Lend": 184696
         }
@@ -7202,7 +7232,7 @@
     [
       1742169600,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 21765,
           "Kamino Lend": 187670
         }
@@ -7211,7 +7241,7 @@
     [
       1742256000,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 15795,
           "Kamino Lend": 188871
         }
@@ -7220,7 +7250,7 @@
     [
       1742342400,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 24550,
           "Kamino Lend": 191737
         }
@@ -7229,7 +7259,7 @@
     [
       1742428800,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 16326,
           "Kamino Lend": 197302
         }
@@ -7238,7 +7268,7 @@
     [
       1742515200,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 18702,
           "Kamino Lend": 203371
         }
@@ -7247,7 +7277,7 @@
     [
       1742601600,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 13046,
           "Kamino Lend": 204576
         }
@@ -7256,7 +7286,7 @@
     [
       1742688000,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 19334,
           "Kamino Lend": 202981
         }
@@ -7265,7 +7295,7 @@
     [
       1742774400,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 26991,
           "Kamino Lend": 205234
         }
@@ -7274,7 +7304,7 @@
     [
       1742860800,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 22327,
           "Kamino Lend": 207777
         }
@@ -7283,7 +7313,7 @@
     [
       1742947200,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 18313,
           "Kamino Lend": 211267
         }
@@ -7292,7 +7322,7 @@
     [
       1743033600,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 16739,
           "Kamino Lend": 208629
         }
@@ -7301,7 +7331,7 @@
     [
       1743120000,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 21123,
           "Kamino Lend": 222845
         }
@@ -7310,7 +7340,7 @@
     [
       1743206400,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 15229,
           "Kamino Lend": 252512
         }
@@ -7319,7 +7349,7 @@
     [
       1743292800,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 18894,
           "Kamino Lend": 201752
         }
@@ -7328,7 +7358,7 @@
     [
       1743379200,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 26832,
           "Kamino Lend": 195766
         }
@@ -7337,7 +7367,7 @@
     [
       1743465600,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 20225,
           "Kamino Lend": 205592
         }
@@ -7346,7 +7376,7 @@
     [
       1743552000,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 31113,
           "Kamino Lend": 226931
         }
@@ -7355,7 +7385,7 @@
     [
       1743638400,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 30562,
           "Kamino Lend": 210128
         }
@@ -7364,7 +7394,7 @@
     [
       1743724800,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 30243,
           "Kamino Lend": 189074
         }
@@ -7373,7 +7403,7 @@
     [
       1743811200,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 9862,
           "Kamino Lend": 188382
         }
@@ -7382,7 +7412,7 @@
     [
       1743897600,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 23168,
           "Kamino Lend": 442463
         }
@@ -7391,7 +7421,7 @@
     [
       1743984000,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 43801,
           "Kamino Lend": 441681
         }
@@ -7400,7 +7430,7 @@
     [
       1744070400,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 20726,
           "Kamino Lend": 153563
         }
@@ -7409,7 +7439,7 @@
     [
       1744156800,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 32852,
           "Kamino Lend": 155361
         }
@@ -7418,7 +7448,7 @@
     [
       1744243200,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 17296,
           "Kamino Lend": 163406
         }
@@ -7427,7 +7457,7 @@
     [
       1744329600,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 22470,
           "Kamino Lend": 179182
         }
@@ -7436,7 +7466,7 @@
     [
       1744416000,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 30982,
           "Kamino Lend": 199353
         }
@@ -7445,7 +7475,7 @@
     [
       1744502400,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 23798,
           "Kamino Lend": 209025
         }
@@ -7454,7 +7484,7 @@
     [
       1744588800,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 29009,
           "Kamino Lend": 228508
         }
@@ -7463,7 +7493,7 @@
     [
       1744675200,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 20731,
           "Kamino Lend": 232133
         }
@@ -7472,7 +7502,7 @@
     [
       1744761600,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 33710,
           "Kamino Lend": 234418
         }
@@ -7481,7 +7511,7 @@
     [
       1744848000,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 19010,
           "Kamino Lend": 238795
         }
@@ -7490,7 +7520,7 @@
     [
       1744934400,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 13329,
           "Kamino Lend": 231010
         }
@@ -7499,7 +7529,7 @@
     [
       1745020800,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 14980,
           "Kamino Lend": 252744
         }
@@ -7508,7 +7538,7 @@
     [
       1745107200,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 13077,
           "Kamino Lend": 267281
         }
@@ -7517,7 +7547,7 @@
     [
       1745193600,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 17868,
           "Kamino Lend": 254969
         }
@@ -7526,7 +7556,7 @@
     [
       1745280000,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 29227,
           "Kamino Lend": 269918
         }
@@ -7535,7 +7565,7 @@
     [
       1745366400,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 38930,
           "Kamino Lend": 285662
         }
@@ -7544,7 +7574,7 @@
     [
       1745452800,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 27774,
           "Kamino Lend": 269434
         }
@@ -7553,7 +7583,7 @@
     [
       1745539200,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 46816,
           "Kamino Lend": 267068
         }
@@ -7562,7 +7592,7 @@
     [
       1745625600,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 31614,
           "Kamino Lend": 245867
         }
@@ -7571,7 +7601,7 @@
     [
       1745712000,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 22893,
           "Kamino Lend": 269268
         }
@@ -7580,7 +7610,7 @@
     [
       1745798400,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 33083,
           "Kamino Lend": 292091
         }
@@ -7589,7 +7619,7 @@
     [
       1745884800,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 35484,
           "Kamino Lend": 272423
         }
@@ -7598,7 +7628,7 @@
     [
       1745971200,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 34775,
           "Kamino Lend": 275876
         }
@@ -7607,7 +7637,7 @@
     [
       1746057600,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 30788,
           "Kamino Lend": 280069
         }
@@ -7616,7 +7646,7 @@
     [
       1746144000,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 26381,
           "Kamino Lend": 277877
         }
@@ -7625,7 +7655,7 @@
     [
       1746230400,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 18109,
           "Kamino Lend": 277057
         }
@@ -7634,7 +7664,7 @@
     [
       1746316800,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 17560,
           "Kamino Lend": 276958
         }
@@ -7643,7 +7673,7 @@
     [
       1746403200,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 21387,
           "Kamino Lend": 272598
         }
@@ -7652,7 +7682,7 @@
     [
       1746489600,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 36236,
           "Kamino Lend": 285264
         }
@@ -7661,7 +7691,7 @@
     [
       1746576000,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 24067,
           "Kamino Lend": 289925
         }
@@ -7670,7 +7700,7 @@
     [
       1746662400,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 35113,
           "Kamino Lend": 283772
         }
@@ -7679,7 +7709,7 @@
     [
       1746748800,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 51616,
           "Kamino Lend": 298683
         }
@@ -7688,7 +7718,7 @@
     [
       1746835200,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 49534,
           "Kamino Lend": 302185
         }
@@ -7697,7 +7727,7 @@
     [
       1746921600,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 34154,
           "Kamino Lend": 294198
         }
@@ -7706,7 +7736,7 @@
     [
       1747008000,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 56955,
           "Kamino Lend": 291866
         }
@@ -7715,7 +7745,7 @@
     [
       1747094400,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 45579,
           "Kamino Lend": 312589
         }
@@ -7724,7 +7754,7 @@
     [
       1747180800,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 40445,
           "Kamino Lend": 306428
         }
@@ -7733,7 +7763,7 @@
     [
       1747267200,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 49320,
           "Kamino Lend": 300484
         }
@@ -7742,7 +7772,7 @@
     [
       1747353600,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 63722,
           "Kamino Lend": 299878
         }
@@ -7751,7 +7781,7 @@
     [
       1747440000,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 24057,
           "Kamino Lend": 297195
         }
@@ -7760,7 +7790,7 @@
     [
       1747526400,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 26465,
           "Kamino Lend": 297136
         }
@@ -7769,7 +7799,7 @@
     [
       1747612800,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 21753,
           "Kamino Lend": 294281
         }
@@ -7778,7 +7808,7 @@
     [
       1747699200,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 29753,
           "Kamino Lend": 294416
         }
@@ -7787,7 +7817,7 @@
     [
       1747785600,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 40666,
           "Kamino Lend": 311455
         }
@@ -7796,7 +7826,7 @@
     [
       1747872000,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 34650,
           "Kamino Lend": 319370
         }
@@ -7805,7 +7835,7 @@
     [
       1747958400,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 59957,
           "Kamino Lend": 326595
         }
@@ -7814,7 +7844,7 @@
     [
       1748044800,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 21233,
           "Kamino Lend": 310310
         }
@@ -7823,7 +7853,7 @@
     [
       1748131200,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 21942,
           "Kamino Lend": 308795
         }
@@ -7832,7 +7862,7 @@
     [
       1748217600,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 29608,
           "Kamino Lend": 304814
         }
@@ -7841,7 +7871,7 @@
     [
       1748304000,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 29254,
           "Kamino Lend": 311427
         }
@@ -7850,7 +7880,7 @@
     [
       1748390400,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 23862,
           "Kamino Lend": 312157
         }
@@ -7859,7 +7889,7 @@
     [
       1748476800,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 25372,
           "Kamino Lend": 330593
         }
@@ -7868,7 +7898,7 @@
     [
       1748563200,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 33814,
           "Kamino Lend": 365648
         }
@@ -7877,7 +7907,7 @@
     [
       1748649600,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 0,
           "Kamino Lend": 340331
         }
@@ -7886,7 +7916,7 @@
     [
       1748736000,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 0,
           "Kamino Lend": 299551
         }
@@ -7895,7 +7925,7 @@
     [
       1748822400,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 0,
           "Kamino Lend": 296337
         }
@@ -7904,7 +7934,7 @@
     [
       1748908800,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 0,
           "Kamino Lend": 383304
         }
@@ -7913,7 +7943,7 @@
     [
       1748995200,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 0,
           "Kamino Lend": 285235
         }
@@ -7922,7 +7952,7 @@
     [
       1749081600,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 18019,
           "Kamino Lend": 358729
         }
@@ -7931,7 +7961,7 @@
     [
       1749168000,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 28230,
           "Kamino Lend": 283277
         }
@@ -7940,7 +7970,7 @@
     [
       1749254400,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 19318,
           "Kamino Lend": 240689
         }
@@ -7949,7 +7979,7 @@
     [
       1749340800,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 11802,
           "Kamino Lend": 272821
         }
@@ -7958,7 +7988,7 @@
     [
       1749427200,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 13488,
           "Kamino Lend": 199479
         }
@@ -7967,7 +7997,7 @@
     [
       1749513600,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 0,
           "Kamino Lend": 231831
         }
@@ -7976,7 +8006,7 @@
     [
       1749600000,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 37722,
           "Kamino Lend": 291559
         }
@@ -7985,7 +8015,7 @@
     [
       1749686400,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 42818,
           "Kamino Lend": 291140
         }
@@ -7994,7 +8024,7 @@
     [
       1749772800,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 0,
           "Kamino Lend": 335788
         }
@@ -8003,7 +8033,7 @@
     [
       1749859200,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 0,
           "Kamino Lend": 282349
         }
@@ -8012,7 +8042,7 @@
     [
       1749945600,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 0,
           "Kamino Lend": 265520
         }
@@ -8021,12 +8051,75 @@
     [
       1750032000,
       {
-        "solana": {
+        "Solana": {
           "Kamino Liquidity": 0,
           "Kamino Lend": 289680
         }
       }
+    ],
+    [
+      1750118400,
+      {
+        "Solana": {
+          "Kamino Liquidity": 0,
+          "Kamino Lend": 270086
+        }
+      }
+    ],
+    [
+      1750204800,
+      {
+        "Solana": {
+          "Kamino Liquidity": 7371,
+          "Kamino Lend": 271228
+        }
+      }
+    ],
+    [
+      1750291200,
+      {
+        "Solana": {
+          "Kamino Liquidity": 8887,
+          "Kamino Lend": 267445
+        }
+      }
+    ],
+    [
+      1750377600,
+      {
+        "Solana": {
+          "Kamino Liquidity": 4512,
+          "Kamino Lend": 267246
+        }
+      }
+    ],
+    [
+      1750464000,
+      {
+        "Solana": {
+          "Kamino Liquidity": 3678,
+          "Kamino Lend": 260189
+        }
+      }
+    ],
+    [
+      1750550400,
+      {
+        "Solana": {
+          "Kamino Liquidity": 10592,
+          "Kamino Lend": 237413
+        }
+      }
+    ],
+    [
+      1750636800,
+      {
+        "Solana": {
+          "Kamino Liquidity": 5587,
+          "Kamino Lend": 254127
+        }
+      }
     ]
   ],
-  "change_1d": 9.1
+  "change_1d": 4.72
 }
