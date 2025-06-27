@@ -51,10 +51,10 @@
     "PancakeSwap AMM V3",
     "PancakeSwap Infinity"
   ],
-  "total24h": 30546,
-  "total48hto24h": 22837,
-  "total7d": 748769,
-  "totalAllTime": 1029718562,
+  "total24h": 40820,
+  "total48hto24h": 28377,
+  "total7d": 197188,
+  "totalAllTime": 1029818651,
   "totalDataChart": [
     [
       1619222400,
@@ -6130,7 +6130,19 @@
     ],
     [
       1750723200,
-      30546
+      20957
+    ],
+    [
+      1750809600,
+      28377
+    ],
+    [
+      1750896000,
+      40481
+    ],
+    [
+      1750982400,
+      40820
     ]
   ],
   "totalDataChartBreakdown": [
@@ -20679,16 +20691,58 @@
       1750723200,
       {
         "Ethereum": {
-          "PancakeSwap StableSwap": 131
+          "PancakeSwap StableSwap": 0
         },
         "BSC": {
-          "PancakeSwap StableSwap": 30309
+          "PancakeSwap StableSwap": 20869
         },
         "Arbitrum": {
-          "PancakeSwap StableSwap": 106
+          "PancakeSwap StableSwap": 88
+        }
+      }
+    ],
+    [
+      1750809600,
+      {
+        "Ethereum": {
+          "PancakeSwap StableSwap": 0
+        },
+        "BSC": {
+          "PancakeSwap StableSwap": 28106
+        },
+        "Arbitrum": {
+          "PancakeSwap StableSwap": 271
+        }
+      }
+    ],
+    [
+      1750896000,
+      {
+        "Ethereum": {
+          "PancakeSwap StableSwap": 306
+        },
+        "BSC": {
+          "PancakeSwap StableSwap": 39863
+        },
+        "Arbitrum": {
+          "PancakeSwap StableSwap": 312
+        }
+      }
+    ],
+    [
+      1750982400,
+      {
+        "Ethereum": {
+          "PancakeSwap StableSwap": 53
+        },
+        "BSC": {
+          "PancakeSwap StableSwap": 40337
+        },
+        "Arbitrum": {
+          "PancakeSwap StableSwap": 430
         }
       }
     ]
   ],
-  "change_1d": 33.76
+  "change_1d": 43.85
 }

@@ -59,10 +59,10 @@
     "PancakeSwap AMM V3",
     "PancakeSwap Infinity"
   ],
-  "total24h": 6600323,
-  "total48hto24h": 6177596,
-  "total7d": 41452000,
-  "totalAllTime": 320553970,
+  "total24h": 6134476,
+  "total48hto24h": 6310740,
+  "total7d": 42116807,
+  "totalAllTime": 339163134,
   "totalDataChart": [
     [
       1680307200,
@@ -3303,6 +3303,18 @@
     [
       1750636800,
       6600323
+    ],
+    [
+      1750723200,
+      6163948
+    ],
+    [
+      1750809600,
+      6310740
+    ],
+    [
+      1750896000,
+      6134476
     ]
   ],
   "totalDataChartBreakdown": [
@@ -24155,7 +24167,94 @@
           "PancakeSwap AMM V3": 12
         }
       }
+    ],
+    [
+      1750723200,
+      {
+        "BSC": {
+          "PancakeSwap AMM V3": 6123129
+        },
+        "Ethereum": {
+          "PancakeSwap AMM V3": 5954
+        },
+        "Polygon zkEVM": {
+          "PancakeSwap AMM V3": 4
+        },
+        "ZKsync Era": {
+          "PancakeSwap AMM V3": 223
+        },
+        "Arbitrum": {
+          "PancakeSwap AMM V3": 11780
+        },
+        "Linea": {
+          "PancakeSwap AMM V3": 114
+        },
+        "Base": {
+          "PancakeSwap AMM V3": 22737
+        },
+        "opBNB": {
+          "PancakeSwap AMM V3": 7
+        }
+      }
+    ],
+    [
+      1750809600,
+      {
+        "BSC": {
+          "PancakeSwap AMM V3": 6277102
+        },
+        "Ethereum": {
+          "PancakeSwap AMM V3": 6147
+        },
+        "Polygon zkEVM": {
+          "PancakeSwap AMM V3": 4
+        },
+        "ZKsync Era": {
+          "PancakeSwap AMM V3": 306
+        },
+        "Arbitrum": {
+          "PancakeSwap AMM V3": 8936
+        },
+        "Linea": {
+          "PancakeSwap AMM V3": 130
+        },
+        "Base": {
+          "PancakeSwap AMM V3": 18093
+        },
+        "opBNB": {
+          "PancakeSwap AMM V3": 22
+        }
+      }
+    ],
+    [
+      1750896000,
+      {
+        "BSC": {
+          "PancakeSwap AMM V3": 6101916
+        },
+        "Ethereum": {
+          "PancakeSwap AMM V3": 4664
+        },
+        "Polygon zkEVM": {
+          "PancakeSwap AMM V3": 5
+        },
+        "ZKsync Era": {
+          "PancakeSwap AMM V3": 619
+        },
+        "Arbitrum": {
+          "PancakeSwap AMM V3": 8893
+        },
+        "Linea": {
+          "PancakeSwap AMM V3": 131
+        },
+        "Base": {
+          "PancakeSwap AMM V3": 18228
+        },
+        "opBNB": {
+          "PancakeSwap AMM V3": 20
+        }
+      }
     ]
   ],
-  "change_1d": 6.84
+  "change_1d": -2.79
 }

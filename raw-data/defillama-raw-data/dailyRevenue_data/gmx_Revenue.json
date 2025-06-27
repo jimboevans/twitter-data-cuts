@@ -46,10 +46,10 @@
   "latestFetchIsOk": true,
   "slug": "gmx",
   "protocolType": "protocol",
-  "total24h": 93609,
-  "total48hto24h": 169225,
-  "total7d": 629422,
-  "totalAllTime": 138547381,
+  "total24h": 39155,
+  "total48hto24h": 68149,
+  "total7d": 613295,
+  "totalAllTime": 138716444,
   "totalDataChart": [
     [
       1630627200,
@@ -5169,15 +5169,15 @@
     ],
     [
       1741305600,
-      58242
+      70285
     ],
     [
       1741392000,
-      19292
+      22124
     ],
     [
       1741478400,
-      68435
+      68545
     ],
     [
       1741564800,
@@ -5605,7 +5605,19 @@
     ],
     [
       1750723200,
-      1712
+      48177
+    ],
+    [
+      1750809600,
+      68149
+    ],
+    [
+      1750896000,
+      39155
+    ],
+    [
+      1750982400,
+      309
     ]
   ],
   "totalDataChartBreakdown": [
@@ -20444,11 +20456,11 @@
       1741305600,
       {
         "Arbitrum": {
-          "GMX V1": 305,
+          "GMX V1": 11635,
           "GMX V2 Perps": 46775
         },
         "Avalanche": {
-          "GMX V1": 32,
+          "GMX V1": 745,
           "GMX V2 Perps": 11130
         }
       }
@@ -20457,11 +20469,11 @@
       1741392000,
       {
         "Arbitrum": {
-          "GMX V1": 19,
+          "GMX V1": 2350,
           "GMX V2 Perps": 12980
         },
         "Avalanche": {
-          "GMX V1": 1,
+          "GMX V1": 502,
           "GMX V2 Perps": 6292
         }
       }
@@ -20470,11 +20482,11 @@
       1741478400,
       {
         "Arbitrum": {
-          "GMX V1": 10365,
+          "GMX V1": 10366,
           "GMX V2 Perps": 45885
         },
         "Avalanche": {
-          "GMX V1": 419,
+          "GMX V1": 528,
           "GMX V2 Perps": 11766
         }
       }
@@ -21859,13 +21871,52 @@
       1750723200,
       {
         "Arbitrum": {
-          "GMX V1": 1599
+          "GMX V1": 4,
+          "GMX V2 Perps": 45752
         },
         "Avalanche": {
-          "GMX V1": 113
+          "GMX V1": 52,
+          "GMX V2 Perps": 2369
+        }
+      }
+    ],
+    [
+      1750809600,
+      {
+        "Arbitrum": {
+          "GMX V1": 0,
+          "GMX V2 Perps": 66627
+        },
+        "Avalanche": {
+          "GMX V1": 69,
+          "GMX V2 Perps": 1453
+        }
+      }
+    ],
+    [
+      1750896000,
+      {
+        "Arbitrum": {
+          "GMX V1": 0,
+          "GMX V2 Perps": 36660
+        },
+        "Avalanche": {
+          "GMX V1": 2,
+          "GMX V2 Perps": 2493
+        }
+      }
+    ],
+    [
+      1750982400,
+      {
+        "Arbitrum": {
+          "GMX V1": 287
+        },
+        "Avalanche": {
+          "GMX V1": 22
         }
       }
     ]
   ],
-  "change_1d": -44.68
+  "change_1d": -42.55
 }

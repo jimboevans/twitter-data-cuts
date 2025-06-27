@@ -42,10 +42,10 @@
   "latestFetchIsOk": true,
   "slug": "kamino",
   "protocolType": "protocol",
-  "total24h": 49064,
-  "total48hto24h": 50923,
-  "total7d": 371069,
-  "totalAllTime": 35585559,
+  "total24h": 51450,
+  "total48hto24h": 51554,
+  "total7d": 356074,
+  "totalAllTime": 35738948,
   "totalDataChart": [
     [
       1697068800,
@@ -2530,6 +2530,18 @@
     [
       1750636800,
       49064
+    ],
+    [
+      1750723200,
+      50385
+    ],
+    [
+      1750809600,
+      51554
+    ],
+    [
+      1750896000,
+      51450
     ]
   ],
   "totalDataChartBreakdown": [
@@ -8119,7 +8131,34 @@
           "Kamino Lend": 49064
         }
       }
+    ],
+    [
+      1750723200,
+      {
+        "Solana": {
+          "Kamino Liquidity": 0,
+          "Kamino Lend": 50385
+        }
+      }
+    ],
+    [
+      1750809600,
+      {
+        "Solana": {
+          "Kamino Liquidity": 0,
+          "Kamino Lend": 51554
+        }
+      }
+    ],
+    [
+      1750896000,
+      {
+        "Solana": {
+          "Kamino Liquidity": 0,
+          "Kamino Lend": 51450
+        }
+      }
     ]
   ],
-  "change_1d": -3.65
+  "change_1d": -0.2
 }

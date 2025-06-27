@@ -45,10 +45,10 @@
   "latestFetchIsOk": true,
   "slug": "morpho",
   "protocolType": "protocol",
-  "total24h": 289668,
-  "total48hto24h": 307891,
-  "total7d": 2030083,
-  "totalAllTime": 107408502,
+  "total24h": 278230,
+  "total48hto24h": 292381,
+  "total7d": 2018045,
+  "totalAllTime": 108244992,
   "totalDataChart": [
     [
       1707955200,
@@ -2032,7 +2032,19 @@
     ],
     [
       1750723200,
-      280236
+      279878
+    ],
+    [
+      1750809600,
+      292381
+    ],
+    [
+      1750896000,
+      278230
+    ],
+    [
+      1750982400,
+      266237
     ]
   ],
   "totalDataChartBreakdown": [
@@ -7974,19 +7986,70 @@
       1750723200,
       {
         "Ethereum": {
-          "Morpho Blue": 200918
+          "Morpho Blue": 200364
         },
         "Base": {
-          "Morpho Blue": 69607
+          "Morpho Blue": 71158
         },
         "Polygon": {
-          "Morpho Blue": 7049
+          "Morpho Blue": 5528
         },
         "Unichain": {
-          "Morpho Blue": 2662
+          "Morpho Blue": 2828
+        }
+      }
+    ],
+    [
+      1750809600,
+      {
+        "Ethereum": {
+          "Morpho Blue": 210288
+        },
+        "Base": {
+          "Morpho Blue": 72009
+        },
+        "Polygon": {
+          "Morpho Blue": 6770
+        },
+        "Unichain": {
+          "Morpho Blue": 3314
+        }
+      }
+    ],
+    [
+      1750896000,
+      {
+        "Ethereum": {
+          "Morpho Blue": 196794
+        },
+        "Base": {
+          "Morpho Blue": 73239
+        },
+        "Polygon": {
+          "Morpho Blue": 5167
+        },
+        "Unichain": {
+          "Morpho Blue": 3030
+        }
+      }
+    ],
+    [
+      1750982400,
+      {
+        "Ethereum": {
+          "Morpho Blue": 182412
+        },
+        "Base": {
+          "Morpho Blue": 75263
+        },
+        "Polygon": {
+          "Morpho Blue": 6072
+        },
+        "Unichain": {
+          "Morpho Blue": 2490
         }
       }
     ]
   ],
-  "change_1d": -5.92
+  "change_1d": -4.84
 }
