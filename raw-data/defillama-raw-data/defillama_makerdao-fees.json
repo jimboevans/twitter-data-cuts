@@ -54,10 +54,10 @@
     "Sky",
     "Sky Lending"
   ],
-  "total24h": 901848,
-  "total48hto24h": 903382,
-  "total7d": 6440765,
-  "totalAllTime": 757193034,
+  "total24h": 905327,
+  "total48hto24h": 908476,
+  "total7d": 6378052,
+  "totalAllTime": 759911983,
   "totalDataChart": [
     [
       1573776000,
@@ -8262,6 +8262,18 @@
     [
       1750896000,
       901848
+    ],
+    [
+      1750982400,
+      905146
+    ],
+    [
+      1751068800,
+      908476
+    ],
+    [
+      1751155200,
+      905327
     ]
   ],
   "totalDataChartBreakdown": [
@@ -24672,7 +24684,31 @@
           "Sky Lending": 901848
         }
       }
+    ],
+    [
+      1750982400,
+      {
+        "Ethereum": {
+          "Sky Lending": 905146
+        }
+      }
+    ],
+    [
+      1751068800,
+      {
+        "Ethereum": {
+          "Sky Lending": 908476
+        }
+      }
+    ],
+    [
+      1751155200,
+      {
+        "Ethereum": {
+          "Sky Lending": 905327
+        }
+      }
     ]
   ],
-  "change_1d": -0.17
+  "change_1d": -0.35
 }

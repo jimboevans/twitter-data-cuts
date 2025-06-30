@@ -34,10 +34,10 @@
   "latestFetchIsOk": true,
   "slug": "bitcoin",
   "protocolType": "chain",
-  "total24h": 814411,
-  "total48hto24h": 514011,
-  "total7d": 3682369,
-  "totalAllTime": 4321490762,
+  "total24h": 300813,
+  "total48hto24h": 412916,
+  "total7d": 3690124,
+  "totalAllTime": 4322670445,
   "totalDataChart": [
     [
       1296432000,
@@ -21018,6 +21018,18 @@
     [
       1750896000,
       814411
+    ],
+    [
+      1750982400,
+      465954
+    ],
+    [
+      1751068800,
+      412916
+    ],
+    [
+      1751155200,
+      300813
     ]
   ],
   "totalDataChartBreakdown": [
@@ -62980,7 +62992,31 @@
           "Bitcoin": 814411
         }
       }
+    ],
+    [
+      1750982400,
+      {
+        "Bitcoin": {
+          "Bitcoin": 465954
+        }
+      }
+    ],
+    [
+      1751068800,
+      {
+        "Bitcoin": {
+          "Bitcoin": 412916
+        }
+      }
+    ],
+    [
+      1751155200,
+      {
+        "Bitcoin": {
+          "Bitcoin": 300813
+        }
+      }
     ]
   ],
-  "change_1d": 58.44
+  "change_1d": -27.15
 }

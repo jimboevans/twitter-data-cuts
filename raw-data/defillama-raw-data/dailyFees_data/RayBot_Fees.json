@@ -37,10 +37,10 @@
   "latestFetchIsOk": true,
   "slug": "raybot",
   "protocolType": "protocol",
-  "total24h": 4822,
-  "total48hto24h": 5192,
-  "total7d": 32304,
-  "totalAllTime": 4695565,
+  "total24h": 3800,
+  "total48hto24h": 4317,
+  "total7d": 32886,
+  "totalAllTime": 4707524,
   "totalDataChart": [
     [
       1707609600,
@@ -2041,6 +2041,18 @@
     [
       1750982400,
       4822
+    ],
+    [
+      1751068800,
+      4317
+    ],
+    [
+      1751155200,
+      3842
+    ],
+    [
+      1751241600,
+      3800
     ]
   ],
   "totalDataChartBreakdown": [
@@ -6043,7 +6055,31 @@
           "RayBot": 4822
         }
       }
+    ],
+    [
+      1751068800,
+      {
+        "Solana": {
+          "RayBot": 4317
+        }
+      }
+    ],
+    [
+      1751155200,
+      {
+        "Solana": {
+          "RayBot": 3842
+        }
+      }
+    ],
+    [
+      1751241600,
+      {
+        "Solana": {
+          "RayBot": 3800
+        }
+      }
     ]
   ],
-  "change_1d": -7.13
+  "change_1d": -11.98
 }

@@ -43,10 +43,10 @@
   "latestFetchIsOk": true,
   "slug": "banana-gun",
   "protocolType": "protocol",
-  "total24h": 45046,
-  "total48hto24h": 35304,
-  "total7d": 293118,
-  "totalAllTime": 80756562,
+  "total24h": 20465,
+  "total48hto24h": 21964,
+  "total7d": 251357,
+  "totalAllTime": 80837321,
   "totalDataChart": [
     [
       1685664000,
@@ -3059,6 +3059,18 @@
     [
       1750896000,
       45046
+    ],
+    [
+      1750982400,
+      38330
+    ],
+    [
+      1751068800,
+      21964
+    ],
+    [
+      1751155200,
+      20465
     ]
   ],
   "totalDataChartBreakdown": [
@@ -14275,7 +14287,85 @@
           "Banana Gun": 2
         }
       }
+    ],
+    [
+      1750982400,
+      {
+        "Ethereum": {
+          "Banana Gun": 23269
+        },
+        "Solana": {
+          "Banana Gun": 7292
+        },
+        "Blast": {
+          "Banana Gun": 0
+        },
+        "Base": {
+          "Banana Gun": 5662
+        },
+        "Sonic": {
+          "Banana Gun": 0
+        },
+        "BSC": {
+          "Banana Gun": 2107
+        },
+        "Unichain": {
+          "Banana Gun": 0
+        }
+      }
+    ],
+    [
+      1751068800,
+      {
+        "Ethereum": {
+          "Banana Gun": 12945
+        },
+        "Solana": {
+          "Banana Gun": 4839
+        },
+        "Blast": {
+          "Banana Gun": 0
+        },
+        "Base": {
+          "Banana Gun": 2942
+        },
+        "Sonic": {
+          "Banana Gun": 0
+        },
+        "BSC": {
+          "Banana Gun": 1238
+        },
+        "Unichain": {
+          "Banana Gun": 0
+        }
+      }
+    ],
+    [
+      1751155200,
+      {
+        "Ethereum": {
+          "Banana Gun": 11188
+        },
+        "Solana": {
+          "Banana Gun": 4723
+        },
+        "Blast": {
+          "Banana Gun": 0
+        },
+        "Base": {
+          "Banana Gun": 4004
+        },
+        "Sonic": {
+          "Banana Gun": 0
+        },
+        "BSC": {
+          "Banana Gun": 550
+        },
+        "Unichain": {
+          "Banana Gun": 0
+        }
+      }
     ]
   ],
-  "change_1d": 27.59
+  "change_1d": -6.82
 }

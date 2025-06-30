@@ -36,10 +36,10 @@
   "latestFetchIsOk": true,
   "slug": "bullx",
   "protocolType": "protocol",
-  "total24h": 56031,
-  "total48hto24h": 65811,
-  "total7d": 368225,
-  "totalAllTime": 197457584,
+  "total24h": 43283,
+  "total48hto24h": 40502,
+  "total7d": 362941,
+  "totalAllTime": 197596200,
   "totalDataChart": [
     [
       1712188800,
@@ -1736,6 +1736,18 @@
     [
       1750896000,
       56031
+    ],
+    [
+      1750982400,
+      54831
+    ],
+    [
+      1751068800,
+      40502
+    ],
+    [
+      1751155200,
+      43283
     ]
   ],
   "totalDataChartBreakdown": [
@@ -5130,7 +5142,31 @@
           "BullX": 56031
         }
       }
+    ],
+    [
+      1750982400,
+      {
+        "Solana": {
+          "BullX": 54831
+        }
+      }
+    ],
+    [
+      1751068800,
+      {
+        "Solana": {
+          "BullX": 40502
+        }
+      }
+    ],
+    [
+      1751155200,
+      {
+        "Solana": {
+          "BullX": 43283
+        }
+      }
     ]
   ],
-  "change_1d": -14.86
+  "change_1d": 6.87
 }

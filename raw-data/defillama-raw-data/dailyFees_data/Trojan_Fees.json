@@ -36,10 +36,10 @@
   "latestFetchIsOk": true,
   "slug": "trojan",
   "protocolType": "protocol",
-  "total24h": 122102,
-  "total48hto24h": 153307,
-  "total7d": 846417,
-  "totalAllTime": 190700126,
+  "total24h": 131290,
+  "total48hto24h": 119959,
+  "total7d": 875096,
+  "totalAllTime": 191068073,
   "totalDataChart": [
     [
       1708732800,
@@ -1991,7 +1991,19 @@
     ],
     [
       1750982400,
-      122102
+      122319
+    ],
+    [
+      1751068800,
+      119959
+    ],
+    [
+      1751155200,
+      116481
+    ],
+    [
+      1751241600,
+      131290
     ]
   ],
   "totalDataChartBreakdown": [
@@ -5895,10 +5907,34 @@
       1750982400,
       {
         "Solana": {
-          "Trojan": 122102
+          "Trojan": 122319
+        }
+      }
+    ],
+    [
+      1751068800,
+      {
+        "Solana": {
+          "Trojan": 119959
+        }
+      }
+    ],
+    [
+      1751155200,
+      {
+        "Solana": {
+          "Trojan": 116481
+        }
+      }
+    ],
+    [
+      1751241600,
+      {
+        "Solana": {
+          "Trojan": 131290
         }
       }
     ]
   ],
-  "change_1d": -20.35
+  "change_1d": 9.45
 }

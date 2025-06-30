@@ -55,10 +55,10 @@
   "latestFetchIsOk": true,
   "slug": "compound-finance",
   "protocolType": "protocol",
-  "total24h": 117643,
-  "total48hto24h": 109163,
-  "total7d": 817101,
-  "totalAllTime": 530342923,
+  "total24h": 120735,
+  "total48hto24h": 113281,
+  "total7d": 801928,
+  "totalAllTime": 530693990,
   "totalDataChart": [
     [
       1557273600,
@@ -9030,7 +9030,19 @@
     ],
     [
       1750982400,
-      92597
+      115411
+    ],
+    [
+      1751068800,
+      113281
+    ],
+    [
+      1751155200,
+      120735
+    ],
+    [
+      1751241600,
+      94237
     ]
   ],
   "totalDataChartBreakdown": [
@@ -30347,19 +30359,20 @@
       1750982400,
       {
         "Ethereum": {
-          "Compound V3": 77729
+          "Compound V2": 18469,
+          "Compound V3": 82402
         },
         "Polygon": {
-          "Compound V3": 970
+          "Compound V3": 1018
         },
         "Arbitrum": {
-          "Compound V3": 6565
+          "Compound V3": 6559
         },
         "OP Mainnet": {
-          "Compound V3": 1281
+          "Compound V3": 1288
         },
         "Base": {
-          "Compound V3": 4574
+          "Compound V3": 4274
         },
         "Scroll": {
           "Compound V3": 4
@@ -30368,13 +30381,111 @@
           "Compound V3": 197
         },
         "Unichain": {
-          "Compound V3": 1226
+          "Compound V3": 1151
         },
         "Linea": {
-          "Compound V3": 51
+          "Compound V3": 49
+        }
+      }
+    ],
+    [
+      1751068800,
+      {
+        "Ethereum": {
+          "Compound V2": 17568,
+          "Compound V3": 79289
+        },
+        "Polygon": {
+          "Compound V3": 1903
+        },
+        "Arbitrum": {
+          "Compound V3": 6591
+        },
+        "OP Mainnet": {
+          "Compound V3": 1296
+        },
+        "Base": {
+          "Compound V3": 4322
+        },
+        "Scroll": {
+          "Compound V3": 4
+        },
+        "Mantle": {
+          "Compound V3": 198
+        },
+        "Unichain": {
+          "Compound V3": 2068
+        },
+        "Linea": {
+          "Compound V3": 42
+        }
+      }
+    ],
+    [
+      1751155200,
+      {
+        "Ethereum": {
+          "Compound V2": 22848,
+          "Compound V3": 83257
+        },
+        "Polygon": {
+          "Compound V3": 1003
+        },
+        "Arbitrum": {
+          "Compound V3": 6515
+        },
+        "OP Mainnet": {
+          "Compound V3": 1334
+        },
+        "Base": {
+          "Compound V3": 4327
+        },
+        "Scroll": {
+          "Compound V3": 4
+        },
+        "Mantle": {
+          "Compound V3": 199
+        },
+        "Unichain": {
+          "Compound V3": 1215
+        },
+        "Linea": {
+          "Compound V3": 33
+        }
+      }
+    ],
+    [
+      1751241600,
+      {
+        "Ethereum": {
+          "Compound V3": 78925
+        },
+        "Polygon": {
+          "Compound V3": 993
+        },
+        "Arbitrum": {
+          "Compound V3": 6573
+        },
+        "OP Mainnet": {
+          "Compound V3": 1336
+        },
+        "Base": {
+          "Compound V3": 4204
+        },
+        "Scroll": {
+          "Compound V3": 4
+        },
+        "Mantle": {
+          "Compound V3": 306
+        },
+        "Unichain": {
+          "Compound V3": 1862
+        },
+        "Linea": {
+          "Compound V3": 34
         }
       }
     ]
   ],
-  "change_1d": 7.77
+  "change_1d": 6.58
 }

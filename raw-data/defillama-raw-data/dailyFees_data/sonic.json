@@ -34,10 +34,10 @@
   "latestFetchIsOk": true,
   "slug": "sonic",
   "protocolType": "chain",
-  "total24h": 3581,
-  "total48hto24h": 4016,
-  "total7d": 31800,
-  "totalAllTime": 1400659,
+  "total24h": 2466,
+  "total48hto24h": 1781,
+  "total7d": 25708,
+  "totalAllTime": 1407570,
   "totalDataChart": [
     [
       1738800000,
@@ -602,6 +602,18 @@
     [
       1750896000,
       3581
+    ],
+    [
+      1750982400,
+      2664
+    ],
+    [
+      1751068800,
+      1781
+    ],
+    [
+      1751155200,
+      2466
     ]
   ],
   "totalDataChartBreakdown": [
@@ -1732,7 +1744,31 @@
           "Sonic": 3581
         }
       }
+    ],
+    [
+      1750982400,
+      {
+        "Sonic": {
+          "Sonic": 2664
+        }
+      }
+    ],
+    [
+      1751068800,
+      {
+        "Sonic": {
+          "Sonic": 1781
+        }
+      }
+    ],
+    [
+      1751155200,
+      {
+        "Sonic": {
+          "Sonic": 2466
+        }
+      }
     ]
   ],
-  "change_1d": -10.83
+  "change_1d": 38.46
 }

@@ -37,10 +37,10 @@
   "latestFetchIsOk": true,
   "slug": "pepeboost",
   "protocolType": "protocol",
-  "total24h": 3348,
-  "total48hto24h": 4571,
-  "total7d": 21040,
-  "totalAllTime": 7757994,
+  "total24h": 1797,
+  "total48hto24h": 1930,
+  "total7d": 20667,
+  "totalAllTime": 7765717,
   "totalDataChart": [
     [
       1704585600,
@@ -2189,6 +2189,18 @@
     [
       1750896000,
       3348
+    ],
+    [
+      1750982400,
+      3996
+    ],
+    [
+      1751068800,
+      1930
+    ],
+    [
+      1751155200,
+      1797
     ]
   ],
   "totalDataChartBreakdown": [
@@ -6487,7 +6499,31 @@
           "Pepeboost": 3348
         }
       }
+    ],
+    [
+      1750982400,
+      {
+        "Solana": {
+          "Pepeboost": 3996
+        }
+      }
+    ],
+    [
+      1751068800,
+      {
+        "Solana": {
+          "Pepeboost": 1930
+        }
+      }
+    ],
+    [
+      1751155200,
+      {
+        "Solana": {
+          "Pepeboost": 1797
+        }
+      }
     ]
   ],
-  "change_1d": -26.76
+  "change_1d": -6.89
 }

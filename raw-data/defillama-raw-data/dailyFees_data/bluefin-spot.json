@@ -47,10 +47,10 @@
     "Bluefin Spot",
     "AlphaLend"
   ],
-  "total24h": 51828,
-  "total48hto24h": 72636,
-  "total7d": 531952,
-  "totalAllTime": 14512253,
+  "total24h": 65974,
+  "total48hto24h": 38785,
+  "total7d": 473445,
+  "totalAllTime": 14688621,
   "totalDataChart": [
     [
       1732665600,
@@ -902,7 +902,19 @@
     ],
     [
       1750982400,
-      51828
+      65133
+    ],
+    [
+      1751068800,
+      38785
+    ],
+    [
+      1751155200,
+      58304
+    ],
+    [
+      1751241600,
+      65974
     ]
   ],
   "totalDataChartBreakdown": [
@@ -2606,10 +2618,34 @@
       1750982400,
       {
         "Sui": {
-          "Bluefin Spot": 51828
+          "Bluefin Spot": 65133
+        }
+      }
+    ],
+    [
+      1751068800,
+      {
+        "Sui": {
+          "Bluefin Spot": 38785
+        }
+      }
+    ],
+    [
+      1751155200,
+      {
+        "Sui": {
+          "Bluefin Spot": 58304
+        }
+      }
+    ],
+    [
+      1751241600,
+      {
+        "Sui": {
+          "Bluefin Spot": 65974
         }
       }
     ]
   ],
-  "change_1d": -28.65
+  "change_1d": 70.1
 }

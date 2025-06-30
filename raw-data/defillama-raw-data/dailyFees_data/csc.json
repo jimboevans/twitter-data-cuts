@@ -36,10 +36,10 @@
   "latestFetchIsOk": true,
   "slug": "csc",
   "protocolType": "chain",
-  "total24h": 7095,
-  "total48hto24h": 7067,
-  "total7d": 45796,
-  "totalAllTime": 1882907,
+  "total24h": 8072,
+  "total48hto24h": 8580,
+  "total7d": 50391,
+  "totalAllTime": 1906847,
   "totalDataChart": [
     [
       1734652800,
@@ -796,6 +796,18 @@
     [
       1750896000,
       7095
+    ],
+    [
+      1750982400,
+      7288
+    ],
+    [
+      1751068800,
+      8580
+    ],
+    [
+      1751155200,
+      8072
     ]
   ],
   "totalDataChartBreakdown": [
@@ -2310,7 +2322,31 @@
           "CSC": 7095
         }
       }
+    ],
+    [
+      1750982400,
+      {
+        "XRPL": {
+          "CSC": 7288
+        }
+      }
+    ],
+    [
+      1751068800,
+      {
+        "XRPL": {
+          "CSC": 8580
+        }
+      }
+    ],
+    [
+      1751155200,
+      {
+        "XRPL": {
+          "CSC": 8072
+        }
+      }
     ]
   ],
-  "change_1d": 0.4
+  "change_1d": -5.92
 }

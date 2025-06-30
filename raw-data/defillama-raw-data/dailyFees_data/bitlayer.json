@@ -36,10 +36,10 @@
   "latestFetchIsOk": true,
   "slug": "bitlayer",
   "protocolType": "chain",
-  "total24h": 55247,
-  "total48hto24h": 55244,
-  "total7d": 375956,
-  "totalAllTime": 19564025,
+  "total24h": 54420,
+  "total48hto24h": 52690,
+  "total7d": 381819,
+  "totalAllTime": 19725471,
   "totalDataChart": [
     [
       1713225600,
@@ -1788,6 +1788,18 @@
     [
       1750896000,
       55247
+    ],
+    [
+      1750982400,
+      54336
+    ],
+    [
+      1751068800,
+      52690
+    ],
+    [
+      1751155200,
+      54420
     ]
   ],
   "totalDataChartBreakdown": [
@@ -5286,7 +5298,31 @@
           "Bitlayer": 55247
         }
       }
+    ],
+    [
+      1750982400,
+      {
+        "Bitlayer": {
+          "Bitlayer": 54336
+        }
+      }
+    ],
+    [
+      1751068800,
+      {
+        "Bitlayer": {
+          "Bitlayer": 52690
+        }
+      }
+    ],
+    [
+      1751155200,
+      {
+        "Bitlayer": {
+          "Bitlayer": 54420
+        }
+      }
     ]
   ],
-  "change_1d": 0.01
+  "change_1d": 3.28
 }

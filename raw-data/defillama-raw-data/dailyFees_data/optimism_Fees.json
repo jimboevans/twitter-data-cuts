@@ -40,10 +40,10 @@
   "latestFetchIsOk": true,
   "slug": "op-mainnet",
   "protocolType": "chain",
-  "total24h": 5174,
-  "total48hto24h": 4959,
-  "total7d": 50151,
-  "totalAllTime": 89772352,
+  "total24h": 3454,
+  "total48hto24h": 2209,
+  "total7d": 34021,
+  "totalAllTime": 89782066,
   "totalDataChart": [
     [
       1637193600,
@@ -5312,6 +5312,18 @@
     [
       1750896000,
       5174
+    ],
+    [
+      1750982400,
+      4051
+    ],
+    [
+      1751068800,
+      2209
+    ],
+    [
+      1751155200,
+      3454
     ]
   ],
   "totalDataChartBreakdown": [
@@ -15850,7 +15862,31 @@
           "OP Mainnet": 5174
         }
       }
+    ],
+    [
+      1750982400,
+      {
+        "OP Mainnet": {
+          "OP Mainnet": 4051
+        }
+      }
+    ],
+    [
+      1751068800,
+      {
+        "OP Mainnet": {
+          "OP Mainnet": 2209
+        }
+      }
+    ],
+    [
+      1751155200,
+      {
+        "OP Mainnet": {
+          "OP Mainnet": 3454
+        }
+      }
     ]
   ],
-  "change_1d": 4.34
+  "change_1d": 56.36
 }

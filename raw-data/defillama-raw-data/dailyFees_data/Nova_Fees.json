@@ -37,10 +37,10 @@
   "latestFetchIsOk": true,
   "slug": "nova",
   "protocolType": "protocol",
-  "total24h": 5353,
-  "total48hto24h": 5826,
-  "total7d": 32603,
-  "totalAllTime": 230124,
+  "total24h": 2656,
+  "total48hto24h": 2544,
+  "total7d": 29147,
+  "totalAllTime": 238924,
   "totalDataChart": [
     [
       1747872000,
@@ -185,6 +185,18 @@
     [
       1750896000,
       5353
+    ],
+    [
+      1750982400,
+      3600
+    ],
+    [
+      1751068800,
+      2544
+    ],
+    [
+      1751155200,
+      2656
     ]
   ],
   "totalDataChartBreakdown": [
@@ -475,7 +487,31 @@
           "Nova": 5353
         }
       }
+    ],
+    [
+      1750982400,
+      {
+        "Solana": {
+          "Nova": 3600
+        }
+      }
+    ],
+    [
+      1751068800,
+      {
+        "Solana": {
+          "Nova": 2544
+        }
+      }
+    ],
+    [
+      1751155200,
+      {
+        "Solana": {
+          "Nova": 2656
+        }
+      }
     ]
   ],
-  "change_1d": -8.12
+  "change_1d": 4.4
 }
