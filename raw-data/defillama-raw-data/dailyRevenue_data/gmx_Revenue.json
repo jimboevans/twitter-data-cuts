@@ -46,10 +46,10 @@
   "latestFetchIsOk": true,
   "slug": "gmx",
   "protocolType": "protocol",
-  "total24h": 27606,
-  "total48hto24h": 19158,
-  "total7d": 353010,
-  "totalAllTime": 138820464,
+  "total24h": 72527,
+  "total48hto24h": 55955,
+  "total7d": 333958,
+  "totalAllTime": 139089629,
   "totalDataChart": [
     [
       1630627200,
@@ -2738,6 +2738,14 @@
     [
       1688601600,
       96636
+    ],
+    [
+      1688688000,
+      34608
+    ],
+    [
+      1688774400,
+      42738
     ],
     [
       1688860800,
@@ -5629,7 +5637,19 @@
     ],
     [
       1751241600,
-      409
+      62401
+    ],
+    [
+      1751328000,
+      55955
+    ],
+    [
+      1751414400,
+      72527
+    ],
+    [
+      1751500800,
+      1345
     ]
   ],
   "totalDataChartBreakdown": [
@@ -12641,6 +12661,28 @@
         },
         "Avalanche": {
           "GMX V1": 9530
+        }
+      }
+    ],
+    [
+      1688688000,
+      {
+        "Arbitrum": {
+          "GMX V1": 32118
+        },
+        "Avalanche": {
+          "GMX V1": 2490
+        }
+      }
+    ],
+    [
+      1688774400,
+      {
+        "Arbitrum": {
+          "GMX V1": 15113
+        },
+        "Avalanche": {
+          "GMX V1": 27625
         }
       }
     ],
@@ -21961,13 +22003,52 @@
       1751241600,
       {
         "Arbitrum": {
-          "GMX V1": 244
+          "GMX V1": 504,
+          "GMX V2 Perps": 59951
         },
         "Avalanche": {
-          "GMX V1": 165
+          "GMX V1": 272,
+          "GMX V2 Perps": 1674
+        }
+      }
+    ],
+    [
+      1751328000,
+      {
+        "Arbitrum": {
+          "GMX V1": 12,
+          "GMX V2 Perps": 53339
+        },
+        "Avalanche": {
+          "GMX V1": 1,
+          "GMX V2 Perps": 2603
+        }
+      }
+    ],
+    [
+      1751414400,
+      {
+        "Arbitrum": {
+          "GMX V1": 2,
+          "GMX V2 Perps": 70171
+        },
+        "Avalanche": {
+          "GMX V1": 5,
+          "GMX V2 Perps": 2349
+        }
+      }
+    ],
+    [
+      1751500800,
+      {
+        "Arbitrum": {
+          "GMX V1": 753
+        },
+        "Avalanche": {
+          "GMX V1": 592
         }
       }
     ]
   ],
-  "change_1d": 44.1
+  "change_1d": 29.62
 }

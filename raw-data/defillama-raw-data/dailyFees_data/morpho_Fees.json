@@ -10,7 +10,8 @@
     "Ethereum",
     "Base",
     "Polygon",
-    "Unichain"
+    "Unichain",
+    "Katana"
   ],
   "twitter": "MorphoLabs",
   "governanceID": [
@@ -45,10 +46,10 @@
   "latestFetchIsOk": true,
   "slug": "morpho",
   "protocolType": "protocol",
-  "total24h": 281224,
-  "total48hto24h": 280350,
-  "total7d": 1999453,
-  "totalAllTime": 109132660,
+  "total24h": 297072,
+  "total48hto24h": 296822,
+  "total7d": 2019231,
+  "totalAllTime": 110003054,
   "totalDataChart": [
     [
       1707955200,
@@ -2056,7 +2057,19 @@
     ],
     [
       1751241600,
-      294609
+      287811
+    ],
+    [
+      1751328000,
+      296822
+    ],
+    [
+      1751414400,
+      297072
+    ],
+    [
+      1751500800,
+      283298
     ]
   ],
   "totalDataChartBreakdown": [
@@ -8100,19 +8113,76 @@
       1751241600,
       {
         "Ethereum": {
-          "Morpho Blue": 208778
+          "Morpho Blue": 201659
         },
         "Base": {
-          "Morpho Blue": 76708
+          "Morpho Blue": 77282
         },
         "Polygon": {
-          "Morpho Blue": 6312
+          "Morpho Blue": 6002
         },
         "Unichain": {
-          "Morpho Blue": 2811
+          "Morpho Blue": 2868
+        }
+      }
+    ],
+    [
+      1751328000,
+      {
+        "Ethereum": {
+          "Morpho Blue": 208571
+        },
+        "Base": {
+          "Morpho Blue": 77708
+        },
+        "Polygon": {
+          "Morpho Blue": 6489
+        },
+        "Unichain": {
+          "Morpho Blue": 4054
+        }
+      }
+    ],
+    [
+      1751414400,
+      {
+        "Ethereum": {
+          "Morpho Blue": 207888
+        },
+        "Base": {
+          "Morpho Blue": 78974
+        },
+        "Polygon": {
+          "Morpho Blue": 6936
+        },
+        "Unichain": {
+          "Morpho Blue": 3274
+        },
+        "Katana": {
+          "Morpho Blue": 0
+        }
+      }
+    ],
+    [
+      1751500800,
+      {
+        "Ethereum": {
+          "Morpho Blue": 193847
+        },
+        "Base": {
+          "Morpho Blue": 79209
+        },
+        "Polygon": {
+          "Morpho Blue": 7036
+        },
+        "Unichain": {
+          "Morpho Blue": 3206
+        },
+        "Katana": {
+          "Morpho Blue": 0
         }
       }
     ]
   ],
-  "change_1d": 0.31
+  "change_1d": 0.08
 }

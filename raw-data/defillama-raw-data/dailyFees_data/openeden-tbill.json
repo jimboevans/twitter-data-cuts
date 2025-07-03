@@ -49,10 +49,10 @@
     "OpenEden",
     "OpenEden TBILL"
   ],
-  "total24h": 1551,
-  "total48hto24h": 1536,
-  "total7d": 10649,
-  "totalAllTime": 432145,
+  "total24h": 1567,
+  "total48hto24h": 1557,
+  "total7d": 10816,
+  "totalAllTime": 436833,
   "totalDataChart": [
     [
       1717372800,
@@ -1625,6 +1625,18 @@
     [
       1751241600,
       1551
+    ],
+    [
+      1751328000,
+      1557
+    ],
+    [
+      1751414400,
+      1564
+    ],
+    [
+      1751500800,
+      1567
     ]
   ],
   "totalDataChartBreakdown": [
@@ -6400,7 +6412,58 @@
           "OpenEden TBILL": 90
         }
       }
+    ],
+    [
+      1751328000,
+      {
+        "Ethereum": {
+          "OpenEden TBILL": 1381
+        },
+        "Arbitrum": {
+          "OpenEden TBILL": 48
+        },
+        "XRPL": {
+          "OpenEden TBILL": 38
+        },
+        "Solana": {
+          "OpenEden TBILL": 90
+        }
+      }
+    ],
+    [
+      1751414400,
+      {
+        "Ethereum": {
+          "OpenEden TBILL": 1390
+        },
+        "Arbitrum": {
+          "OpenEden TBILL": 48
+        },
+        "XRPL": {
+          "OpenEden TBILL": 38
+        },
+        "Solana": {
+          "OpenEden TBILL": 88
+        }
+      }
+    ],
+    [
+      1751500800,
+      {
+        "Ethereum": {
+          "OpenEden TBILL": 1393
+        },
+        "Arbitrum": {
+          "OpenEden TBILL": 48
+        },
+        "XRPL": {
+          "OpenEden TBILL": 38
+        },
+        "Solana": {
+          "OpenEden TBILL": 88
+        }
+      }
     ]
   ],
-  "change_1d": 0.98
+  "change_1d": 0.64
 }

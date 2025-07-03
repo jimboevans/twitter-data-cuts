@@ -40,10 +40,10 @@
   "latestFetchIsOk": true,
   "slug": "franklin-templeton",
   "protocolType": "protocol",
-  "total24h": 2583,
-  "total48hto24h": 2582,
-  "total7d": 17988,
-  "totalAllTime": 725760,
+  "total24h": 2696,
+  "total48hto24h": 2560,
+  "total7d": 18168,
+  "totalAllTime": 733599,
   "totalDataChart": [
     [
       1723766400,
@@ -1316,6 +1316,18 @@
     [
       1751155200,
       2583
+    ],
+    [
+      1751241600,
+      2583
+    ],
+    [
+      1751328000,
+      2560
+    ],
+    [
+      1751414400,
+      2696
     ]
   ],
   "totalDataChartBreakdown": [
@@ -4816,7 +4828,40 @@
           "Franklin Templeton": 2402
         }
       }
+    ],
+    [
+      1751241600,
+      {
+        "Polygon": {
+          "Franklin Templeton": 181
+        },
+        "Stellar": {
+          "Franklin Templeton": 2402
+        }
+      }
+    ],
+    [
+      1751328000,
+      {
+        "Polygon": {
+          "Franklin Templeton": 181
+        },
+        "Stellar": {
+          "Franklin Templeton": 2379
+        }
+      }
+    ],
+    [
+      1751414400,
+      {
+        "Polygon": {
+          "Franklin Templeton": 181
+        },
+        "Stellar": {
+          "Franklin Templeton": 2515
+        }
+      }
     ]
   ],
-  "change_1d": 0.04
+  "change_1d": 5.31
 }

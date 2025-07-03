@@ -41,10 +41,10 @@
   "latestFetchIsOk": true,
   "slug": "maestro",
   "protocolType": "protocol",
-  "total24h": 75652,
-  "total48hto24h": 75652,
-  "total7d": 547378,
-  "totalAllTime": 116476799,
+  "total24h": 77821,
+  "total48hto24h": 77821,
+  "total7d": 456030,
+  "totalAllTime": 116725359,
   "totalDataChart": [
     [
       1656633600,
@@ -4365,6 +4365,22 @@
     [
       1750982400,
       75652
+    ],
+    [
+      1751068800,
+      65466
+    ],
+    [
+      1751155200,
+      68477
+    ],
+    [
+      1751241600,
+      36796
+    ],
+    [
+      1751328000,
+      77821
     ]
   ],
   "totalDataChartBreakdown": [
@@ -21636,6 +21652,86 @@
         },
         "Solana": {
           "Maestro": 27299
+        },
+        "Base": {
+          "Maestro": 0
+        }
+      }
+    ],
+    [
+      1751068800,
+      {
+        "Ethereum": {
+          "Maestro": 36720
+        },
+        "BSC": {
+          "Maestro": 5209
+        },
+        "Arbitrum": {
+          "Maestro": 0
+        },
+        "Solana": {
+          "Maestro": 23537
+        },
+        "Base": {
+          "Maestro": 0
+        }
+      }
+    ],
+    [
+      1751155200,
+      {
+        "Ethereum": {
+          "Maestro": 45665
+        },
+        "BSC": {
+          "Maestro": 3805
+        },
+        "Arbitrum": {
+          "Maestro": 0
+        },
+        "Solana": {
+          "Maestro": 19007
+        },
+        "Base": {
+          "Maestro": 0
+        }
+      }
+    ],
+    [
+      1751241600,
+      {
+        "Ethereum": {
+          "Maestro": 4975
+        },
+        "BSC": {
+          "Maestro": 1866
+        },
+        "Arbitrum": {
+          "Maestro": 0
+        },
+        "Solana": {
+          "Maestro": 29955
+        },
+        "Base": {
+          "Maestro": 0
+        }
+      }
+    ],
+    [
+      1751328000,
+      {
+        "Ethereum": {
+          "Maestro": 43806
+        },
+        "BSC": {
+          "Maestro": 2807
+        },
+        "Arbitrum": {
+          "Maestro": 0
+        },
+        "Solana": {
+          "Maestro": 31208
         },
         "Base": {
           "Maestro": 0

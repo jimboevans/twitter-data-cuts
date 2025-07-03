@@ -39,10 +39,10 @@
   "latestFetchIsOk": true,
   "slug": "axiom",
   "protocolType": "protocol",
-  "total24h": 1165424,
-  "total48hto24h": 1285515,
-  "total7d": 9025121,
-  "totalAllTime": 152318622,
+  "total24h": 2044030,
+  "total48hto24h": 1540176,
+  "total7d": 9881085,
+  "totalAllTime": 158035424,
   "totalDataChart": [
     [
       1736985600,
@@ -702,7 +702,19 @@
     ],
     [
       1751241600,
-      1165424
+      1593670
+    ],
+    [
+      1751328000,
+      1540176
+    ],
+    [
+      1751414400,
+      1704350
+    ],
+    [
+      1751500800,
+      2044030
     ]
   ],
   "totalDataChartBreakdown": [
@@ -2022,10 +2034,34 @@
       1751241600,
       {
         "Solana": {
-          "Axiom": 1165424
+          "Axiom": 1593670
+        }
+      }
+    ],
+    [
+      1751328000,
+      {
+        "Solana": {
+          "Axiom": 1540176
+        }
+      }
+    ],
+    [
+      1751414400,
+      {
+        "Solana": {
+          "Axiom": 1704350
+        }
+      }
+    ],
+    [
+      1751500800,
+      {
+        "Solana": {
+          "Axiom": 2044030
         }
       }
     ]
   ],
-  "change_1d": -9.34
+  "change_1d": 32.71
 }

@@ -37,10 +37,10 @@
   "latestFetchIsOk": true,
   "slug": "tradewiz",
   "protocolType": "protocol",
-  "total24h": 9059,
-  "total48hto24h": 30563,
-  "total7d": 127787,
-  "totalAllTime": 3366279,
+  "total24h": 11453,
+  "total48hto24h": 10365,
+  "total7d": 87187,
+  "totalAllTime": 3401951,
   "totalDataChart": [
     [
       1734480000,
@@ -816,7 +816,19 @@
     ],
     [
       1751241600,
-      9059
+      11555
+    ],
+    [
+      1751328000,
+      10365
+    ],
+    [
+      1751414400,
+      11358
+    ],
+    [
+      1751500800,
+      11453
     ]
   ],
   "totalDataChartBreakdown": [
@@ -2368,10 +2380,34 @@
       1751241600,
       {
         "Solana": {
-          "TradeWiz": 9059
+          "TradeWiz": 11555
+        }
+      }
+    ],
+    [
+      1751328000,
+      {
+        "Solana": {
+          "TradeWiz": 10365
+        }
+      }
+    ],
+    [
+      1751414400,
+      {
+        "Solana": {
+          "TradeWiz": 11358
+        }
+      }
+    ],
+    [
+      1751500800,
+      {
+        "Solana": {
+          "TradeWiz": 11453
         }
       }
     ]
   ],
-  "change_1d": -70.36
+  "change_1d": 10.5
 }

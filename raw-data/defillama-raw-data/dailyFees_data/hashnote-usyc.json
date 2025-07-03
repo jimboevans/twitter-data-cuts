@@ -39,10 +39,10 @@
   "latestFetchIsOk": true,
   "slug": "hashnote-usyc",
   "protocolType": "protocol",
-  "total24h": 0,
-  "total48hto24h": 0,
-  "total7d": 23445,
-  "totalAllTime": 2253157,
+  "total24h": 3201,
+  "total48hto24h": 3270,
+  "total7d": 23007,
+  "totalAllTime": 2269491,
   "totalDataChart": [
     [
       1695945600,
@@ -2603,6 +2603,18 @@
     [
       1751155200,
       0
+    ],
+    [
+      1751241600,
+      9863
+    ],
+    [
+      1751328000,
+      3270
+    ],
+    [
+      1751414400,
+      3201
     ]
   ],
   "totalDataChartBreakdown": [
@@ -7725,6 +7737,31 @@
           "Hashnote USYC": 0
         }
       }
+    ],
+    [
+      1751241600,
+      {
+        "Ethereum": {
+          "Hashnote USYC": 9863
+        }
+      }
+    ],
+    [
+      1751328000,
+      {
+        "Ethereum": {
+          "Hashnote USYC": 3270
+        }
+      }
+    ],
+    [
+      1751414400,
+      {
+        "Ethereum": {
+          "Hashnote USYC": 3201
+        }
+      }
     ]
-  ]
+  ],
+  "change_1d": -2.11
 }

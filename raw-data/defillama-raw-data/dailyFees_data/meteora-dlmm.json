@@ -48,10 +48,10 @@
     "Meteora DAMM V2",
     "Meteora Dynamic Bonding Curve"
   ],
-  "total24h": 1846288,
-  "total48hto24h": 4406505,
-  "total7d": 13322717,
-  "totalAllTime": 1157624241,
+  "total24h": 3900162,
+  "total48hto24h": 8763175,
+  "total7d": 27033871,
+  "totalAllTime": 1176728650,
   "totalDataChart": [
     [
       1737331200,
@@ -695,7 +695,19 @@
     ],
     [
       1751241600,
-      1846288
+      3863760
+    ],
+    [
+      1751328000,
+      8763175
+    ],
+    [
+      1751414400,
+      4423600
+    ],
+    [
+      1751500800,
+      3900162
     ]
   ],
   "totalDataChartBreakdown": [
@@ -1983,10 +1995,34 @@
       1751241600,
       {
         "Solana": {
-          "Meteora DLMM": 1846288
+          "Meteora DLMM": 3863760
+        }
+      }
+    ],
+    [
+      1751328000,
+      {
+        "Solana": {
+          "Meteora DLMM": 8763175
+        }
+      }
+    ],
+    [
+      1751414400,
+      {
+        "Solana": {
+          "Meteora DLMM": 4423600
+        }
+      }
+    ],
+    [
+      1751500800,
+      {
+        "Solana": {
+          "Meteora DLMM": 3900162
         }
       }
     ]
   ],
-  "change_1d": -58.1
+  "change_1d": -55.49
 }

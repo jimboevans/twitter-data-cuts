@@ -52,10 +52,10 @@
     "QuickPerps",
     "Quickswap Hydra"
   ],
-  "total24h": 132775,
-  "total48hto24h": 99803,
-  "total7d": 724926,
-  "totalAllTime": 162216158,
+  "total24h": 185521,
+  "total48hto24h": 95898,
+  "total7d": 756734,
+  "totalAllTime": 162633890,
   "totalDataChart": [
     [
       1602201600,
@@ -6831,7 +6831,19 @@
     ],
     [
       1751241600,
-      132775
+      126967
+    ],
+    [
+      1751328000,
+      95898
+    ],
+    [
+      1751414400,
+      142121
+    ],
+    [
+      1751500800,
+      185521
     ]
   ],
   "totalDataChartBreakdown": [
@@ -20383,10 +20395,34 @@
       1751241600,
       {
         "Polygon": {
-          "Quickswap Dex": 132775
+          "Quickswap Dex": 126967
+        }
+      }
+    ],
+    [
+      1751328000,
+      {
+        "Polygon": {
+          "Quickswap Dex": 95898
+        }
+      }
+    ],
+    [
+      1751414400,
+      {
+        "Polygon": {
+          "Quickswap Dex": 142121
+        }
+      }
+    ],
+    [
+      1751500800,
+      {
+        "Polygon": {
+          "Quickswap Dex": 185521
         }
       }
     ]
   ],
-  "change_1d": 33.04
+  "change_1d": 93.46
 }

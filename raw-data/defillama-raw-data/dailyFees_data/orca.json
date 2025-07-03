@@ -24,12 +24,12 @@
   "displayName": "Orca",
   "methodologyURL": "https://github.com/DefiLlama/dimension-adapters/blob/master/dexs/orca",
   "methodology": {
-    "UserFees": "Swap fees paid by users",
-    "Fees": "Swap fees paid by users",
-    "Revenue": "Percentage of swap fees going to treasury and/or token holders",
-    "ProtocolRevenue": "Percentage of swap fees going to treasury",
-    "HoldersRevenue": "Money going to governance token holders",
-    "SupplySideRevenue": "Liquidity providers revenue"
+    "UserFees": "All fees paid by users",
+    "Fees": "All fees paid by users",
+    "Revenue": "Revenue going to protocol treasury",
+    "ProtocolRevenue": "Revenue going to protocol treasury",
+    "HoldersRevenue": "20% of protocol fees allocated for xORCA holder buybacks and burns.",
+    "SupplySideRevenue": "Revenue earned by LPs (87% of total fees)"
   },
   "forkedFrom": null,
   "audit_links": null,
@@ -42,10 +42,10 @@
   "latestFetchIsOk": true,
   "slug": "orca",
   "protocolType": "protocol",
-  "total24h": 244905,
-  "total48hto24h": 204612,
-  "total7d": 1804358,
-  "totalAllTime": 129032076,
+  "total24h": 355345,
+  "total48hto24h": 263908,
+  "total7d": 1809971,
+  "totalAllTime": 130090465,
   "totalDataChart": [
     [
       1731369600,
@@ -961,7 +961,19 @@
     ],
     [
       1751241600,
-      244905
+      376364
+    ],
+    [
+      1751328000,
+      263908
+    ],
+    [
+      1751414400,
+      307677
+    ],
+    [
+      1751500800,
+      355345
     ]
   ],
   "totalDataChartBreakdown": [
@@ -3477,13 +3489,46 @@
       1751241600,
       {
         "Solana": {
-          "Orca": 243522
+          "Orca": 374635
         },
         "Eclipse": {
-          "Orca": 1383
+          "Orca": 1729
+        }
+      }
+    ],
+    [
+      1751328000,
+      {
+        "Solana": {
+          "Orca": 262672
+        },
+        "Eclipse": {
+          "Orca": 1236
+        }
+      }
+    ],
+    [
+      1751414400,
+      {
+        "Solana": {
+          "Orca": 305910
+        },
+        "Eclipse": {
+          "Orca": 1767
+        }
+      }
+    ],
+    [
+      1751500800,
+      {
+        "Solana": {
+          "Orca": 353716
+        },
+        "Eclipse": {
+          "Orca": 1629
         }
       }
     ]
   ],
-  "change_1d": 19.69
+  "change_1d": 34.65
 }

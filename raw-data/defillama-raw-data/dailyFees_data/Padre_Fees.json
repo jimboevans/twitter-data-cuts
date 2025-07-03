@@ -37,10 +37,10 @@
   "latestFetchIsOk": true,
   "slug": "padre",
   "protocolType": "protocol",
-  "total24h": 6693,
-  "total48hto24h": 7212,
-  "total7d": 67541,
-  "totalAllTime": 1482743,
+  "total24h": 14524,
+  "total48hto24h": 12729,
+  "total7d": 74902,
+  "totalAllTime": 1521970,
   "totalDataChart": [
     [
       1722211200,
@@ -1349,6 +1349,18 @@
     [
       1751155200,
       6693
+    ],
+    [
+      1751241600,
+      11974
+    ],
+    [
+      1751328000,
+      12729
+    ],
+    [
+      1751414400,
+      14524
     ]
   ],
   "totalDataChartBreakdown": [
@@ -3967,7 +3979,31 @@
           "Padre": 6693
         }
       }
+    ],
+    [
+      1751241600,
+      {
+        "Solana": {
+          "Padre": 11974
+        }
+      }
+    ],
+    [
+      1751328000,
+      {
+        "Solana": {
+          "Padre": 12729
+        }
+      }
+    ],
+    [
+      1751414400,
+      {
+        "Solana": {
+          "Padre": 14524
+        }
+      }
     ]
   ],
-  "change_1d": -7.2
+  "change_1d": 14.1
 }

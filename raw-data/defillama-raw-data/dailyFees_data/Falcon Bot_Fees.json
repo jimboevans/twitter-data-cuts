@@ -37,10 +37,10 @@
   "latestFetchIsOk": true,
   "slug": "falcon-bot",
   "protocolType": "protocol",
-  "total24h": 0,
-  "total48hto24h": 0,
-  "total7d": 9,
-  "totalAllTime": 2802,
+  "total24h": 2,
+  "total48hto24h": 59,
+  "total7d": 70,
+  "totalAllTime": 2865,
   "totalDataChart": [
     [
       1728172800,
@@ -1101,6 +1101,18 @@
     [
       1751241600,
       0
+    ],
+    [
+      1751328000,
+      59
+    ],
+    [
+      1751414400,
+      2
+    ],
+    [
+      1751500800,
+      2
     ]
   ],
   "totalDataChartBreakdown": [
@@ -3223,6 +3235,31 @@
           "Falcon Bot": 0
         }
       }
+    ],
+    [
+      1751328000,
+      {
+        "Solana": {
+          "Falcon Bot": 59
+        }
+      }
+    ],
+    [
+      1751414400,
+      {
+        "Solana": {
+          "Falcon Bot": 2
+        }
+      }
+    ],
+    [
+      1751500800,
+      {
+        "Solana": {
+          "Falcon Bot": 2
+        }
+      }
     ]
-  ]
+  ],
+  "change_1d": -96.61
 }
