@@ -1,16 +1,16 @@
 {
   "id": "4449",
   "name": "pump.fun",
-  "address": null,
-  "symbol": "-",
+  "address": "solana:pumpCmXqMfrsAkQ5r49WcJnRayYRqmXz6ae8H7H9Dfn",
+  "symbol": "PUMP",
   "url": "https://www.pump.fun/",
   "description": "Launch a coin that is instantly tradeable in one click for free",
   "chain": "Solana",
   "logo": "https://icons.llamao.fi/icons/protocols/pump.fun.jpg",
   "audits": "0",
   "audit_note": null,
-  "gecko_id": null,
-  "cmcId": null,
+  "gecko_id": "pump-fun",
+  "cmcId": "36507",
   "category": "Launchpad",
   "chains": [
     "Solana"
@@ -27,7 +27,8 @@
   "methodology": {
     "Fees": "Trading and launching tokens fees paid by users",
     "Revenue": "Trading and launching tokens fees paid by users",
-    "ProtocolRevenue": "pump.fun takes all fees paid by users"
+    "ProtocolRevenue": "pump.fun takes all fees paid by users",
+    "HoldersRevenue": "PUMP token buybacks from the revenue"
   },
   "audit_links": null,
   "versionKey": null,
@@ -43,10 +44,10 @@
     "pump.fun",
     "PumpSwap"
   ],
-  "total24h": 1081485,
-  "total48hto24h": 1191623,
-  "total7d": 7304171,
-  "totalAllTime": 694576439,
+  "total24h": 705777,
+  "total48hto24h": 825956,
+  "total7d": 4620384,
+  "totalAllTime": 701453658,
   "totalDataChart": [
     [
       1709251200,
@@ -1293,10 +1294,6 @@
       3390354
     ],
     [
-      1736121600,
-      3201954
-    ],
-    [
       1736208000,
       3585004
     ],
@@ -2003,6 +2000,70 @@
     [
       1751414400,
       1081485
+    ],
+    [
+      1751500800,
+      1032592
+    ],
+    [
+      1751587200,
+      821289
+    ],
+    [
+      1751673600,
+      607936
+    ],
+    [
+      1751760000,
+      455220
+    ],
+    [
+      1751846400,
+      442058
+    ],
+    [
+      1751932800,
+      431528
+    ],
+    [
+      1752019200,
+      627733
+    ],
+    [
+      1752105600,
+      528723
+    ],
+    [
+      1752192000,
+      511710
+    ],
+    [
+      1752278400,
+      663856
+    ],
+    [
+      1752364800,
+      426443
+    ],
+    [
+      1752451200,
+      635428
+    ],
+    [
+      1752537600,
+      653247
+    ],
+    [
+      1752624000,
+      709677
+    ],
+    [
+      1752710400,
+      825956
+    ],
+    [
+      1752796800,
+      705777
     ]
   ],
   "totalDataChartBreakdown": [
@@ -4495,14 +4556,6 @@
       }
     ],
     [
-      1736121600,
-      {
-        "Solana": {
-          "pump.fun": 3201954
-        }
-      }
-    ],
-    [
       1736208000,
       {
         "Solana": {
@@ -5917,7 +5970,135 @@
           "pump.fun": 1081485
         }
       }
+    ],
+    [
+      1751500800,
+      {
+        "Solana": {
+          "pump.fun": 1032592
+        }
+      }
+    ],
+    [
+      1751587200,
+      {
+        "Solana": {
+          "pump.fun": 821289
+        }
+      }
+    ],
+    [
+      1751673600,
+      {
+        "Solana": {
+          "pump.fun": 607936
+        }
+      }
+    ],
+    [
+      1751760000,
+      {
+        "Solana": {
+          "pump.fun": 455220
+        }
+      }
+    ],
+    [
+      1751846400,
+      {
+        "Solana": {
+          "pump.fun": 442058
+        }
+      }
+    ],
+    [
+      1751932800,
+      {
+        "Solana": {
+          "pump.fun": 431528
+        }
+      }
+    ],
+    [
+      1752019200,
+      {
+        "Solana": {
+          "pump.fun": 627733
+        }
+      }
+    ],
+    [
+      1752105600,
+      {
+        "Solana": {
+          "pump.fun": 528723
+        }
+      }
+    ],
+    [
+      1752192000,
+      {
+        "Solana": {
+          "pump.fun": 511710
+        }
+      }
+    ],
+    [
+      1752278400,
+      {
+        "Solana": {
+          "pump.fun": 663856
+        }
+      }
+    ],
+    [
+      1752364800,
+      {
+        "Solana": {
+          "pump.fun": 426443
+        }
+      }
+    ],
+    [
+      1752451200,
+      {
+        "Solana": {
+          "pump.fun": 635428
+        }
+      }
+    ],
+    [
+      1752537600,
+      {
+        "Solana": {
+          "pump.fun": 653247
+        }
+      }
+    ],
+    [
+      1752624000,
+      {
+        "Solana": {
+          "pump.fun": 709677
+        }
+      }
+    ],
+    [
+      1752710400,
+      {
+        "Solana": {
+          "pump.fun": 825956
+        }
+      }
+    ],
+    [
+      1752796800,
+      {
+        "Solana": {
+          "pump.fun": 705777
+        }
+      }
     ]
   ],
-  "change_1d": -9.24
+  "change_1d": -14.55
 }
