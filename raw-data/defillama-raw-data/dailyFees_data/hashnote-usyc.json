@@ -23,7 +23,6 @@
   "listedAt": 1698280827,
   "category": "RWA",
   "defillamaId": "3698",
-  "disabled": false,
   "displayName": "Hashnote USYC",
   "methodologyURL": "https://github.com/DefiLlama/dimension-adapters/blob/master/fees/hashnote-usyc",
   "methodology": {
@@ -39,10 +38,11 @@
   "latestFetchIsOk": true,
   "slug": "hashnote-usyc",
   "protocolType": "protocol",
-  "total24h": 3201,
-  "total48hto24h": 3270,
-  "total7d": 23007,
-  "totalAllTime": 2269491,
+  "total24h": 2694,
+  "total48hto24h": 8172,
+  "total7d": 18420,
+  "total30d": 96693,
+  "totalAllTime": 2346152,
   "totalDataChart": [
     [
       1695945600,
@@ -2525,10 +2525,6 @@
       11682
     ],
     [
-      1749513600,
-      3698
-    ],
-    [
       1749600000,
       3682
     ],
@@ -2615,6 +2611,114 @@
     [
       1751414400,
       3201
+    ],
+    [
+      1751500800,
+      3140
+    ],
+    [
+      1751587200,
+      0
+    ],
+    [
+      1751673600,
+      0
+    ],
+    [
+      1751760000,
+      0
+    ],
+    [
+      1751846400,
+      13373
+    ],
+    [
+      1751932800,
+      3236
+    ],
+    [
+      1752019200,
+      3225
+    ],
+    [
+      1752105600,
+      3197
+    ],
+    [
+      1752192000,
+      3143
+    ],
+    [
+      1752278400,
+      0
+    ],
+    [
+      1752364800,
+      0
+    ],
+    [
+      1752451200,
+      9407
+    ],
+    [
+      1752537600,
+      3109
+    ],
+    [
+      1752624000,
+      3137
+    ],
+    [
+      1752710400,
+      3105
+    ],
+    [
+      1752796800,
+      2956
+    ],
+    [
+      1752883200,
+      0
+    ],
+    [
+      1752969600,
+      0
+    ],
+    [
+      1753056000,
+      8371
+    ],
+    [
+      1753142400,
+      2540
+    ],
+    [
+      1753228800,
+      2521
+    ],
+    [
+      1753315200,
+      2511
+    ],
+    [
+      1753401600,
+      2522
+    ],
+    [
+      1753488000,
+      0
+    ],
+    [
+      1753574400,
+      0
+    ],
+    [
+      1753660800,
+      8172
+    ],
+    [
+      1753747200,
+      2694
     ]
   ],
   "totalDataChartBreakdown": [
@@ -7579,14 +7683,6 @@
       }
     ],
     [
-      1749513600,
-      {
-        "Ethereum": {
-          "Hashnote USYC": 3698
-        }
-      }
-    ],
-    [
       1749600000,
       {
         "Ethereum": {
@@ -7761,7 +7857,223 @@
           "Hashnote USYC": 3201
         }
       }
+    ],
+    [
+      1751500800,
+      {
+        "Ethereum": {
+          "Hashnote USYC": 3140
+        }
+      }
+    ],
+    [
+      1751587200,
+      {
+        "Ethereum": {
+          "Hashnote USYC": 0
+        }
+      }
+    ],
+    [
+      1751673600,
+      {
+        "Ethereum": {
+          "Hashnote USYC": 0
+        }
+      }
+    ],
+    [
+      1751760000,
+      {
+        "Ethereum": {
+          "Hashnote USYC": 0
+        }
+      }
+    ],
+    [
+      1751846400,
+      {
+        "Ethereum": {
+          "Hashnote USYC": 13373
+        }
+      }
+    ],
+    [
+      1751932800,
+      {
+        "Ethereum": {
+          "Hashnote USYC": 3236
+        }
+      }
+    ],
+    [
+      1752019200,
+      {
+        "Ethereum": {
+          "Hashnote USYC": 3225
+        }
+      }
+    ],
+    [
+      1752105600,
+      {
+        "Ethereum": {
+          "Hashnote USYC": 3197
+        }
+      }
+    ],
+    [
+      1752192000,
+      {
+        "Ethereum": {
+          "Hashnote USYC": 3143
+        }
+      }
+    ],
+    [
+      1752278400,
+      {
+        "Ethereum": {
+          "Hashnote USYC": 0
+        }
+      }
+    ],
+    [
+      1752364800,
+      {
+        "Ethereum": {
+          "Hashnote USYC": 0
+        }
+      }
+    ],
+    [
+      1752451200,
+      {
+        "Ethereum": {
+          "Hashnote USYC": 9407
+        }
+      }
+    ],
+    [
+      1752537600,
+      {
+        "Ethereum": {
+          "Hashnote USYC": 3109
+        }
+      }
+    ],
+    [
+      1752624000,
+      {
+        "Ethereum": {
+          "Hashnote USYC": 3137
+        }
+      }
+    ],
+    [
+      1752710400,
+      {
+        "Ethereum": {
+          "Hashnote USYC": 3105
+        }
+      }
+    ],
+    [
+      1752796800,
+      {
+        "Ethereum": {
+          "Hashnote USYC": 2956
+        }
+      }
+    ],
+    [
+      1752883200,
+      {
+        "Ethereum": {
+          "Hashnote USYC": 0
+        }
+      }
+    ],
+    [
+      1752969600,
+      {
+        "Ethereum": {
+          "Hashnote USYC": 0
+        }
+      }
+    ],
+    [
+      1753056000,
+      {
+        "Ethereum": {
+          "Hashnote USYC": 8371
+        }
+      }
+    ],
+    [
+      1753142400,
+      {
+        "Ethereum": {
+          "Hashnote USYC": 2540
+        }
+      }
+    ],
+    [
+      1753228800,
+      {
+        "Ethereum": {
+          "Hashnote USYC": 2521
+        }
+      }
+    ],
+    [
+      1753315200,
+      {
+        "Ethereum": {
+          "Hashnote USYC": 2511
+        }
+      }
+    ],
+    [
+      1753401600,
+      {
+        "Ethereum": {
+          "Hashnote USYC": 2522
+        }
+      }
+    ],
+    [
+      1753488000,
+      {
+        "Ethereum": {
+          "Hashnote USYC": 0
+        }
+      }
+    ],
+    [
+      1753574400,
+      {
+        "Ethereum": {
+          "Hashnote USYC": 0
+        }
+      }
+    ],
+    [
+      1753660800,
+      {
+        "Ethereum": {
+          "Hashnote USYC": 8172
+        }
+      }
+    ],
+    [
+      1753747200,
+      {
+        "Ethereum": {
+          "Hashnote USYC": 2694
+        }
+      }
     ]
   ],
-  "change_1d": -2.11
+  "change_1d": -67.03
 }

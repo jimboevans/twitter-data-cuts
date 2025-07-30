@@ -16,14 +16,93 @@
   "symbol": "DRIFT",
   "address": "solana:DriFtupJYLTosbwoN8koMbEYSx54aFAVLddWsbksjwg7",
   "childProtocols": [
-    {}
+    {
+      "name": "Drift Trade",
+      "defillamaId": "970",
+      "displayName": "Drift Trade",
+      "module": "drift-protocol-derivatives",
+      "category": "Derivatives",
+      "logo": "https://icons.llamao.fi/icons/protocols/drift-trade.jpg",
+      "chains": [
+        "solana"
+      ],
+      "methodologyURL": "https://github.com/DefiLlama/dimension-adapters/blob/master/dexs/drift-protocol-derivatives.ts",
+      "methodology": {
+        "UserFees": "Fees paid by users",
+        "Fees": "Fees paid by users",
+        "Revenue": "Treasury and token holders revenue",
+        "ProtocolRevenue": "Fees going to treasury",
+        "HoldersRevenue": "Fees going to governance token holders",
+        "SupplySideRevenue": "LPs revenue"
+      },
+      "gecko_id": null,
+      "twitter": "DriftProtocol",
+      "audits": "2",
+      "description": "Drift brings on-chain, cross-margined perpetual futures to Solana. Making futures DEXs the best way to trade.",
+      "address": "solana:DriFtupJYLTosbwoN8koMbEYSx54aFAVLddWsbksjwg7",
+      "url": "https://www.drift.trade",
+      "audit_links": [
+        "https://github.com/Zellic/publications/blob/master/Drift%20Protocol%20Audit%20Report.pdf"
+      ],
+      "cmcId": null,
+      "id": "970",
+      "parentProtocol": "parent#drift"
+    },
+    {
+      "name": "Drift Staked SOL",
+      "defillamaId": "5046",
+      "displayName": "Drift Staked SOL",
+      "module": "drift-staked-sol",
+      "category": "Liquid Staking",
+      "logo": "https://icons.llamao.fi/icons/protocols/drift-staked-sol.jpg",
+      "chains": [
+        "solana"
+      ],
+      "methodologyURL": "https://github.com/DefiLlama/dimension-adapters/blob/master/fees/drift-staked-sol",
+      "methodology": {
+        "UserFees": "Percentage of rewards paid to protocol",
+        "Fees": "Staking rewards from staked SOL on drift staked solana",
+        "Revenue": "Includes withdrawal fees and management fees collected by fee collector",
+        "ProtocolRevenue": "Revenue going to treasury/team",
+        "SupplySideRevenue": "Revenue earned by stETH holders"
+      },
+      "gecko_id": null,
+      "forkedFrom": [],
+      "twitter": "DriftProtocol",
+      "audits": "0",
+      "description": "Liquid Staking token on Solana",
+      "address": "solana:DriFtupJYLTosbwoN8koMbEYSx54aFAVLddWsbksjwg7",
+      "url": "https://app.drift.trade/overview",
+      "cmcId": null,
+      "id": "5046",
+      "parentProtocol": "parent#drift"
+    },
+    {
+      "name": "Drift AMM",
+      "module": "dummy.js",
+      "category": "Dexs",
+      "logo": "https://icons.llama.fi/drift-amm.jpg",
+      "chains": [
+        "Solana"
+      ],
+      "gecko_id": null,
+      "forkedFrom": [],
+      "twitter": "DriftProtocol",
+      "audits": "0",
+      "description": "Drift brings on-chain, cross-margined perpetual futures to Solana. Making futures DEXs the best way to trade.",
+      "address": "solana:DriFtupJYLTosbwoN8koMbEYSx54aFAVLddWsbksjwg7",
+      "url": "https://www.drift.trade",
+      "cmcId": null,
+      "id": "5071",
+      "parentProtocol": "parent#drift"
+    }
   ],
   "linkedProtocols": [
     "Drift",
-    "Drift Trade"
+    "Drift Trade",
+    "Drift Staked SOL"
   ],
   "defillamaId": "parent#drift",
-  "disabled": null,
   "displayName": "Drift",
   "module": null,
   "category": null,
@@ -40,10 +119,11 @@
   "latestFetchIsOk": true,
   "slug": "drift",
   "protocolType": "protocol",
-  "total24h": 129308,
-  "total48hto24h": 59334,
-  "total7d": 447156,
-  "totalAllTime": 17034197,
+  "total24h": 59797,
+  "total48hto24h": 87721,
+  "total7d": 510221,
+  "total30d": 1589994,
+  "totalAllTime": 18056850,
   "totalDataChart": [
     [
       1717113600,
@@ -762,6 +842,10 @@
       113995
     ],
     [
+      1732579200,
+      113995
+    ],
+    [
       1732665600,
       107141
     ],
@@ -1371,31 +1455,31 @@
     ],
     [
       1745798400,
-      26790
+      30387
     ],
     [
       1745884800,
-      22027
+      22222
     ],
     [
       1745971200,
-      25117
+      28193
     ],
     [
       1746057600,
-      20010
+      20039
     ],
     [
       1746144000,
-      17502
+      20055
     ],
     [
       1746230400,
-      14394
+      14421
     ],
     [
       1746316800,
-      13764
+      16407
     ],
     [
       1746403200,
@@ -1403,7 +1487,7 @@
     ],
     [
       1746489600,
-      21041
+      23802
     ],
     [
       1746576000,
@@ -1411,31 +1495,31 @@
     ],
     [
       1746662400,
-      48556
+      51408
     ],
     [
       1746748800,
-      51233
+      51276
     ],
     [
       1746835200,
-      52943
+      56529
     ],
     [
       1746921600,
-      38764
+      38846
     ],
     [
       1747008000,
-      74958
+      78155
     ],
     [
       1747094400,
-      81544
+      81771
     ],
     [
       1747180800,
-      61364
+      64622
     ],
     [
       1747267200,
@@ -1443,23 +1527,23 @@
     ],
     [
       1747353600,
-      41845
+      46661
     ],
     [
       1747440000,
-      28261
+      28266
     ],
     [
       1747526400,
-      33101
+      35999
     ],
     [
       1747612800,
-      59505
+      59982
     ],
     [
       1747699200,
-      30793
+      34008
     ],
     [
       1747785600,
@@ -1467,23 +1551,23 @@
     ],
     [
       1747872000,
-      40808
+      44294
     ],
     [
       1747958400,
-      91970
+      91979
     ],
     [
       1748044800,
-      18973
+      22320
     ],
     [
       1748131200,
-      57456
+      57556
     ],
     [
       1748217600,
-      22321
+      25399
     ],
     [
       1748304000,
@@ -1491,15 +1575,15 @@
     ],
     [
       1748390400,
-      35538
+      38791
     ],
     [
       1748476800,
-      26865
+      26866
     ],
     [
       1748563200,
-      60641
+      63647
     ],
     [
       1748649600,
@@ -1507,39 +1591,39 @@
     ],
     [
       1748736000,
-      20357
+      23264
     ],
     [
       1748822400,
-      14906
+      15305
     ],
     [
       1748908800,
-      24494
+      28048
     ],
     [
       1748995200,
-      13926
+      14087
     ],
     [
       1749081600,
-      57338
+      60010
     ],
     [
       1749168000,
-      28761
+      31470
     ],
     [
       1749254400,
-      12841
+      15893
     ],
     [
       1749340800,
-      15814
+      16017
     ],
     [
       1749427200,
-      18892
+      21705
     ],
     [
       1749513600,
@@ -1547,15 +1631,15 @@
     ],
     [
       1749600000,
-      37892
+      40799
     ],
     [
       1749686400,
-      34372
+      35784
     ],
     [
       1749772800,
-      74408
+      77000
     ],
     [
       1749859200,
@@ -1563,23 +1647,23 @@
     ],
     [
       1749945600,
-      13424
+      18006
     ],
     [
       1750032000,
-      35177
+      39776
     ],
     [
       1750118400,
-      35019
+      37640
     ],
     [
       1750204800,
-      18756
+      18854
     ],
     [
       1750291200,
-      19286
+      21974
     ],
     [
       1750377600,
@@ -1587,7 +1671,7 @@
     ],
     [
       1750464000,
-      31582
+      33932
     ],
     [
       1750550400,
@@ -1595,7 +1679,7 @@
     ],
     [
       1750636800,
-      32168
+      34707
     ],
     [
       1750723200,
@@ -1603,7 +1687,7 @@
     ],
     [
       1750809600,
-      34957
+      37557
     ],
     [
       1750896000,
@@ -1611,55 +1695,55 @@
     ],
     [
       1750982400,
-      14931
+      17297
     ],
     [
       1751068800,
-      12021
+      12280
     ],
     [
       1751155200,
-      7654
+      10424
     ],
     [
       1751241600,
-      17189
+      17282
     ],
     [
       1751328000,
-      21391
+      24121
     ],
     [
       1751414400,
-      20412
+      20431
     ],
     [
       1751500800,
-      20254
+      23329
     ],
     [
       1751587200,
-      26356
+      26370
     ],
     [
       1751673600,
-      9023
+      11825
     ],
     [
       1751760000,
-      54080
+      54144
     ],
     [
       1751846400,
-      26395
+      29098
     ],
     [
       1751932800,
-      23841
+      31879
     ],
     [
       1752019200,
-      31245
+      34158
     ],
     [
       1752105600,
@@ -1667,15 +1751,15 @@
     ],
     [
       1752192000,
-      54838
+      57929
     ],
     [
       1752278400,
-      30921
+      31408
     ],
     [
       1752364800,
-      30408
+      33347
     ],
     [
       1752451200,
@@ -1683,7 +1767,7 @@
     ],
     [
       1752537600,
-      90616
+      93646
     ],
     [
       1752624000,
@@ -1691,11 +1775,55 @@
     ],
     [
       1752710400,
-      59334
+      62716
     ],
     [
       1752796800,
-      129308
+      129486
+    ],
+    [
+      1752883200,
+      33470
+    ],
+    [
+      1752969600,
+      52706
+    ],
+    [
+      1753056000,
+      86614
+    ],
+    [
+      1753142400,
+      81419
+    ],
+    [
+      1753228800,
+      95445
+    ],
+    [
+      1753315200,
+      81808
+    ],
+    [
+      1753401600,
+      114958
+    ],
+    [
+      1753488000,
+      31813
+    ],
+    [
+      1753574400,
+      38679
+    ],
+    [
+      1753660800,
+      87721
+    ],
+    [
+      1753747200,
+      59797
     ]
   ],
   "totalDataChartBreakdown": [
@@ -3132,6 +3260,14 @@
       }
     ],
     [
+      1732579200,
+      {
+        "Solana": {
+          "Drift Trade": 113995
+        }
+      }
+    ],
+    [
       1732665600,
       {
         "Solana": {
@@ -4351,7 +4487,8 @@
       1745798400,
       {
         "Solana": {
-          "Drift Trade": 26790
+          "Drift Trade": 26790,
+          "Drift Staked SOL": 3597
         }
       }
     ],
@@ -4359,7 +4496,8 @@
       1745884800,
       {
         "Solana": {
-          "Drift Trade": 22027
+          "Drift Trade": 22027,
+          "Drift Staked SOL": 195
         }
       }
     ],
@@ -4367,7 +4505,8 @@
       1745971200,
       {
         "Solana": {
-          "Drift Trade": 25117
+          "Drift Trade": 25117,
+          "Drift Staked SOL": 3076
         }
       }
     ],
@@ -4375,7 +4514,8 @@
       1746057600,
       {
         "Solana": {
-          "Drift Trade": 20010
+          "Drift Trade": 20010,
+          "Drift Staked SOL": 29
         }
       }
     ],
@@ -4383,7 +4523,8 @@
       1746144000,
       {
         "Solana": {
-          "Drift Trade": 17502
+          "Drift Trade": 17502,
+          "Drift Staked SOL": 2553
         }
       }
     ],
@@ -4391,7 +4532,8 @@
       1746230400,
       {
         "Solana": {
-          "Drift Trade": 14394
+          "Drift Trade": 14394,
+          "Drift Staked SOL": 27
         }
       }
     ],
@@ -4399,7 +4541,8 @@
       1746316800,
       {
         "Solana": {
-          "Drift Trade": 13764
+          "Drift Trade": 13764,
+          "Drift Staked SOL": 2643
         }
       }
     ],
@@ -4407,7 +4550,8 @@
       1746403200,
       {
         "Solana": {
-          "Drift Trade": 18116
+          "Drift Trade": 18116,
+          "Drift Staked SOL": 0
         }
       }
     ],
@@ -4415,7 +4559,8 @@
       1746489600,
       {
         "Solana": {
-          "Drift Trade": 21041
+          "Drift Trade": 21041,
+          "Drift Staked SOL": 2761
         }
       }
     ],
@@ -4423,7 +4568,8 @@
       1746576000,
       {
         "Solana": {
-          "Drift Trade": 24015
+          "Drift Trade": 24015,
+          "Drift Staked SOL": 0
         }
       }
     ],
@@ -4431,7 +4577,8 @@
       1746662400,
       {
         "Solana": {
-          "Drift Trade": 48556
+          "Drift Trade": 48556,
+          "Drift Staked SOL": 2852
         }
       }
     ],
@@ -4439,7 +4586,8 @@
       1746748800,
       {
         "Solana": {
-          "Drift Trade": 51233
+          "Drift Trade": 51233,
+          "Drift Staked SOL": 43
         }
       }
     ],
@@ -4447,7 +4595,8 @@
       1746835200,
       {
         "Solana": {
-          "Drift Trade": 52943
+          "Drift Trade": 52943,
+          "Drift Staked SOL": 3586
         }
       }
     ],
@@ -4455,7 +4604,8 @@
       1746921600,
       {
         "Solana": {
-          "Drift Trade": 38764
+          "Drift Trade": 38764,
+          "Drift Staked SOL": 82
         }
       }
     ],
@@ -4463,7 +4613,8 @@
       1747008000,
       {
         "Solana": {
-          "Drift Trade": 74958
+          "Drift Trade": 74958,
+          "Drift Staked SOL": 3197
         }
       }
     ],
@@ -4471,7 +4622,8 @@
       1747094400,
       {
         "Solana": {
-          "Drift Trade": 81544
+          "Drift Trade": 81544,
+          "Drift Staked SOL": 227
         }
       }
     ],
@@ -4479,7 +4631,8 @@
       1747180800,
       {
         "Solana": {
-          "Drift Trade": 61364
+          "Drift Trade": 61364,
+          "Drift Staked SOL": 3258
         }
       }
     ],
@@ -4487,7 +4640,8 @@
       1747267200,
       {
         "Solana": {
-          "Drift Trade": 85721
+          "Drift Trade": 85721,
+          "Drift Staked SOL": 0
         }
       }
     ],
@@ -4495,7 +4649,8 @@
       1747353600,
       {
         "Solana": {
-          "Drift Trade": 41845
+          "Drift Trade": 41845,
+          "Drift Staked SOL": 4816
         }
       }
     ],
@@ -4503,7 +4658,8 @@
       1747440000,
       {
         "Solana": {
-          "Drift Trade": 28261
+          "Drift Trade": 28261,
+          "Drift Staked SOL": 5
         }
       }
     ],
@@ -4511,7 +4667,8 @@
       1747526400,
       {
         "Solana": {
-          "Drift Trade": 33101
+          "Drift Trade": 33101,
+          "Drift Staked SOL": 2898
         }
       }
     ],
@@ -4519,7 +4676,8 @@
       1747612800,
       {
         "Solana": {
-          "Drift Trade": 59505
+          "Drift Trade": 59505,
+          "Drift Staked SOL": 477
         }
       }
     ],
@@ -4527,7 +4685,8 @@
       1747699200,
       {
         "Solana": {
-          "Drift Trade": 30793
+          "Drift Trade": 30793,
+          "Drift Staked SOL": 3215
         }
       }
     ],
@@ -4535,7 +4694,8 @@
       1747785600,
       {
         "Solana": {
-          "Drift Trade": 57239
+          "Drift Trade": 57239,
+          "Drift Staked SOL": 0
         }
       }
     ],
@@ -4543,7 +4703,8 @@
       1747872000,
       {
         "Solana": {
-          "Drift Trade": 40808
+          "Drift Trade": 40808,
+          "Drift Staked SOL": 3486
         }
       }
     ],
@@ -4551,7 +4712,8 @@
       1747958400,
       {
         "Solana": {
-          "Drift Trade": 91970
+          "Drift Trade": 91970,
+          "Drift Staked SOL": 9
         }
       }
     ],
@@ -4559,7 +4721,8 @@
       1748044800,
       {
         "Solana": {
-          "Drift Trade": 18973
+          "Drift Trade": 18973,
+          "Drift Staked SOL": 3347
         }
       }
     ],
@@ -4567,7 +4730,8 @@
       1748131200,
       {
         "Solana": {
-          "Drift Trade": 57456
+          "Drift Trade": 57456,
+          "Drift Staked SOL": 100
         }
       }
     ],
@@ -4575,7 +4739,8 @@
       1748217600,
       {
         "Solana": {
-          "Drift Trade": 22321
+          "Drift Trade": 22321,
+          "Drift Staked SOL": 3078
         }
       }
     ],
@@ -4583,7 +4748,8 @@
       1748304000,
       {
         "Solana": {
-          "Drift Trade": 35849
+          "Drift Trade": 35849,
+          "Drift Staked SOL": 0
         }
       }
     ],
@@ -4591,7 +4757,8 @@
       1748390400,
       {
         "Solana": {
-          "Drift Trade": 35538
+          "Drift Trade": 35538,
+          "Drift Staked SOL": 3253
         }
       }
     ],
@@ -4599,7 +4766,8 @@
       1748476800,
       {
         "Solana": {
-          "Drift Trade": 26865
+          "Drift Trade": 26865,
+          "Drift Staked SOL": 1
         }
       }
     ],
@@ -4607,7 +4775,8 @@
       1748563200,
       {
         "Solana": {
-          "Drift Trade": 60641
+          "Drift Trade": 60641,
+          "Drift Staked SOL": 3006
         }
       }
     ],
@@ -4615,7 +4784,8 @@
       1748649600,
       {
         "Solana": {
-          "Drift Trade": 27127
+          "Drift Trade": 27127,
+          "Drift Staked SOL": 0
         }
       }
     ],
@@ -4623,7 +4793,8 @@
       1748736000,
       {
         "Solana": {
-          "Drift Trade": 20357
+          "Drift Trade": 20357,
+          "Drift Staked SOL": 2907
         }
       }
     ],
@@ -4631,7 +4802,8 @@
       1748822400,
       {
         "Solana": {
-          "Drift Trade": 14906
+          "Drift Trade": 14906,
+          "Drift Staked SOL": 399
         }
       }
     ],
@@ -4639,7 +4811,8 @@
       1748908800,
       {
         "Solana": {
-          "Drift Trade": 24494
+          "Drift Trade": 24494,
+          "Drift Staked SOL": 3554
         }
       }
     ],
@@ -4647,7 +4820,8 @@
       1748995200,
       {
         "Solana": {
-          "Drift Trade": 13926
+          "Drift Trade": 13926,
+          "Drift Staked SOL": 161
         }
       }
     ],
@@ -4655,7 +4829,8 @@
       1749081600,
       {
         "Solana": {
-          "Drift Trade": 57338
+          "Drift Trade": 57338,
+          "Drift Staked SOL": 2672
         }
       }
     ],
@@ -4663,7 +4838,8 @@
       1749168000,
       {
         "Solana": {
-          "Drift Trade": 28761
+          "Drift Trade": 28761,
+          "Drift Staked SOL": 2709
         }
       }
     ],
@@ -4671,7 +4847,8 @@
       1749254400,
       {
         "Solana": {
-          "Drift Trade": 12841
+          "Drift Trade": 12841,
+          "Drift Staked SOL": 3052
         }
       }
     ],
@@ -4679,7 +4856,8 @@
       1749340800,
       {
         "Solana": {
-          "Drift Trade": 15814
+          "Drift Trade": 15814,
+          "Drift Staked SOL": 203
         }
       }
     ],
@@ -4687,7 +4865,8 @@
       1749427200,
       {
         "Solana": {
-          "Drift Trade": 18892
+          "Drift Trade": 18892,
+          "Drift Staked SOL": 2813
         }
       }
     ],
@@ -4695,7 +4874,8 @@
       1749513600,
       {
         "Solana": {
-          "Drift Trade": 52211
+          "Drift Trade": 52211,
+          "Drift Staked SOL": 0
         }
       }
     ],
@@ -4703,7 +4883,8 @@
       1749600000,
       {
         "Solana": {
-          "Drift Trade": 37892
+          "Drift Trade": 37892,
+          "Drift Staked SOL": 2907
         }
       }
     ],
@@ -4711,7 +4892,8 @@
       1749686400,
       {
         "Solana": {
-          "Drift Trade": 34372
+          "Drift Trade": 34372,
+          "Drift Staked SOL": 1412
         }
       }
     ],
@@ -4719,7 +4901,8 @@
       1749772800,
       {
         "Solana": {
-          "Drift Trade": 74408
+          "Drift Trade": 74408,
+          "Drift Staked SOL": 2592
         }
       }
     ],
@@ -4727,7 +4910,8 @@
       1749859200,
       {
         "Solana": {
-          "Drift Trade": 14188
+          "Drift Trade": 14188,
+          "Drift Staked SOL": 0
         }
       }
     ],
@@ -4735,7 +4919,8 @@
       1749945600,
       {
         "Solana": {
-          "Drift Trade": 13424
+          "Drift Trade": 13424,
+          "Drift Staked SOL": 4582
         }
       }
     ],
@@ -4743,7 +4928,8 @@
       1750032000,
       {
         "Solana": {
-          "Drift Trade": 35177
+          "Drift Trade": 35177,
+          "Drift Staked SOL": 4599
         }
       }
     ],
@@ -4751,7 +4937,8 @@
       1750118400,
       {
         "Solana": {
-          "Drift Trade": 35019
+          "Drift Trade": 35019,
+          "Drift Staked SOL": 2621
         }
       }
     ],
@@ -4759,7 +4946,8 @@
       1750204800,
       {
         "Solana": {
-          "Drift Trade": 18756
+          "Drift Trade": 18756,
+          "Drift Staked SOL": 98
         }
       }
     ],
@@ -4767,7 +4955,8 @@
       1750291200,
       {
         "Solana": {
-          "Drift Trade": 19286
+          "Drift Trade": 19286,
+          "Drift Staked SOL": 2688
         }
       }
     ],
@@ -4775,7 +4964,8 @@
       1750377600,
       {
         "Solana": {
-          "Drift Trade": 37573
+          "Drift Trade": 37573,
+          "Drift Staked SOL": 0
         }
       }
     ],
@@ -4783,7 +4973,8 @@
       1750464000,
       {
         "Solana": {
-          "Drift Trade": 31582
+          "Drift Trade": 31582,
+          "Drift Staked SOL": 2350
         }
       }
     ],
@@ -4791,7 +4982,8 @@
       1750550400,
       {
         "Solana": {
-          "Drift Trade": 53646
+          "Drift Trade": 53646,
+          "Drift Staked SOL": 0
         }
       }
     ],
@@ -4799,7 +4991,8 @@
       1750636800,
       {
         "Solana": {
-          "Drift Trade": 32168
+          "Drift Trade": 32168,
+          "Drift Staked SOL": 2539
         }
       }
     ],
@@ -4807,7 +5000,8 @@
       1750723200,
       {
         "Solana": {
-          "Drift Trade": 14458
+          "Drift Trade": 14458,
+          "Drift Staked SOL": 0
         }
       }
     ],
@@ -4815,7 +5009,8 @@
       1750809600,
       {
         "Solana": {
-          "Drift Trade": 34957
+          "Drift Trade": 34957,
+          "Drift Staked SOL": 2600
         }
       }
     ],
@@ -4823,7 +5018,8 @@
       1750896000,
       {
         "Solana": {
-          "Drift Trade": 23335
+          "Drift Trade": 23335,
+          "Drift Staked SOL": 0
         }
       }
     ],
@@ -4831,7 +5027,8 @@
       1750982400,
       {
         "Solana": {
-          "Drift Trade": 14931
+          "Drift Trade": 14931,
+          "Drift Staked SOL": 2366
         }
       }
     ],
@@ -4839,7 +5036,8 @@
       1751068800,
       {
         "Solana": {
-          "Drift Trade": 12021
+          "Drift Trade": 12021,
+          "Drift Staked SOL": 259
         }
       }
     ],
@@ -4847,7 +5045,8 @@
       1751155200,
       {
         "Solana": {
-          "Drift Trade": 7654
+          "Drift Trade": 7654,
+          "Drift Staked SOL": 2770
         }
       }
     ],
@@ -4855,7 +5054,8 @@
       1751241600,
       {
         "Solana": {
-          "Drift Trade": 17189
+          "Drift Trade": 17189,
+          "Drift Staked SOL": 93
         }
       }
     ],
@@ -4863,7 +5063,8 @@
       1751328000,
       {
         "Solana": {
-          "Drift Trade": 21391
+          "Drift Trade": 21391,
+          "Drift Staked SOL": 2730
         }
       }
     ],
@@ -4871,7 +5072,8 @@
       1751414400,
       {
         "Solana": {
-          "Drift Trade": 20412
+          "Drift Trade": 20412,
+          "Drift Staked SOL": 19
         }
       }
     ],
@@ -4879,7 +5081,8 @@
       1751500800,
       {
         "Solana": {
-          "Drift Trade": 20254
+          "Drift Trade": 20254,
+          "Drift Staked SOL": 3075
         }
       }
     ],
@@ -4887,7 +5090,8 @@
       1751587200,
       {
         "Solana": {
-          "Drift Trade": 26356
+          "Drift Trade": 26356,
+          "Drift Staked SOL": 14
         }
       }
     ],
@@ -4895,7 +5099,8 @@
       1751673600,
       {
         "Solana": {
-          "Drift Trade": 9023
+          "Drift Trade": 9023,
+          "Drift Staked SOL": 2802
         }
       }
     ],
@@ -4903,7 +5108,8 @@
       1751760000,
       {
         "Solana": {
-          "Drift Trade": 54080
+          "Drift Trade": 54080,
+          "Drift Staked SOL": 64
         }
       }
     ],
@@ -4911,7 +5117,8 @@
       1751846400,
       {
         "Solana": {
-          "Drift Trade": 26395
+          "Drift Trade": 26395,
+          "Drift Staked SOL": 2703
         }
       }
     ],
@@ -4919,7 +5126,8 @@
       1751932800,
       {
         "Solana": {
-          "Drift Trade": 23841
+          "Drift Trade": 23841,
+          "Drift Staked SOL": 8038
         }
       }
     ],
@@ -4927,7 +5135,8 @@
       1752019200,
       {
         "Solana": {
-          "Drift Trade": 31245
+          "Drift Trade": 31245,
+          "Drift Staked SOL": 2913
         }
       }
     ],
@@ -4935,7 +5144,8 @@
       1752105600,
       {
         "Solana": {
-          "Drift Trade": 37826
+          "Drift Trade": 37826,
+          "Drift Staked SOL": 0
         }
       }
     ],
@@ -4943,7 +5153,8 @@
       1752192000,
       {
         "Solana": {
-          "Drift Trade": 54838
+          "Drift Trade": 54838,
+          "Drift Staked SOL": 3091
         }
       }
     ],
@@ -4951,7 +5162,8 @@
       1752278400,
       {
         "Solana": {
-          "Drift Trade": 30921
+          "Drift Trade": 30921,
+          "Drift Staked SOL": 487
         }
       }
     ],
@@ -4959,7 +5171,8 @@
       1752364800,
       {
         "Solana": {
-          "Drift Trade": 30408
+          "Drift Trade": 30408,
+          "Drift Staked SOL": 2939
         }
       }
     ],
@@ -4967,7 +5180,8 @@
       1752451200,
       {
         "Solana": {
-          "Drift Trade": 53683
+          "Drift Trade": 53683,
+          "Drift Staked SOL": 0
         }
       }
     ],
@@ -4975,7 +5189,8 @@
       1752537600,
       {
         "Solana": {
-          "Drift Trade": 90616
+          "Drift Trade": 90616,
+          "Drift Staked SOL": 3030
         }
       }
     ],
@@ -4983,7 +5198,8 @@
       1752624000,
       {
         "Solana": {
-          "Drift Trade": 52886
+          "Drift Trade": 52886,
+          "Drift Staked SOL": 0
         }
       }
     ],
@@ -4991,7 +5207,8 @@
       1752710400,
       {
         "Solana": {
-          "Drift Trade": 59334
+          "Drift Trade": 59334,
+          "Drift Staked SOL": 3382
         }
       }
     ],
@@ -4999,10 +5216,110 @@
       1752796800,
       {
         "Solana": {
-          "Drift Trade": 129308
+          "Drift Trade": 129308,
+          "Drift Staked SOL": 178
+        }
+      }
+    ],
+    [
+      1752883200,
+      {
+        "Solana": {
+          "Drift Trade": 29967,
+          "Drift Staked SOL": 3503
+        }
+      }
+    ],
+    [
+      1752969600,
+      {
+        "Solana": {
+          "Drift Trade": 52602,
+          "Drift Staked SOL": 104
+        }
+      }
+    ],
+    [
+      1753056000,
+      {
+        "Solana": {
+          "Drift Trade": 83140,
+          "Drift Staked SOL": 3474
+        }
+      }
+    ],
+    [
+      1753142400,
+      {
+        "Solana": {
+          "Drift Trade": 80988,
+          "Drift Staked SOL": 431
+        }
+      }
+    ],
+    [
+      1753228800,
+      {
+        "Solana": {
+          "Drift Trade": 89932,
+          "Drift Staked SOL": 5513
+        }
+      }
+    ],
+    [
+      1753315200,
+      {
+        "Solana": {
+          "Drift Trade": 81808,
+          "Drift Staked SOL": 0
+        }
+      }
+    ],
+    [
+      1753401600,
+      {
+        "Solana": {
+          "Drift Trade": 111912,
+          "Drift Staked SOL": 3046
+        }
+      }
+    ],
+    [
+      1753488000,
+      {
+        "Solana": {
+          "Drift Trade": 31426,
+          "Drift Staked SOL": 387
+        }
+      }
+    ],
+    [
+      1753574400,
+      {
+        "Solana": {
+          "Drift Trade": 35325,
+          "Drift Staked SOL": 3354
+        }
+      }
+    ],
+    [
+      1753660800,
+      {
+        "Solana": {
+          "Drift Trade": 87721,
+          "Drift Staked SOL": 0
+        }
+      }
+    ],
+    [
+      1753747200,
+      {
+        "Solana": {
+          "Drift Trade": 56479,
+          "Drift Staked SOL": 3318
         }
       }
     ]
   ],
-  "change_1d": 117.93
+  "change_1d": -31.83
 }

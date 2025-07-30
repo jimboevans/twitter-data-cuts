@@ -19,7 +19,6 @@
   "twitter": "launchcoin",
   "forkedFrom": [],
   "defillamaId": "6159",
-  "disabled": false,
   "displayName": "Launch Coin on Believe",
   "methodologyURL": "https://github.com/DefiLlama/dimension-adapters/blob/master/fees/believe",
   "methodology": {
@@ -37,10 +36,11 @@
   "latestFetchIsOk": true,
   "slug": "launch-coin-on-believe",
   "protocolType": "protocol",
-  "total24h": 43882,
-  "total48hto24h": 38706,
-  "total7d": 236692,
-  "totalAllTime": 30486171,
+  "total24h": 12365,
+  "total48hto24h": 58873,
+  "total7d": 389976,
+  "total30d": 2185196,
+  "totalAllTime": 31237269,
   "totalDataChart": [
     [
       1745798400,
@@ -369,6 +369,50 @@
     [
       1752796800,
       43882
+    ],
+    [
+      1752883200,
+      7857
+    ],
+    [
+      1752969600,
+      24103
+    ],
+    [
+      1753056000,
+      205671
+    ],
+    [
+      1753142400,
+      123491
+    ],
+    [
+      1753228800,
+      156463
+    ],
+    [
+      1753315200,
+      51605
+    ],
+    [
+      1753401600,
+      75569
+    ],
+    [
+      1753488000,
+      25743
+    ],
+    [
+      1753574400,
+      9358
+    ],
+    [
+      1753660800,
+      58873
+    ],
+    [
+      1753747200,
+      12365
     ]
   ],
   "totalDataChartBreakdown": [
@@ -1027,7 +1071,95 @@
           "Launch Coin on Believe": 43882
         }
       }
+    ],
+    [
+      1752883200,
+      {
+        "Solana": {
+          "Launch Coin on Believe": 7857
+        }
+      }
+    ],
+    [
+      1752969600,
+      {
+        "Solana": {
+          "Launch Coin on Believe": 24103
+        }
+      }
+    ],
+    [
+      1753056000,
+      {
+        "Solana": {
+          "Launch Coin on Believe": 205671
+        }
+      }
+    ],
+    [
+      1753142400,
+      {
+        "Solana": {
+          "Launch Coin on Believe": 123491
+        }
+      }
+    ],
+    [
+      1753228800,
+      {
+        "Solana": {
+          "Launch Coin on Believe": 156463
+        }
+      }
+    ],
+    [
+      1753315200,
+      {
+        "Solana": {
+          "Launch Coin on Believe": 51605
+        }
+      }
+    ],
+    [
+      1753401600,
+      {
+        "Solana": {
+          "Launch Coin on Believe": 75569
+        }
+      }
+    ],
+    [
+      1753488000,
+      {
+        "Solana": {
+          "Launch Coin on Believe": 25743
+        }
+      }
+    ],
+    [
+      1753574400,
+      {
+        "Solana": {
+          "Launch Coin on Believe": 9358
+        }
+      }
+    ],
+    [
+      1753660800,
+      {
+        "Solana": {
+          "Launch Coin on Believe": 58873
+        }
+      }
+    ],
+    [
+      1753747200,
+      {
+        "Solana": {
+          "Launch Coin on Believe": 12365
+        }
+      }
     ]
   ],
-  "change_1d": 13.37
+  "change_1d": -79
 }

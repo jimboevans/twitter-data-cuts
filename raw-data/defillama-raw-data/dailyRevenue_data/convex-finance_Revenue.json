@@ -25,7 +25,6 @@
     "convex-eth"
   ],
   "defillamaId": "319",
-  "disabled": false,
   "displayName": "Convex Finance",
   "methodologyURL": "https://github.com/DefiLlama/dimension-adapters/blob/master/fees/convex.ts",
   "methodology": {
@@ -44,10 +43,11 @@
   "latestFetchIsOk": true,
   "slug": "convex-finance",
   "protocolType": "protocol",
-  "total24h": 19510,
-  "total48hto24h": 61823,
-  "total7d": 135292,
-  "totalAllTime": 54036139,
+  "total24h": 121972,
+  "total48hto24h": 34446,
+  "total7d": 231138,
+  "total30d": 542589,
+  "totalAllTime": 54441568,
   "totalDataChart": [
     [
       1621296000,
@@ -6144,6 +6144,50 @@
     [
       1752883200,
       19510
+    ],
+    [
+      1752969600,
+      8873
+    ],
+    [
+      1753056000,
+      31470
+    ],
+    [
+      1753142400,
+      11976
+    ],
+    [
+      1753228800,
+      9908
+    ],
+    [
+      1753315200,
+      10831
+    ],
+    [
+      1753401600,
+      20579
+    ],
+    [
+      1753488000,
+      15723
+    ],
+    [
+      1753574400,
+      14971
+    ],
+    [
+      1753660800,
+      34446
+    ],
+    [
+      1753747200,
+      124680
+    ],
+    [
+      1753833600,
+      121972
     ]
   ],
   "totalDataChartBreakdown": [
@@ -18338,7 +18382,95 @@
           "Convex Finance": 19510
         }
       }
+    ],
+    [
+      1752969600,
+      {
+        "Ethereum": {
+          "Convex Finance": 8873
+        }
+      }
+    ],
+    [
+      1753056000,
+      {
+        "Ethereum": {
+          "Convex Finance": 31470
+        }
+      }
+    ],
+    [
+      1753142400,
+      {
+        "Ethereum": {
+          "Convex Finance": 11976
+        }
+      }
+    ],
+    [
+      1753228800,
+      {
+        "Ethereum": {
+          "Convex Finance": 9908
+        }
+      }
+    ],
+    [
+      1753315200,
+      {
+        "Ethereum": {
+          "Convex Finance": 10831
+        }
+      }
+    ],
+    [
+      1753401600,
+      {
+        "Ethereum": {
+          "Convex Finance": 20579
+        }
+      }
+    ],
+    [
+      1753488000,
+      {
+        "Ethereum": {
+          "Convex Finance": 15723
+        }
+      }
+    ],
+    [
+      1753574400,
+      {
+        "Ethereum": {
+          "Convex Finance": 14971
+        }
+      }
+    ],
+    [
+      1753660800,
+      {
+        "Ethereum": {
+          "Convex Finance": 34446
+        }
+      }
+    ],
+    [
+      1753747200,
+      {
+        "Ethereum": {
+          "Convex Finance": 124680
+        }
+      }
+    ],
+    [
+      1753833600,
+      {
+        "Ethereum": {
+          "Convex Finance": 121972
+        }
+      }
     ]
   ],
-  "change_1d": -68.44
+  "change_1d": 254.1
 }

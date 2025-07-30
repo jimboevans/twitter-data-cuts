@@ -31,7 +31,6 @@
   ],
   "listedAt": 1637712907,
   "defillamaId": "900",
-  "disabled": false,
   "displayName": "Rocket Pool",
   "methodologyURL": "https://github.com/DefiLlama/dimension-adapters/blob/master/fees/rocketpool.ts",
   "methodology": {
@@ -49,10 +48,11 @@
   "latestFetchIsOk": true,
   "slug": "rocket-pool",
   "protocolType": "protocol",
-  "total24h": 342045,
-  "total48hto24h": 38202,
-  "total7d": 1054755,
-  "totalAllTime": 155440542,
+  "total24h": 141294,
+  "total48hto24h": 49888,
+  "total7d": 1391115,
+  "total30d": 6137089,
+  "totalAllTime": 158404558,
   "totalDataChart": [
     [
       1677888000,
@@ -3524,7 +3524,51 @@
     ],
     [
       1752883200,
-      342045
+      520496
+    ],
+    [
+      1752969600,
+      62350
+    ],
+    [
+      1753056000,
+      394209
+    ],
+    [
+      1753142400,
+      796597
+    ],
+    [
+      1753228800,
+      20211
+    ],
+    [
+      1753315200,
+      394710
+    ],
+    [
+      1753401600,
+      423527
+    ],
+    [
+      1753488000,
+      237831
+    ],
+    [
+      1753574400,
+      177847
+    ],
+    [
+      1753660800,
+      49888
+    ],
+    [
+      1753747200,
+      87101
+    ],
+    [
+      1753833600,
+      141294
     ]
   ],
   "totalDataChartBreakdown": [
@@ -10468,10 +10512,98 @@
       1752883200,
       {
         "Ethereum": {
-          "Rocket Pool": 342045
+          "Rocket Pool": 520496
+        }
+      }
+    ],
+    [
+      1752969600,
+      {
+        "Ethereum": {
+          "Rocket Pool": 62350
+        }
+      }
+    ],
+    [
+      1753056000,
+      {
+        "Ethereum": {
+          "Rocket Pool": 394209
+        }
+      }
+    ],
+    [
+      1753142400,
+      {
+        "Ethereum": {
+          "Rocket Pool": 796597
+        }
+      }
+    ],
+    [
+      1753228800,
+      {
+        "Ethereum": {
+          "Rocket Pool": 20211
+        }
+      }
+    ],
+    [
+      1753315200,
+      {
+        "Ethereum": {
+          "Rocket Pool": 394710
+        }
+      }
+    ],
+    [
+      1753401600,
+      {
+        "Ethereum": {
+          "Rocket Pool": 423527
+        }
+      }
+    ],
+    [
+      1753488000,
+      {
+        "Ethereum": {
+          "Rocket Pool": 237831
+        }
+      }
+    ],
+    [
+      1753574400,
+      {
+        "Ethereum": {
+          "Rocket Pool": 177847
+        }
+      }
+    ],
+    [
+      1753660800,
+      {
+        "Ethereum": {
+          "Rocket Pool": 49888
+        }
+      }
+    ],
+    [
+      1753747200,
+      {
+        "Ethereum": {
+          "Rocket Pool": 87101
+        }
+      }
+    ],
+    [
+      1753833600,
+      {
+        "Ethereum": {
+          "Rocket Pool": 141294
         }
       }
     ]
   ],
-  "change_1d": 795.36
+  "change_1d": 183.22
 }

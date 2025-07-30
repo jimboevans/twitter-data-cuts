@@ -19,13 +19,13 @@
   "module": "letsbonk",
   "twitter": "bonk_fun",
   "defillamaId": "6282",
-  "disabled": false,
   "displayName": "letsBONK.fun",
   "methodologyURL": "https://github.com/DefiLlama/dimension-adapters/blob/master/fees/letsbonk",
   "methodology": {
     "Fees": "Fees are collected from users and distributed to holders and protocol.",
-    "ProtocolRevenue": "Before 10th jun 2025: 56.8% of fees are distributed to the protocol. After 10th jun 2025: 42% of fees are distributed to the protocol.",
-    "HoldersRevenue": "Before 10th jun 2025: 43% of fees are distributed to holders. After 10th jun 2025: 58% of fees are distributed to holders."
+    "Revenue": "Total Letsbonk Protocol Revenue and Holders Revenue",
+    "ProtocolRevenue": "2% of total fees for marketing.",
+    "HoldersRevenue": "Before 10th jun 2025: 43% of total fees (Buy/burn 35% + SBR 4% + BonkRewards 4%). After 10th jun 2025: 58% of total fees (Buy/burn 50% + SBR 4% + BonkRewards 4%)."
   },
   "forkedFrom": null,
   "audit_links": null,
@@ -38,10 +38,11 @@
   "latestFetchIsOk": true,
   "slug": "letsbonk.fun",
   "protocolType": "protocol",
-  "total24h": 1835277,
-  "total48hto24h": 1690395,
-  "total7d": 9217083,
-  "totalAllTime": 26594214,
+  "total24h": 1612943,
+  "total48hto24h": 1460864,
+  "total7d": 10759350,
+  "total30d": 35649070,
+  "totalAllTime": 43828823,
   "totalDataChart": [
     [
       1745798400,
@@ -205,11 +206,11 @@
     ],
     [
       1749340800,
-      29547
+      29570
     ],
     [
       1749427200,
-      63726
+      63968
     ],
     [
       1749513600,
@@ -217,11 +218,11 @@
     ],
     [
       1749600000,
-      90265
+      90388
     ],
     [
       1749686400,
-      49257
+      52123
     ],
     [
       1749772800,
@@ -233,19 +234,19 @@
     ],
     [
       1749945600,
-      32403
+      32591
     ],
     [
       1750032000,
-      56470
+      57384
     ],
     [
       1750118400,
-      70991
+      71010
     ],
     [
       1750204800,
-      57737
+      57458
     ],
     [
       1750291200,
@@ -253,7 +254,7 @@
     ],
     [
       1750377600,
-      99329
+      99358
     ],
     [
       1750464000,
@@ -273,11 +274,11 @@
     ],
     [
       1750809600,
-      161913
+      164270
     ],
     [
       1750896000,
-      205153
+      204594
     ],
     [
       1750982400,
@@ -305,7 +306,7 @@
     ],
     [
       1751500800,
-      353131
+      363426
     ],
     [
       1751587200,
@@ -321,7 +322,7 @@
     ],
     [
       1751846400,
-      1230471
+      1226270
     ],
     [
       1751932800,
@@ -349,11 +350,11 @@
     ],
     [
       1752451200,
-      1137649
+      1144211
     ],
     [
       1752537600,
-      1238694
+      1239223
     ],
     [
       1752624000,
@@ -361,11 +362,55 @@
     ],
     [
       1752710400,
-      1690395
+      1653983
     ],
     [
       1752796800,
-      1835277
+      1848080
+    ],
+    [
+      1752883200,
+      1418964
+    ],
+    [
+      1752969600,
+      1235650
+    ],
+    [
+      1753056000,
+      1813713
+    ],
+    [
+      1753142400,
+      2011433
+    ],
+    [
+      1753228800,
+      1929799
+    ],
+    [
+      1753315200,
+      1616520
+    ],
+    [
+      1753401600,
+      1647210
+    ],
+    [
+      1753488000,
+      1425645
+    ],
+    [
+      1753574400,
+      1066369
+    ],
+    [
+      1753660800,
+      1460864
+    ],
+    [
+      1753747200,
+      1612943
     ]
   ],
   "totalDataChartBreakdown": [
@@ -693,7 +738,7 @@
       1749340800,
       {
         "Solana": {
-          "letsBONK.fun": 29547
+          "letsBONK.fun": 29570
         }
       }
     ],
@@ -701,7 +746,7 @@
       1749427200,
       {
         "Solana": {
-          "letsBONK.fun": 63726
+          "letsBONK.fun": 63968
         }
       }
     ],
@@ -717,7 +762,7 @@
       1749600000,
       {
         "Solana": {
-          "letsBONK.fun": 90265
+          "letsBONK.fun": 90388
         }
       }
     ],
@@ -725,7 +770,7 @@
       1749686400,
       {
         "Solana": {
-          "letsBONK.fun": 49257
+          "letsBONK.fun": 52123
         }
       }
     ],
@@ -749,7 +794,7 @@
       1749945600,
       {
         "Solana": {
-          "letsBONK.fun": 32403
+          "letsBONK.fun": 32591
         }
       }
     ],
@@ -757,7 +802,7 @@
       1750032000,
       {
         "Solana": {
-          "letsBONK.fun": 56470
+          "letsBONK.fun": 57384
         }
       }
     ],
@@ -765,7 +810,7 @@
       1750118400,
       {
         "Solana": {
-          "letsBONK.fun": 70991
+          "letsBONK.fun": 71010
         }
       }
     ],
@@ -773,7 +818,7 @@
       1750204800,
       {
         "Solana": {
-          "letsBONK.fun": 57737
+          "letsBONK.fun": 57458
         }
       }
     ],
@@ -789,7 +834,7 @@
       1750377600,
       {
         "Solana": {
-          "letsBONK.fun": 99329
+          "letsBONK.fun": 99358
         }
       }
     ],
@@ -829,7 +874,7 @@
       1750809600,
       {
         "Solana": {
-          "letsBONK.fun": 161913
+          "letsBONK.fun": 164270
         }
       }
     ],
@@ -837,7 +882,7 @@
       1750896000,
       {
         "Solana": {
-          "letsBONK.fun": 205153
+          "letsBONK.fun": 204594
         }
       }
     ],
@@ -893,7 +938,7 @@
       1751500800,
       {
         "Solana": {
-          "letsBONK.fun": 353131
+          "letsBONK.fun": 363426
         }
       }
     ],
@@ -925,7 +970,7 @@
       1751846400,
       {
         "Solana": {
-          "letsBONK.fun": 1230471
+          "letsBONK.fun": 1226270
         }
       }
     ],
@@ -981,7 +1026,7 @@
       1752451200,
       {
         "Solana": {
-          "letsBONK.fun": 1137649
+          "letsBONK.fun": 1144211
         }
       }
     ],
@@ -989,7 +1034,7 @@
       1752537600,
       {
         "Solana": {
-          "letsBONK.fun": 1238694
+          "letsBONK.fun": 1239223
         }
       }
     ],
@@ -1005,7 +1050,7 @@
       1752710400,
       {
         "Solana": {
-          "letsBONK.fun": 1690395
+          "letsBONK.fun": 1653983
         }
       }
     ],
@@ -1013,10 +1058,98 @@
       1752796800,
       {
         "Solana": {
-          "letsBONK.fun": 1835277
+          "letsBONK.fun": 1848080
+        }
+      }
+    ],
+    [
+      1752883200,
+      {
+        "Solana": {
+          "letsBONK.fun": 1418964
+        }
+      }
+    ],
+    [
+      1752969600,
+      {
+        "Solana": {
+          "letsBONK.fun": 1235650
+        }
+      }
+    ],
+    [
+      1753056000,
+      {
+        "Solana": {
+          "letsBONK.fun": 1813713
+        }
+      }
+    ],
+    [
+      1753142400,
+      {
+        "Solana": {
+          "letsBONK.fun": 2011433
+        }
+      }
+    ],
+    [
+      1753228800,
+      {
+        "Solana": {
+          "letsBONK.fun": 1929799
+        }
+      }
+    ],
+    [
+      1753315200,
+      {
+        "Solana": {
+          "letsBONK.fun": 1616520
+        }
+      }
+    ],
+    [
+      1753401600,
+      {
+        "Solana": {
+          "letsBONK.fun": 1647210
+        }
+      }
+    ],
+    [
+      1753488000,
+      {
+        "Solana": {
+          "letsBONK.fun": 1425645
+        }
+      }
+    ],
+    [
+      1753574400,
+      {
+        "Solana": {
+          "letsBONK.fun": 1066369
+        }
+      }
+    ],
+    [
+      1753660800,
+      {
+        "Solana": {
+          "letsBONK.fun": 1460864
+        }
+      }
+    ],
+    [
+      1753747200,
+      {
+        "Solana": {
+          "letsBONK.fun": 1612943
         }
       }
     ]
   ],
-  "change_1d": 8.57
+  "change_1d": 10.41
 }

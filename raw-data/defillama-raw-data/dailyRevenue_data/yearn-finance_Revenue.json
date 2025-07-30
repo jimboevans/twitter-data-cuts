@@ -27,7 +27,6 @@
   "parentProtocol": "parent#yearn",
   "language": "Vyper",
   "defillamaId": "113",
-  "disabled": false,
   "displayName": "Yearn Finance",
   "methodologyURL": "https://github.com/DefiLlama/dimension-adapters/blob/master/fees/yearn-finance.ts",
   "methodology": {
@@ -50,10 +49,11 @@
     "Yearn Ether",
     "Yearn Curating"
   ],
-  "total24h": 7351,
-  "total48hto24h": 7830,
-  "total7d": 46054,
-  "totalAllTime": 179057,
+  "total24h": 8165,
+  "total48hto24h": 8553,
+  "total7d": 45198,
+  "total30d": 181999,
+  "totalAllTime": 266924,
   "totalDataChart": [
     [
       1749686400,
@@ -205,7 +205,51 @@
     ],
     [
       1752883200,
-      7351
+      14705
+    ],
+    [
+      1752969600,
+      5513
+    ],
+    [
+      1753056000,
+      4690
+    ],
+    [
+      1753142400,
+      16947
+    ],
+    [
+      1753228800,
+      4018
+    ],
+    [
+      1753315200,
+      5367
+    ],
+    [
+      1753401600,
+      5025
+    ],
+    [
+      1753488000,
+      5619
+    ],
+    [
+      1753574400,
+      8458
+    ],
+    [
+      1753660800,
+      8553
+    ],
+    [
+      1753747200,
+      8158
+    ],
+    [
+      1753833600,
+      8165
     ]
   ],
   "totalDataChartBreakdown": [
@@ -953,7 +997,7 @@
       1752883200,
       {
         "Ethereum": {
-          "Yearn Finance": 7288
+          "Yearn Finance": 14661
         },
         "Polygon": {
           "Yearn Finance": 3
@@ -965,10 +1009,230 @@
           "Yearn Finance": 0
         },
         "Base": {
-          "Yearn Finance": 60
+          "Yearn Finance": 41
+        }
+      }
+    ],
+    [
+      1752969600,
+      {
+        "Ethereum": {
+          "Yearn Finance": 5461
+        },
+        "Polygon": {
+          "Yearn Finance": 2
+        },
+        "OP Mainnet": {
+          "Yearn Finance": 0
+        },
+        "Arbitrum": {
+          "Yearn Finance": 0
+        },
+        "Base": {
+          "Yearn Finance": 50
+        }
+      }
+    ],
+    [
+      1753056000,
+      {
+        "Ethereum": {
+          "Yearn Finance": 4591
+        },
+        "Polygon": {
+          "Yearn Finance": 3
+        },
+        "OP Mainnet": {
+          "Yearn Finance": 0
+        },
+        "Arbitrum": {
+          "Yearn Finance": 0
+        },
+        "Base": {
+          "Yearn Finance": 96
+        }
+      }
+    ],
+    [
+      1753142400,
+      {
+        "Ethereum": {
+          "Yearn Finance": 16881
+        },
+        "Polygon": {
+          "Yearn Finance": 2
+        },
+        "OP Mainnet": {
+          "Yearn Finance": 0
+        },
+        "Arbitrum": {
+          "Yearn Finance": 0
+        },
+        "Base": {
+          "Yearn Finance": 64
+        }
+      }
+    ],
+    [
+      1753228800,
+      {
+        "Ethereum": {
+          "Yearn Finance": 3952
+        },
+        "Polygon": {
+          "Yearn Finance": 2
+        },
+        "OP Mainnet": {
+          "Yearn Finance": 0
+        },
+        "Arbitrum": {
+          "Yearn Finance": 0
+        },
+        "Base": {
+          "Yearn Finance": 64
+        }
+      }
+    ],
+    [
+      1753315200,
+      {
+        "Ethereum": {
+          "Yearn Finance": 5301
+        },
+        "Polygon": {
+          "Yearn Finance": 3
+        },
+        "OP Mainnet": {
+          "Yearn Finance": 0
+        },
+        "Arbitrum": {
+          "Yearn Finance": 0
+        },
+        "Base": {
+          "Yearn Finance": 63
+        }
+      }
+    ],
+    [
+      1753401600,
+      {
+        "Ethereum": {
+          "Yearn Finance": 4971
+        },
+        "Polygon": {
+          "Yearn Finance": 3
+        },
+        "OP Mainnet": {
+          "Yearn Finance": 0
+        },
+        "Arbitrum": {
+          "Yearn Finance": 0
+        },
+        "Base": {
+          "Yearn Finance": 51
+        }
+      }
+    ],
+    [
+      1753488000,
+      {
+        "Ethereum": {
+          "Yearn Finance": 5553
+        },
+        "Polygon": {
+          "Yearn Finance": 2
+        },
+        "OP Mainnet": {
+          "Yearn Finance": 0
+        },
+        "Arbitrum": {
+          "Yearn Finance": 0
+        },
+        "Base": {
+          "Yearn Finance": 64
+        }
+      }
+    ],
+    [
+      1753574400,
+      {
+        "Ethereum": {
+          "Yearn Finance": 8397
+        },
+        "Polygon": {
+          "Yearn Finance": 3
+        },
+        "OP Mainnet": {
+          "Yearn Finance": 0
+        },
+        "Arbitrum": {
+          "Yearn Finance": 0
+        },
+        "Base": {
+          "Yearn Finance": 58
+        }
+      }
+    ],
+    [
+      1753660800,
+      {
+        "Ethereum": {
+          "Yearn Finance": 8494
+        },
+        "Polygon": {
+          "Yearn Finance": 3
+        },
+        "OP Mainnet": {
+          "Yearn Finance": 0
+        },
+        "Arbitrum": {
+          "Yearn Finance": 0
+        },
+        "Base": {
+          "Yearn Finance": 56
+        }
+      }
+    ],
+    [
+      1753747200,
+      {
+        "Ethereum": {
+          "Yearn Finance": 8121
+        },
+        "Polygon": {
+          "Yearn Finance": 2
+        },
+        "OP Mainnet": {
+          "Yearn Finance": 0
+        },
+        "Arbitrum": {
+          "Yearn Finance": 0
+        },
+        "Base": {
+          "Yearn Finance": 35
+        }
+      }
+    ],
+    [
+      1753833600,
+      {
+        "Ethereum": {
+          "Yearn Finance": 8146
+        },
+        "Polygon": {
+          "Yearn Finance": 3
+        },
+        "OP Mainnet": {
+          "Yearn Finance": 0
+        },
+        "Arbitrum": {
+          "Yearn Finance": 0
+        },
+        "Base": {
+          "Yearn Finance": 16
         }
       }
     ]
   ],
-  "change_1d": -6.12
+  "change_1d": -4.54
 }

@@ -31,8 +31,98 @@
   "symbol": "COMP",
   "address": "0xc00e94cb662c3520282e6f5717214004a7f26888",
   "childProtocols": [
-    {},
-    {}
+    {
+      "name": "Compound V2",
+      "defillamaId": "114",
+      "displayName": "Compound V2",
+      "module": "compound",
+      "category": "Lending",
+      "logo": "https://icons.llamao.fi/icons/protocols/compound.png",
+      "chains": [
+        "ethereum"
+      ],
+      "methodologyURL": "https://github.com/DefiLlama/dimension-adapters/blob/master/fees/compound.ts",
+      "methodology": {
+        "UserFees": "Interest paid by borrowers",
+        "Fees": "Interest paid by borrowers",
+        "Revenue": "Percentage of interest going to treasury",
+        "ProtocolRevenue": "Percentage of interest going to treasury",
+        "SupplySideRevenue": "Interest paid to lenders"
+      },
+      "gecko_id": null,
+      "twitter": "compoundfinance",
+      "audits": "2",
+      "description": "Compound is an algorithmic, autonomous interest rate protocol built for developers, to unlock a universe of open financial applications.",
+      "address": "0xc00e94cb662c3520282e6f5717214004a7f26888",
+      "url": "https://compound.finance",
+      "audit_links": [
+        "https://compound.finance/docs/security"
+      ],
+      "cmcId": null,
+      "id": "114",
+      "parentProtocol": "parent#compound-finance"
+    },
+    {
+      "name": "Compound V3",
+      "defillamaId": "2088",
+      "displayName": "Compound V3",
+      "module": "compound-v3",
+      "category": "Lending",
+      "logo": "https://icons.llamao.fi/icons/protocols/compound-v3.png",
+      "chains": [
+        "ethereum",
+        "polygon",
+        "arbitrum",
+        "optimism",
+        "base",
+        "scroll",
+        "mantle",
+        "unichain",
+        "linea"
+      ],
+      "methodologyURL": "https://github.com/DefiLlama/dimension-adapters/blob/master/fees/compound-v3.ts",
+      "methodology": {
+        "UserFees": "Interest paid by borrowers",
+        "Fees": "Interest paid by borrowers",
+        "Revenue": "Percentage of interest going to treasury",
+        "ProtocolRevenue": "Percentage of interest going to treasury",
+        "SupplySideRevenue": "Interest paid to lenders"
+      },
+      "gecko_id": null,
+      "forkedFrom": [],
+      "twitter": "compoundfinance",
+      "audits": "2",
+      "description": "Compound is an algorithmic, autonomous interest rate protocol built for developers, to unlock a universe of open financial applications.",
+      "address": "0xc00e94cb662c3520282e6f5717214004a7f26888",
+      "url": "https://v3-app.compound.finance/",
+      "audit_links": [
+        "https://compound.finance/docs/security"
+      ],
+      "cmcId": null,
+      "id": "2088",
+      "parentProtocol": "parent#compound-finance"
+    },
+    {
+      "name": "Compound V1",
+      "module": "compound-v1/index.js",
+      "category": "Lending",
+      "logo": "https://icons.llama.fi/compound.png",
+      "chains": [
+        "Ethereum"
+      ],
+      "gecko_id": null,
+      "twitter": "compoundfinance",
+      "audits": "2",
+      "description": "Compound is an algorithmic, autonomous interest rate protocol built for developers, to unlock a universe of open financial applications.",
+      "address": "0xc00e94cb662c3520282e6f5717214004a7f26888",
+      "url": "https://compound.finance",
+      "audit_links": [
+        "https://compound.finance/docs/security"
+      ],
+      "cmcId": null,
+      "id": "3997",
+      "parentProtocol": "parent#compound-finance"
+    }
   ],
   "linkedProtocols": [
     "Compound Finance",
@@ -40,7 +130,6 @@
     "Compound V3"
   ],
   "defillamaId": "parent#compound-finance",
-  "disabled": null,
   "displayName": "Compound Finance",
   "module": null,
   "category": null,
@@ -55,10 +144,11 @@
   "latestFetchIsOk": true,
   "slug": "compound-finance",
   "protocolType": "protocol",
-  "total24h": 7254,
-  "total48hto24h": 6996,
-  "total7d": 48952,
-  "totalAllTime": 63003013,
+  "total24h": 3900,
+  "total48hto24h": 3880,
+  "total7d": 30433,
+  "total30d": 159500,
+  "totalAllTime": 63062814,
   "totalDataChart": [
     [
       1557273600,
@@ -8433,6 +8523,10 @@
       6865
     ],
     [
+      1739145600,
+      8252
+    ],
+    [
       1739232000,
       7527
     ],
@@ -8909,10 +9003,6 @@
       4034
     ],
     [
-      1749513600,
-      3788
-    ],
-    [
       1749600000,
       4438
     ],
@@ -9063,6 +9153,50 @@
     [
       1752796800,
       7254
+    ],
+    [
+      1752883200,
+      7424
+    ],
+    [
+      1752969600,
+      6981
+    ],
+    [
+      1753056000,
+      5864
+    ],
+    [
+      1753142400,
+      4635
+    ],
+    [
+      1753228800,
+      4198
+    ],
+    [
+      1753315200,
+      4498
+    ],
+    [
+      1753401600,
+      5225
+    ],
+    [
+      1753488000,
+      4102
+    ],
+    [
+      1753574400,
+      4630
+    ],
+    [
+      1753660800,
+      3880
+    ],
+    [
+      1753747200,
+      3900
     ]
   ],
   "totalDataChartBreakdown": [
@@ -25811,6 +25945,14 @@
       }
     ],
     [
+      1739145600,
+      {
+        "Ethereum": {
+          "Compound V2": 8252
+        }
+      }
+    ],
+    [
       1739232000,
       {
         "Ethereum": {
@@ -26763,14 +26905,6 @@
       }
     ],
     [
-      1749513600,
-      {
-        "Ethereum": {
-          "Compound V2": 3788
-        }
-      }
-    ],
-    [
       1749600000,
       {
         "Ethereum": {
@@ -27073,7 +27207,95 @@
           "Compound V2": 7254
         }
       }
+    ],
+    [
+      1752883200,
+      {
+        "Ethereum": {
+          "Compound V2": 7424
+        }
+      }
+    ],
+    [
+      1752969600,
+      {
+        "Ethereum": {
+          "Compound V2": 6981
+        }
+      }
+    ],
+    [
+      1753056000,
+      {
+        "Ethereum": {
+          "Compound V2": 5864
+        }
+      }
+    ],
+    [
+      1753142400,
+      {
+        "Ethereum": {
+          "Compound V2": 4635
+        }
+      }
+    ],
+    [
+      1753228800,
+      {
+        "Ethereum": {
+          "Compound V2": 4198
+        }
+      }
+    ],
+    [
+      1753315200,
+      {
+        "Ethereum": {
+          "Compound V2": 4498
+        }
+      }
+    ],
+    [
+      1753401600,
+      {
+        "Ethereum": {
+          "Compound V2": 5225
+        }
+      }
+    ],
+    [
+      1753488000,
+      {
+        "Ethereum": {
+          "Compound V2": 4102
+        }
+      }
+    ],
+    [
+      1753574400,
+      {
+        "Ethereum": {
+          "Compound V2": 4630
+        }
+      }
+    ],
+    [
+      1753660800,
+      {
+        "Ethereum": {
+          "Compound V2": 3880
+        }
+      }
+    ],
+    [
+      1753747200,
+      {
+        "Ethereum": {
+          "Compound V2": 3900
+        }
+      }
     ]
   ],
-  "change_1d": 3.69
+  "change_1d": 0.52
 }

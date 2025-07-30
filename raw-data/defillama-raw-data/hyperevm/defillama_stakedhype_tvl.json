@@ -1,0 +1,391 @@
+{
+  "id": "6457",
+  "name": "stakedhype",
+  "address": null,
+  "symbol": "-",
+  "url": "https://www.stakedhype.fi/",
+  "description": "The Hyperliquid liquid staking platform.",
+  "chain": "Hyperliquid L1",
+  "logo": "https://icons.llama.fi/stakedhype.jpg",
+  "audits": "2",
+  "audit_note": null,
+  "gecko_id": null,
+  "cmcId": null,
+  "category": "Liquid Staking",
+  "chains": [
+    "Hyperliquid L1"
+  ],
+  "forkedFrom": [],
+  "module": "staked-hype/index.js",
+  "twitter": "stakedhype",
+  "audit_links": [
+    "https://docs.stakedhype.fi/technical/audits"
+  ],
+  "listedAt": 1753110072,
+  "methodology": "Tracks the total value of HYPE tokens staked through the Staked Hype liquid staking protocol. Users stake HYPE and receive stHYPE tokens that accrue rewards via rebase.",
+  "chainTvls": {
+    "Hyperliquid L1": {
+      "tvl": [
+        {
+          "date": 1753056000,
+          "totalLiquidityUSD": 452787655.75101
+        },
+        {
+          "date": 1753142400,
+          "totalLiquidityUSD": 423467307.9645
+        },
+        {
+          "date": 1753228800,
+          "totalLiquidityUSD": 428607689.07771
+        },
+        {
+          "date": 1753315200,
+          "totalLiquidityUSD": 409762964.16994
+        },
+        {
+          "date": 1753401600,
+          "totalLiquidityUSD": 389560400.05332
+        },
+        {
+          "date": 1753488000,
+          "totalLiquidityUSD": 406272688.96149
+        },
+        {
+          "date": 1753574400,
+          "totalLiquidityUSD": 381438740.16323
+        },
+        {
+          "date": 1753660800,
+          "totalLiquidityUSD": 372972880.9874
+        },
+        {
+          "date": 1753747200,
+          "totalLiquidityUSD": 375138356.81111
+        },
+        {
+          "date": 1753833600,
+          "totalLiquidityUSD": 350372385.17146
+        }
+      ],
+      "tokensInUsd": [
+        {
+          "date": 1753056000,
+          "tokens": {
+            "WHYPE": 452787655.75101
+          }
+        },
+        {
+          "date": 1753142400,
+          "tokens": {
+            "WHYPE": 423467307.9645
+          }
+        },
+        {
+          "date": 1753228800,
+          "tokens": {
+            "WHYPE": 428607689.07771
+          }
+        },
+        {
+          "date": 1753315200,
+          "tokens": {
+            "WHYPE": 409762964.16994
+          }
+        },
+        {
+          "date": 1753401600,
+          "tokens": {
+            "WHYPE": 389560400.05332
+          }
+        },
+        {
+          "date": 1753488000,
+          "tokens": {
+            "WHYPE": 406272688.96149
+          }
+        },
+        {
+          "date": 1753574400,
+          "tokens": {
+            "WHYPE": 381438740.16323
+          }
+        },
+        {
+          "date": 1753660800,
+          "tokens": {
+            "WHYPE": 372972880.9874
+          }
+        },
+        {
+          "date": 1753747200,
+          "tokens": {
+            "WHYPE": 375138356.81111
+          }
+        },
+        {
+          "date": 1753833600,
+          "tokens": {
+            "WHYPE": 350372385.17146
+          }
+        },
+        {
+          "date": 1753903031,
+          "tokens": {
+            "WHYPE": 336706263.02923
+          }
+        }
+      ],
+      "tokens": [
+        {
+          "date": 1753056000,
+          "tokens": {
+            "WHYPE": 9617409.85028
+          }
+        },
+        {
+          "date": 1753142400,
+          "tokens": {
+            "WHYPE": 9572045.84007
+          }
+        },
+        {
+          "date": 1753228800,
+          "tokens": {
+            "WHYPE": 9432387.52372
+          }
+        },
+        {
+          "date": 1753315200,
+          "tokens": {
+            "WHYPE": 9359592.60324
+          }
+        },
+        {
+          "date": 1753401600,
+          "tokens": {
+            "WHYPE": 9255414.58905
+          }
+        },
+        {
+          "date": 1753488000,
+          "tokens": {
+            "WHYPE": 9212532.62951
+          }
+        },
+        {
+          "date": 1753574400,
+          "tokens": {
+            "WHYPE": 8817354.14154
+          }
+        },
+        {
+          "date": 1753660800,
+          "tokens": {
+            "WHYPE": 8548541.85165
+          }
+        },
+        {
+          "date": 1753747200,
+          "tokens": {
+            "WHYPE": 8504610.22016
+          }
+        },
+        {
+          "date": 1753833600,
+          "tokens": {
+            "WHYPE": 8161481.13607
+          }
+        },
+        {
+          "date": 1753903031,
+          "tokens": {
+            "WHYPE": 8115359.43671
+          }
+        }
+      ]
+    }
+  },
+  "tvl": [
+    {
+      "date": 1753056000,
+      "totalLiquidityUSD": 452787655.75101
+    },
+    {
+      "date": 1753142400,
+      "totalLiquidityUSD": 423467307.9645
+    },
+    {
+      "date": 1753228800,
+      "totalLiquidityUSD": 428607689.07771
+    },
+    {
+      "date": 1753315200,
+      "totalLiquidityUSD": 409762964.16994
+    },
+    {
+      "date": 1753401600,
+      "totalLiquidityUSD": 389560400.05332
+    },
+    {
+      "date": 1753488000,
+      "totalLiquidityUSD": 406272688.96149
+    },
+    {
+      "date": 1753574400,
+      "totalLiquidityUSD": 381438740.16323
+    },
+    {
+      "date": 1753660800,
+      "totalLiquidityUSD": 372972880.9874
+    },
+    {
+      "date": 1753747200,
+      "totalLiquidityUSD": 375138356.81111
+    },
+    {
+      "date": 1753833600,
+      "totalLiquidityUSD": 350372385.17146
+    }
+  ],
+  "tokensInUsd": [
+    {
+      "date": 1753056000,
+      "tokens": {
+        "WHYPE": 452787655.75101
+      }
+    },
+    {
+      "date": 1753142400,
+      "tokens": {
+        "WHYPE": 423467307.9645
+      }
+    },
+    {
+      "date": 1753228800,
+      "tokens": {
+        "WHYPE": 428607689.07771
+      }
+    },
+    {
+      "date": 1753315200,
+      "tokens": {
+        "WHYPE": 409762964.16994
+      }
+    },
+    {
+      "date": 1753401600,
+      "tokens": {
+        "WHYPE": 389560400.05332
+      }
+    },
+    {
+      "date": 1753488000,
+      "tokens": {
+        "WHYPE": 406272688.96149
+      }
+    },
+    {
+      "date": 1753574400,
+      "tokens": {
+        "WHYPE": 381438740.16323
+      }
+    },
+    {
+      "date": 1753660800,
+      "tokens": {
+        "WHYPE": 372972880.9874
+      }
+    },
+    {
+      "date": 1753747200,
+      "tokens": {
+        "WHYPE": 375138356.81111
+      }
+    },
+    {
+      "date": 1753833600,
+      "tokens": {
+        "WHYPE": 350372385.17146
+      }
+    },
+    {
+      "date": 1753903031,
+      "tokens": {
+        "WHYPE": 336706263.02923
+      }
+    }
+  ],
+  "tokens": [
+    {
+      "date": 1753056000,
+      "tokens": {
+        "WHYPE": 9617409.85028
+      }
+    },
+    {
+      "date": 1753142400,
+      "tokens": {
+        "WHYPE": 9572045.84007
+      }
+    },
+    {
+      "date": 1753228800,
+      "tokens": {
+        "WHYPE": 9432387.52372
+      }
+    },
+    {
+      "date": 1753315200,
+      "tokens": {
+        "WHYPE": 9359592.60324
+      }
+    },
+    {
+      "date": 1753401600,
+      "tokens": {
+        "WHYPE": 9255414.58905
+      }
+    },
+    {
+      "date": 1753488000,
+      "tokens": {
+        "WHYPE": 9212532.62951
+      }
+    },
+    {
+      "date": 1753574400,
+      "tokens": {
+        "WHYPE": 8817354.14154
+      }
+    },
+    {
+      "date": 1753660800,
+      "tokens": {
+        "WHYPE": 8548541.85165
+      }
+    },
+    {
+      "date": 1753747200,
+      "tokens": {
+        "WHYPE": 8504610.22016
+      }
+    },
+    {
+      "date": 1753833600,
+      "tokens": {
+        "WHYPE": 8161481.13607
+      }
+    },
+    {
+      "date": 1753903031,
+      "tokens": {
+        "WHYPE": 8115359.43671
+      }
+    }
+  ],
+  "currentChainTvls": {
+    "Hyperliquid L1": 336706263.02923
+  },
+  "raises": [],
+  "mcap": null
+}

@@ -1,0 +1,5711 @@
+{
+  "id": "6482",
+  "name": "Liminal",
+  "address": null,
+  "symbol": "-",
+  "url": "https://liminal.money/",
+  "description": "Liminal is a DeFi protocol on Hyperliquid that offers stable, delta-neutral yields from funding rates, allowing users to earn returns without market exposure",
+  "chain": "Hyperliquid L1",
+  "logo": "https://icons.llama.fi/liminal.jpg",
+  "audits": "0",
+  "audit_note": null,
+  "gecko_id": null,
+  "cmcId": null,
+  "category": "Basis Trading",
+  "chains": [
+    "Hyperliquid L1"
+  ],
+  "forkedFromIds": [],
+  "module": "liminal-money/index.js",
+  "twitter": "liminalmoney",
+  "listedAt": 1753556072,
+  "chainTvls": {
+    "Hyperliquid L1": {
+      "tvl": [
+        {
+          "date": 1744070400,
+          "totalLiquidityUSD": 18107.53
+        },
+        {
+          "date": 1744156800,
+          "totalLiquidityUSD": 20249.0214
+        },
+        {
+          "date": 1744243200,
+          "totalLiquidityUSD": 28876.71991
+        },
+        {
+          "date": 1744329600,
+          "totalLiquidityUSD": 30649.38259
+        },
+        {
+          "date": 1744416000,
+          "totalLiquidityUSD": 36596.63803
+        },
+        {
+          "date": 1744502400,
+          "totalLiquidityUSD": 36824.56973
+        },
+        {
+          "date": 1744588800,
+          "totalLiquidityUSD": 34784.50484
+        },
+        {
+          "date": 1744675200,
+          "totalLiquidityUSD": 37165.74643
+        },
+        {
+          "date": 1744761600,
+          "totalLiquidityUSD": 35970.58034
+        },
+        {
+          "date": 1744848000,
+          "totalLiquidityUSD": 38196.02219
+        },
+        {
+          "date": 1744934400,
+          "totalLiquidityUSD": 46425.4728
+        },
+        {
+          "date": 1745020800,
+          "totalLiquidityUSD": 42157.31193
+        },
+        {
+          "date": 1745107200,
+          "totalLiquidityUSD": 45841.33945
+        },
+        {
+          "date": 1745193600,
+          "totalLiquidityUSD": 46945.61571
+        },
+        {
+          "date": 1745280000,
+          "totalLiquidityUSD": 53013.50619
+        },
+        {
+          "date": 1745366400,
+          "totalLiquidityUSD": 57054.74776
+        },
+        {
+          "date": 1745452800,
+          "totalLiquidityUSD": 54769.92198
+        },
+        {
+          "date": 1745539200,
+          "totalLiquidityUSD": 55543.04908
+        },
+        {
+          "date": 1745625600,
+          "totalLiquidityUSD": 54396.73692
+        },
+        {
+          "date": 1745712000,
+          "totalLiquidityUSD": 53026.09308
+        },
+        {
+          "date": 1745798400,
+          "totalLiquidityUSD": 48667.33478
+        },
+        {
+          "date": 1745884800,
+          "totalLiquidityUSD": 54792.06002
+        },
+        {
+          "date": 1745971200,
+          "totalLiquidityUSD": 51654.01542
+        },
+        {
+          "date": 1746057600,
+          "totalLiquidityUSD": 55798.44277
+        },
+        {
+          "date": 1746144000,
+          "totalLiquidityUSD": 76864.47147
+        },
+        {
+          "date": 1746230400,
+          "totalLiquidityUSD": 167330.70857
+        },
+        {
+          "date": 1746316800,
+          "totalLiquidityUSD": 230345.89578
+        },
+        {
+          "date": 1746403200,
+          "totalLiquidityUSD": 241194.44986
+        },
+        {
+          "date": 1746489600,
+          "totalLiquidityUSD": 256684.6605
+        },
+        {
+          "date": 1746576000,
+          "totalLiquidityUSD": 265655.05548
+        },
+        {
+          "date": 1746662400,
+          "totalLiquidityUSD": 266348.15333
+        },
+        {
+          "date": 1746748800,
+          "totalLiquidityUSD": 294263.90751
+        },
+        {
+          "date": 1746835200,
+          "totalLiquidityUSD": 396920.57915
+        },
+        {
+          "date": 1746921600,
+          "totalLiquidityUSD": 503903.11116
+        },
+        {
+          "date": 1747008000,
+          "totalLiquidityUSD": 561416.40616
+        },
+        {
+          "date": 1747094400,
+          "totalLiquidityUSD": 558672.6713
+        },
+        {
+          "date": 1747180800,
+          "totalLiquidityUSD": 581775.19662
+        },
+        {
+          "date": 1747267200,
+          "totalLiquidityUSD": 567391.66593
+        },
+        {
+          "date": 1747353600,
+          "totalLiquidityUSD": 587036.83536
+        },
+        {
+          "date": 1747440000,
+          "totalLiquidityUSD": 604315.50985
+        },
+        {
+          "date": 1747526400,
+          "totalLiquidityUSD": 581651.26924
+        },
+        {
+          "date": 1747612800,
+          "totalLiquidityUSD": 606866.01505
+        },
+        {
+          "date": 1747699200,
+          "totalLiquidityUSD": 1020047.9487
+        },
+        {
+          "date": 1747785600,
+          "totalLiquidityUSD": 1809332.45364
+        },
+        {
+          "date": 1747872000,
+          "totalLiquidityUSD": 5963006.47729
+        },
+        {
+          "date": 1747958400,
+          "totalLiquidityUSD": 5761026.10313
+        },
+        {
+          "date": 1748044800,
+          "totalLiquidityUSD": 5455511.03972
+        },
+        {
+          "date": 1748131200,
+          "totalLiquidityUSD": 5533871.14449
+        },
+        {
+          "date": 1748217600,
+          "totalLiquidityUSD": 5553505.12112
+        },
+        {
+          "date": 1748304000,
+          "totalLiquidityUSD": 5525815.15325
+        },
+        {
+          "date": 1748390400,
+          "totalLiquidityUSD": 5419101.83667
+        },
+        {
+          "date": 1748476800,
+          "totalLiquidityUSD": 5260967.99169
+        },
+        {
+          "date": 1748563200,
+          "totalLiquidityUSD": 5058608.53827
+        },
+        {
+          "date": 1748649600,
+          "totalLiquidityUSD": 4964219.4861
+        },
+        {
+          "date": 1748736000,
+          "totalLiquidityUSD": 4984360.4241
+        },
+        {
+          "date": 1748822400,
+          "totalLiquidityUSD": 5091565.20844
+        },
+        {
+          "date": 1748908800,
+          "totalLiquidityUSD": 5202373.96946
+        },
+        {
+          "date": 1748995200,
+          "totalLiquidityUSD": 5123882.82537
+        },
+        {
+          "date": 1749081600,
+          "totalLiquidityUSD": 19987026.856
+        },
+        {
+          "date": 1749168000,
+          "totalLiquidityUSD": 19681426.4056
+        },
+        {
+          "date": 1749254400,
+          "totalLiquidityUSD": 19469194.69926
+        },
+        {
+          "date": 1749340800,
+          "totalLiquidityUSD": 19925528.41325
+        },
+        {
+          "date": 1749427200,
+          "totalLiquidityUSD": 19954998.68615
+        },
+        {
+          "date": 1749513600,
+          "totalLiquidityUSD": 21013165.09485
+        },
+        {
+          "date": 1749600000,
+          "totalLiquidityUSD": 20658539.16021
+        },
+        {
+          "date": 1749686400,
+          "totalLiquidityUSD": 20017591.15095
+        },
+        {
+          "date": 1749772800,
+          "totalLiquidityUSD": 19903937.89625
+        },
+        {
+          "date": 1749859200,
+          "totalLiquidityUSD": 20583461.69061
+        },
+        {
+          "date": 1749945600,
+          "totalLiquidityUSD": 19564823.80687
+        },
+        {
+          "date": 1750032000,
+          "totalLiquidityUSD": 20507863.45995
+        },
+        {
+          "date": 1750118400,
+          "totalLiquidityUSD": 19540488.46872
+        },
+        {
+          "date": 1750204800,
+          "totalLiquidityUSD": 20172231.70803
+        },
+        {
+          "date": 1750291200,
+          "totalLiquidityUSD": 20060289.41821
+        },
+        {
+          "date": 1750377600,
+          "totalLiquidityUSD": 20347937.65557
+        },
+        {
+          "date": 1750464000,
+          "totalLiquidityUSD": 20069009.92263
+        },
+        {
+          "date": 1750550400,
+          "totalLiquidityUSD": 28742928.71036
+        },
+        {
+          "date": 1750636800,
+          "totalLiquidityUSD": 32096760.81727
+        },
+        {
+          "date": 1750723200,
+          "totalLiquidityUSD": 33119011.98738
+        },
+        {
+          "date": 1750809600,
+          "totalLiquidityUSD": 31791814.38098
+        },
+        {
+          "date": 1750896000,
+          "totalLiquidityUSD": 31287910.0955
+        },
+        {
+          "date": 1750982400,
+          "totalLiquidityUSD": 31552395.57777
+        },
+        {
+          "date": 1751068800,
+          "totalLiquidityUSD": 33323955.82422
+        },
+        {
+          "date": 1751155200,
+          "totalLiquidityUSD": 33074447.60852
+        },
+        {
+          "date": 1751241600,
+          "totalLiquidityUSD": 33176097.47117
+        },
+        {
+          "date": 1751328000,
+          "totalLiquidityUSD": 32502453.05448
+        },
+        {
+          "date": 1751414400,
+          "totalLiquidityUSD": 33833658.15202
+        },
+        {
+          "date": 1751500800,
+          "totalLiquidityUSD": 37607257.54529
+        },
+        {
+          "date": 1751587200,
+          "totalLiquidityUSD": 38560730.49203
+        },
+        {
+          "date": 1751673600,
+          "totalLiquidityUSD": 38481982.92497
+        },
+        {
+          "date": 1751760000,
+          "totalLiquidityUSD": 40167153.62938
+        },
+        {
+          "date": 1751846400,
+          "totalLiquidityUSD": 40501475.75669
+        },
+        {
+          "date": 1751932800,
+          "totalLiquidityUSD": 39784232.49646
+        },
+        {
+          "date": 1752019200,
+          "totalLiquidityUSD": 39139440.65935
+        },
+        {
+          "date": 1752105600,
+          "totalLiquidityUSD": 40393296.92364
+        },
+        {
+          "date": 1752192000,
+          "totalLiquidityUSD": 40135128.0892
+        },
+        {
+          "date": 1752278400,
+          "totalLiquidityUSD": 38371744.87669
+        },
+        {
+          "date": 1752364800,
+          "totalLiquidityUSD": 38419911.83423
+        },
+        {
+          "date": 1752451200,
+          "totalLiquidityUSD": 38784973.94553
+        },
+        {
+          "date": 1752537600,
+          "totalLiquidityUSD": 43444237.29063
+        },
+        {
+          "date": 1752624000,
+          "totalLiquidityUSD": 46934034.81383
+        },
+        {
+          "date": 1752710400,
+          "totalLiquidityUSD": 46137879.48876
+        },
+        {
+          "date": 1752796800,
+          "totalLiquidityUSD": 47891271.53613
+        },
+        {
+          "date": 1752883200,
+          "totalLiquidityUSD": 48323103.41968
+        },
+        {
+          "date": 1752969600,
+          "totalLiquidityUSD": 50570547.9845
+        },
+        {
+          "date": 1753056000,
+          "totalLiquidityUSD": 52076574.57643
+        },
+        {
+          "date": 1753142400,
+          "totalLiquidityUSD": 52655568.73979
+        },
+        {
+          "date": 1753228800,
+          "totalLiquidityUSD": 56344631.27396
+        },
+        {
+          "date": 1753315200,
+          "totalLiquidityUSD": 58954077.45842
+        },
+        {
+          "date": 1753401600,
+          "totalLiquidityUSD": 61343172.01518
+        },
+        {
+          "date": 1753488000,
+          "totalLiquidityUSD": 63668233.00604
+        },
+        {
+          "date": 1753574400,
+          "totalLiquidityUSD": 64627852.03956
+        },
+        {
+          "date": 1753660800,
+          "totalLiquidityUSD": 67043827.38346
+        },
+        {
+          "date": 1753747200,
+          "totalLiquidityUSD": 69502634.99913
+        },
+        {
+          "date": 1753833600,
+          "totalLiquidityUSD": 71547342.7302
+        },
+        {
+          "date": 1753899887,
+          "totalLiquidityUSD": 72312161.12385
+        }
+      ],
+      "tokensInUsd": [
+        {
+          "date": 1744070400,
+          "tokens": {
+            "coingecko:hyperliquid": 17990.559,
+            "USDC": 116.97099
+          }
+        },
+        {
+          "date": 1744156800,
+          "tokens": {
+            "coingecko:hyperliquid": 20110.18251,
+            "USDC": 138.83889
+          }
+        },
+        {
+          "date": 1744243200,
+          "tokens": {
+            "coingecko:hyperliquid": 28692.21615,
+            "USDC": 184.50376
+          }
+        },
+        {
+          "date": 1744329600,
+          "tokens": {
+            "coingecko:hyperliquid": 30464.18742,
+            "USDC": 185.19517
+          }
+        },
+        {
+          "date": 1744416000,
+          "tokens": {
+            "coingecko:hyperliquid": 36379.2134,
+            "USDC": 217.42462
+          }
+        },
+        {
+          "date": 1744502400,
+          "tokens": {
+            "coingecko:hyperliquid": 36608.99912,
+            "USDC": 215.57061
+          }
+        },
+        {
+          "date": 1744588800,
+          "tokens": {
+            "coingecko:hyperliquid": 34568.93854,
+            "USDC": 215.5663
+          }
+        },
+        {
+          "date": 1744675200,
+          "tokens": {
+            "coingecko:hyperliquid": 36918.89713,
+            "USDC": 246.8493
+          }
+        },
+        {
+          "date": 1744761600,
+          "tokens": {
+            "coingecko:hyperliquid": 35702.07501,
+            "USDC": 268.50533
+          }
+        },
+        {
+          "date": 1744848000,
+          "tokens": {
+            "coingecko:hyperliquid": 37664.95984,
+            "USDC": 531.06235
+          }
+        },
+        {
+          "date": 1744934400,
+          "tokens": {
+            "coingecko:hyperliquid": 45846.5226,
+            "USDC": 578.9502
+          }
+        },
+        {
+          "date": 1745020800,
+          "tokens": {
+            "coingecko:hyperliquid": 41530.08478,
+            "USDC": 627.22715
+          }
+        },
+        {
+          "date": 1745107200,
+          "tokens": {
+            "coingecko:hyperliquid": 45183.32349,
+            "USDC": 658.01596
+          }
+        },
+        {
+          "date": 1745193600,
+          "tokens": {
+            "coingecko:hyperliquid": 46259.03977,
+            "USDC": 686.57594
+          }
+        },
+        {
+          "date": 1745280000,
+          "tokens": {
+            "coingecko:hyperliquid": 52261.15095,
+            "USDC": 752.35524
+          }
+        },
+        {
+          "date": 1745366400,
+          "tokens": {
+            "coingecko:hyperliquid": 56284.31469,
+            "USDC": 770.43307
+          }
+        },
+        {
+          "date": 1745452800,
+          "tokens": {
+            "coingecko:hyperliquid": 53998.78505,
+            "USDC": 771.13693
+          }
+        },
+        {
+          "date": 1745539200,
+          "tokens": {
+            "coingecko:hyperliquid": 54801.7593,
+            "USDC": 741.28978
+          }
+        },
+        {
+          "date": 1745625600,
+          "tokens": {
+            "coingecko:hyperliquid": 53633.99918,
+            "USDC": 762.73774
+          }
+        },
+        {
+          "date": 1745712000,
+          "tokens": {
+            "coingecko:hyperliquid": 52272.47017,
+            "USDC": 753.6229
+          }
+        },
+        {
+          "date": 1745798400,
+          "tokens": {
+            "coingecko:hyperliquid": 47937.7154,
+            "USDC": 729.61938
+          }
+        },
+        {
+          "date": 1745884800,
+          "tokens": {
+            "coingecko:hyperliquid": 54033.98734,
+            "USDC": 758.07268
+          }
+        },
+        {
+          "date": 1745971200,
+          "tokens": {
+            "coingecko:hyperliquid": 50935.44043,
+            "USDC": 718.57498
+          }
+        },
+        {
+          "date": 1746057600,
+          "tokens": {
+            "coingecko:hyperliquid": 55084.52618,
+            "USDC": 713.91659
+          }
+        },
+        {
+          "date": 1746144000,
+          "tokens": {
+            "coingecko:hyperliquid": 76372.52895,
+            "USDC": 491.94253
+          }
+        },
+        {
+          "date": 1746230400,
+          "tokens": {
+            "coingecko:hyperliquid": 166750.03327,
+            "USDC": 580.6753
+          }
+        },
+        {
+          "date": 1746316800,
+          "tokens": {
+            "coingecko:hyperliquid": 229639.77528,
+            "USDC": 706.12051
+          }
+        },
+        {
+          "date": 1746403200,
+          "tokens": {
+            "coingecko:hyperliquid": 240463.05838,
+            "USDC": 731.39148
+          }
+        },
+        {
+          "date": 1746489600,
+          "tokens": {
+            "coingecko:hyperliquid": 255970.71018,
+            "USDC": 713.95032
+          }
+        },
+        {
+          "date": 1746576000,
+          "tokens": {
+            "coingecko:hyperliquid": 264941.05589,
+            "USDC": 713.99959
+          }
+        },
+        {
+          "date": 1746662400,
+          "tokens": {
+            "coingecko:hyperliquid": 265641.49366,
+            "USDC": 706.65967
+          }
+        },
+        {
+          "date": 1746748800,
+          "tokens": {
+            "coingecko:hyperliquid": 293557.21886,
+            "USDC": 706.68865
+          }
+        },
+        {
+          "date": 1746835200,
+          "tokens": {
+            "coingecko:hyperliquid": 395928.65139,
+            "USDC": 991.92776
+          }
+        },
+        {
+          "date": 1746921600,
+          "tokens": {
+            "coingecko:hyperliquid": 502716.87799,
+            "USDC": 1186.23318
+          }
+        },
+        {
+          "date": 1747008000,
+          "tokens": {
+            "coingecko:hyperliquid": 559871.52179,
+            "USDC": 1544.88438
+          }
+        },
+        {
+          "date": 1747094400,
+          "tokens": {
+            "coingecko:hyperliquid": 557079.41704,
+            "USDC": 1593.25426
+          }
+        },
+        {
+          "date": 1747180800,
+          "tokens": {
+            "coingecko:hyperliquid": 580182.28801,
+            "USDC": 1592.90862
+          }
+        },
+        {
+          "date": 1747267200,
+          "tokens": {
+            "coingecko:hyperliquid": 565803.88733,
+            "USDC": 1587.7786
+          }
+        },
+        {
+          "date": 1747353600,
+          "tokens": {
+            "coingecko:hyperliquid": 585455.40093,
+            "USDC": 1581.43443
+          }
+        },
+        {
+          "date": 1747440000,
+          "tokens": {
+            "coingecko:hyperliquid": 602734.077,
+            "USDC": 1581.43284
+          }
+        },
+        {
+          "date": 1747526400,
+          "tokens": {
+            "coingecko:hyperliquid": 580069.83956,
+            "USDC": 1581.42968
+          }
+        },
+        {
+          "date": 1747612800,
+          "tokens": {
+            "coingecko:hyperliquid": 605282.43283,
+            "USDC": 1583.58223
+          }
+        },
+        {
+          "date": 1747699200,
+          "tokens": {
+            "coingecko:hyperliquid": 573153.50707,
+            "coingecko:fartcoin": 15327.15577,
+            "BTC": 444.1554,
+            "USDC": 428615.88489,
+            "USDE": 894.34296,
+            "SOL": 1152.99632,
+            "WETH": 459.90629
+          }
+        },
+        {
+          "date": 1747785600,
+          "tokens": {
+            "coingecko:hyperliquid": 786509.72692,
+            "coingecko:fartcoin": 152530.54556,
+            "USDE": 25242.99591,
+            "USDC": 815350.13336,
+            "WETH": 5566.60924,
+            "BTC": 20077.02999,
+            "SOL": 4055.41266
+          }
+        },
+        {
+          "date": 1747872000,
+          "tokens": {
+            "coingecko:hyperliquid": 1550721.02263,
+            "coingecko:fartcoin": 1051764.21799,
+            "BTC": 330930.18746,
+            "USDE": 41653.27063,
+            "SOL": 66602.77203,
+            "USDC": 2863934.2507,
+            "WETH": 57400.75586
+          }
+        },
+        {
+          "date": 1747958400,
+          "tokens": {
+            "coingecko:fartcoin": 1136075.80492,
+            "coingecko:hyperliquid": 1498431.55368,
+            "BTC": 342111.23565,
+            "USDE": 42327.49233,
+            "USDC": 2613926.61215,
+            "SOL": 68337.3911,
+            "WETH": 59816.0133
+          }
+        },
+        {
+          "date": 1748044800,
+          "tokens": {
+            "coingecko:hyperliquid": 1395043.38205,
+            "coingecko:fartcoin": 1051364.22113,
+            "WETH": 56624.99843,
+            "USDC": 2525968.09162,
+            "BTC": 318219.6401,
+            "SOL": 65963.10108,
+            "USDE": 42327.60531
+          }
+        },
+        {
+          "date": 1748131200,
+          "tokens": {
+            "coingecko:hyperliquid": 1491212.6106,
+            "coingecko:fartcoin": 1032260.65051,
+            "USDE": 42686.82508,
+            "WETH": 56723.82454,
+            "BTC": 316207.12618,
+            "SOL": 70817.65313,
+            "USDC": 2523962.45445
+          }
+        },
+        {
+          "date": 1748217600,
+          "tokens": {
+            "coingecko:hyperliquid": 1657083.52011,
+            "coingecko:fartcoin": 990233.60428,
+            "USDE": 27511.16568,
+            "BTC": 300890.93816,
+            "SOL": 60557.00522,
+            "WETH": 47973.59096,
+            "USDC": 2469255.2967
+          }
+        },
+        {
+          "date": 1748304000,
+          "tokens": {
+            "coingecko:hyperliquid": 1655257.35445,
+            "coingecko:fartcoin": 896318.21054,
+            "USDE": 27034.89592,
+            "BTC": 319793.27126,
+            "USDC": 2519726.52631,
+            "WETH": 47732.28314,
+            "SOL": 59952.61162
+          }
+        },
+        {
+          "date": 1748390400,
+          "tokens": {
+            "coingecko:hyperliquid": 1572366.40894,
+            "coingecko:fartcoin": 868586.69459,
+            "USDC": 2510557.96072,
+            "WETH": 42793.5228,
+            "BTC": 338695.79627,
+            "SOL": 59481.36367,
+            "USDE": 26620.08968
+          }
+        },
+        {
+          "date": 1748476800,
+          "tokens": {
+            "coingecko:hyperliquid": 1526612.96438,
+            "coingecko:fartcoin": 782677.40408,
+            "SOL": 57904.0834,
+            "BTC": 330985.8179,
+            "USDE": 28216.20334,
+            "WETH": 43090.54992,
+            "USDC": 2491480.96867
+          }
+        },
+        {
+          "date": 1748563200,
+          "tokens": {
+            "coingecko:hyperliquid": 1396323.04805,
+            "coingecko:fartcoin": 716701.33868,
+            "USDC": 2495038.55577,
+            "SOL": 56025.41801,
+            "USDE": 27516.8276,
+            "WETH": 42700.04444,
+            "BTC": 324303.30571
+          }
+        },
+        {
+          "date": 1748649600,
+          "tokens": {
+            "coingecko:hyperliquid": 1435654.87514,
+            "coingecko:fartcoin": 616265.06505,
+            "BTC": 310102.09031,
+            "SOL": 53523.87373,
+            "WETH": 41877.2266,
+            "USDE": 27533.65066,
+            "USDC": 2479262.70462
+          }
+        },
+        {
+          "date": 1748736000,
+          "tokens": {
+            "coingecko:fartcoin": 635534.40683,
+            "coingecko:hyperliquid": 1435821.92177,
+            "USDC": 2477711.27255,
+            "USDE": 27311.18232,
+            "SOL": 53683.35686,
+            "BTC": 312121.08185,
+            "WETH": 42177.20192
+          }
+        },
+        {
+          "date": 1748822400,
+          "tokens": {
+            "coingecko:fartcoin": 677295.08544,
+            "coingecko:hyperliquid": 1496223.45617,
+            "BTC": 315597.71163,
+            "USDE": 27456.97467,
+            "SOL": 54016.15799,
+            "WETH": 42408.19633,
+            "USDC": 2478567.62621
+          }
+        },
+        {
+          "date": 1748908800,
+          "tokens": {
+            "coingecko:hyperliquid": 1599304.33759,
+            "coingecko:fartcoin": 673637.08776,
+            "USDC": 2486628.41659,
+            "BTC": 316669.97793,
+            "USDE": 27311.39472,
+            "SOL": 54709.99478,
+            "WETH": 44112.76009
+          }
+        },
+        {
+          "date": 1748995200,
+          "tokens": {
+            "coingecko:hyperliquid": 1586453.60021,
+            "coingecko:fartcoin": 609709.57468,
+            "WETH": 44322.22167,
+            "USDE": 27311.40249,
+            "BTC": 315336.23291,
+            "SOL": 54422.63419,
+            "USDC": 2486327.15922
+          }
+        },
+        {
+          "date": 1749081600,
+          "tokens": {
+            "coingecko:hyperliquid": 6527799.84763,
+            "coingecko:fartcoin": 1747374.01782,
+            "WETH": 40670.16738,
+            "USDE": 98291.45488,
+            "SOL": 217538.2064,
+            "BTC": 1293270.01214,
+            "USDC": 10062083.14976
+          }
+        },
+        {
+          "date": 1749168000,
+          "tokens": {
+            "coingecko:hyperliquid": 6285202.47416,
+            "coingecko:fartcoin": 1861607.53423,
+            "USDC": 9983551.51823,
+            "USDE": 99443.22143,
+            "BTC": 1220617.01757,
+            "SOL": 192409.16052,
+            "WETH": 38595.47946
+          }
+        },
+        {
+          "date": 1749254400,
+          "tokens": {
+            "coingecko:hyperliquid": 6164511.65277,
+            "coingecko:fartcoin": 1731345.6948,
+            "SOL": 204458.81571,
+            "USDE": 101187.75798,
+            "USDC": 9988847.60967,
+            "BTC": 1243468.45489,
+            "WETH": 35374.71345
+          }
+        },
+        {
+          "date": 1749340800,
+          "tokens": {
+            "coingecko:fartcoin": 1795498.35087,
+            "coingecko:hyperliquid": 6471179.96657,
+            "USDE": 102740.16611,
+            "BTC": 1282394.63855,
+            "USDC": 10024690.94194,
+            "SOL": 213002.60343,
+            "WETH": 36021.74578
+          }
+        },
+        {
+          "date": 1749427200,
+          "tokens": {
+            "coingecko:fartcoin": 1835426.38578,
+            "coingecko:hyperliquid": 6465094.95093,
+            "USDC": 9999616.51092,
+            "BTC": 1309362.3154,
+            "SOL": 228625.25732,
+            "USDE": 81139.83254,
+            "WETH": 35733.43326
+          }
+        },
+        {
+          "date": 1749513600,
+          "tokens": {
+            "coingecko:hyperliquid": 7198768.22236,
+            "coingecko:fartcoin": 2083035.70688,
+            "USDC": 9988951.64982,
+            "BTC": 1333273.38902,
+            "SOL": 287351.12244,
+            "USDE": 83575.24747,
+            "WETH": 38209.75686
+          }
+        },
+        {
+          "date": 1749600000,
+          "tokens": {
+            "coingecko:hyperliquid": 7586054.32209,
+            "coingecko:fartcoin": 2366485.46634,
+            "SOL": 287340.94273,
+            "USDC": 8985557.82154,
+            "WETH": 40429.97275,
+            "USDE": 78984.24859,
+            "BTC": 1313686.38616
+          }
+        },
+        {
+          "date": 1749686400,
+          "tokens": {
+            "coingecko:hyperliquid": 7588077.73434,
+            "coingecko:fartcoin": 2121765.15943,
+            "USDC": 8604159.2397,
+            "SOL": 263225.56909,
+            "BTC": 1321763.30942,
+            "USDE": 78698.49251,
+            "WETH": 39901.64644
+          }
+        },
+        {
+          "date": 1749772800,
+          "tokens": {
+            "coingecko:hyperliquid": 7520667.40423,
+            "coingecko:fartcoin": 1709028.35947,
+            "SOL": 245552.30332,
+            "BTC": 1334362.23478,
+            "USDE": 76828.03492,
+            "WETH": 38101.47208,
+            "USDC": 8979398.08745
+          }
+        },
+        {
+          "date": 1749859200,
+          "tokens": {
+            "coingecko:fartcoin": 1706849.25005,
+            "coingecko:hyperliquid": 7783185.13003,
+            "USDE": 73635.80045,
+            "WETH": 37043.4702,
+            "USDC": 9419346.39762,
+            "SOL": 239377.88066,
+            "BTC": 1324023.7616
+          }
+        },
+        {
+          "date": 1749945600,
+          "tokens": {
+            "coingecko:fartcoin": 1574336.01359,
+            "coingecko:hyperliquid": 7416047.78999,
+            "USDE": 73928.6707,
+            "USDC": 8939680.007,
+            "SOL": 245229.20027,
+            "WETH": 36367.25289,
+            "BTC": 1279234.87242
+          }
+        },
+        {
+          "date": 1750032000,
+          "tokens": {
+            "coingecko:hyperliquid": 7639846.70777,
+            "coingecko:fartcoin": 1603304.19493,
+            "USDE": 73153.53683,
+            "BTC": 1350694.18848,
+            "SOL": 235291.84773,
+            "WETH": 36539.37164,
+            "USDC": 9569033.61257
+          }
+        },
+        {
+          "date": 1750118400,
+          "tokens": {
+            "coingecko:hyperliquid": 7520317.40069,
+            "coingecko:fartcoin": 1520490.59515,
+            "USDE": 74489.84575,
+            "BTC": 1380281.49136,
+            "WETH": 36628.45986,
+            "USDC": 8759083.47524,
+            "SOL": 249197.20066
+          }
+        },
+        {
+          "date": 1750204800,
+          "tokens": {
+            "coingecko:hyperliquid": 7109461.22075,
+            "coingecko:fartcoin": 1400850.63442,
+            "USDE": 75109.90148,
+            "BTC": 1346161.0006,
+            "USDC": 9958781.12677,
+            "WETH": 36028.7092,
+            "SOL": 245839.11481
+          }
+        },
+        {
+          "date": 1750291200,
+          "tokens": {
+            "coingecko:hyperliquid": 7018986.91111,
+            "coingecko:fartcoin": 1408085.42679,
+            "USDE": 73976.72,
+            "BTC": 1376654.52999,
+            "SOL": 225762.10633,
+            "USDC": 9920685.40493,
+            "WETH": 36138.31906
+          }
+        },
+        {
+          "date": 1750377600,
+          "tokens": {
+            "coingecko:hyperliquid": 6996134.16909,
+            "coingecko:fartcoin": 1300782.15279,
+            "USDE": 75964.36459,
+            "SOL": 224317.5284,
+            "BTC": 1373646.92373,
+            "USDC": 10340876.32433,
+            "WETH": 36216.19263
+          }
+        },
+        {
+          "date": 1750464000,
+          "tokens": {
+            "coingecko:hyperliquid": 6024080.2862,
+            "coingecko:fartcoin": 1114422.39283,
+            "SOL": 212703.55562,
+            "USDC": 11199119.94065,
+            "USDE": 82799.76148,
+            "WETH": 34128.29234,
+            "BTC": 1401755.69351
+          }
+        },
+        {
+          "date": 1750550400,
+          "tokens": {
+            "coingecko:hyperliquid": 9892186.0507,
+            "coingecko:fartcoin": 1141019.3543,
+            "BTC": 1412707.46463,
+            "USDC": 15839258.37374,
+            "SOL": 221630.43221,
+            "USDE": 173143.80115,
+            "WETH": 62983.23362
+          }
+        },
+        {
+          "date": 1750636800,
+          "tokens": {
+            "coingecko:fartcoin": 1185361.60586,
+            "coingecko:hyperliquid": 12184671.83544,
+            "WETH": 61358.69342,
+            "BTC": 1405695.1839,
+            "SOL": 218422.53859,
+            "USDE": 197539.62564,
+            "USDC": 16843711.33443
+          }
+        },
+        {
+          "date": 1750723200,
+          "tokens": {
+            "coingecko:hyperliquid": 13328323.74979,
+            "coingecko:fartcoin": 1340457.83072,
+            "SOL": 238516.1364,
+            "WETH": 66610.23445,
+            "USDE": 196063.56924,
+            "BTC": 1462985.12176,
+            "USDC": 16486055.34501
+          }
+        },
+        {
+          "date": 1750809600,
+          "tokens": {
+            "coingecko:hyperliquid": 12865395.60263,
+            "coingecko:fartcoin": 1303177.09891,
+            "BTC": 1453659.77236,
+            "USDE": 199197.14304,
+            "WETH": 67280.64026,
+            "USDC": 15665996.27342,
+            "SOL": 237107.85038
+          }
+        },
+        {
+          "date": 1750896000,
+          "tokens": {
+            "coingecko:hyperliquid": 12791282.36391,
+            "coingecko:fartcoin": 1311242.41998,
+            "USDC": 15174735.76227,
+            "USDE": 223639.09152,
+            "SOL": 238151.94486,
+            "BTC": 1482540.86961,
+            "WETH": 66317.64335
+          }
+        },
+        {
+          "date": 1750982400,
+          "tokens": {
+            "coingecko:hyperliquid": 12408284.73401,
+            "coingecko:fartcoin": 1219664.52655,
+            "USDE": 237122.58362,
+            "WETH": 66245.79028,
+            "BTC": 1474955.63117,
+            "USDC": 15915356.96233,
+            "SOL": 230765.3498
+          }
+        },
+        {
+          "date": 1751068800,
+          "tokens": {
+            "coingecko:hyperliquid": 13034427.15297,
+            "coingecko:fartcoin": 1308024.07485,
+            "SOL": 234845.5627,
+            "USDC": 16943523.05563,
+            "USDE": 250173.72083,
+            "BTC": 1486740.38095,
+            "WETH": 66221.87629
+          }
+        },
+        {
+          "date": 1751155200,
+          "tokens": {
+            "coingecko:hyperliquid": 13214020.77968,
+            "coingecko:fartcoin": 1408017.71742,
+            "USDC": 16410085.08376,
+            "SOL": 245072.5101,
+            "WETH": 66221.55186,
+            "USDE": 246336.43533,
+            "BTC": 1484693.53037
+          }
+        },
+        {
+          "date": 1751241600,
+          "tokens": {
+            "coingecko:hyperliquid": 13889135.82443,
+            "coingecko:fartcoin": 1482054.70634,
+            "USDE": 257536.86332,
+            "BTC": 1546640.64264,
+            "USDC": 15679438.48755,
+            "SOL": 253287.00101,
+            "WETH": 68003.94588
+          }
+        },
+        {
+          "date": 1751328000,
+          "tokens": {
+            "coingecko:hyperliquid": 13863628.86298,
+            "coingecko:fartcoin": 1490754.11701,
+            "USDC": 14981305.55554,
+            "SOL": 258416.67426,
+            "BTC": 1570756.57451,
+            "WETH": 67583.24253,
+            "USDE": 270008.02766
+          }
+        },
+        {
+          "date": 1751414400,
+          "tokens": {
+            "coingecko:hyperliquid": 12667281.61043,
+            "coingecko:fartcoin": 1379055.40021,
+            "USDE": 327450.76628,
+            "WETH": 65360.32374,
+            "BTC": 2717734.30714,
+            "USDC": 16428076.29331,
+            "SOL": 248699.45091
+          }
+        },
+        {
+          "date": 1751500800,
+          "tokens": {
+            "coingecko:hyperliquid": 13960025.26837,
+            "coingecko:fartcoin": 1549987.11782,
+            "USDC": 17728601.21855,
+            "SOL": 250149.67459,
+            "USDE": 244100.09761,
+            "BTC": 3804338.21485,
+            "WETH": 70055.95349
+          }
+        },
+        {
+          "date": 1751587200,
+          "tokens": {
+            "coingecko:hyperliquid": 14240825.53082,
+            "coingecko:fartcoin": 1632240.48328,
+            "USDE": 234769.49021,
+            "USDC": 17936547.17095,
+            "SOL": 383550.00565,
+            "WETH": 77043.84572,
+            "BTC": 4055753.9654
+          }
+        },
+        {
+          "date": 1751673600,
+          "tokens": {
+            "coingecko:hyperliquid": 13898473.8193,
+            "coingecko:fartcoin": 1638628.02788,
+            "USDE": 239947.02781,
+            "BTC": 3973258.3199,
+            "USDC": 18101715.40678,
+            "SOL": 553697.65871,
+            "WETH": 76262.66459
+          }
+        },
+        {
+          "date": 1751760000,
+          "tokens": {
+            "coingecko:hyperliquid": 13732632.43849,
+            "coingecko:fartcoin": 2958252.49589,
+            "USDE": 230524.79385,
+            "SOL": 381276.65417,
+            "BTC": 3604873.91768,
+            "USDC": 19183698.68478,
+            "WETH": 75894.64453
+          }
+        },
+        {
+          "date": 1751846400,
+          "tokens": {
+            "coingecko:fartcoin": 2961655.65889,
+            "coingecko:hyperliquid": 13975185.73288,
+            "USDC": 19233240.76469,
+            "BTC": 3613064.44422,
+            "WETH": 77532.24543,
+            "USDE": 234383.78933,
+            "SOL": 406413.12125
+          }
+        },
+        {
+          "date": 1751932800,
+          "tokens": {
+            "coingecko:hyperliquid": 13307752.59038,
+            "coingecko:fartcoin": 2851986.12448,
+            "BTC": 3783338.46145,
+            "SOL": 403851.30174,
+            "USDE": 224714.3003,
+            "WETH": 76518.42419,
+            "USDC": 19136071.29393
+          }
+        },
+        {
+          "date": 1752019200,
+          "tokens": {
+            "coingecko:hyperliquid": 13106690.65771,
+            "coingecko:fartcoin": 2713547.07551,
+            "SOL": 480972.3789,
+            "BTC": 3357982.31739,
+            "USDE": 219069.66926,
+            "WETH": 163563.05413,
+            "USDC": 19097615.50645
+          }
+        },
+        {
+          "date": 1752105600,
+          "tokens": {
+            "coingecko:hyperliquid": 13822261.19128,
+            "coingecko:fartcoin": 2820498.92102,
+            "BTC": 3526205.58373,
+            "USDE": 223751.04739,
+            "WETH": 278626.6041,
+            "USDC": 19256405.275,
+            "SOL": 465548.30112
+          }
+        },
+        {
+          "date": 1752192000,
+          "tokens": {
+            "coingecko:hyperliquid": 14167339.8702,
+            "coingecko:fartcoin": 3245211.51979,
+            "BTC": 3706299.23795,
+            "USDC": 17890329.84193,
+            "USDE": 195791.14455,
+            "SOL": 516748.81471,
+            "WETH": 413407.66007
+          }
+        },
+        {
+          "date": 1752278400,
+          "tokens": {
+            "coingecko:hyperliquid": 14588953.9287,
+            "coingecko:fartcoin": 3278067.86989,
+            "BTC": 3657825.04902,
+            "USDE": 186595.28343,
+            "USDC": 15770841.10192,
+            "SOL": 485873.04281,
+            "WETH": 403588.60091
+          }
+        },
+        {
+          "date": 1752364800,
+          "tokens": {
+            "coingecko:fartcoin": 3126842.59506,
+            "coingecko:hyperliquid": 14705601.24502,
+            "USDC": 15924908.8098,
+            "SOL": 466898.10072,
+            "USDE": 184394.46169,
+            "WETH": 386758.38787,
+            "BTC": 3624508.23407
+          }
+        },
+        {
+          "date": 1752451200,
+          "tokens": {
+            "coingecko:hyperliquid": 15395066.30392,
+            "coingecko:fartcoin": 3248931.69688,
+            "USDE": 185345.77587,
+            "WETH": 423747.44798,
+            "USDC": 15294523.73271,
+            "BTC": 3738445.70723,
+            "SOL": 498913.28093
+          }
+        },
+        {
+          "date": 1752537600,
+          "tokens": {
+            "coingecko:pump-fun": 5420135.00361,
+            "coingecko:hyperliquid": 12242436.82269,
+            "coingecko:fartcoin": 2736454.70764,
+            "USDC": 18967908.19831,
+            "SOL": 423928.53317,
+            "BTC": 2952325.97152,
+            "USDE": 164135.71455,
+            "WETH": 536912.33911
+          }
+        },
+        {
+          "date": 1752624000,
+          "tokens": {
+            "coingecko:pump-fun": 8028875.405,
+            "coingecko:hyperliquid": 12136776.57917,
+            "coingecko:fartcoin": 3015401.96218,
+            "WETH": 604487.84072,
+            "USDC": 20056729.92587,
+            "SOL": 379347.82049,
+            "USDE": 155036.58612,
+            "BTC": 2557378.69427
+          }
+        },
+        {
+          "date": 1752710400,
+          "tokens": {
+            "coingecko:hyperliquid": 11425083.23287,
+            "coingecko:fartcoin": 3430028.64984,
+            "coingecko:pump-fun": 7162258.55866,
+            "SOL": 481001.03934,
+            "USDE": 156912.68482,
+            "BTC": 3148481.33243,
+            "USDC": 19598678.67279,
+            "WETH": 735435.31802
+          }
+        },
+        {
+          "date": 1752796800,
+          "tokens": {
+            "coingecko:fartcoin": 3405612.96879,
+            "coingecko:hyperliquid": 11711371.94859,
+            "coingecko:pump-fun": 6115717.07476,
+            "USDE": 157005.25854,
+            "USDC": 21392276.6281,
+            "WETH": 776383.28903,
+            "BTC": 3815280.58929,
+            "SOL": 517623.77903
+          }
+        },
+        {
+          "date": 1752883200,
+          "tokens": {
+            "coingecko:fartcoin": 3309467.46501,
+            "coingecko:pump-fun": 5263090.60704,
+            "coingecko:hyperliquid": 11022753.6949,
+            "WETH": 996919.19216,
+            "USDC": 22937816.87605,
+            "SOL": 602695.74506,
+            "BTC": 4041532.14926,
+            "USDE": 148827.69021
+          }
+        },
+        {
+          "date": 1752969600,
+          "tokens": {
+            "coingecko:hyperliquid": 10993838.32356,
+            "coingecko:pump-fun": 6154664.6131,
+            "coingecko:fartcoin": 3513849.15381,
+            "SOL": 580385.01364,
+            "WETH": 981420.95946,
+            "USDC": 24725979.39188,
+            "BTC": 3475691.88554,
+            "USDE": 144718.64352
+          }
+        },
+        {
+          "date": 1753056000,
+          "tokens": {
+            "coingecko:pump-fun": 6232915.37243,
+            "coingecko:hyperliquid": 11536034.43355,
+            "coingecko:fartcoin": 3763069.74876,
+            "SOL": 577121.15423,
+            "USDE": 142830.96016,
+            "WETH": 1021502.23505,
+            "BTC": 3702837.29212,
+            "USDC": 25100263.38014
+          }
+        },
+        {
+          "date": 1753142400,
+          "tokens": {
+            "coingecko:hyperliquid": 11015688.33266,
+            "coingecko:fartcoin": 4583116.90692,
+            "coingecko:pump-fun": 6132648.53776,
+            "USDE": 184200.50106,
+            "SOL": 708441.96213,
+            "BTC": 3789529.7436,
+            "WETH": 1075301.08366,
+            "USDC": 25166641.672
+          }
+        },
+        {
+          "date": 1753228800,
+          "tokens": {
+            "coingecko:hyperliquid": 11259618.78873,
+            "coingecko:fartcoin": 4978006.60629,
+            "coingecko:pump-fun": 6087843.05691,
+            "USDC": 26692799.16034,
+            "USDE": 191083.3964,
+            "BTC": 5079235.7046,
+            "SOL": 833796.09874,
+            "WETH": 1222248.46194
+          }
+        },
+        {
+          "date": 1753315200,
+          "tokens": {
+            "coingecko:fartcoin": 4606133.34847,
+            "coingecko:pump-fun": 5828737.59331,
+            "coingecko:hyperliquid": 11372679.33086,
+            "WETH": 1465590.06398,
+            "USDC": 29237281.53206,
+            "BTC": 5166895.09784,
+            "SOL": 1083856.18004,
+            "USDE": 192904.31185
+          }
+        },
+        {
+          "date": 1753401600,
+          "tokens": {
+            "coingecko:pump-fun": 4822976.09098,
+            "coingecko:hyperliquid": 11992897.03785,
+            "coingecko:fartcoin": 4079038.47256,
+            "SOL": 1206806.92689,
+            "BTC": 5671738.59863,
+            "USDE": 201641.14845,
+            "WETH": 1709624.12846,
+            "USDC": 31658449.61137
+          }
+        },
+        {
+          "date": 1753488000,
+          "tokens": {
+            "coingecko:pump-fun": 4635091.00612,
+            "coingecko:hyperliquid": 12872771.15275,
+            "coingecko:fartcoin": 4062356.20401,
+            "USDC": 32739786.98357,
+            "USDE": 201417.46275,
+            "WETH": 1830911.11976,
+            "BTC": 6160203.50324,
+            "SOL": 1165695.57384
+          }
+        },
+        {
+          "date": 1753574400,
+          "tokens": {
+            "coingecko:hyperliquid": 13175333.69905,
+            "coingecko:fartcoin": 3873211.05225,
+            "coingecko:pump-fun": 4746483.22703,
+            "WETH": 1852160.74743,
+            "USDC": 32516499.02485,
+            "SOL": 1303871.83871,
+            "USDE": 197670.03332,
+            "BTC": 6962622.41691
+          }
+        },
+        {
+          "date": 1753660800,
+          "tokens": {
+            "coingecko:pump-fun": 4284361.97151,
+            "coingecko:hyperliquid": 13888698.11778,
+            "coingecko:fartcoin": 3952553.50356,
+            "USDC": 33769888.31028,
+            "SOL": 1507460.79774,
+            "BTC": 7289509.73143,
+            "WETH": 2150032.91305,
+            "USDE": 201322.03812
+          }
+        },
+        {
+          "date": 1753747200,
+          "tokens": {
+            "coingecko:pump-fun": 3877413.52594,
+            "coingecko:hyperliquid": 15937164.49,
+            "coingecko:fartcoin": 3422659.10855,
+            "USDC": 34020920.05622,
+            "SOL": 1399554.91222,
+            "BTC": 7573257.98975,
+            "USDE": 214341.02468,
+            "WETH": 3057323.89177
+          }
+        },
+        {
+          "date": 1753833600,
+          "tokens": {
+            "coingecko:pump-fun": 4018964.40967,
+            "coingecko:hyperliquid": 16138455.0162,
+            "coingecko:fartcoin": 3149997.52983,
+            "BTC": 7800132.81074,
+            "SOL": 1366591.74144,
+            "USDC": 35336136.91422,
+            "USDE": 240710.41911,
+            "WETH": 3496353.88898
+          }
+        },
+        {
+          "date": 1753899887,
+          "tokens": {
+            "coingecko:pump-fun": 3869117.09375,
+            "coingecko:hyperliquid": 16340080.49845,
+            "coingecko:fartcoin": 3210569.40296,
+            "USDC": 35579796.85097,
+            "SOL": 1396104.02176,
+            "WETH": 3598541.84575,
+            "BTC": 8074509.69228,
+            "USDE": 243441.71793
+          }
+        }
+      ],
+      "tokens": [
+        {
+          "date": 1744070400,
+          "tokens": {
+            "coingecko:hyperliquid": 1565.75796,
+            "USDC": 116.98374
+          }
+        },
+        {
+          "date": 1744156800,
+          "tokens": {
+            "coingecko:hyperliquid": 1793.95027,
+            "USDC": 138.85805
+          }
+        },
+        {
+          "date": 1744243200,
+          "tokens": {
+            "coingecko:hyperliquid": 2111.27418,
+            "USDC": 184.52239
+          }
+        },
+        {
+          "date": 1744329600,
+          "tokens": {
+            "coingecko:hyperliquid": 2139.339,
+            "USDC": 185.20721
+          }
+        },
+        {
+          "date": 1744416000,
+          "tokens": {
+            "coingecko:hyperliquid": 2314.19933,
+            "USDC": 217.42832
+          }
+        },
+        {
+          "date": 1744502400,
+          "tokens": {
+            "coingecko:hyperliquid": 2241.82481,
+            "USDC": 215.57643
+          }
+        },
+        {
+          "date": 1744588800,
+          "tokens": {
+            "coingecko:hyperliquid": 2241.82481,
+            "USDC": 215.57643
+          }
+        },
+        {
+          "date": 1744675200,
+          "tokens": {
+            "coingecko:hyperliquid": 2341.08416,
+            "USDC": 246.85893
+          }
+        },
+        {
+          "date": 1744761600,
+          "tokens": {
+            "coingecko:hyperliquid": 2361.24835,
+            "USDC": 268.53326
+          }
+        },
+        {
+          "date": 1744848000,
+          "tokens": {
+            "coingecko:hyperliquid": 2386.87958,
+            "USDC": 531.07085
+          }
+        },
+        {
+          "date": 1744934400,
+          "tokens": {
+            "coingecko:hyperliquid": 2676.38778,
+            "USDC": 578.98031
+          }
+        },
+        {
+          "date": 1745020800,
+          "tokens": {
+            "coingecko:hyperliquid": 2434.35432,
+            "USDC": 627.29113
+          }
+        },
+        {
+          "date": 1745107200,
+          "tokens": {
+            "coingecko:hyperliquid": 2507.39864,
+            "USDC": 658.0561
+          }
+        },
+        {
+          "date": 1745193600,
+          "tokens": {
+            "coingecko:hyperliquid": 2641.86406,
+            "USDC": 686.62194
+          }
+        },
+        {
+          "date": 1745280000,
+          "tokens": {
+            "coingecko:hyperliquid": 2879.40226,
+            "USDC": 752.43349
+          }
+        },
+        {
+          "date": 1745366400,
+          "tokens": {
+            "coingecko:hyperliquid": 2940.6643,
+            "USDC": 770.45927
+          }
+        },
+        {
+          "date": 1745452800,
+          "tokens": {
+            "coingecko:hyperliquid": 2931.53013,
+            "USDC": 771.14773
+          }
+        },
+        {
+          "date": 1745539200,
+          "tokens": {
+            "coingecko:hyperliquid": 2924.32013,
+            "USDC": 741.3187
+          }
+        },
+        {
+          "date": 1745625600,
+          "tokens": {
+            "coingecko:hyperliquid": 2914.89126,
+            "USDC": 762.73926
+          }
+        },
+        {
+          "date": 1745712000,
+          "tokens": {
+            "coingecko:hyperliquid": 2908.87424,
+            "USDC": 753.66435
+          }
+        },
+        {
+          "date": 1745798400,
+          "tokens": {
+            "coingecko:hyperliquid": 2758.21147,
+            "USDC": 729.69235
+          }
+        },
+        {
+          "date": 1745884800,
+          "tokens": {
+            "coingecko:hyperliquid": 2897.26474,
+            "USDC": 758.09997
+          }
+        },
+        {
+          "date": 1745971200,
+          "tokens": {
+            "coingecko:hyperliquid": 2748.80952,
+            "USDC": 718.58576
+          }
+        },
+        {
+          "date": 1746057600,
+          "tokens": {
+            "coingecko:hyperliquid": 2756.98329,
+            "USDC": 713.98602
+          }
+        },
+        {
+          "date": 1746144000,
+          "tokens": {
+            "coingecko:hyperliquid": 3843.60991,
+            "USDC": 491.97893
+          }
+        },
+        {
+          "date": 1746230400,
+          "tokens": {
+            "coingecko:hyperliquid": 8028.40796,
+            "USDC": 580.69969
+          }
+        },
+        {
+          "date": 1746316800,
+          "tokens": {
+            "coingecko:hyperliquid": 10961.32579,
+            "USDC": 706.1544
+          }
+        },
+        {
+          "date": 1746403200,
+          "tokens": {
+            "coingecko:hyperliquid": 12126.22584,
+            "USDC": 731.39367
+          }
+        },
+        {
+          "date": 1746489600,
+          "tokens": {
+            "coingecko:hyperliquid": 12634.28974,
+            "USDC": 714.01744
+          }
+        },
+        {
+          "date": 1746576000,
+          "tokens": {
+            "coingecko:hyperliquid": 12634.28974,
+            "USDC": 714.01744
+          }
+        },
+        {
+          "date": 1746662400,
+          "tokens": {
+            "coingecko:hyperliquid": 12631.54987,
+            "USDC": 706.73247
+          }
+        },
+        {
+          "date": 1746748800,
+          "tokens": {
+            "coingecko:hyperliquid": 12631.54987,
+            "USDC": 706.73247
+          }
+        },
+        {
+          "date": 1746835200,
+          "tokens": {
+            "coingecko:hyperliquid": 16023.01301,
+            "USDC": 992.00613
+          }
+        },
+        {
+          "date": 1746921600,
+          "tokens": {
+            "coingecko:hyperliquid": 19224.3548,
+            "USDC": 1186.26639
+          }
+        },
+        {
+          "date": 1747008000,
+          "tokens": {
+            "coingecko:hyperliquid": 22502.87467,
+            "USDC": 1544.98635
+          }
+        },
+        {
+          "date": 1747094400,
+          "tokens": {
+            "coingecko:hyperliquid": 22444.77909,
+            "USDC": 1593.25426
+          }
+        },
+        {
+          "date": 1747180800,
+          "tokens": {
+            "coingecko:hyperliquid": 22444.18909,
+            "USDC": 1592.9118
+          }
+        },
+        {
+          "date": 1747267200,
+          "tokens": {
+            "coingecko:hyperliquid": 22443.62901,
+            "USDC": 1587.87705
+          }
+        },
+        {
+          "date": 1747353600,
+          "tokens": {
+            "coingecko:hyperliquid": 22439.83905,
+            "USDC": 1581.58942
+          }
+        },
+        {
+          "date": 1747440000,
+          "tokens": {
+            "coingecko:hyperliquid": 22439.83905,
+            "USDC": 1581.58942
+          }
+        },
+        {
+          "date": 1747526400,
+          "tokens": {
+            "coingecko:hyperliquid": 22439.83905,
+            "USDC": 1581.58942
+          }
+        },
+        {
+          "date": 1747612800,
+          "tokens": {
+            "coingecko:hyperliquid": 22426.17387,
+            "USDC": 1583.78812
+          }
+        },
+        {
+          "date": 1747699200,
+          "tokens": {
+            "coingecko:hyperliquid": 21579.57481,
+            "coingecko:fartcoin": 12667.07089,
+            "BTC": 0.00421,
+            "USDC": 428685.76067,
+            "USDE": 893.44951,
+            "SOL": 6.91535,
+            "WETH": 0.18196
+          }
+        },
+        {
+          "date": 1747785600,
+          "tokens": {
+            "coingecko:hyperliquid": 29679.61234,
+            "coingecko:fartcoin": 117331.18889,
+            "USDE": 25217.77813,
+            "USDC": 815483.87271,
+            "WETH": 2.2061,
+            "BTC": 0.18801,
+            "SOL": 24.0663
+          }
+        },
+        {
+          "date": 1747872000,
+          "tokens": {
+            "coingecko:hyperliquid": 55048.6696,
+            "coingecko:fartcoin": 745932.0695,
+            "BTC": 3.0174,
+            "USDE": 41611.65897,
+            "SOL": 382.95062,
+            "USDC": 2864504.28705,
+            "WETH": 22.44646
+          }
+        },
+        {
+          "date": 1747958400,
+          "tokens": {
+            "coingecko:fartcoin": 728253.7211,
+            "coingecko:hyperliquid": 45065.61064,
+            "BTC": 3.06614,
+            "USDE": 42285.20712,
+            "USDC": 2614436.42725,
+            "SOL": 380.51891,
+            "WETH": 22.50499
+          }
+        },
+        {
+          "date": 1748044800,
+          "tokens": {
+            "coingecko:hyperliquid": 42596.74449,
+            "coingecko:fartcoin": 720112.48023,
+            "WETH": 22.46498,
+            "USDC": 2526493.60229,
+            "BTC": 2.96694,
+            "SOL": 378.22879,
+            "USDE": 42285.31999
+          }
+        },
+        {
+          "date": 1748131200,
+          "tokens": {
+            "coingecko:hyperliquid": 42448.40907,
+            "coingecko:fartcoin": 721860.59476,
+            "USDE": 42689.25836,
+            "WETH": 22.42172,
+            "BTC": 2.93213,
+            "SOL": 402.2816,
+            "USDC": 2524474.92286
+          }
+        },
+        {
+          "date": 1748217600,
+          "tokens": {
+            "coingecko:hyperliquid": 42664.35428,
+            "coingecko:fartcoin": 682919.72709,
+            "USDE": 27483.682,
+            "BTC": 2.7631,
+            "SOL": 345.44783,
+            "WETH": 18.83282,
+            "USDC": 2469759.12756
+          }
+        },
+        {
+          "date": 1748304000,
+          "tokens": {
+            "coingecko:hyperliquid": 44616.1012,
+            "coingecko:fartcoin": 644833.24499,
+            "USDE": 27007.88803,
+            "BTC": 2.92348,
+            "USDC": 2520250.73847,
+            "WETH": 18.62781,
+            "SOL": 343.05683
+          }
+        },
+        {
+          "date": 1748390400,
+          "tokens": {
+            "coingecko:hyperliquid": 43652.59325,
+            "coingecko:fartcoin": 638666.6872,
+            "USDC": 2511155.61576,
+            "WETH": 16.07154,
+            "BTC": 3.10556,
+            "SOL": 336.79499,
+            "USDE": 26620.08968
+          }
+        },
+        {
+          "date": 1748476800,
+          "tokens": {
+            "coingecko:hyperliquid": 44313.87415,
+            "coingecko:fartcoin": 602059.5416,
+            "SOL": 336.08499,
+            "BTC": 3.0696,
+            "USDE": 28188.01533,
+            "WETH": 16.0803,
+            "USDC": 2492031.70767
+          }
+        },
+        {
+          "date": 1748563200,
+          "tokens": {
+            "coingecko:hyperliquid": 44313.64799,
+            "coingecko:fartcoin": 592315.15593,
+            "USDC": 2495587.58504,
+            "SOL": 335.80327,
+            "USDE": 27533.65066,
+            "WETH": 16.22324,
+            "BTC": 3.06751
+          }
+        },
+        {
+          "date": 1748649600,
+          "tokens": {
+            "coingecko:hyperliquid": 44146.82888,
+            "coingecko:fartcoin": 584691.71257,
+            "BTC": 2.98129,
+            "SOL": 342.07116,
+            "WETH": 16.57828,
+            "USDE": 27533.65066,
+            "USDC": 2479661.93019
+          }
+        },
+        {
+          "date": 1748736000,
+          "tokens": {
+            "coingecko:fartcoin": 592296.74448,
+            "coingecko:hyperliquid": 43708.42989,
+            "USDC": 2478221.78624,
+            "USDE": 27283.89842,
+            "SOL": 342.28103,
+            "BTC": 2.98161,
+            "WETH": 16.66023
+          }
+        },
+        {
+          "date": 1748822400,
+          "tokens": {
+            "coingecko:fartcoin": 588952.24821,
+            "coingecko:hyperliquid": 43813.27837,
+            "BTC": 2.98573,
+            "USDE": 27429.54513,
+            "SOL": 342.58995,
+            "WETH": 16.70903,
+            "USDC": 2479068.39802
+          }
+        },
+        {
+          "date": 1748908800,
+          "tokens": {
+            "coingecko:hyperliquid": 43816.55719,
+            "coingecko:fartcoin": 590909.72611,
+            "USDC": 2487130.81702,
+            "BTC": 2.99078,
+            "USDE": 27284.11061,
+            "SOL": 348.60453,
+            "WETH": 16.89788
+          }
+        },
+        {
+          "date": 1748995200,
+          "tokens": {
+            "coingecko:hyperliquid": 43824.68509,
+            "coingecko:fartcoin": 590803.85144,
+            "WETH": 17.08124,
+            "USDE": 27284.11837,
+            "BTC": 2.99084,
+            "SOL": 349.87229,
+            "USDC": 2486802.13843
+          }
+        },
+        {
+          "date": 1749081600,
+          "tokens": {
+            "coingecko:hyperliquid": 182902.76962,
+            "coingecko:fartcoin": 1855562.59491,
+            "WETH": 15.5819,
+            "USDE": 98193.26161,
+            "SOL": 1417.27934,
+            "BTC": 12.34048,
+            "USDC": 10064287.22866
+          }
+        },
+        {
+          "date": 1749168000,
+          "tokens": {
+            "coingecko:hyperliquid": 184479.08642,
+            "coingecko:fartcoin": 1793456.19868,
+            "USDC": 9985378.84255,
+            "USDE": 99343.87756,
+            "BTC": 12.01288,
+            "SOL": 1331.27489,
+            "WETH": 15.95039
+          }
+        },
+        {
+          "date": 1749254400,
+          "tokens": {
+            "coingecko:hyperliquid": 184898.36991,
+            "coingecko:fartcoin": 1791018.86122,
+            "SOL": 1380.82539,
+            "USDE": 100985.7864,
+            "USDC": 9990905.73625,
+            "BTC": 11.91028,
+            "WETH": 14.26124
+          }
+        },
+        {
+          "date": 1749340800,
+          "tokens": {
+            "coingecko:fartcoin": 1788344.97099,
+            "coingecko:hyperliquid": 185155.36385,
+            "USDE": 102637.52858,
+            "BTC": 12.13561,
+            "USDC": 10027067.35691,
+            "SOL": 1419.44958,
+            "WETH": 14.26124
+          }
+        },
+        {
+          "date": 1749427200,
+          "tokens": {
+            "coingecko:fartcoin": 1764833.06325,
+            "coingecko:hyperliquid": 183981.0743,
+            "USDC": 10001756.88689,
+            "BTC": 12.38531,
+            "SOL": 1499.37866,
+            "USDE": 81139.83254,
+            "WETH": 14.24267
+          }
+        },
+        {
+          "date": 1749513600,
+          "tokens": {
+            "coingecko:hyperliquid": 185010.74845,
+            "coingecko:fartcoin": 1707406.31712,
+            "USDC": 9991369.56125,
+            "BTC": 12.09077,
+            "SOL": 1783.90317,
+            "USDE": 83491.75572,
+            "WETH": 14.24254
+          }
+        },
+        {
+          "date": 1749600000,
+          "tokens": {
+            "coingecko:hyperliquid": 180020.27342,
+            "coingecko:fartcoin": 1714844.54083,
+            "SOL": 1741.14369,
+            "USDC": 8987418.21711,
+            "WETH": 14.37623,
+            "USDE": 78905.34325,
+            "BTC": 11.91574
+          }
+        },
+        {
+          "date": 1749686400,
+          "tokens": {
+            "coingecko:hyperliquid": 181446.14381,
+            "coingecko:fartcoin": 1560121.44076,
+            "USDC": 8606190.30061,
+            "SOL": 1634.23089,
+            "BTC": 12.16041,
+            "USDE": 78619.87264,
+            "WETH": 14.37623
+          }
+        },
+        {
+          "date": 1749772800,
+          "tokens": {
+            "coingecko:hyperliquid": 183699.74119,
+            "coingecko:fartcoin": 1389453.95078,
+            "SOL": 1608.49144,
+            "BTC": 12.59866,
+            "USDE": 76751.28364,
+            "WETH": 14.36973,
+            "USDC": 8981212.29234
+          }
+        },
+        {
+          "date": 1749859200,
+          "tokens": {
+            "coingecko:fartcoin": 1323138.95353,
+            "coingecko:hyperliquid": 183782.41157,
+            "USDE": 73635.80045,
+            "WETH": 14.36963,
+            "USDC": 9422003.40258,
+            "SOL": 1610.88749,
+            "BTC": 12.48325
+          }
+        },
+        {
+          "date": 1749945600,
+          "tokens": {
+            "coingecko:fartcoin": 1322971.43999,
+            "coingecko:hyperliquid": 184662.54457,
+            "USDE": 73928.6707,
+            "USDC": 8942317.99081,
+            "SOL": 1694.62511,
+            "WETH": 14.35353,
+            "BTC": 12.12947
+          }
+        },
+        {
+          "date": 1750032000,
+          "tokens": {
+            "coingecko:hyperliquid": 185568.29506,
+            "coingecko:fartcoin": 1325044.7892,
+            "USDE": 73170.36601,
+            "BTC": 12.79903,
+            "SOL": 1540.06969,
+            "WETH": 14.34593,
+            "USDC": 9571905.18413
+          }
+        },
+        {
+          "date": 1750118400,
+          "tokens": {
+            "coingecko:hyperliquid": 177995.67812,
+            "coingecko:fartcoin": 1277723.1892,
+            "USDE": 74489.84575,
+            "BTC": 12.91649,
+            "WETH": 14.34593,
+            "USDC": 8761685.69589,
+            "SOL": 1649.87553
+          }
+        },
+        {
+          "date": 1750204800,
+          "tokens": {
+            "coingecko:hyperliquid": 177249.09551,
+            "coingecko:fartcoin": 1274659.35798,
+            "USDE": 75129.05939,
+            "BTC": 12.87047,
+            "USDC": 9961022.3568,
+            "WETH": 14.33773,
+            "SOL": 1663.09779
+          }
+        },
+        {
+          "date": 1750291200,
+          "tokens": {
+            "coingecko:hyperliquid": 178554.74208,
+            "coingecko:fartcoin": 1257219.13107,
+            "USDE": 73976.72,
+            "BTC": 13.13765,
+            "SOL": 1543.03948,
+            "USDC": 9922660.01428,
+            "WETH": 14.32923
+          }
+        },
+        {
+          "date": 1750377600,
+          "tokens": {
+            "coingecko:hyperliquid": 189597.13195,
+            "coingecko:fartcoin": 1254370.44628,
+            "USDE": 75964.36459,
+            "SOL": 1525.13957,
+            "BTC": 13.12147,
+            "USDC": 10342996.63865,
+            "WETH": 14.36153
+          }
+        },
+        {
+          "date": 1750464000,
+          "tokens": {
+            "coingecko:hyperliquid": 180686.27133,
+            "coingecko:fartcoin": 1195684.71298,
+            "SOL": 1518.66026,
+            "USDC": 11201427.4347,
+            "USDE": 82799.76148,
+            "WETH": 14.18366,
+            "BTC": 13.5712
+          }
+        },
+        {
+          "date": 1750550400,
+          "tokens": {
+            "coingecko:hyperliquid": 293449.60103,
+            "coingecko:fartcoin": 1273386.62007,
+            "BTC": 13.8702,
+            "USDC": 15842347.63153,
+            "SOL": 1646.46335,
+            "USDE": 172625.92338,
+            "WETH": 27.54859
+          }
+        },
+        {
+          "date": 1750636800,
+          "tokens": {
+            "coingecko:fartcoin": 1279916.73454,
+            "coingecko:hyperliquid": 341594.38843,
+            "WETH": 27.54859,
+            "BTC": 13.92963,
+            "SOL": 1658.86336,
+            "USDE": 197342.28335,
+            "USDC": 16846945.94805
+          }
+        },
+        {
+          "date": 1750723200,
+          "tokens": {
+            "coingecko:hyperliquid": 347544.29595,
+            "coingecko:fartcoin": 1279062.81557,
+            "SOL": 1647.66604,
+            "WETH": 27.49819,
+            "USDE": 195867.70154,
+            "BTC": 13.86781,
+            "USDC": 16488099.8694
+          }
+        },
+        {
+          "date": 1750809600,
+          "tokens": {
+            "coingecko:hyperliquid": 343994.53483,
+            "coingecko:fartcoin": 1262768.50669,
+            "BTC": 13.71235,
+            "USDE": 198998.14489,
+            "WETH": 27.49819,
+            "USDC": 15666826.61523,
+            "SOL": 1625.58515
+          }
+        },
+        {
+          "date": 1750896000,
+          "tokens": {
+            "coingecko:hyperliquid": 346178.14246,
+            "coingecko:fartcoin": 1317442.30346,
+            "USDC": 15177680.23223,
+            "USDE": 223639.09152,
+            "SOL": 1659.94246,
+            "BTC": 13.81202,
+            "WETH": 27.42484
+          }
+        },
+        {
+          "date": 1750982400,
+          "tokens": {
+            "coingecko:hyperliquid": 346890.82287,
+            "coingecko:fartcoin": 1289598.14432,
+            "USDE": 237122.58362,
+            "WETH": 27.42484,
+            "BTC": 13.78772,
+            "USDC": 15917155.60091,
+            "SOL": 1659.82414
+          }
+        },
+        {
+          "date": 1751068800,
+          "tokens": {
+            "coingecko:hyperliquid": 357107.59323,
+            "coingecko:fartcoin": 1298931.55397,
+            "SOL": 1652.3293,
+            "USDC": 16946793.78683,
+            "USDE": 249923.79703,
+            "BTC": 13.88361,
+            "WETH": 27.32794
+          }
+        },
+        {
+          "date": 1751155200,
+          "tokens": {
+            "coingecko:hyperliquid": 349762.32874,
+            "coingecko:fartcoin": 1283516.60659,
+            "USDC": 16412366.40269,
+            "SOL": 1625.25705,
+            "WETH": 27.17595,
+            "USDE": 246339.14506,
+            "BTC": 13.83285
+          }
+        },
+        {
+          "date": 1751241600,
+          "tokens": {
+            "coingecko:hyperliquid": 349412.222,
+            "coingecko:fartcoin": 1277633.36753,
+            "USDE": 257536.86332,
+            "BTC": 14.26948,
+            "USDC": 15682496.57438,
+            "SOL": 1652.0154,
+            "WETH": 27.17592
+          }
+        },
+        {
+          "date": 1751328000,
+          "tokens": {
+            "coingecko:hyperliquid": 351690.22991,
+            "coingecko:fartcoin": 1307679.05001,
+            "USDC": 14983403.23199,
+            "SOL": 1668.17297,
+            "BTC": 14.66243,
+            "WETH": 27.16892,
+            "USDE": 270008.02766
+          }
+        },
+        {
+          "date": 1751414400,
+          "tokens": {
+            "coingecko:hyperliquid": 342915.04089,
+            "coingecko:fartcoin": 1352015.09824,
+            "USDE": 327450.76628,
+            "WETH": 27.16883,
+            "BTC": 25.72151,
+            "USDC": 16430820.24029,
+            "SOL": 1693.3305
+          }
+        },
+        {
+          "date": 1751500800,
+          "tokens": {
+            "coingecko:hyperliquid": 347645.2636,
+            "coingecko:fartcoin": 1344299.48112,
+            "USDC": 17732076.70558,
+            "SOL": 1642.56355,
+            "USDE": 244115.66824,
+            "BTC": 34.94183,
+            "WETH": 27.23448
+          }
+        },
+        {
+          "date": 1751587200,
+          "tokens": {
+            "coingecko:hyperliquid": 354249.39131,
+            "coingecko:fartcoin": 1337902.03548,
+            "USDE": 234769.49021,
+            "USDC": 17938341.00505,
+            "SOL": 2518.05413,
+            "WETH": 29.74034,
+            "BTC": 36.99527
+          }
+        },
+        {
+          "date": 1751673600,
+          "tokens": {
+            "coingecko:hyperliquid": 355277.96062,
+            "coingecko:fartcoin": 1388667.82024,
+            "USDE": 239947.02781,
+            "BTC": 36.78568,
+            "USDC": 18105300.25623,
+            "SOL": 3749.05314,
+            "WETH": 30.40825
+          }
+        },
+        {
+          "date": 1751760000,
+          "tokens": {
+            "coingecko:hyperliquid": 351218.22093,
+            "coingecko:fartcoin": 2506993.64058,
+            "USDE": 230524.79385,
+            "SOL": 2583.35019,
+            "BTC": 33.31153,
+            "USDC": 19185924.25199,
+            "WETH": 30.15102
+          }
+        },
+        {
+          "date": 1751846400,
+          "tokens": {
+            "coingecko:fartcoin": 2531329.62298,
+            "coingecko:hyperliquid": 351135.31992,
+            "USDC": 19235164.28112,
+            "BTC": 33.0797,
+            "WETH": 30.15094,
+            "USDE": 234383.78933,
+            "SOL": 2675.35463
+          }
+        },
+        {
+          "date": 1751932800,
+          "tokens": {
+            "coingecko:hyperliquid": 344939.15475,
+            "coingecko:fartcoin": 2592714.65862,
+            "BTC": 34.93387,
+            "SOL": 2712.96051,
+            "USDE": 224714.3003,
+            "WETH": 30.08994,
+            "USDC": 19138099.93252
+          }
+        },
+        {
+          "date": 1752019200,
+          "tokens": {
+            "coingecko:hyperliquid": 337279.739,
+            "coingecko:fartcoin": 2564789.29632,
+            "SOL": 3167.41771,
+            "BTC": 30.82216,
+            "USDE": 218850.81844,
+            "WETH": 62.53606,
+            "USDC": 19099468.15486
+          }
+        },
+        {
+          "date": 1752105600,
+          "tokens": {
+            "coingecko:hyperliquid": 338780.91155,
+            "coingecko:fartcoin": 2540990.01893,
+            "BTC": 31.67914,
+            "USDE": 223751.04739,
+            "WETH": 100.55528,
+            "USDC": 19258292.58767,
+            "SOL": 2961.12645
+          }
+        },
+        {
+          "date": 1752192000,
+          "tokens": {
+            "coingecko:hyperliquid": 323381.4168,
+            "coingecko:fartcoin": 2458493.5756,
+            "BTC": 31.96767,
+            "USDC": 17892942.2115,
+            "USDE": 195595.549,
+            "SOL": 3155.71795,
+            "WETH": 139.93753
+          }
+        },
+        {
+          "date": 1752278400,
+          "tokens": {
+            "coingecko:hyperliquid": 315300.49554,
+            "coingecko:fartcoin": 2560990.52335,
+            "BTC": 31.11216,
+            "USDE": 186408.87455,
+            "USDC": 15771298.46958,
+            "SOL": 2985.02822,
+            "WETH": 136.4111
+          }
+        },
+        {
+          "date": 1752364800,
+          "tokens": {
+            "coingecko:fartcoin": 2501474.07605,
+            "coingecko:hyperliquid": 312154.55837,
+            "USDC": 15926485.53187,
+            "SOL": 2905.94449,
+            "USDE": 184210.25144,
+            "WETH": 131.43334,
+            "BTC": 30.8721
+          }
+        },
+        {
+          "date": 1752451200,
+          "tokens": {
+            "coingecko:hyperliquid": 315214.29779,
+            "coingecko:fartcoin": 2538227.88819,
+            "USDE": 184975.82422,
+            "WETH": 142.43947,
+            "USDC": 15296206.31541,
+            "BTC": 31.37517,
+            "SOL": 3095.57164
+          }
+        },
+        {
+          "date": 1752537600,
+          "tokens": {
+            "coingecko:pump-fun": 930583145.81027,
+            "coingecko:hyperliquid": 257952.73541,
+            "coingecko:fartcoin": 2121282.7191,
+            "USDC": 18969900.03782,
+            "SOL": 2612.1667,
+            "BTC": 24.63454,
+            "USDE": 163971.74281,
+            "WETH": 178.20627
+          }
+        },
+        {
+          "date": 1752624000,
+          "tokens": {
+            "coingecko:pump-fun": 1180434014.34713,
+            "coingecko:hyperliquid": 253642.14377,
+            "coingecko:fartcoin": 2431775.77595,
+            "WETH": 192.73671,
+            "USDC": 20058775.92102,
+            "SOL": 2313.23752,
+            "USDE": 155036.58612,
+            "BTC": 21.72665
+          }
+        },
+        {
+          "date": 1752710400,
+          "tokens": {
+            "coingecko:hyperliquid": 242622.28144,
+            "coingecko:fartcoin": 2381964.34017,
+            "coingecko:pump-fun": 1228625241.42947,
+            "SOL": 2766.59979,
+            "USDE": 156755.92889,
+            "BTC": 26.5209,
+            "USDC": 19601658.12483,
+            "WETH": 218.25791
+          }
+        },
+        {
+          "date": 1752796800,
+          "tokens": {
+            "coingecko:fartcoin": 2415328.34666,
+            "coingecko:hyperliquid": 255094.13959,
+            "coingecko:pump-fun": 1236592596.0264,
+            "USDE": 156848.41013,
+            "USDC": 21394351.88023,
+            "WETH": 223.19613,
+            "BTC": 31.95886,
+            "SOL": 2939.54102
+          }
+        },
+        {
+          "date": 1752883200,
+          "tokens": {
+            "coingecko:fartcoin": 2451457.38149,
+            "coingecko:pump-fun": 1250618551.76052,
+            "coingecko:hyperliquid": 248475.39859,
+            "WETH": 280.94418,
+            "USDC": 22940959.78754,
+            "SOL": 3398.14922,
+            "BTC": 34.24969,
+            "USDE": 148494.3497
+          }
+        },
+        {
+          "date": 1752969600,
+          "tokens": {
+            "coingecko:hyperliquid": 247664.7516,
+            "coingecko:pump-fun": 1494300375.13756,
+            "coingecko:fartcoin": 2474541.65762,
+            "SOL": 3280.12328,
+            "WETH": 273.0637,
+            "USDC": 24728996.32943,
+            "BTC": 29.479,
+            "USDE": 144574.06945
+          }
+        },
+        {
+          "date": 1753056000,
+          "tokens": {
+            "coingecko:pump-fun": 1473719794.63764,
+            "coingecko:hyperliquid": 250586.62186,
+            "coingecko:fartcoin": 2643573.49002,
+            "SOL": 3184.16961,
+            "USDE": 142640.84403,
+            "WETH": 271.51798,
+            "BTC": 31.57555,
+            "USDC": 25102798.76281
+          }
+        },
+        {
+          "date": 1753142400,
+          "tokens": {
+            "coingecko:hyperliquid": 249054.6763,
+            "coingecko:fartcoin": 2864448.06683,
+            "coingecko:pump-fun": 1478280954.0231,
+            "USDE": 184016.48458,
+            "SOL": 3608.24061,
+            "BTC": 32.25983,
+            "WETH": 285.58102,
+            "USDC": 25169108.2446
+          }
+        },
+        {
+          "date": 1753228800,
+          "tokens": {
+            "coingecko:hyperliquid": 244137.44121,
+            "coingecko:fartcoin": 2980842.27922,
+            "coingecko:pump-fun": 1599265248.16155,
+            "USDC": 26695975.98148,
+            "USDE": 190892.5039,
+            "BTC": 42.34002,
+            "SOL": 4060.76121,
+            "WETH": 326.16515
+          }
+        },
+        {
+          "date": 1753315200,
+          "tokens": {
+            "coingecko:fartcoin": 3030350.88715,
+            "coingecko:pump-fun": 1891292845.05375,
+            "coingecko:hyperliquid": 260125.32779,
+            "WETH": 403.76495,
+            "USDC": 29242983.91393,
+            "BTC": 43.53893,
+            "SOL": 5716.54103,
+            "USDE": 192711.60025
+          }
+        },
+        {
+          "date": 1753401600,
+          "tokens": {
+            "coingecko:pump-fun": 1820650534.14727,
+            "coingecko:hyperliquid": 284866.91301,
+            "coingecko:fartcoin": 3090180.66103,
+            "SOL": 6610.10531,
+            "BTC": 47.92101,
+            "USDE": 201439.70874,
+            "WETH": 461.05498,
+            "USDC": 31664434.18943
+          }
+        },
+        {
+          "date": 1753488000,
+          "tokens": {
+            "coingecko:pump-fun": 1693233411.79723,
+            "coingecko:hyperliquid": 291436.97425,
+            "coingecko:fartcoin": 2965223.50657,
+            "USDC": 32745189.93991,
+            "USDE": 201216.2465,
+            "WETH": 491.42873,
+            "BTC": 52.38046,
+            "SOL": 6244.6862
+          }
+        },
+        {
+          "date": 1753574400,
+          "tokens": {
+            "coingecko:hyperliquid": 303719.0802,
+            "coingecko:fartcoin": 2934250.79716,
+            "coingecko:pump-fun": 1667457062.6201,
+            "WETH": 494.90198,
+            "USDC": 32522645.80491,
+            "SOL": 7050.24245,
+            "USDE": 197275.48236,
+            "BTC": 59.02528
+          }
+        },
+        {
+          "date": 1753660800,
+          "tokens": {
+            "coingecko:pump-fun": 1638573586.73951,
+            "coingecko:hyperliquid": 317964.7005,
+            "coingecko:fartcoin": 2927817.41004,
+            "USDC": 33776305.80838,
+            "SOL": 7995.86696,
+            "BTC": 61.02919,
+            "WETH": 555.3818,
+            "USDE": 201120.9172
+          }
+        },
+        {
+          "date": 1753747200,
+          "tokens": {
+            "coingecko:pump-fun": 1587607388.91297,
+            "coingecko:hyperliquid": 361223.12987,
+            "coingecko:fartcoin": 2950568.19702,
+            "USDC": 34027759.63591,
+            "SOL": 7600.49371,
+            "BTC": 64.01631,
+            "USDE": 214126.89779,
+            "WETH": 801.5573
+          }
+        },
+        {
+          "date": 1753833600,
+          "tokens": {
+            "coingecko:pump-fun": 1470349246.58875,
+            "coingecko:hyperliquid": 375487.55273,
+            "coingecko:fartcoin": 2943922.92508,
+            "BTC": 66.34853,
+            "SOL": 7606.1209,
+            "USDC": 35342781.35712,
+            "USDE": 240710.41911,
+            "WETH": 929.91103
+          }
+        },
+        {
+          "date": 1753899887,
+          "tokens": {
+            "coingecko:pump-fun": 1481166174.904,
+            "coingecko:hyperliquid": 382761.31409,
+            "coingecko:fartcoin": 2945476.51648,
+            "USDC": 35585988.81302,
+            "SOL": 7798.15686,
+            "WETH": 946.79036,
+            "BTC": 68.63628,
+            "USDE": 243198.51941
+          }
+        }
+      ]
+    }
+  },
+  "tvl": [
+    {
+      "date": 1744070400,
+      "totalLiquidityUSD": 18107.53
+    },
+    {
+      "date": 1744156800,
+      "totalLiquidityUSD": 20249.0214
+    },
+    {
+      "date": 1744243200,
+      "totalLiquidityUSD": 28876.71991
+    },
+    {
+      "date": 1744329600,
+      "totalLiquidityUSD": 30649.38259
+    },
+    {
+      "date": 1744416000,
+      "totalLiquidityUSD": 36596.63803
+    },
+    {
+      "date": 1744502400,
+      "totalLiquidityUSD": 36824.56973
+    },
+    {
+      "date": 1744588800,
+      "totalLiquidityUSD": 34784.50484
+    },
+    {
+      "date": 1744675200,
+      "totalLiquidityUSD": 37165.74643
+    },
+    {
+      "date": 1744761600,
+      "totalLiquidityUSD": 35970.58034
+    },
+    {
+      "date": 1744848000,
+      "totalLiquidityUSD": 38196.02219
+    },
+    {
+      "date": 1744934400,
+      "totalLiquidityUSD": 46425.4728
+    },
+    {
+      "date": 1745020800,
+      "totalLiquidityUSD": 42157.31193
+    },
+    {
+      "date": 1745107200,
+      "totalLiquidityUSD": 45841.33945
+    },
+    {
+      "date": 1745193600,
+      "totalLiquidityUSD": 46945.61571
+    },
+    {
+      "date": 1745280000,
+      "totalLiquidityUSD": 53013.50619
+    },
+    {
+      "date": 1745366400,
+      "totalLiquidityUSD": 57054.74776
+    },
+    {
+      "date": 1745452800,
+      "totalLiquidityUSD": 54769.92198
+    },
+    {
+      "date": 1745539200,
+      "totalLiquidityUSD": 55543.04908
+    },
+    {
+      "date": 1745625600,
+      "totalLiquidityUSD": 54396.73692
+    },
+    {
+      "date": 1745712000,
+      "totalLiquidityUSD": 53026.09308
+    },
+    {
+      "date": 1745798400,
+      "totalLiquidityUSD": 48667.33478
+    },
+    {
+      "date": 1745884800,
+      "totalLiquidityUSD": 54792.06002
+    },
+    {
+      "date": 1745971200,
+      "totalLiquidityUSD": 51654.01542
+    },
+    {
+      "date": 1746057600,
+      "totalLiquidityUSD": 55798.44277
+    },
+    {
+      "date": 1746144000,
+      "totalLiquidityUSD": 76864.47147
+    },
+    {
+      "date": 1746230400,
+      "totalLiquidityUSD": 167330.70857
+    },
+    {
+      "date": 1746316800,
+      "totalLiquidityUSD": 230345.89578
+    },
+    {
+      "date": 1746403200,
+      "totalLiquidityUSD": 241194.44986
+    },
+    {
+      "date": 1746489600,
+      "totalLiquidityUSD": 256684.6605
+    },
+    {
+      "date": 1746576000,
+      "totalLiquidityUSD": 265655.05548
+    },
+    {
+      "date": 1746662400,
+      "totalLiquidityUSD": 266348.15333
+    },
+    {
+      "date": 1746748800,
+      "totalLiquidityUSD": 294263.90751
+    },
+    {
+      "date": 1746835200,
+      "totalLiquidityUSD": 396920.57915
+    },
+    {
+      "date": 1746921600,
+      "totalLiquidityUSD": 503903.11116
+    },
+    {
+      "date": 1747008000,
+      "totalLiquidityUSD": 561416.40616
+    },
+    {
+      "date": 1747094400,
+      "totalLiquidityUSD": 558672.6713
+    },
+    {
+      "date": 1747180800,
+      "totalLiquidityUSD": 581775.19662
+    },
+    {
+      "date": 1747267200,
+      "totalLiquidityUSD": 567391.66593
+    },
+    {
+      "date": 1747353600,
+      "totalLiquidityUSD": 587036.83536
+    },
+    {
+      "date": 1747440000,
+      "totalLiquidityUSD": 604315.50985
+    },
+    {
+      "date": 1747526400,
+      "totalLiquidityUSD": 581651.26924
+    },
+    {
+      "date": 1747612800,
+      "totalLiquidityUSD": 606866.01505
+    },
+    {
+      "date": 1747699200,
+      "totalLiquidityUSD": 1020047.9487
+    },
+    {
+      "date": 1747785600,
+      "totalLiquidityUSD": 1809332.45364
+    },
+    {
+      "date": 1747872000,
+      "totalLiquidityUSD": 5963006.47729
+    },
+    {
+      "date": 1747958400,
+      "totalLiquidityUSD": 5761026.10313
+    },
+    {
+      "date": 1748044800,
+      "totalLiquidityUSD": 5455511.03972
+    },
+    {
+      "date": 1748131200,
+      "totalLiquidityUSD": 5533871.14449
+    },
+    {
+      "date": 1748217600,
+      "totalLiquidityUSD": 5553505.12112
+    },
+    {
+      "date": 1748304000,
+      "totalLiquidityUSD": 5525815.15325
+    },
+    {
+      "date": 1748390400,
+      "totalLiquidityUSD": 5419101.83667
+    },
+    {
+      "date": 1748476800,
+      "totalLiquidityUSD": 5260967.99169
+    },
+    {
+      "date": 1748563200,
+      "totalLiquidityUSD": 5058608.53827
+    },
+    {
+      "date": 1748649600,
+      "totalLiquidityUSD": 4964219.4861
+    },
+    {
+      "date": 1748736000,
+      "totalLiquidityUSD": 4984360.4241
+    },
+    {
+      "date": 1748822400,
+      "totalLiquidityUSD": 5091565.20844
+    },
+    {
+      "date": 1748908800,
+      "totalLiquidityUSD": 5202373.96946
+    },
+    {
+      "date": 1748995200,
+      "totalLiquidityUSD": 5123882.82537
+    },
+    {
+      "date": 1749081600,
+      "totalLiquidityUSD": 19987026.856
+    },
+    {
+      "date": 1749168000,
+      "totalLiquidityUSD": 19681426.4056
+    },
+    {
+      "date": 1749254400,
+      "totalLiquidityUSD": 19469194.69926
+    },
+    {
+      "date": 1749340800,
+      "totalLiquidityUSD": 19925528.41325
+    },
+    {
+      "date": 1749427200,
+      "totalLiquidityUSD": 19954998.68615
+    },
+    {
+      "date": 1749513600,
+      "totalLiquidityUSD": 21013165.09485
+    },
+    {
+      "date": 1749600000,
+      "totalLiquidityUSD": 20658539.16021
+    },
+    {
+      "date": 1749686400,
+      "totalLiquidityUSD": 20017591.15095
+    },
+    {
+      "date": 1749772800,
+      "totalLiquidityUSD": 19903937.89625
+    },
+    {
+      "date": 1749859200,
+      "totalLiquidityUSD": 20583461.69061
+    },
+    {
+      "date": 1749945600,
+      "totalLiquidityUSD": 19564823.80687
+    },
+    {
+      "date": 1750032000,
+      "totalLiquidityUSD": 20507863.45995
+    },
+    {
+      "date": 1750118400,
+      "totalLiquidityUSD": 19540488.46872
+    },
+    {
+      "date": 1750204800,
+      "totalLiquidityUSD": 20172231.70803
+    },
+    {
+      "date": 1750291200,
+      "totalLiquidityUSD": 20060289.41821
+    },
+    {
+      "date": 1750377600,
+      "totalLiquidityUSD": 20347937.65557
+    },
+    {
+      "date": 1750464000,
+      "totalLiquidityUSD": 20069009.92263
+    },
+    {
+      "date": 1750550400,
+      "totalLiquidityUSD": 28742928.71036
+    },
+    {
+      "date": 1750636800,
+      "totalLiquidityUSD": 32096760.81727
+    },
+    {
+      "date": 1750723200,
+      "totalLiquidityUSD": 33119011.98738
+    },
+    {
+      "date": 1750809600,
+      "totalLiquidityUSD": 31791814.38098
+    },
+    {
+      "date": 1750896000,
+      "totalLiquidityUSD": 31287910.0955
+    },
+    {
+      "date": 1750982400,
+      "totalLiquidityUSD": 31552395.57777
+    },
+    {
+      "date": 1751068800,
+      "totalLiquidityUSD": 33323955.82422
+    },
+    {
+      "date": 1751155200,
+      "totalLiquidityUSD": 33074447.60852
+    },
+    {
+      "date": 1751241600,
+      "totalLiquidityUSD": 33176097.47117
+    },
+    {
+      "date": 1751328000,
+      "totalLiquidityUSD": 32502453.05448
+    },
+    {
+      "date": 1751414400,
+      "totalLiquidityUSD": 33833658.15202
+    },
+    {
+      "date": 1751500800,
+      "totalLiquidityUSD": 37607257.54529
+    },
+    {
+      "date": 1751587200,
+      "totalLiquidityUSD": 38560730.49203
+    },
+    {
+      "date": 1751673600,
+      "totalLiquidityUSD": 38481982.92497
+    },
+    {
+      "date": 1751760000,
+      "totalLiquidityUSD": 40167153.62938
+    },
+    {
+      "date": 1751846400,
+      "totalLiquidityUSD": 40501475.75669
+    },
+    {
+      "date": 1751932800,
+      "totalLiquidityUSD": 39784232.49646
+    },
+    {
+      "date": 1752019200,
+      "totalLiquidityUSD": 39139440.65935
+    },
+    {
+      "date": 1752105600,
+      "totalLiquidityUSD": 40393296.92364
+    },
+    {
+      "date": 1752192000,
+      "totalLiquidityUSD": 40135128.0892
+    },
+    {
+      "date": 1752278400,
+      "totalLiquidityUSD": 38371744.87669
+    },
+    {
+      "date": 1752364800,
+      "totalLiquidityUSD": 38419911.83423
+    },
+    {
+      "date": 1752451200,
+      "totalLiquidityUSD": 38784973.94553
+    },
+    {
+      "date": 1752537600,
+      "totalLiquidityUSD": 43444237.29063
+    },
+    {
+      "date": 1752624000,
+      "totalLiquidityUSD": 46934034.81383
+    },
+    {
+      "date": 1752710400,
+      "totalLiquidityUSD": 46137879.48876
+    },
+    {
+      "date": 1752796800,
+      "totalLiquidityUSD": 47891271.53613
+    },
+    {
+      "date": 1752883200,
+      "totalLiquidityUSD": 48323103.41968
+    },
+    {
+      "date": 1752969600,
+      "totalLiquidityUSD": 50570547.9845
+    },
+    {
+      "date": 1753056000,
+      "totalLiquidityUSD": 52076574.57643
+    },
+    {
+      "date": 1753142400,
+      "totalLiquidityUSD": 52655568.73979
+    },
+    {
+      "date": 1753228800,
+      "totalLiquidityUSD": 56344631.27396
+    },
+    {
+      "date": 1753315200,
+      "totalLiquidityUSD": 58954077.45842
+    },
+    {
+      "date": 1753401600,
+      "totalLiquidityUSD": 61343172.01518
+    },
+    {
+      "date": 1753488000,
+      "totalLiquidityUSD": 63668233.00604
+    },
+    {
+      "date": 1753574400,
+      "totalLiquidityUSD": 64627852.03956
+    },
+    {
+      "date": 1753660800,
+      "totalLiquidityUSD": 67043827.38346
+    },
+    {
+      "date": 1753747200,
+      "totalLiquidityUSD": 69502634.99913
+    },
+    {
+      "date": 1753833600,
+      "totalLiquidityUSD": 71547342.7302
+    },
+    {
+      "date": 1753899887,
+      "totalLiquidityUSD": 72312161.12385
+    }
+  ],
+  "tokensInUsd": [
+    {
+      "date": 1744070400,
+      "tokens": {
+        "coingecko:hyperliquid": 17990.559,
+        "USDC": 116.97099
+      }
+    },
+    {
+      "date": 1744156800,
+      "tokens": {
+        "coingecko:hyperliquid": 20110.18251,
+        "USDC": 138.83889
+      }
+    },
+    {
+      "date": 1744243200,
+      "tokens": {
+        "coingecko:hyperliquid": 28692.21615,
+        "USDC": 184.50376
+      }
+    },
+    {
+      "date": 1744329600,
+      "tokens": {
+        "coingecko:hyperliquid": 30464.18742,
+        "USDC": 185.19517
+      }
+    },
+    {
+      "date": 1744416000,
+      "tokens": {
+        "coingecko:hyperliquid": 36379.2134,
+        "USDC": 217.42462
+      }
+    },
+    {
+      "date": 1744502400,
+      "tokens": {
+        "coingecko:hyperliquid": 36608.99912,
+        "USDC": 215.57061
+      }
+    },
+    {
+      "date": 1744588800,
+      "tokens": {
+        "coingecko:hyperliquid": 34568.93854,
+        "USDC": 215.5663
+      }
+    },
+    {
+      "date": 1744675200,
+      "tokens": {
+        "coingecko:hyperliquid": 36918.89713,
+        "USDC": 246.8493
+      }
+    },
+    {
+      "date": 1744761600,
+      "tokens": {
+        "coingecko:hyperliquid": 35702.07501,
+        "USDC": 268.50533
+      }
+    },
+    {
+      "date": 1744848000,
+      "tokens": {
+        "coingecko:hyperliquid": 37664.95984,
+        "USDC": 531.06235
+      }
+    },
+    {
+      "date": 1744934400,
+      "tokens": {
+        "coingecko:hyperliquid": 45846.5226,
+        "USDC": 578.9502
+      }
+    },
+    {
+      "date": 1745020800,
+      "tokens": {
+        "coingecko:hyperliquid": 41530.08478,
+        "USDC": 627.22715
+      }
+    },
+    {
+      "date": 1745107200,
+      "tokens": {
+        "coingecko:hyperliquid": 45183.32349,
+        "USDC": 658.01596
+      }
+    },
+    {
+      "date": 1745193600,
+      "tokens": {
+        "coingecko:hyperliquid": 46259.03977,
+        "USDC": 686.57594
+      }
+    },
+    {
+      "date": 1745280000,
+      "tokens": {
+        "coingecko:hyperliquid": 52261.15095,
+        "USDC": 752.35524
+      }
+    },
+    {
+      "date": 1745366400,
+      "tokens": {
+        "coingecko:hyperliquid": 56284.31469,
+        "USDC": 770.43307
+      }
+    },
+    {
+      "date": 1745452800,
+      "tokens": {
+        "coingecko:hyperliquid": 53998.78505,
+        "USDC": 771.13693
+      }
+    },
+    {
+      "date": 1745539200,
+      "tokens": {
+        "coingecko:hyperliquid": 54801.7593,
+        "USDC": 741.28978
+      }
+    },
+    {
+      "date": 1745625600,
+      "tokens": {
+        "coingecko:hyperliquid": 53633.99918,
+        "USDC": 762.73774
+      }
+    },
+    {
+      "date": 1745712000,
+      "tokens": {
+        "coingecko:hyperliquid": 52272.47017,
+        "USDC": 753.6229
+      }
+    },
+    {
+      "date": 1745798400,
+      "tokens": {
+        "coingecko:hyperliquid": 47937.7154,
+        "USDC": 729.61938
+      }
+    },
+    {
+      "date": 1745884800,
+      "tokens": {
+        "coingecko:hyperliquid": 54033.98734,
+        "USDC": 758.07268
+      }
+    },
+    {
+      "date": 1745971200,
+      "tokens": {
+        "coingecko:hyperliquid": 50935.44043,
+        "USDC": 718.57498
+      }
+    },
+    {
+      "date": 1746057600,
+      "tokens": {
+        "coingecko:hyperliquid": 55084.52618,
+        "USDC": 713.91659
+      }
+    },
+    {
+      "date": 1746144000,
+      "tokens": {
+        "coingecko:hyperliquid": 76372.52895,
+        "USDC": 491.94253
+      }
+    },
+    {
+      "date": 1746230400,
+      "tokens": {
+        "coingecko:hyperliquid": 166750.03327,
+        "USDC": 580.6753
+      }
+    },
+    {
+      "date": 1746316800,
+      "tokens": {
+        "coingecko:hyperliquid": 229639.77528,
+        "USDC": 706.12051
+      }
+    },
+    {
+      "date": 1746403200,
+      "tokens": {
+        "coingecko:hyperliquid": 240463.05838,
+        "USDC": 731.39148
+      }
+    },
+    {
+      "date": 1746489600,
+      "tokens": {
+        "coingecko:hyperliquid": 255970.71018,
+        "USDC": 713.95032
+      }
+    },
+    {
+      "date": 1746576000,
+      "tokens": {
+        "coingecko:hyperliquid": 264941.05589,
+        "USDC": 713.99959
+      }
+    },
+    {
+      "date": 1746662400,
+      "tokens": {
+        "coingecko:hyperliquid": 265641.49366,
+        "USDC": 706.65967
+      }
+    },
+    {
+      "date": 1746748800,
+      "tokens": {
+        "coingecko:hyperliquid": 293557.21886,
+        "USDC": 706.68865
+      }
+    },
+    {
+      "date": 1746835200,
+      "tokens": {
+        "coingecko:hyperliquid": 395928.65139,
+        "USDC": 991.92776
+      }
+    },
+    {
+      "date": 1746921600,
+      "tokens": {
+        "coingecko:hyperliquid": 502716.87799,
+        "USDC": 1186.23318
+      }
+    },
+    {
+      "date": 1747008000,
+      "tokens": {
+        "coingecko:hyperliquid": 559871.52179,
+        "USDC": 1544.88438
+      }
+    },
+    {
+      "date": 1747094400,
+      "tokens": {
+        "coingecko:hyperliquid": 557079.41704,
+        "USDC": 1593.25426
+      }
+    },
+    {
+      "date": 1747180800,
+      "tokens": {
+        "coingecko:hyperliquid": 580182.28801,
+        "USDC": 1592.90862
+      }
+    },
+    {
+      "date": 1747267200,
+      "tokens": {
+        "coingecko:hyperliquid": 565803.88733,
+        "USDC": 1587.7786
+      }
+    },
+    {
+      "date": 1747353600,
+      "tokens": {
+        "coingecko:hyperliquid": 585455.40093,
+        "USDC": 1581.43443
+      }
+    },
+    {
+      "date": 1747440000,
+      "tokens": {
+        "coingecko:hyperliquid": 602734.077,
+        "USDC": 1581.43284
+      }
+    },
+    {
+      "date": 1747526400,
+      "tokens": {
+        "coingecko:hyperliquid": 580069.83956,
+        "USDC": 1581.42968
+      }
+    },
+    {
+      "date": 1747612800,
+      "tokens": {
+        "coingecko:hyperliquid": 605282.43283,
+        "USDC": 1583.58223
+      }
+    },
+    {
+      "date": 1747699200,
+      "tokens": {
+        "coingecko:hyperliquid": 573153.50707,
+        "coingecko:fartcoin": 15327.15577,
+        "BTC": 444.1554,
+        "USDC": 428615.88489,
+        "USDE": 894.34296,
+        "SOL": 1152.99632,
+        "WETH": 459.90629
+      }
+    },
+    {
+      "date": 1747785600,
+      "tokens": {
+        "coingecko:hyperliquid": 786509.72692,
+        "coingecko:fartcoin": 152530.54556,
+        "USDE": 25242.99591,
+        "USDC": 815350.13336,
+        "WETH": 5566.60924,
+        "BTC": 20077.02999,
+        "SOL": 4055.41266
+      }
+    },
+    {
+      "date": 1747872000,
+      "tokens": {
+        "coingecko:hyperliquid": 1550721.02263,
+        "coingecko:fartcoin": 1051764.21799,
+        "BTC": 330930.18746,
+        "USDE": 41653.27063,
+        "SOL": 66602.77203,
+        "USDC": 2863934.2507,
+        "WETH": 57400.75586
+      }
+    },
+    {
+      "date": 1747958400,
+      "tokens": {
+        "coingecko:fartcoin": 1136075.80492,
+        "coingecko:hyperliquid": 1498431.55368,
+        "BTC": 342111.23565,
+        "USDE": 42327.49233,
+        "USDC": 2613926.61215,
+        "SOL": 68337.3911,
+        "WETH": 59816.0133
+      }
+    },
+    {
+      "date": 1748044800,
+      "tokens": {
+        "coingecko:hyperliquid": 1395043.38205,
+        "coingecko:fartcoin": 1051364.22113,
+        "WETH": 56624.99843,
+        "USDC": 2525968.09162,
+        "BTC": 318219.6401,
+        "SOL": 65963.10108,
+        "USDE": 42327.60531
+      }
+    },
+    {
+      "date": 1748131200,
+      "tokens": {
+        "coingecko:hyperliquid": 1491212.6106,
+        "coingecko:fartcoin": 1032260.65051,
+        "USDE": 42686.82508,
+        "WETH": 56723.82454,
+        "BTC": 316207.12618,
+        "SOL": 70817.65313,
+        "USDC": 2523962.45445
+      }
+    },
+    {
+      "date": 1748217600,
+      "tokens": {
+        "coingecko:hyperliquid": 1657083.52011,
+        "coingecko:fartcoin": 990233.60428,
+        "USDE": 27511.16568,
+        "BTC": 300890.93816,
+        "SOL": 60557.00522,
+        "WETH": 47973.59096,
+        "USDC": 2469255.2967
+      }
+    },
+    {
+      "date": 1748304000,
+      "tokens": {
+        "coingecko:hyperliquid": 1655257.35445,
+        "coingecko:fartcoin": 896318.21054,
+        "USDE": 27034.89592,
+        "BTC": 319793.27126,
+        "USDC": 2519726.52631,
+        "WETH": 47732.28314,
+        "SOL": 59952.61162
+      }
+    },
+    {
+      "date": 1748390400,
+      "tokens": {
+        "coingecko:hyperliquid": 1572366.40894,
+        "coingecko:fartcoin": 868586.69459,
+        "USDC": 2510557.96072,
+        "WETH": 42793.5228,
+        "BTC": 338695.79627,
+        "SOL": 59481.36367,
+        "USDE": 26620.08968
+      }
+    },
+    {
+      "date": 1748476800,
+      "tokens": {
+        "coingecko:hyperliquid": 1526612.96438,
+        "coingecko:fartcoin": 782677.40408,
+        "SOL": 57904.0834,
+        "BTC": 330985.8179,
+        "USDE": 28216.20334,
+        "WETH": 43090.54992,
+        "USDC": 2491480.96867
+      }
+    },
+    {
+      "date": 1748563200,
+      "tokens": {
+        "coingecko:hyperliquid": 1396323.04805,
+        "coingecko:fartcoin": 716701.33868,
+        "USDC": 2495038.55577,
+        "SOL": 56025.41801,
+        "USDE": 27516.8276,
+        "WETH": 42700.04444,
+        "BTC": 324303.30571
+      }
+    },
+    {
+      "date": 1748649600,
+      "tokens": {
+        "coingecko:hyperliquid": 1435654.87514,
+        "coingecko:fartcoin": 616265.06505,
+        "BTC": 310102.09031,
+        "SOL": 53523.87373,
+        "WETH": 41877.2266,
+        "USDE": 27533.65066,
+        "USDC": 2479262.70462
+      }
+    },
+    {
+      "date": 1748736000,
+      "tokens": {
+        "coingecko:fartcoin": 635534.40683,
+        "coingecko:hyperliquid": 1435821.92177,
+        "USDC": 2477711.27255,
+        "USDE": 27311.18232,
+        "SOL": 53683.35686,
+        "BTC": 312121.08185,
+        "WETH": 42177.20192
+      }
+    },
+    {
+      "date": 1748822400,
+      "tokens": {
+        "coingecko:fartcoin": 677295.08544,
+        "coingecko:hyperliquid": 1496223.45617,
+        "BTC": 315597.71163,
+        "USDE": 27456.97467,
+        "SOL": 54016.15799,
+        "WETH": 42408.19633,
+        "USDC": 2478567.62621
+      }
+    },
+    {
+      "date": 1748908800,
+      "tokens": {
+        "coingecko:hyperliquid": 1599304.33759,
+        "coingecko:fartcoin": 673637.08776,
+        "USDC": 2486628.41659,
+        "BTC": 316669.97793,
+        "USDE": 27311.39472,
+        "SOL": 54709.99478,
+        "WETH": 44112.76009
+      }
+    },
+    {
+      "date": 1748995200,
+      "tokens": {
+        "coingecko:hyperliquid": 1586453.60021,
+        "coingecko:fartcoin": 609709.57468,
+        "WETH": 44322.22167,
+        "USDE": 27311.40249,
+        "BTC": 315336.23291,
+        "SOL": 54422.63419,
+        "USDC": 2486327.15922
+      }
+    },
+    {
+      "date": 1749081600,
+      "tokens": {
+        "coingecko:hyperliquid": 6527799.84763,
+        "coingecko:fartcoin": 1747374.01782,
+        "WETH": 40670.16738,
+        "USDE": 98291.45488,
+        "SOL": 217538.2064,
+        "BTC": 1293270.01214,
+        "USDC": 10062083.14976
+      }
+    },
+    {
+      "date": 1749168000,
+      "tokens": {
+        "coingecko:hyperliquid": 6285202.47416,
+        "coingecko:fartcoin": 1861607.53423,
+        "USDC": 9983551.51823,
+        "USDE": 99443.22143,
+        "BTC": 1220617.01757,
+        "SOL": 192409.16052,
+        "WETH": 38595.47946
+      }
+    },
+    {
+      "date": 1749254400,
+      "tokens": {
+        "coingecko:hyperliquid": 6164511.65277,
+        "coingecko:fartcoin": 1731345.6948,
+        "SOL": 204458.81571,
+        "USDE": 101187.75798,
+        "USDC": 9988847.60967,
+        "BTC": 1243468.45489,
+        "WETH": 35374.71345
+      }
+    },
+    {
+      "date": 1749340800,
+      "tokens": {
+        "coingecko:fartcoin": 1795498.35087,
+        "coingecko:hyperliquid": 6471179.96657,
+        "USDE": 102740.16611,
+        "BTC": 1282394.63855,
+        "USDC": 10024690.94194,
+        "SOL": 213002.60343,
+        "WETH": 36021.74578
+      }
+    },
+    {
+      "date": 1749427200,
+      "tokens": {
+        "coingecko:fartcoin": 1835426.38578,
+        "coingecko:hyperliquid": 6465094.95093,
+        "USDC": 9999616.51092,
+        "BTC": 1309362.3154,
+        "SOL": 228625.25732,
+        "USDE": 81139.83254,
+        "WETH": 35733.43326
+      }
+    },
+    {
+      "date": 1749513600,
+      "tokens": {
+        "coingecko:hyperliquid": 7198768.22236,
+        "coingecko:fartcoin": 2083035.70688,
+        "USDC": 9988951.64982,
+        "BTC": 1333273.38902,
+        "SOL": 287351.12244,
+        "USDE": 83575.24747,
+        "WETH": 38209.75686
+      }
+    },
+    {
+      "date": 1749600000,
+      "tokens": {
+        "coingecko:hyperliquid": 7586054.32209,
+        "coingecko:fartcoin": 2366485.46634,
+        "SOL": 287340.94273,
+        "USDC": 8985557.82154,
+        "WETH": 40429.97275,
+        "USDE": 78984.24859,
+        "BTC": 1313686.38616
+      }
+    },
+    {
+      "date": 1749686400,
+      "tokens": {
+        "coingecko:hyperliquid": 7588077.73434,
+        "coingecko:fartcoin": 2121765.15943,
+        "USDC": 8604159.2397,
+        "SOL": 263225.56909,
+        "BTC": 1321763.30942,
+        "USDE": 78698.49251,
+        "WETH": 39901.64644
+      }
+    },
+    {
+      "date": 1749772800,
+      "tokens": {
+        "coingecko:hyperliquid": 7520667.40423,
+        "coingecko:fartcoin": 1709028.35947,
+        "SOL": 245552.30332,
+        "BTC": 1334362.23478,
+        "USDE": 76828.03492,
+        "WETH": 38101.47208,
+        "USDC": 8979398.08745
+      }
+    },
+    {
+      "date": 1749859200,
+      "tokens": {
+        "coingecko:fartcoin": 1706849.25005,
+        "coingecko:hyperliquid": 7783185.13003,
+        "USDE": 73635.80045,
+        "WETH": 37043.4702,
+        "USDC": 9419346.39762,
+        "SOL": 239377.88066,
+        "BTC": 1324023.7616
+      }
+    },
+    {
+      "date": 1749945600,
+      "tokens": {
+        "coingecko:fartcoin": 1574336.01359,
+        "coingecko:hyperliquid": 7416047.78999,
+        "USDE": 73928.6707,
+        "USDC": 8939680.007,
+        "SOL": 245229.20027,
+        "WETH": 36367.25289,
+        "BTC": 1279234.87242
+      }
+    },
+    {
+      "date": 1750032000,
+      "tokens": {
+        "coingecko:hyperliquid": 7639846.70777,
+        "coingecko:fartcoin": 1603304.19493,
+        "USDE": 73153.53683,
+        "BTC": 1350694.18848,
+        "SOL": 235291.84773,
+        "WETH": 36539.37164,
+        "USDC": 9569033.61257
+      }
+    },
+    {
+      "date": 1750118400,
+      "tokens": {
+        "coingecko:hyperliquid": 7520317.40069,
+        "coingecko:fartcoin": 1520490.59515,
+        "USDE": 74489.84575,
+        "BTC": 1380281.49136,
+        "WETH": 36628.45986,
+        "USDC": 8759083.47524,
+        "SOL": 249197.20066
+      }
+    },
+    {
+      "date": 1750204800,
+      "tokens": {
+        "coingecko:hyperliquid": 7109461.22075,
+        "coingecko:fartcoin": 1400850.63442,
+        "USDE": 75109.90148,
+        "BTC": 1346161.0006,
+        "USDC": 9958781.12677,
+        "WETH": 36028.7092,
+        "SOL": 245839.11481
+      }
+    },
+    {
+      "date": 1750291200,
+      "tokens": {
+        "coingecko:hyperliquid": 7018986.91111,
+        "coingecko:fartcoin": 1408085.42679,
+        "USDE": 73976.72,
+        "BTC": 1376654.52999,
+        "SOL": 225762.10633,
+        "USDC": 9920685.40493,
+        "WETH": 36138.31906
+      }
+    },
+    {
+      "date": 1750377600,
+      "tokens": {
+        "coingecko:hyperliquid": 6996134.16909,
+        "coingecko:fartcoin": 1300782.15279,
+        "USDE": 75964.36459,
+        "SOL": 224317.5284,
+        "BTC": 1373646.92373,
+        "USDC": 10340876.32433,
+        "WETH": 36216.19263
+      }
+    },
+    {
+      "date": 1750464000,
+      "tokens": {
+        "coingecko:hyperliquid": 6024080.2862,
+        "coingecko:fartcoin": 1114422.39283,
+        "SOL": 212703.55562,
+        "USDC": 11199119.94065,
+        "USDE": 82799.76148,
+        "WETH": 34128.29234,
+        "BTC": 1401755.69351
+      }
+    },
+    {
+      "date": 1750550400,
+      "tokens": {
+        "coingecko:hyperliquid": 9892186.0507,
+        "coingecko:fartcoin": 1141019.3543,
+        "BTC": 1412707.46463,
+        "USDC": 15839258.37374,
+        "SOL": 221630.43221,
+        "USDE": 173143.80115,
+        "WETH": 62983.23362
+      }
+    },
+    {
+      "date": 1750636800,
+      "tokens": {
+        "coingecko:fartcoin": 1185361.60586,
+        "coingecko:hyperliquid": 12184671.83544,
+        "WETH": 61358.69342,
+        "BTC": 1405695.1839,
+        "SOL": 218422.53859,
+        "USDE": 197539.62564,
+        "USDC": 16843711.33443
+      }
+    },
+    {
+      "date": 1750723200,
+      "tokens": {
+        "coingecko:hyperliquid": 13328323.74979,
+        "coingecko:fartcoin": 1340457.83072,
+        "SOL": 238516.1364,
+        "WETH": 66610.23445,
+        "USDE": 196063.56924,
+        "BTC": 1462985.12176,
+        "USDC": 16486055.34501
+      }
+    },
+    {
+      "date": 1750809600,
+      "tokens": {
+        "coingecko:hyperliquid": 12865395.60263,
+        "coingecko:fartcoin": 1303177.09891,
+        "BTC": 1453659.77236,
+        "USDE": 199197.14304,
+        "WETH": 67280.64026,
+        "USDC": 15665996.27342,
+        "SOL": 237107.85038
+      }
+    },
+    {
+      "date": 1750896000,
+      "tokens": {
+        "coingecko:hyperliquid": 12791282.36391,
+        "coingecko:fartcoin": 1311242.41998,
+        "USDC": 15174735.76227,
+        "USDE": 223639.09152,
+        "SOL": 238151.94486,
+        "BTC": 1482540.86961,
+        "WETH": 66317.64335
+      }
+    },
+    {
+      "date": 1750982400,
+      "tokens": {
+        "coingecko:hyperliquid": 12408284.73401,
+        "coingecko:fartcoin": 1219664.52655,
+        "USDE": 237122.58362,
+        "WETH": 66245.79028,
+        "BTC": 1474955.63117,
+        "USDC": 15915356.96233,
+        "SOL": 230765.3498
+      }
+    },
+    {
+      "date": 1751068800,
+      "tokens": {
+        "coingecko:hyperliquid": 13034427.15297,
+        "coingecko:fartcoin": 1308024.07485,
+        "SOL": 234845.5627,
+        "USDC": 16943523.05563,
+        "USDE": 250173.72083,
+        "BTC": 1486740.38095,
+        "WETH": 66221.87629
+      }
+    },
+    {
+      "date": 1751155200,
+      "tokens": {
+        "coingecko:hyperliquid": 13214020.77968,
+        "coingecko:fartcoin": 1408017.71742,
+        "USDC": 16410085.08376,
+        "SOL": 245072.5101,
+        "WETH": 66221.55186,
+        "USDE": 246336.43533,
+        "BTC": 1484693.53037
+      }
+    },
+    {
+      "date": 1751241600,
+      "tokens": {
+        "coingecko:hyperliquid": 13889135.82443,
+        "coingecko:fartcoin": 1482054.70634,
+        "USDE": 257536.86332,
+        "BTC": 1546640.64264,
+        "USDC": 15679438.48755,
+        "SOL": 253287.00101,
+        "WETH": 68003.94588
+      }
+    },
+    {
+      "date": 1751328000,
+      "tokens": {
+        "coingecko:hyperliquid": 13863628.86298,
+        "coingecko:fartcoin": 1490754.11701,
+        "USDC": 14981305.55554,
+        "SOL": 258416.67426,
+        "BTC": 1570756.57451,
+        "WETH": 67583.24253,
+        "USDE": 270008.02766
+      }
+    },
+    {
+      "date": 1751414400,
+      "tokens": {
+        "coingecko:hyperliquid": 12667281.61043,
+        "coingecko:fartcoin": 1379055.40021,
+        "USDE": 327450.76628,
+        "WETH": 65360.32374,
+        "BTC": 2717734.30714,
+        "USDC": 16428076.29331,
+        "SOL": 248699.45091
+      }
+    },
+    {
+      "date": 1751500800,
+      "tokens": {
+        "coingecko:hyperliquid": 13960025.26837,
+        "coingecko:fartcoin": 1549987.11782,
+        "USDC": 17728601.21855,
+        "SOL": 250149.67459,
+        "USDE": 244100.09761,
+        "BTC": 3804338.21485,
+        "WETH": 70055.95349
+      }
+    },
+    {
+      "date": 1751587200,
+      "tokens": {
+        "coingecko:hyperliquid": 14240825.53082,
+        "coingecko:fartcoin": 1632240.48328,
+        "USDE": 234769.49021,
+        "USDC": 17936547.17095,
+        "SOL": 383550.00565,
+        "WETH": 77043.84572,
+        "BTC": 4055753.9654
+      }
+    },
+    {
+      "date": 1751673600,
+      "tokens": {
+        "coingecko:hyperliquid": 13898473.8193,
+        "coingecko:fartcoin": 1638628.02788,
+        "USDE": 239947.02781,
+        "BTC": 3973258.3199,
+        "USDC": 18101715.40678,
+        "SOL": 553697.65871,
+        "WETH": 76262.66459
+      }
+    },
+    {
+      "date": 1751760000,
+      "tokens": {
+        "coingecko:hyperliquid": 13732632.43849,
+        "coingecko:fartcoin": 2958252.49589,
+        "USDE": 230524.79385,
+        "SOL": 381276.65417,
+        "BTC": 3604873.91768,
+        "USDC": 19183698.68478,
+        "WETH": 75894.64453
+      }
+    },
+    {
+      "date": 1751846400,
+      "tokens": {
+        "coingecko:fartcoin": 2961655.65889,
+        "coingecko:hyperliquid": 13975185.73288,
+        "USDC": 19233240.76469,
+        "BTC": 3613064.44422,
+        "WETH": 77532.24543,
+        "USDE": 234383.78933,
+        "SOL": 406413.12125
+      }
+    },
+    {
+      "date": 1751932800,
+      "tokens": {
+        "coingecko:hyperliquid": 13307752.59038,
+        "coingecko:fartcoin": 2851986.12448,
+        "BTC": 3783338.46145,
+        "SOL": 403851.30174,
+        "USDE": 224714.3003,
+        "WETH": 76518.42419,
+        "USDC": 19136071.29393
+      }
+    },
+    {
+      "date": 1752019200,
+      "tokens": {
+        "coingecko:hyperliquid": 13106690.65771,
+        "coingecko:fartcoin": 2713547.07551,
+        "SOL": 480972.3789,
+        "BTC": 3357982.31739,
+        "USDE": 219069.66926,
+        "WETH": 163563.05413,
+        "USDC": 19097615.50645
+      }
+    },
+    {
+      "date": 1752105600,
+      "tokens": {
+        "coingecko:hyperliquid": 13822261.19128,
+        "coingecko:fartcoin": 2820498.92102,
+        "BTC": 3526205.58373,
+        "USDE": 223751.04739,
+        "WETH": 278626.6041,
+        "USDC": 19256405.275,
+        "SOL": 465548.30112
+      }
+    },
+    {
+      "date": 1752192000,
+      "tokens": {
+        "coingecko:hyperliquid": 14167339.8702,
+        "coingecko:fartcoin": 3245211.51979,
+        "BTC": 3706299.23795,
+        "USDC": 17890329.84193,
+        "USDE": 195791.14455,
+        "SOL": 516748.81471,
+        "WETH": 413407.66007
+      }
+    },
+    {
+      "date": 1752278400,
+      "tokens": {
+        "coingecko:hyperliquid": 14588953.9287,
+        "coingecko:fartcoin": 3278067.86989,
+        "BTC": 3657825.04902,
+        "USDE": 186595.28343,
+        "USDC": 15770841.10192,
+        "SOL": 485873.04281,
+        "WETH": 403588.60091
+      }
+    },
+    {
+      "date": 1752364800,
+      "tokens": {
+        "coingecko:fartcoin": 3126842.59506,
+        "coingecko:hyperliquid": 14705601.24502,
+        "USDC": 15924908.8098,
+        "SOL": 466898.10072,
+        "USDE": 184394.46169,
+        "WETH": 386758.38787,
+        "BTC": 3624508.23407
+      }
+    },
+    {
+      "date": 1752451200,
+      "tokens": {
+        "coingecko:hyperliquid": 15395066.30392,
+        "coingecko:fartcoin": 3248931.69688,
+        "USDE": 185345.77587,
+        "WETH": 423747.44798,
+        "USDC": 15294523.73271,
+        "BTC": 3738445.70723,
+        "SOL": 498913.28093
+      }
+    },
+    {
+      "date": 1752537600,
+      "tokens": {
+        "coingecko:pump-fun": 5420135.00361,
+        "coingecko:hyperliquid": 12242436.82269,
+        "coingecko:fartcoin": 2736454.70764,
+        "USDC": 18967908.19831,
+        "SOL": 423928.53317,
+        "BTC": 2952325.97152,
+        "USDE": 164135.71455,
+        "WETH": 536912.33911
+      }
+    },
+    {
+      "date": 1752624000,
+      "tokens": {
+        "coingecko:pump-fun": 8028875.405,
+        "coingecko:hyperliquid": 12136776.57917,
+        "coingecko:fartcoin": 3015401.96218,
+        "WETH": 604487.84072,
+        "USDC": 20056729.92587,
+        "SOL": 379347.82049,
+        "USDE": 155036.58612,
+        "BTC": 2557378.69427
+      }
+    },
+    {
+      "date": 1752710400,
+      "tokens": {
+        "coingecko:hyperliquid": 11425083.23287,
+        "coingecko:fartcoin": 3430028.64984,
+        "coingecko:pump-fun": 7162258.55866,
+        "SOL": 481001.03934,
+        "USDE": 156912.68482,
+        "BTC": 3148481.33243,
+        "USDC": 19598678.67279,
+        "WETH": 735435.31802
+      }
+    },
+    {
+      "date": 1752796800,
+      "tokens": {
+        "coingecko:fartcoin": 3405612.96879,
+        "coingecko:hyperliquid": 11711371.94859,
+        "coingecko:pump-fun": 6115717.07476,
+        "USDE": 157005.25854,
+        "USDC": 21392276.6281,
+        "WETH": 776383.28903,
+        "BTC": 3815280.58929,
+        "SOL": 517623.77903
+      }
+    },
+    {
+      "date": 1752883200,
+      "tokens": {
+        "coingecko:fartcoin": 3309467.46501,
+        "coingecko:pump-fun": 5263090.60704,
+        "coingecko:hyperliquid": 11022753.6949,
+        "WETH": 996919.19216,
+        "USDC": 22937816.87605,
+        "SOL": 602695.74506,
+        "BTC": 4041532.14926,
+        "USDE": 148827.69021
+      }
+    },
+    {
+      "date": 1752969600,
+      "tokens": {
+        "coingecko:hyperliquid": 10993838.32356,
+        "coingecko:pump-fun": 6154664.6131,
+        "coingecko:fartcoin": 3513849.15381,
+        "SOL": 580385.01364,
+        "WETH": 981420.95946,
+        "USDC": 24725979.39188,
+        "BTC": 3475691.88554,
+        "USDE": 144718.64352
+      }
+    },
+    {
+      "date": 1753056000,
+      "tokens": {
+        "coingecko:pump-fun": 6232915.37243,
+        "coingecko:hyperliquid": 11536034.43355,
+        "coingecko:fartcoin": 3763069.74876,
+        "SOL": 577121.15423,
+        "USDE": 142830.96016,
+        "WETH": 1021502.23505,
+        "BTC": 3702837.29212,
+        "USDC": 25100263.38014
+      }
+    },
+    {
+      "date": 1753142400,
+      "tokens": {
+        "coingecko:hyperliquid": 11015688.33266,
+        "coingecko:fartcoin": 4583116.90692,
+        "coingecko:pump-fun": 6132648.53776,
+        "USDE": 184200.50106,
+        "SOL": 708441.96213,
+        "BTC": 3789529.7436,
+        "WETH": 1075301.08366,
+        "USDC": 25166641.672
+      }
+    },
+    {
+      "date": 1753228800,
+      "tokens": {
+        "coingecko:hyperliquid": 11259618.78873,
+        "coingecko:fartcoin": 4978006.60629,
+        "coingecko:pump-fun": 6087843.05691,
+        "USDC": 26692799.16034,
+        "USDE": 191083.3964,
+        "BTC": 5079235.7046,
+        "SOL": 833796.09874,
+        "WETH": 1222248.46194
+      }
+    },
+    {
+      "date": 1753315200,
+      "tokens": {
+        "coingecko:fartcoin": 4606133.34847,
+        "coingecko:pump-fun": 5828737.59331,
+        "coingecko:hyperliquid": 11372679.33086,
+        "WETH": 1465590.06398,
+        "USDC": 29237281.53206,
+        "BTC": 5166895.09784,
+        "SOL": 1083856.18004,
+        "USDE": 192904.31185
+      }
+    },
+    {
+      "date": 1753401600,
+      "tokens": {
+        "coingecko:pump-fun": 4822976.09098,
+        "coingecko:hyperliquid": 11992897.03785,
+        "coingecko:fartcoin": 4079038.47256,
+        "SOL": 1206806.92689,
+        "BTC": 5671738.59863,
+        "USDE": 201641.14845,
+        "WETH": 1709624.12846,
+        "USDC": 31658449.61137
+      }
+    },
+    {
+      "date": 1753488000,
+      "tokens": {
+        "coingecko:pump-fun": 4635091.00612,
+        "coingecko:hyperliquid": 12872771.15275,
+        "coingecko:fartcoin": 4062356.20401,
+        "USDC": 32739786.98357,
+        "USDE": 201417.46275,
+        "WETH": 1830911.11976,
+        "BTC": 6160203.50324,
+        "SOL": 1165695.57384
+      }
+    },
+    {
+      "date": 1753574400,
+      "tokens": {
+        "coingecko:hyperliquid": 13175333.69905,
+        "coingecko:fartcoin": 3873211.05225,
+        "coingecko:pump-fun": 4746483.22703,
+        "WETH": 1852160.74743,
+        "USDC": 32516499.02485,
+        "SOL": 1303871.83871,
+        "USDE": 197670.03332,
+        "BTC": 6962622.41691
+      }
+    },
+    {
+      "date": 1753660800,
+      "tokens": {
+        "coingecko:pump-fun": 4284361.97151,
+        "coingecko:hyperliquid": 13888698.11778,
+        "coingecko:fartcoin": 3952553.50356,
+        "USDC": 33769888.31028,
+        "SOL": 1507460.79774,
+        "BTC": 7289509.73143,
+        "WETH": 2150032.91305,
+        "USDE": 201322.03812
+      }
+    },
+    {
+      "date": 1753747200,
+      "tokens": {
+        "coingecko:pump-fun": 3877413.52594,
+        "coingecko:hyperliquid": 15937164.49,
+        "coingecko:fartcoin": 3422659.10855,
+        "USDC": 34020920.05622,
+        "SOL": 1399554.91222,
+        "BTC": 7573257.98975,
+        "USDE": 214341.02468,
+        "WETH": 3057323.89177
+      }
+    },
+    {
+      "date": 1753833600,
+      "tokens": {
+        "coingecko:pump-fun": 4018964.40967,
+        "coingecko:hyperliquid": 16138455.0162,
+        "coingecko:fartcoin": 3149997.52983,
+        "BTC": 7800132.81074,
+        "SOL": 1366591.74144,
+        "USDC": 35336136.91422,
+        "USDE": 240710.41911,
+        "WETH": 3496353.88898
+      }
+    },
+    {
+      "date": 1753899887,
+      "tokens": {
+        "coingecko:pump-fun": 3869117.09375,
+        "coingecko:hyperliquid": 16340080.49845,
+        "coingecko:fartcoin": 3210569.40296,
+        "USDC": 35579796.85097,
+        "SOL": 1396104.02176,
+        "WETH": 3598541.84575,
+        "BTC": 8074509.69228,
+        "USDE": 243441.71793
+      }
+    }
+  ],
+  "tokens": [
+    {
+      "date": 1744070400,
+      "tokens": {
+        "coingecko:hyperliquid": 1565.75796,
+        "USDC": 116.98374
+      }
+    },
+    {
+      "date": 1744156800,
+      "tokens": {
+        "coingecko:hyperliquid": 1793.95027,
+        "USDC": 138.85805
+      }
+    },
+    {
+      "date": 1744243200,
+      "tokens": {
+        "coingecko:hyperliquid": 2111.27418,
+        "USDC": 184.52239
+      }
+    },
+    {
+      "date": 1744329600,
+      "tokens": {
+        "coingecko:hyperliquid": 2139.339,
+        "USDC": 185.20721
+      }
+    },
+    {
+      "date": 1744416000,
+      "tokens": {
+        "coingecko:hyperliquid": 2314.19933,
+        "USDC": 217.42832
+      }
+    },
+    {
+      "date": 1744502400,
+      "tokens": {
+        "coingecko:hyperliquid": 2241.82481,
+        "USDC": 215.57643
+      }
+    },
+    {
+      "date": 1744588800,
+      "tokens": {
+        "coingecko:hyperliquid": 2241.82481,
+        "USDC": 215.57643
+      }
+    },
+    {
+      "date": 1744675200,
+      "tokens": {
+        "coingecko:hyperliquid": 2341.08416,
+        "USDC": 246.85893
+      }
+    },
+    {
+      "date": 1744761600,
+      "tokens": {
+        "coingecko:hyperliquid": 2361.24835,
+        "USDC": 268.53326
+      }
+    },
+    {
+      "date": 1744848000,
+      "tokens": {
+        "coingecko:hyperliquid": 2386.87958,
+        "USDC": 531.07085
+      }
+    },
+    {
+      "date": 1744934400,
+      "tokens": {
+        "coingecko:hyperliquid": 2676.38778,
+        "USDC": 578.98031
+      }
+    },
+    {
+      "date": 1745020800,
+      "tokens": {
+        "coingecko:hyperliquid": 2434.35432,
+        "USDC": 627.29113
+      }
+    },
+    {
+      "date": 1745107200,
+      "tokens": {
+        "coingecko:hyperliquid": 2507.39864,
+        "USDC": 658.0561
+      }
+    },
+    {
+      "date": 1745193600,
+      "tokens": {
+        "coingecko:hyperliquid": 2641.86406,
+        "USDC": 686.62194
+      }
+    },
+    {
+      "date": 1745280000,
+      "tokens": {
+        "coingecko:hyperliquid": 2879.40226,
+        "USDC": 752.43349
+      }
+    },
+    {
+      "date": 1745366400,
+      "tokens": {
+        "coingecko:hyperliquid": 2940.6643,
+        "USDC": 770.45927
+      }
+    },
+    {
+      "date": 1745452800,
+      "tokens": {
+        "coingecko:hyperliquid": 2931.53013,
+        "USDC": 771.14773
+      }
+    },
+    {
+      "date": 1745539200,
+      "tokens": {
+        "coingecko:hyperliquid": 2924.32013,
+        "USDC": 741.3187
+      }
+    },
+    {
+      "date": 1745625600,
+      "tokens": {
+        "coingecko:hyperliquid": 2914.89126,
+        "USDC": 762.73926
+      }
+    },
+    {
+      "date": 1745712000,
+      "tokens": {
+        "coingecko:hyperliquid": 2908.87424,
+        "USDC": 753.66435
+      }
+    },
+    {
+      "date": 1745798400,
+      "tokens": {
+        "coingecko:hyperliquid": 2758.21147,
+        "USDC": 729.69235
+      }
+    },
+    {
+      "date": 1745884800,
+      "tokens": {
+        "coingecko:hyperliquid": 2897.26474,
+        "USDC": 758.09997
+      }
+    },
+    {
+      "date": 1745971200,
+      "tokens": {
+        "coingecko:hyperliquid": 2748.80952,
+        "USDC": 718.58576
+      }
+    },
+    {
+      "date": 1746057600,
+      "tokens": {
+        "coingecko:hyperliquid": 2756.98329,
+        "USDC": 713.98602
+      }
+    },
+    {
+      "date": 1746144000,
+      "tokens": {
+        "coingecko:hyperliquid": 3843.60991,
+        "USDC": 491.97893
+      }
+    },
+    {
+      "date": 1746230400,
+      "tokens": {
+        "coingecko:hyperliquid": 8028.40796,
+        "USDC": 580.69969
+      }
+    },
+    {
+      "date": 1746316800,
+      "tokens": {
+        "coingecko:hyperliquid": 10961.32579,
+        "USDC": 706.1544
+      }
+    },
+    {
+      "date": 1746403200,
+      "tokens": {
+        "coingecko:hyperliquid": 12126.22584,
+        "USDC": 731.39367
+      }
+    },
+    {
+      "date": 1746489600,
+      "tokens": {
+        "coingecko:hyperliquid": 12634.28974,
+        "USDC": 714.01744
+      }
+    },
+    {
+      "date": 1746576000,
+      "tokens": {
+        "coingecko:hyperliquid": 12634.28974,
+        "USDC": 714.01744
+      }
+    },
+    {
+      "date": 1746662400,
+      "tokens": {
+        "coingecko:hyperliquid": 12631.54987,
+        "USDC": 706.73247
+      }
+    },
+    {
+      "date": 1746748800,
+      "tokens": {
+        "coingecko:hyperliquid": 12631.54987,
+        "USDC": 706.73247
+      }
+    },
+    {
+      "date": 1746835200,
+      "tokens": {
+        "coingecko:hyperliquid": 16023.01301,
+        "USDC": 992.00613
+      }
+    },
+    {
+      "date": 1746921600,
+      "tokens": {
+        "coingecko:hyperliquid": 19224.3548,
+        "USDC": 1186.26639
+      }
+    },
+    {
+      "date": 1747008000,
+      "tokens": {
+        "coingecko:hyperliquid": 22502.87467,
+        "USDC": 1544.98635
+      }
+    },
+    {
+      "date": 1747094400,
+      "tokens": {
+        "coingecko:hyperliquid": 22444.77909,
+        "USDC": 1593.25426
+      }
+    },
+    {
+      "date": 1747180800,
+      "tokens": {
+        "coingecko:hyperliquid": 22444.18909,
+        "USDC": 1592.9118
+      }
+    },
+    {
+      "date": 1747267200,
+      "tokens": {
+        "coingecko:hyperliquid": 22443.62901,
+        "USDC": 1587.87705
+      }
+    },
+    {
+      "date": 1747353600,
+      "tokens": {
+        "coingecko:hyperliquid": 22439.83905,
+        "USDC": 1581.58942
+      }
+    },
+    {
+      "date": 1747440000,
+      "tokens": {
+        "coingecko:hyperliquid": 22439.83905,
+        "USDC": 1581.58942
+      }
+    },
+    {
+      "date": 1747526400,
+      "tokens": {
+        "coingecko:hyperliquid": 22439.83905,
+        "USDC": 1581.58942
+      }
+    },
+    {
+      "date": 1747612800,
+      "tokens": {
+        "coingecko:hyperliquid": 22426.17387,
+        "USDC": 1583.78812
+      }
+    },
+    {
+      "date": 1747699200,
+      "tokens": {
+        "coingecko:hyperliquid": 21579.57481,
+        "coingecko:fartcoin": 12667.07089,
+        "BTC": 0.00421,
+        "USDC": 428685.76067,
+        "USDE": 893.44951,
+        "SOL": 6.91535,
+        "WETH": 0.18196
+      }
+    },
+    {
+      "date": 1747785600,
+      "tokens": {
+        "coingecko:hyperliquid": 29679.61234,
+        "coingecko:fartcoin": 117331.18889,
+        "USDE": 25217.77813,
+        "USDC": 815483.87271,
+        "WETH": 2.2061,
+        "BTC": 0.18801,
+        "SOL": 24.0663
+      }
+    },
+    {
+      "date": 1747872000,
+      "tokens": {
+        "coingecko:hyperliquid": 55048.6696,
+        "coingecko:fartcoin": 745932.0695,
+        "BTC": 3.0174,
+        "USDE": 41611.65897,
+        "SOL": 382.95062,
+        "USDC": 2864504.28705,
+        "WETH": 22.44646
+      }
+    },
+    {
+      "date": 1747958400,
+      "tokens": {
+        "coingecko:fartcoin": 728253.7211,
+        "coingecko:hyperliquid": 45065.61064,
+        "BTC": 3.06614,
+        "USDE": 42285.20712,
+        "USDC": 2614436.42725,
+        "SOL": 380.51891,
+        "WETH": 22.50499
+      }
+    },
+    {
+      "date": 1748044800,
+      "tokens": {
+        "coingecko:hyperliquid": 42596.74449,
+        "coingecko:fartcoin": 720112.48023,
+        "WETH": 22.46498,
+        "USDC": 2526493.60229,
+        "BTC": 2.96694,
+        "SOL": 378.22879,
+        "USDE": 42285.31999
+      }
+    },
+    {
+      "date": 1748131200,
+      "tokens": {
+        "coingecko:hyperliquid": 42448.40907,
+        "coingecko:fartcoin": 721860.59476,
+        "USDE": 42689.25836,
+        "WETH": 22.42172,
+        "BTC": 2.93213,
+        "SOL": 402.2816,
+        "USDC": 2524474.92286
+      }
+    },
+    {
+      "date": 1748217600,
+      "tokens": {
+        "coingecko:hyperliquid": 42664.35428,
+        "coingecko:fartcoin": 682919.72709,
+        "USDE": 27483.682,
+        "BTC": 2.7631,
+        "SOL": 345.44783,
+        "WETH": 18.83282,
+        "USDC": 2469759.12756
+      }
+    },
+    {
+      "date": 1748304000,
+      "tokens": {
+        "coingecko:hyperliquid": 44616.1012,
+        "coingecko:fartcoin": 644833.24499,
+        "USDE": 27007.88803,
+        "BTC": 2.92348,
+        "USDC": 2520250.73847,
+        "WETH": 18.62781,
+        "SOL": 343.05683
+      }
+    },
+    {
+      "date": 1748390400,
+      "tokens": {
+        "coingecko:hyperliquid": 43652.59325,
+        "coingecko:fartcoin": 638666.6872,
+        "USDC": 2511155.61576,
+        "WETH": 16.07154,
+        "BTC": 3.10556,
+        "SOL": 336.79499,
+        "USDE": 26620.08968
+      }
+    },
+    {
+      "date": 1748476800,
+      "tokens": {
+        "coingecko:hyperliquid": 44313.87415,
+        "coingecko:fartcoin": 602059.5416,
+        "SOL": 336.08499,
+        "BTC": 3.0696,
+        "USDE": 28188.01533,
+        "WETH": 16.0803,
+        "USDC": 2492031.70767
+      }
+    },
+    {
+      "date": 1748563200,
+      "tokens": {
+        "coingecko:hyperliquid": 44313.64799,
+        "coingecko:fartcoin": 592315.15593,
+        "USDC": 2495587.58504,
+        "SOL": 335.80327,
+        "USDE": 27533.65066,
+        "WETH": 16.22324,
+        "BTC": 3.06751
+      }
+    },
+    {
+      "date": 1748649600,
+      "tokens": {
+        "coingecko:hyperliquid": 44146.82888,
+        "coingecko:fartcoin": 584691.71257,
+        "BTC": 2.98129,
+        "SOL": 342.07116,
+        "WETH": 16.57828,
+        "USDE": 27533.65066,
+        "USDC": 2479661.93019
+      }
+    },
+    {
+      "date": 1748736000,
+      "tokens": {
+        "coingecko:fartcoin": 592296.74448,
+        "coingecko:hyperliquid": 43708.42989,
+        "USDC": 2478221.78624,
+        "USDE": 27283.89842,
+        "SOL": 342.28103,
+        "BTC": 2.98161,
+        "WETH": 16.66023
+      }
+    },
+    {
+      "date": 1748822400,
+      "tokens": {
+        "coingecko:fartcoin": 588952.24821,
+        "coingecko:hyperliquid": 43813.27837,
+        "BTC": 2.98573,
+        "USDE": 27429.54513,
+        "SOL": 342.58995,
+        "WETH": 16.70903,
+        "USDC": 2479068.39802
+      }
+    },
+    {
+      "date": 1748908800,
+      "tokens": {
+        "coingecko:hyperliquid": 43816.55719,
+        "coingecko:fartcoin": 590909.72611,
+        "USDC": 2487130.81702,
+        "BTC": 2.99078,
+        "USDE": 27284.11061,
+        "SOL": 348.60453,
+        "WETH": 16.89788
+      }
+    },
+    {
+      "date": 1748995200,
+      "tokens": {
+        "coingecko:hyperliquid": 43824.68509,
+        "coingecko:fartcoin": 590803.85144,
+        "WETH": 17.08124,
+        "USDE": 27284.11837,
+        "BTC": 2.99084,
+        "SOL": 349.87229,
+        "USDC": 2486802.13843
+      }
+    },
+    {
+      "date": 1749081600,
+      "tokens": {
+        "coingecko:hyperliquid": 182902.76962,
+        "coingecko:fartcoin": 1855562.59491,
+        "WETH": 15.5819,
+        "USDE": 98193.26161,
+        "SOL": 1417.27934,
+        "BTC": 12.34048,
+        "USDC": 10064287.22866
+      }
+    },
+    {
+      "date": 1749168000,
+      "tokens": {
+        "coingecko:hyperliquid": 184479.08642,
+        "coingecko:fartcoin": 1793456.19868,
+        "USDC": 9985378.84255,
+        "USDE": 99343.87756,
+        "BTC": 12.01288,
+        "SOL": 1331.27489,
+        "WETH": 15.95039
+      }
+    },
+    {
+      "date": 1749254400,
+      "tokens": {
+        "coingecko:hyperliquid": 184898.36991,
+        "coingecko:fartcoin": 1791018.86122,
+        "SOL": 1380.82539,
+        "USDE": 100985.7864,
+        "USDC": 9990905.73625,
+        "BTC": 11.91028,
+        "WETH": 14.26124
+      }
+    },
+    {
+      "date": 1749340800,
+      "tokens": {
+        "coingecko:fartcoin": 1788344.97099,
+        "coingecko:hyperliquid": 185155.36385,
+        "USDE": 102637.52858,
+        "BTC": 12.13561,
+        "USDC": 10027067.35691,
+        "SOL": 1419.44958,
+        "WETH": 14.26124
+      }
+    },
+    {
+      "date": 1749427200,
+      "tokens": {
+        "coingecko:fartcoin": 1764833.06325,
+        "coingecko:hyperliquid": 183981.0743,
+        "USDC": 10001756.88689,
+        "BTC": 12.38531,
+        "SOL": 1499.37866,
+        "USDE": 81139.83254,
+        "WETH": 14.24267
+      }
+    },
+    {
+      "date": 1749513600,
+      "tokens": {
+        "coingecko:hyperliquid": 185010.74845,
+        "coingecko:fartcoin": 1707406.31712,
+        "USDC": 9991369.56125,
+        "BTC": 12.09077,
+        "SOL": 1783.90317,
+        "USDE": 83491.75572,
+        "WETH": 14.24254
+      }
+    },
+    {
+      "date": 1749600000,
+      "tokens": {
+        "coingecko:hyperliquid": 180020.27342,
+        "coingecko:fartcoin": 1714844.54083,
+        "SOL": 1741.14369,
+        "USDC": 8987418.21711,
+        "WETH": 14.37623,
+        "USDE": 78905.34325,
+        "BTC": 11.91574
+      }
+    },
+    {
+      "date": 1749686400,
+      "tokens": {
+        "coingecko:hyperliquid": 181446.14381,
+        "coingecko:fartcoin": 1560121.44076,
+        "USDC": 8606190.30061,
+        "SOL": 1634.23089,
+        "BTC": 12.16041,
+        "USDE": 78619.87264,
+        "WETH": 14.37623
+      }
+    },
+    {
+      "date": 1749772800,
+      "tokens": {
+        "coingecko:hyperliquid": 183699.74119,
+        "coingecko:fartcoin": 1389453.95078,
+        "SOL": 1608.49144,
+        "BTC": 12.59866,
+        "USDE": 76751.28364,
+        "WETH": 14.36973,
+        "USDC": 8981212.29234
+      }
+    },
+    {
+      "date": 1749859200,
+      "tokens": {
+        "coingecko:fartcoin": 1323138.95353,
+        "coingecko:hyperliquid": 183782.41157,
+        "USDE": 73635.80045,
+        "WETH": 14.36963,
+        "USDC": 9422003.40258,
+        "SOL": 1610.88749,
+        "BTC": 12.48325
+      }
+    },
+    {
+      "date": 1749945600,
+      "tokens": {
+        "coingecko:fartcoin": 1322971.43999,
+        "coingecko:hyperliquid": 184662.54457,
+        "USDE": 73928.6707,
+        "USDC": 8942317.99081,
+        "SOL": 1694.62511,
+        "WETH": 14.35353,
+        "BTC": 12.12947
+      }
+    },
+    {
+      "date": 1750032000,
+      "tokens": {
+        "coingecko:hyperliquid": 185568.29506,
+        "coingecko:fartcoin": 1325044.7892,
+        "USDE": 73170.36601,
+        "BTC": 12.79903,
+        "SOL": 1540.06969,
+        "WETH": 14.34593,
+        "USDC": 9571905.18413
+      }
+    },
+    {
+      "date": 1750118400,
+      "tokens": {
+        "coingecko:hyperliquid": 177995.67812,
+        "coingecko:fartcoin": 1277723.1892,
+        "USDE": 74489.84575,
+        "BTC": 12.91649,
+        "WETH": 14.34593,
+        "USDC": 8761685.69589,
+        "SOL": 1649.87553
+      }
+    },
+    {
+      "date": 1750204800,
+      "tokens": {
+        "coingecko:hyperliquid": 177249.09551,
+        "coingecko:fartcoin": 1274659.35798,
+        "USDE": 75129.05939,
+        "BTC": 12.87047,
+        "USDC": 9961022.3568,
+        "WETH": 14.33773,
+        "SOL": 1663.09779
+      }
+    },
+    {
+      "date": 1750291200,
+      "tokens": {
+        "coingecko:hyperliquid": 178554.74208,
+        "coingecko:fartcoin": 1257219.13107,
+        "USDE": 73976.72,
+        "BTC": 13.13765,
+        "SOL": 1543.03948,
+        "USDC": 9922660.01428,
+        "WETH": 14.32923
+      }
+    },
+    {
+      "date": 1750377600,
+      "tokens": {
+        "coingecko:hyperliquid": 189597.13195,
+        "coingecko:fartcoin": 1254370.44628,
+        "USDE": 75964.36459,
+        "SOL": 1525.13957,
+        "BTC": 13.12147,
+        "USDC": 10342996.63865,
+        "WETH": 14.36153
+      }
+    },
+    {
+      "date": 1750464000,
+      "tokens": {
+        "coingecko:hyperliquid": 180686.27133,
+        "coingecko:fartcoin": 1195684.71298,
+        "SOL": 1518.66026,
+        "USDC": 11201427.4347,
+        "USDE": 82799.76148,
+        "WETH": 14.18366,
+        "BTC": 13.5712
+      }
+    },
+    {
+      "date": 1750550400,
+      "tokens": {
+        "coingecko:hyperliquid": 293449.60103,
+        "coingecko:fartcoin": 1273386.62007,
+        "BTC": 13.8702,
+        "USDC": 15842347.63153,
+        "SOL": 1646.46335,
+        "USDE": 172625.92338,
+        "WETH": 27.54859
+      }
+    },
+    {
+      "date": 1750636800,
+      "tokens": {
+        "coingecko:fartcoin": 1279916.73454,
+        "coingecko:hyperliquid": 341594.38843,
+        "WETH": 27.54859,
+        "BTC": 13.92963,
+        "SOL": 1658.86336,
+        "USDE": 197342.28335,
+        "USDC": 16846945.94805
+      }
+    },
+    {
+      "date": 1750723200,
+      "tokens": {
+        "coingecko:hyperliquid": 347544.29595,
+        "coingecko:fartcoin": 1279062.81557,
+        "SOL": 1647.66604,
+        "WETH": 27.49819,
+        "USDE": 195867.70154,
+        "BTC": 13.86781,
+        "USDC": 16488099.8694
+      }
+    },
+    {
+      "date": 1750809600,
+      "tokens": {
+        "coingecko:hyperliquid": 343994.53483,
+        "coingecko:fartcoin": 1262768.50669,
+        "BTC": 13.71235,
+        "USDE": 198998.14489,
+        "WETH": 27.49819,
+        "USDC": 15666826.61523,
+        "SOL": 1625.58515
+      }
+    },
+    {
+      "date": 1750896000,
+      "tokens": {
+        "coingecko:hyperliquid": 346178.14246,
+        "coingecko:fartcoin": 1317442.30346,
+        "USDC": 15177680.23223,
+        "USDE": 223639.09152,
+        "SOL": 1659.94246,
+        "BTC": 13.81202,
+        "WETH": 27.42484
+      }
+    },
+    {
+      "date": 1750982400,
+      "tokens": {
+        "coingecko:hyperliquid": 346890.82287,
+        "coingecko:fartcoin": 1289598.14432,
+        "USDE": 237122.58362,
+        "WETH": 27.42484,
+        "BTC": 13.78772,
+        "USDC": 15917155.60091,
+        "SOL": 1659.82414
+      }
+    },
+    {
+      "date": 1751068800,
+      "tokens": {
+        "coingecko:hyperliquid": 357107.59323,
+        "coingecko:fartcoin": 1298931.55397,
+        "SOL": 1652.3293,
+        "USDC": 16946793.78683,
+        "USDE": 249923.79703,
+        "BTC": 13.88361,
+        "WETH": 27.32794
+      }
+    },
+    {
+      "date": 1751155200,
+      "tokens": {
+        "coingecko:hyperliquid": 349762.32874,
+        "coingecko:fartcoin": 1283516.60659,
+        "USDC": 16412366.40269,
+        "SOL": 1625.25705,
+        "WETH": 27.17595,
+        "USDE": 246339.14506,
+        "BTC": 13.83285
+      }
+    },
+    {
+      "date": 1751241600,
+      "tokens": {
+        "coingecko:hyperliquid": 349412.222,
+        "coingecko:fartcoin": 1277633.36753,
+        "USDE": 257536.86332,
+        "BTC": 14.26948,
+        "USDC": 15682496.57438,
+        "SOL": 1652.0154,
+        "WETH": 27.17592
+      }
+    },
+    {
+      "date": 1751328000,
+      "tokens": {
+        "coingecko:hyperliquid": 351690.22991,
+        "coingecko:fartcoin": 1307679.05001,
+        "USDC": 14983403.23199,
+        "SOL": 1668.17297,
+        "BTC": 14.66243,
+        "WETH": 27.16892,
+        "USDE": 270008.02766
+      }
+    },
+    {
+      "date": 1751414400,
+      "tokens": {
+        "coingecko:hyperliquid": 342915.04089,
+        "coingecko:fartcoin": 1352015.09824,
+        "USDE": 327450.76628,
+        "WETH": 27.16883,
+        "BTC": 25.72151,
+        "USDC": 16430820.24029,
+        "SOL": 1693.3305
+      }
+    },
+    {
+      "date": 1751500800,
+      "tokens": {
+        "coingecko:hyperliquid": 347645.2636,
+        "coingecko:fartcoin": 1344299.48112,
+        "USDC": 17732076.70558,
+        "SOL": 1642.56355,
+        "USDE": 244115.66824,
+        "BTC": 34.94183,
+        "WETH": 27.23448
+      }
+    },
+    {
+      "date": 1751587200,
+      "tokens": {
+        "coingecko:hyperliquid": 354249.39131,
+        "coingecko:fartcoin": 1337902.03548,
+        "USDE": 234769.49021,
+        "USDC": 17938341.00505,
+        "SOL": 2518.05413,
+        "WETH": 29.74034,
+        "BTC": 36.99527
+      }
+    },
+    {
+      "date": 1751673600,
+      "tokens": {
+        "coingecko:hyperliquid": 355277.96062,
+        "coingecko:fartcoin": 1388667.82024,
+        "USDE": 239947.02781,
+        "BTC": 36.78568,
+        "USDC": 18105300.25623,
+        "SOL": 3749.05314,
+        "WETH": 30.40825
+      }
+    },
+    {
+      "date": 1751760000,
+      "tokens": {
+        "coingecko:hyperliquid": 351218.22093,
+        "coingecko:fartcoin": 2506993.64058,
+        "USDE": 230524.79385,
+        "SOL": 2583.35019,
+        "BTC": 33.31153,
+        "USDC": 19185924.25199,
+        "WETH": 30.15102
+      }
+    },
+    {
+      "date": 1751846400,
+      "tokens": {
+        "coingecko:fartcoin": 2531329.62298,
+        "coingecko:hyperliquid": 351135.31992,
+        "USDC": 19235164.28112,
+        "BTC": 33.0797,
+        "WETH": 30.15094,
+        "USDE": 234383.78933,
+        "SOL": 2675.35463
+      }
+    },
+    {
+      "date": 1751932800,
+      "tokens": {
+        "coingecko:hyperliquid": 344939.15475,
+        "coingecko:fartcoin": 2592714.65862,
+        "BTC": 34.93387,
+        "SOL": 2712.96051,
+        "USDE": 224714.3003,
+        "WETH": 30.08994,
+        "USDC": 19138099.93252
+      }
+    },
+    {
+      "date": 1752019200,
+      "tokens": {
+        "coingecko:hyperliquid": 337279.739,
+        "coingecko:fartcoin": 2564789.29632,
+        "SOL": 3167.41771,
+        "BTC": 30.82216,
+        "USDE": 218850.81844,
+        "WETH": 62.53606,
+        "USDC": 19099468.15486
+      }
+    },
+    {
+      "date": 1752105600,
+      "tokens": {
+        "coingecko:hyperliquid": 338780.91155,
+        "coingecko:fartcoin": 2540990.01893,
+        "BTC": 31.67914,
+        "USDE": 223751.04739,
+        "WETH": 100.55528,
+        "USDC": 19258292.58767,
+        "SOL": 2961.12645
+      }
+    },
+    {
+      "date": 1752192000,
+      "tokens": {
+        "coingecko:hyperliquid": 323381.4168,
+        "coingecko:fartcoin": 2458493.5756,
+        "BTC": 31.96767,
+        "USDC": 17892942.2115,
+        "USDE": 195595.549,
+        "SOL": 3155.71795,
+        "WETH": 139.93753
+      }
+    },
+    {
+      "date": 1752278400,
+      "tokens": {
+        "coingecko:hyperliquid": 315300.49554,
+        "coingecko:fartcoin": 2560990.52335,
+        "BTC": 31.11216,
+        "USDE": 186408.87455,
+        "USDC": 15771298.46958,
+        "SOL": 2985.02822,
+        "WETH": 136.4111
+      }
+    },
+    {
+      "date": 1752364800,
+      "tokens": {
+        "coingecko:fartcoin": 2501474.07605,
+        "coingecko:hyperliquid": 312154.55837,
+        "USDC": 15926485.53187,
+        "SOL": 2905.94449,
+        "USDE": 184210.25144,
+        "WETH": 131.43334,
+        "BTC": 30.8721
+      }
+    },
+    {
+      "date": 1752451200,
+      "tokens": {
+        "coingecko:hyperliquid": 315214.29779,
+        "coingecko:fartcoin": 2538227.88819,
+        "USDE": 184975.82422,
+        "WETH": 142.43947,
+        "USDC": 15296206.31541,
+        "BTC": 31.37517,
+        "SOL": 3095.57164
+      }
+    },
+    {
+      "date": 1752537600,
+      "tokens": {
+        "coingecko:pump-fun": 930583145.81027,
+        "coingecko:hyperliquid": 257952.73541,
+        "coingecko:fartcoin": 2121282.7191,
+        "USDC": 18969900.03782,
+        "SOL": 2612.1667,
+        "BTC": 24.63454,
+        "USDE": 163971.74281,
+        "WETH": 178.20627
+      }
+    },
+    {
+      "date": 1752624000,
+      "tokens": {
+        "coingecko:pump-fun": 1180434014.34713,
+        "coingecko:hyperliquid": 253642.14377,
+        "coingecko:fartcoin": 2431775.77595,
+        "WETH": 192.73671,
+        "USDC": 20058775.92102,
+        "SOL": 2313.23752,
+        "USDE": 155036.58612,
+        "BTC": 21.72665
+      }
+    },
+    {
+      "date": 1752710400,
+      "tokens": {
+        "coingecko:hyperliquid": 242622.28144,
+        "coingecko:fartcoin": 2381964.34017,
+        "coingecko:pump-fun": 1228625241.42947,
+        "SOL": 2766.59979,
+        "USDE": 156755.92889,
+        "BTC": 26.5209,
+        "USDC": 19601658.12483,
+        "WETH": 218.25791
+      }
+    },
+    {
+      "date": 1752796800,
+      "tokens": {
+        "coingecko:fartcoin": 2415328.34666,
+        "coingecko:hyperliquid": 255094.13959,
+        "coingecko:pump-fun": 1236592596.0264,
+        "USDE": 156848.41013,
+        "USDC": 21394351.88023,
+        "WETH": 223.19613,
+        "BTC": 31.95886,
+        "SOL": 2939.54102
+      }
+    },
+    {
+      "date": 1752883200,
+      "tokens": {
+        "coingecko:fartcoin": 2451457.38149,
+        "coingecko:pump-fun": 1250618551.76052,
+        "coingecko:hyperliquid": 248475.39859,
+        "WETH": 280.94418,
+        "USDC": 22940959.78754,
+        "SOL": 3398.14922,
+        "BTC": 34.24969,
+        "USDE": 148494.3497
+      }
+    },
+    {
+      "date": 1752969600,
+      "tokens": {
+        "coingecko:hyperliquid": 247664.7516,
+        "coingecko:pump-fun": 1494300375.13756,
+        "coingecko:fartcoin": 2474541.65762,
+        "SOL": 3280.12328,
+        "WETH": 273.0637,
+        "USDC": 24728996.32943,
+        "BTC": 29.479,
+        "USDE": 144574.06945
+      }
+    },
+    {
+      "date": 1753056000,
+      "tokens": {
+        "coingecko:pump-fun": 1473719794.63764,
+        "coingecko:hyperliquid": 250586.62186,
+        "coingecko:fartcoin": 2643573.49002,
+        "SOL": 3184.16961,
+        "USDE": 142640.84403,
+        "WETH": 271.51798,
+        "BTC": 31.57555,
+        "USDC": 25102798.76281
+      }
+    },
+    {
+      "date": 1753142400,
+      "tokens": {
+        "coingecko:hyperliquid": 249054.6763,
+        "coingecko:fartcoin": 2864448.06683,
+        "coingecko:pump-fun": 1478280954.0231,
+        "USDE": 184016.48458,
+        "SOL": 3608.24061,
+        "BTC": 32.25983,
+        "WETH": 285.58102,
+        "USDC": 25169108.2446
+      }
+    },
+    {
+      "date": 1753228800,
+      "tokens": {
+        "coingecko:hyperliquid": 244137.44121,
+        "coingecko:fartcoin": 2980842.27922,
+        "coingecko:pump-fun": 1599265248.16155,
+        "USDC": 26695975.98148,
+        "USDE": 190892.5039,
+        "BTC": 42.34002,
+        "SOL": 4060.76121,
+        "WETH": 326.16515
+      }
+    },
+    {
+      "date": 1753315200,
+      "tokens": {
+        "coingecko:fartcoin": 3030350.88715,
+        "coingecko:pump-fun": 1891292845.05375,
+        "coingecko:hyperliquid": 260125.32779,
+        "WETH": 403.76495,
+        "USDC": 29242983.91393,
+        "BTC": 43.53893,
+        "SOL": 5716.54103,
+        "USDE": 192711.60025
+      }
+    },
+    {
+      "date": 1753401600,
+      "tokens": {
+        "coingecko:pump-fun": 1820650534.14727,
+        "coingecko:hyperliquid": 284866.91301,
+        "coingecko:fartcoin": 3090180.66103,
+        "SOL": 6610.10531,
+        "BTC": 47.92101,
+        "USDE": 201439.70874,
+        "WETH": 461.05498,
+        "USDC": 31664434.18943
+      }
+    },
+    {
+      "date": 1753488000,
+      "tokens": {
+        "coingecko:pump-fun": 1693233411.79723,
+        "coingecko:hyperliquid": 291436.97425,
+        "coingecko:fartcoin": 2965223.50657,
+        "USDC": 32745189.93991,
+        "USDE": 201216.2465,
+        "WETH": 491.42873,
+        "BTC": 52.38046,
+        "SOL": 6244.6862
+      }
+    },
+    {
+      "date": 1753574400,
+      "tokens": {
+        "coingecko:hyperliquid": 303719.0802,
+        "coingecko:fartcoin": 2934250.79716,
+        "coingecko:pump-fun": 1667457062.6201,
+        "WETH": 494.90198,
+        "USDC": 32522645.80491,
+        "SOL": 7050.24245,
+        "USDE": 197275.48236,
+        "BTC": 59.02528
+      }
+    },
+    {
+      "date": 1753660800,
+      "tokens": {
+        "coingecko:pump-fun": 1638573586.73951,
+        "coingecko:hyperliquid": 317964.7005,
+        "coingecko:fartcoin": 2927817.41004,
+        "USDC": 33776305.80838,
+        "SOL": 7995.86696,
+        "BTC": 61.02919,
+        "WETH": 555.3818,
+        "USDE": 201120.9172
+      }
+    },
+    {
+      "date": 1753747200,
+      "tokens": {
+        "coingecko:pump-fun": 1587607388.91297,
+        "coingecko:hyperliquid": 361223.12987,
+        "coingecko:fartcoin": 2950568.19702,
+        "USDC": 34027759.63591,
+        "SOL": 7600.49371,
+        "BTC": 64.01631,
+        "USDE": 214126.89779,
+        "WETH": 801.5573
+      }
+    },
+    {
+      "date": 1753833600,
+      "tokens": {
+        "coingecko:pump-fun": 1470349246.58875,
+        "coingecko:hyperliquid": 375487.55273,
+        "coingecko:fartcoin": 2943922.92508,
+        "BTC": 66.34853,
+        "SOL": 7606.1209,
+        "USDC": 35342781.35712,
+        "USDE": 240710.41911,
+        "WETH": 929.91103
+      }
+    },
+    {
+      "date": 1753899887,
+      "tokens": {
+        "coingecko:pump-fun": 1481166174.904,
+        "coingecko:hyperliquid": 382761.31409,
+        "coingecko:fartcoin": 2945476.51648,
+        "USDC": 35585988.81302,
+        "SOL": 7798.15686,
+        "WETH": 946.79036,
+        "BTC": 68.63628,
+        "USDE": 243198.51941
+      }
+    }
+  ],
+  "currentChainTvls": {
+    "Hyperliquid L1": 72312161.12385
+  },
+  "raises": [],
+  "mcap": null
+}

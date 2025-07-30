@@ -36,11 +36,10 @@
   ],
   "wrongLiquidity": true,
   "defillamaId": "326",
-  "disabled": false,
   "displayName": "Beefy",
   "methodologyURL": "https://github.com/DefiLlama/dimension-adapters/blob/master/fees/beefy",
   "methodology": {
-    "Fees": "9.5% of each harvest is charged as a performance fee",
+    "Fees": "Staking yields from Beefy Finance vaults",
     "Revenue": "All fees except for 0.5% to strategist and variable harvest() call fee are revenue",
     "HoldersRevenue": "36% of revenue is distributed to holders who stake",
     "ProtocolRevenue": "64% of revenue is distributed to the treasury"
@@ -52,10 +51,11 @@
   "latestFetchIsOk": true,
   "slug": "beefy",
   "protocolType": "protocol",
-  "total24h": 17521,
-  "total48hto24h": 11190,
-  "total7d": 36763,
-  "totalAllTime": 6550855,
+  "total24h": 1085,
+  "total48hto24h": 7848,
+  "total7d": 49561,
+  "total30d": 159241,
+  "totalAllTime": 6611321,
   "totalDataChart": [
     [
       1692921600,
@@ -2482,10 +2482,6 @@
       730
     ],
     [
-      1747008000,
-      9430
-    ],
-    [
       1747094400,
       7498
     ],
@@ -2608,6 +2604,10 @@
     [
       1749686400,
       687
+    ],
+    [
+      1749772800,
+      12726
     ],
     [
       1749859200,
@@ -2751,7 +2751,51 @@
     ],
     [
       1752883200,
-      17521
+      8123
+    ],
+    [
+      1752969600,
+      1116
+    ],
+    [
+      1753056000,
+      8116
+    ],
+    [
+      1753142400,
+      6690
+    ],
+    [
+      1753228800,
+      7618
+    ],
+    [
+      1753315200,
+      1757
+    ],
+    [
+      1753401600,
+      21536
+    ],
+    [
+      1753488000,
+      848
+    ],
+    [
+      1753574400,
+      2885
+    ],
+    [
+      1753660800,
+      7848
+    ],
+    [
+      1753747200,
+      7069
+    ],
+    [
+      1753833600,
+      1085
     ]
   ],
   "totalDataChartBreakdown": [
@@ -20513,35 +20557,6 @@
       }
     ],
     [
-      1747008000,
-      {
-        "Arbitrum": {
-          "Beefy": 8588
-        },
-        "Base": {
-          "Beefy": 0
-        },
-        "Polygon": {
-          "Beefy": 147
-        },
-        "Avalanche": {
-          "Beefy": 487
-        },
-        "OP Mainnet": {
-          "Beefy": 0
-        },
-        "BSC": {
-          "Beefy": 208
-        },
-        "Ethereum": {
-          "Beefy": 0
-        },
-        "Linea": {
-          "Beefy": 0
-        }
-      }
-    ],
-    [
       1747094400,
       {
         "Arbitrum": {
@@ -21434,6 +21449,35 @@
         },
         "Ethereum": {
           "Beefy": 0
+        },
+        "Linea": {
+          "Beefy": 0
+        }
+      }
+    ],
+    [
+      1749772800,
+      {
+        "Arbitrum": {
+          "Beefy": 6537
+        },
+        "Base": {
+          "Beefy": 0
+        },
+        "Polygon": {
+          "Beefy": 211
+        },
+        "Avalanche": {
+          "Beefy": 261
+        },
+        "OP Mainnet": {
+          "Beefy": 0
+        },
+        "BSC": {
+          "Beefy": 186
+        },
+        "Ethereum": {
+          "Beefy": 5531
         },
         "Linea": {
           "Beefy": 0
@@ -22459,25 +22503,344 @@
       1752883200,
       {
         "Arbitrum": {
-          "Beefy": 7365
+          "Beefy": 7366
         },
         "Base": {
           "Beefy": 0
         },
         "Polygon": {
-          "Beefy": 162
+          "Beefy": 114
         },
         "Avalanche": {
-          "Beefy": 662
+          "Beefy": 474
         },
         "OP Mainnet": {
           "Beefy": 0
         },
         "BSC": {
-          "Beefy": 204
+          "Beefy": 169
         },
         "Ethereum": {
-          "Beefy": 9128
+          "Beefy": 0
+        },
+        "Linea": {
+          "Beefy": 0
+        }
+      }
+    ],
+    [
+      1752969600,
+      {
+        "Arbitrum": {
+          "Beefy": 0
+        },
+        "Base": {
+          "Beefy": 0
+        },
+        "Polygon": {
+          "Beefy": 91
+        },
+        "Avalanche": {
+          "Beefy": 957
+        },
+        "OP Mainnet": {
+          "Beefy": 0
+        },
+        "BSC": {
+          "Beefy": 68
+        },
+        "Ethereum": {
+          "Beefy": 0
+        },
+        "Linea": {
+          "Beefy": 0
+        }
+      }
+    ],
+    [
+      1753056000,
+      {
+        "Arbitrum": {
+          "Beefy": 6348
+        },
+        "Base": {
+          "Beefy": 0
+        },
+        "Polygon": {
+          "Beefy": 120
+        },
+        "Avalanche": {
+          "Beefy": 1510
+        },
+        "OP Mainnet": {
+          "Beefy": 0
+        },
+        "BSC": {
+          "Beefy": 138
+        },
+        "Ethereum": {
+          "Beefy": 0
+        },
+        "Linea": {
+          "Beefy": 0
+        }
+      }
+    ],
+    [
+      1753142400,
+      {
+        "Arbitrum": {
+          "Beefy": 0
+        },
+        "Base": {
+          "Beefy": 0
+        },
+        "Polygon": {
+          "Beefy": 115
+        },
+        "Avalanche": {
+          "Beefy": 2196
+        },
+        "OP Mainnet": {
+          "Beefy": 0
+        },
+        "BSC": {
+          "Beefy": 141
+        },
+        "Ethereum": {
+          "Beefy": 4238
+        },
+        "Linea": {
+          "Beefy": 0
+        }
+      }
+    ],
+    [
+      1753228800,
+      {
+        "Arbitrum": {
+          "Beefy": 5555
+        },
+        "Base": {
+          "Beefy": 0
+        },
+        "Polygon": {
+          "Beefy": 111
+        },
+        "Avalanche": {
+          "Beefy": 1785
+        },
+        "OP Mainnet": {
+          "Beefy": 0
+        },
+        "BSC": {
+          "Beefy": 167
+        },
+        "Ethereum": {
+          "Beefy": 0
+        },
+        "Linea": {
+          "Beefy": 0
+        }
+      }
+    ],
+    [
+      1753315200,
+      {
+        "Arbitrum": {
+          "Beefy": 0
+        },
+        "Base": {
+          "Beefy": 0
+        },
+        "Polygon": {
+          "Beefy": 165
+        },
+        "Avalanche": {
+          "Beefy": 1410
+        },
+        "OP Mainnet": {
+          "Beefy": 0
+        },
+        "BSC": {
+          "Beefy": 182
+        },
+        "Ethereum": {
+          "Beefy": 0
+        },
+        "Linea": {
+          "Beefy": 0
+        }
+      }
+    ],
+    [
+      1753401600,
+      {
+        "Arbitrum": {
+          "Beefy": 9737
+        },
+        "Base": {
+          "Beefy": 0
+        },
+        "Polygon": {
+          "Beefy": 169
+        },
+        "Avalanche": {
+          "Beefy": 864
+        },
+        "OP Mainnet": {
+          "Beefy": 0
+        },
+        "BSC": {
+          "Beefy": 145
+        },
+        "Ethereum": {
+          "Beefy": 10621
+        },
+        "Linea": {
+          "Beefy": 0
+        }
+      }
+    ],
+    [
+      1753488000,
+      {
+        "Arbitrum": {
+          "Beefy": 0
+        },
+        "Base": {
+          "Beefy": 0
+        },
+        "Polygon": {
+          "Beefy": 105
+        },
+        "Avalanche": {
+          "Beefy": 666
+        },
+        "OP Mainnet": {
+          "Beefy": 0
+        },
+        "BSC": {
+          "Beefy": 77
+        },
+        "Ethereum": {
+          "Beefy": 0
+        },
+        "Linea": {
+          "Beefy": 0
+        }
+      }
+    ],
+    [
+      1753574400,
+      {
+        "Arbitrum": {
+          "Beefy": 1818
+        },
+        "Base": {
+          "Beefy": 0
+        },
+        "Polygon": {
+          "Beefy": 86
+        },
+        "Avalanche": {
+          "Beefy": 892
+        },
+        "OP Mainnet": {
+          "Beefy": 0
+        },
+        "BSC": {
+          "Beefy": 89
+        },
+        "Ethereum": {
+          "Beefy": 0
+        },
+        "Linea": {
+          "Beefy": 0
+        }
+      }
+    ],
+    [
+      1753660800,
+      {
+        "Arbitrum": {
+          "Beefy": 6491
+        },
+        "Base": {
+          "Beefy": 0
+        },
+        "Polygon": {
+          "Beefy": 100
+        },
+        "Avalanche": {
+          "Beefy": 1060
+        },
+        "OP Mainnet": {
+          "Beefy": 0
+        },
+        "BSC": {
+          "Beefy": 197
+        },
+        "Ethereum": {
+          "Beefy": 0
+        },
+        "Linea": {
+          "Beefy": 0
+        }
+      }
+    ],
+    [
+      1753747200,
+      {
+        "Arbitrum": {
+          "Beefy": 5772
+        },
+        "Base": {
+          "Beefy": 0
+        },
+        "Polygon": {
+          "Beefy": 115
+        },
+        "Avalanche": {
+          "Beefy": 1023
+        },
+        "OP Mainnet": {
+          "Beefy": 0
+        },
+        "BSC": {
+          "Beefy": 159
+        },
+        "Ethereum": {
+          "Beefy": 0
+        },
+        "Linea": {
+          "Beefy": 0
+        }
+      }
+    ],
+    [
+      1753833600,
+      {
+        "Arbitrum": {
+          "Beefy": 0
+        },
+        "Base": {
+          "Beefy": 0
+        },
+        "Polygon": {
+          "Beefy": 54
+        },
+        "Avalanche": {
+          "Beefy": 916
+        },
+        "OP Mainnet": {
+          "Beefy": 0
+        },
+        "BSC": {
+          "Beefy": 115
+        },
+        "Ethereum": {
+          "Beefy": 0
         },
         "Linea": {
           "Beefy": 0
@@ -22485,5 +22848,5 @@
       }
     ]
   ],
-  "change_1d": 56.58
+  "change_1d": -86.17
 }

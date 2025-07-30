@@ -24,14 +24,111 @@
   "symbol": "MORPHO",
   "address": "0x58D97B57BB95320F9a05dC918Aef65434969c2B2",
   "childProtocols": [
-    {}
+    {
+      "name": "Morpho Compound",
+      "module": "morpho/index.js",
+      "category": "Lending",
+      "logo": "https://icons.llama.fi/morpho-compound.png",
+      "chains": [
+        "Ethereum"
+      ],
+      "gecko_id": null,
+      "twitter": "MorphoLabs",
+      "audits": "2",
+      "description": "Morpho Compound is an on-chain peer-to-peer layer on top of lending pools. Rates are seamlessly improved for borrowers and lenders while preserving the same guarantees.",
+      "address": "0x58D97B57BB95320F9a05dC918Aef65434969c2B2",
+      "url": "https://compound.morpho.org/?network=mainnet",
+      "audit_links": [
+        "https://docs.morpho.org/security-reviews"
+      ],
+      "cmcId": null,
+      "id": "1997",
+      "parentProtocol": "parent#morpho"
+    },
+    {
+      "name": "Morpho Aave",
+      "module": "morpho-aave/index.js",
+      "category": "Lending",
+      "logo": "https://icons.llama.fi/morpho-aave.png",
+      "chains": [
+        "Ethereum"
+      ],
+      "gecko_id": null,
+      "twitter": "MorphoLabs",
+      "audits": "2",
+      "description": "Morpho AaveV2 is an on-chain peer-to-peer layer on top of lending pools. Rates are seamlessly improved for borrowers and lenders while preserving the same guarantees.",
+      "address": "0x58D97B57BB95320F9a05dC918Aef65434969c2B2",
+      "url": "https://aavev2.morpho.org/?network=mainnet",
+      "audit_links": [
+        "https://docs.morpho.org/security-reviews"
+      ],
+      "cmcId": null,
+      "id": "2168",
+      "parentProtocol": "parent#morpho"
+    },
+    {
+      "name": "Morpho AaveV3",
+      "module": "morpho-aaveV3/index.js",
+      "category": "Lending",
+      "logo": "https://icons.llama.fi/morpho-aavev3.png",
+      "chains": [
+        "Ethereum"
+      ],
+      "gecko_id": null,
+      "twitter": "MorphoLabs",
+      "audits": "2",
+      "description": "Morpho's AaveV3-ETH Optimizer allows WETH-only transactions in ETH efficiency mode. It offers high-leverage WETH borrowing using stETH, USDC, WBTC, and DAI as collateral",
+      "address": "0x58D97B57BB95320F9a05dC918Aef65434969c2B2",
+      "url": "https://aavev3.morpho.org/",
+      "audit_links": [
+        "https://docs.morpho.org/security-reviews"
+      ],
+      "cmcId": null,
+      "id": "3014",
+      "parentProtocol": "parent#morpho"
+    },
+    {
+      "name": "Morpho Blue",
+      "defillamaId": "4025",
+      "displayName": "Morpho Blue",
+      "module": "morpho",
+      "category": "Lending",
+      "logo": "https://icons.llamao.fi/icons/protocols/morpho-blue.png",
+      "chains": [
+        "ethereum",
+        "base",
+        "polygon",
+        "unichain",
+        "katana"
+      ],
+      "methodologyURL": "https://github.com/DefiLlama/dimension-adapters/blob/master/fees/morpho",
+      "methodology": {
+        "UserFees": "Interest paid by borrowers",
+        "Fees": "Total borrow interest paid by borrowers.",
+        "Revenue": "Percentage of interest going to treasury",
+        "ProtocolRevenue": "Total interests are distributed to Morpho.",
+        "SupplySideRevenue": "Total interests are distributed to suppliers/lenders."
+      },
+      "gecko_id": null,
+      "forkedFrom": [],
+      "twitter": "MorphoLabs",
+      "audits": "2",
+      "description": "Morpho Blue is a trustless and efficient lending primitive with permissionless market creation",
+      "address": "0x58D97B57BB95320F9a05dC918Aef65434969c2B2",
+      "url": "https://app.morpho.org",
+      "audit_links": [
+        "https://docs.morpho.org/morpho-blue/concepts/security/audits/"
+      ],
+      "cmcId": null,
+      "id": "4025",
+      "parentProtocol": "parent#morpho"
+    }
   ],
   "linkedProtocols": [
     "Morpho",
     "Morpho Blue"
   ],
   "defillamaId": "parent#morpho",
-  "disabled": null,
   "displayName": "Morpho",
   "module": null,
   "category": null,
@@ -46,10 +143,11 @@
   "latestFetchIsOk": true,
   "slug": "morpho",
   "protocolType": "protocol",
-  "total24h": 432708,
-  "total48hto24h": 397645,
-  "total7d": 2572612,
-  "totalAllTime": 115366581,
+  "total24h": 443382,
+  "total48hto24h": 483059,
+  "total7d": 3288662,
+  "total30d": 11150868,
+  "totalAllTime": 120462914,
   "totalDataChart": [
     [
       1707955200,
@@ -2133,7 +2231,51 @@
     ],
     [
       1752883200,
-      401001
+      384605
+    ],
+    [
+      1752969600,
+      407208
+    ],
+    [
+      1753056000,
+      459082
+    ],
+    [
+      1753142400,
+      483782
+    ],
+    [
+      1753228800,
+      490077
+    ],
+    [
+      1753315200,
+      474046
+    ],
+    [
+      1753401600,
+      463269
+    ],
+    [
+      1753488000,
+      465154
+    ],
+    [
+      1753574400,
+      469675
+    ],
+    [
+      1753660800,
+      483059
+    ],
+    [
+      1753747200,
+      443382
+    ],
+    [
+      1753833600,
+      473995
     ]
   ],
   "totalDataChartBreakdown": [
@@ -8551,22 +8693,242 @@
       1752883200,
       {
         "Ethereum": {
-          "Morpho Blue": 280888
+          "Morpho Blue": 265167
         },
         "Base": {
-          "Morpho Blue": 105753
+          "Morpho Blue": 104952
         },
         "Polygon": {
-          "Morpho Blue": 8931
+          "Morpho Blue": 9623
         },
         "Unichain": {
-          "Morpho Blue": 4842
+          "Morpho Blue": 4235
         },
         "Katana": {
-          "Morpho Blue": 587
+          "Morpho Blue": 628
+        }
+      }
+    ],
+    [
+      1752969600,
+      {
+        "Ethereum": {
+          "Morpho Blue": 288814
+        },
+        "Base": {
+          "Morpho Blue": 104103
+        },
+        "Polygon": {
+          "Morpho Blue": 8073
+        },
+        "Unichain": {
+          "Morpho Blue": 5694
+        },
+        "Katana": {
+          "Morpho Blue": 524
+        }
+      }
+    ],
+    [
+      1753056000,
+      {
+        "Ethereum": {
+          "Morpho Blue": 335719
+        },
+        "Base": {
+          "Morpho Blue": 107647
+        },
+        "Polygon": {
+          "Morpho Blue": 8995
+        },
+        "Unichain": {
+          "Morpho Blue": 6016
+        },
+        "Katana": {
+          "Morpho Blue": 705
+        }
+      }
+    ],
+    [
+      1753142400,
+      {
+        "Ethereum": {
+          "Morpho Blue": 348875
+        },
+        "Base": {
+          "Morpho Blue": 117829
+        },
+        "Polygon": {
+          "Morpho Blue": 8416
+        },
+        "Unichain": {
+          "Morpho Blue": 8220
+        },
+        "Katana": {
+          "Morpho Blue": 442
+        }
+      }
+    ],
+    [
+      1753228800,
+      {
+        "Ethereum": {
+          "Morpho Blue": 351245
+        },
+        "Base": {
+          "Morpho Blue": 121823
+        },
+        "Polygon": {
+          "Morpho Blue": 9595
+        },
+        "Unichain": {
+          "Morpho Blue": 6716
+        },
+        "Katana": {
+          "Morpho Blue": 698
+        }
+      }
+    ],
+    [
+      1753315200,
+      {
+        "Ethereum": {
+          "Morpho Blue": 334823
+        },
+        "Base": {
+          "Morpho Blue": 124335
+        },
+        "Polygon": {
+          "Morpho Blue": 8396
+        },
+        "Unichain": {
+          "Morpho Blue": 5527
+        },
+        "Katana": {
+          "Morpho Blue": 965
+        }
+      }
+    ],
+    [
+      1753401600,
+      {
+        "Ethereum": {
+          "Morpho Blue": 317930
+        },
+        "Base": {
+          "Morpho Blue": 130288
+        },
+        "Polygon": {
+          "Morpho Blue": 8296
+        },
+        "Unichain": {
+          "Morpho Blue": 6006
+        },
+        "Katana": {
+          "Morpho Blue": 749
+        }
+      }
+    ],
+    [
+      1753488000,
+      {
+        "Ethereum": {
+          "Morpho Blue": 318526
+        },
+        "Base": {
+          "Morpho Blue": 132980
+        },
+        "Polygon": {
+          "Morpho Blue": 5656
+        },
+        "Unichain": {
+          "Morpho Blue": 6973
+        },
+        "Katana": {
+          "Morpho Blue": 1019
+        }
+      }
+    ],
+    [
+      1753574400,
+      {
+        "Ethereum": {
+          "Morpho Blue": 316682
+        },
+        "Base": {
+          "Morpho Blue": 134132
+        },
+        "Polygon": {
+          "Morpho Blue": 8826
+        },
+        "Unichain": {
+          "Morpho Blue": 8527
+        },
+        "Katana": {
+          "Morpho Blue": 1508
+        }
+      }
+    ],
+    [
+      1753660800,
+      {
+        "Ethereum": {
+          "Morpho Blue": 334758
+        },
+        "Base": {
+          "Morpho Blue": 135412
+        },
+        "Polygon": {
+          "Morpho Blue": 6391
+        },
+        "Unichain": {
+          "Morpho Blue": 5593
+        },
+        "Katana": {
+          "Morpho Blue": 905
+        }
+      }
+    ],
+    [
+      1753747200,
+      {
+        "Ethereum": {
+          "Morpho Blue": 288953
+        },
+        "Base": {
+          "Morpho Blue": 139603
+        },
+        "Polygon": {
+          "Morpho Blue": 7492
+        },
+        "Unichain": {
+          "Morpho Blue": 5649
+        },
+        "Katana": {
+          "Morpho Blue": 1685
+        }
+      }
+    ],
+    [
+      1753833600,
+      {
+        "Ethereum": {
+          "Morpho Blue": 311312
+        },
+        "Base": {
+          "Morpho Blue": 147590
+        },
+        "Polygon": {
+          "Morpho Blue": 6981
+        },
+        "Unichain": {
+          "Morpho Blue": 5952
+        },
+        "Katana": {
+          "Morpho Blue": 2160
         }
       }
     ]
   ],
-  "change_1d": 8.82
+  "change_1d": -8.21
 }

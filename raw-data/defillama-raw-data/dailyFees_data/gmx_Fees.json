@@ -1,7 +1,7 @@
 {
   "id": "parent#gmx",
   "name": "GMX",
-  "url": "https://gmxsol.io/",
+  "url": "https://gmx.io",
   "description": "GMX is a leading onchain exchange for perpetual and spot trading, offering deep liquidity, low fees, multi-chain support, and seamless one-click trading. Powered by isolated and multi-asset pools, the permissionless DEX enables anybody to provide liquidity and integrates with 80+ DeFi projects across Arbitrum, Avalanche, and Solana.",
   "logo": "https://icons.llama.fi/gmx.png",
   "gecko_id": "gmx",
@@ -21,8 +21,112 @@
   "symbol": "GMX",
   "address": "arbitrum:0xfc5A1A6EB076a2C7aD06eD22C90d7E710E35ad0a",
   "childProtocols": [
-    {},
-    {}
+    {
+      "name": "GMX V1 Perps",
+      "defillamaId": "337",
+      "displayName": "GMX V1 Perps",
+      "module": "gmx",
+      "category": "Derivatives",
+      "logo": "https://icons.llamao.fi/icons/protocols/gmx-v1-perps.png",
+      "chains": [
+        "arbitrum",
+        "avax"
+      ],
+      "methodologyURL": "https://github.com/DefiLlama/dimension-adapters/blob/master/fees/gmx.ts",
+      "methodology": {
+        "UserFees": "Fees from open/close position (0.1%), swap (0.2% to 0.8%) and borrow fee ((assets borrowed)/(total assets in pool)*0.01%)",
+        "Fees": "Fees from open/close position (0.1%), swap (0.2% to 0.8%), mint and burn (based on tokens balance in the pool) and borrow fee ((assets borrowed)/(total assets in pool)*0.01%)",
+        "Revenue": "Revenue is 30% of all collected fees, which goes to GMX stakers",
+        "ProtocolRevenue": "Treasury has no revenue",
+        "HoldersRevenue": "30% of all collected fees goes to GMX stakers",
+        "SupplySideRevenue": "70% of all collected fees goes to GLP holders"
+      },
+      "gecko_id": null,
+      "twitter": "GMX_IO",
+      "audits": "2",
+      "description": "GMX is a decentralized spot and perpetual exchange that supports low swap fees and zero price impact trades. Trading is supported by a unique multi-asset pool that earns liquidity providers fees from market making, swap fees, leverage trading (spreads, funding fees & liquidations) and asset rebalancing.",
+      "address": "arbitrum:0xfc5A1A6EB076a2C7aD06eD22C90d7E710E35ad0a",
+      "url": "https://gmx.io/",
+      "audit_links": [
+        "https://gmxio.gitbook.io/gmx/audit"
+      ],
+      "cmcId": null,
+      "id": "337",
+      "parentProtocol": "parent#gmx"
+    },
+    {
+      "name": "GMX V2 Perps",
+      "defillamaId": "3365",
+      "displayName": "GMX V2 Perps",
+      "module": "gmx-v2",
+      "category": "Derivatives",
+      "logo": "https://icons.llamao.fi/icons/protocols/gmx-v2-perps.png",
+      "chains": [
+        "arbitrum",
+        "avax",
+        "solana"
+      ],
+      "methodologyURL": "https://github.com/DefiLlama/dimension-adapters/blob/master/fees/gmx-v2",
+      "methodology": {
+        "UserFees": "Fees paid by users",
+        "Fees": "Fees paid by users",
+        "Revenue": "Treasury and token holders revenue",
+        "ProtocolRevenue": "Fees going to treasury",
+        "HoldersRevenue": "Fees going to governance token holders",
+        "SupplySideRevenue": "LPs revenue"
+      },
+      "gecko_id": null,
+      "forkedFrom": [],
+      "twitter": "GMX_IO",
+      "audits": "2",
+      "description": "GMX is a decentralized spot and perpetual exchange that supports low swap fees and zero price impact trades. Trading is supported by a unique multi-asset pool that earns liquidity providers fees from market making, swap fees, leverage trading (spreads, funding fees & liquidations) and asset rebalancing.",
+      "address": "arbitrum:0xfc5A1A6EB076a2C7aD06eD22C90d7E710E35ad0a",
+      "url": "https://gmxsol.io/",
+      "audit_links": [
+        "https://github.com/gmx-io/gmx-synthetics/tree/main/audits"
+      ],
+      "cmcId": null,
+      "id": "3365",
+      "parentProtocol": "parent#gmx"
+    },
+    {
+      "name": "GMX V1 AMM",
+      "module": "dummy.js",
+      "category": "Dexs",
+      "logo": "https://icons.llama.fi/gmx-v1-amm.jpg",
+      "chains": [
+        "Arbitrum"
+      ],
+      "gecko_id": null,
+      "forkedFrom": [],
+      "twitter": "GMX_IO",
+      "audits": "0",
+      "description": "GMX is a decentralized spot and perpetual exchange that supports low swap fees and zero price impact trades. Trading is supported by a unique multi-asset pool that earns liquidity providers fees from market making, swap fees, leverage trading (spreads, funding fees & liquidations) and asset rebalancing.",
+      "address": "arbitrum:0xfc5A1A6EB076a2C7aD06eD22C90d7E710E35ad0a",
+      "url": "https://gmx.io/",
+      "cmcId": null,
+      "id": "5069",
+      "parentProtocol": "parent#gmx"
+    },
+    {
+      "name": "GMX V2 AMM",
+      "module": "dummy.js",
+      "category": "Dexs",
+      "logo": "https://icons.llama.fi/gmx-v2-amm.jpg",
+      "chains": [
+        "Arbitrum"
+      ],
+      "gecko_id": null,
+      "forkedFrom": [],
+      "twitter": "GMX_IO",
+      "audits": "0",
+      "description": "GMX is a decentralized spot and perpetual exchange that supports low swap fees and zero price impact trades. Trading is supported by a unique multi-asset pool that earns liquidity providers fees from market making, swap fees, leverage trading (spreads, funding fees & liquidations) and asset rebalancing.",
+      "address": "arbitrum:0xfc5A1A6EB076a2C7aD06eD22C90d7E710E35ad0a",
+      "url": "https://gmxsol.io/",
+      "cmcId": null,
+      "id": "5070",
+      "parentProtocol": "parent#gmx"
+    }
   ],
   "linkedProtocols": [
     "GMX",
@@ -30,7 +134,6 @@
     "GMX V2 Perps"
   ],
   "defillamaId": "parent#gmx",
-  "disabled": null,
   "displayName": "GMX",
   "module": null,
   "category": null,
@@ -46,10 +149,11 @@
   "latestFetchIsOk": true,
   "slug": "gmx",
   "protocolType": "protocol",
-  "total24h": 396314,
-  "total48hto24h": 429774,
-  "total7d": 2245499,
-  "totalAllTime": 438727315,
+  "total24h": 262052,
+  "total48hto24h": 407239,
+  "total7d": 2162481,
+  "total30d": 8639813,
+  "totalAllTime": 442297662,
   "totalDataChart": [
     [
       1630627200,
@@ -4937,7 +5041,7 @@
     ],
     [
       1736121600,
-      41754
+      257998
     ],
     [
       1736208000,
@@ -5710,6 +5814,50 @@
     [
       1752796800,
       396314
+    ],
+    [
+      1752883200,
+      199265
+    ],
+    [
+      1752969600,
+      309516
+    ],
+    [
+      1753056000,
+      361840
+    ],
+    [
+      1753142400,
+      321001
+    ],
+    [
+      1753228800,
+      310692
+    ],
+    [
+      1753315200,
+      303326
+    ],
+    [
+      1753401600,
+      362739
+    ],
+    [
+      1753488000,
+      244672
+    ],
+    [
+      1753574400,
+      271761
+    ],
+    [
+      1753660800,
+      407239
+    ],
+    [
+      1753747200,
+      262052
     ]
   ],
   "totalDataChartBreakdown": [
@@ -19810,10 +19958,12 @@
       1736121600,
       {
         "Arbitrum": {
-          "GMX V1 Perps": 38139
+          "GMX V1 Perps": 38139,
+          "GMX V2 Perps": 193859
         },
         "Avalanche": {
-          "GMX V1 Perps": 3615
+          "GMX V1 Perps": 3615,
+          "GMX V2 Perps": 22385
         }
       }
     ],
@@ -22793,7 +22943,177 @@
           "GMX V2 Perps": 948
         }
       }
+    ],
+    [
+      1752883200,
+      {
+        "Arbitrum": {
+          "GMX V1 Perps": 78,
+          "GMX V2 Perps": 187137
+        },
+        "Avalanche": {
+          "GMX V1 Perps": 915,
+          "GMX V2 Perps": 10702
+        },
+        "Solana": {
+          "GMX V2 Perps": 433
+        }
+      }
+    ],
+    [
+      1752969600,
+      {
+        "Arbitrum": {
+          "GMX V1 Perps": 1,
+          "GMX V2 Perps": 297910
+        },
+        "Avalanche": {
+          "GMX V1 Perps": 688,
+          "GMX V2 Perps": 10699
+        },
+        "Solana": {
+          "GMX V2 Perps": 218
+        }
+      }
+    ],
+    [
+      1753056000,
+      {
+        "Arbitrum": {
+          "GMX V1 Perps": 21,
+          "GMX V2 Perps": 334944
+        },
+        "Avalanche": {
+          "GMX V1 Perps": 56,
+          "GMX V2 Perps": 20877
+        },
+        "Solana": {
+          "GMX V2 Perps": 5942
+        }
+      }
+    ],
+    [
+      1753142400,
+      {
+        "Arbitrum": {
+          "GMX V1 Perps": 95,
+          "GMX V2 Perps": 303476
+        },
+        "Avalanche": {
+          "GMX V1 Perps": 155,
+          "GMX V2 Perps": 15063
+        },
+        "Solana": {
+          "GMX V2 Perps": 2212
+        }
+      }
+    ],
+    [
+      1753228800,
+      {
+        "Arbitrum": {
+          "GMX V2 Perps": 282316
+        },
+        "Avalanche": {
+          "GMX V2 Perps": 15743
+        },
+        "Solana": {
+          "GMX V2 Perps": 12633
+        }
+      }
+    ],
+    [
+      1753315200,
+      {
+        "Arbitrum": {
+          "GMX V1 Perps": 24,
+          "GMX V2 Perps": 287955
+        },
+        "Avalanche": {
+          "GMX V1 Perps": 209,
+          "GMX V2 Perps": 11592
+        },
+        "Solana": {
+          "GMX V2 Perps": 3546
+        }
+      }
+    ],
+    [
+      1753401600,
+      {
+        "Arbitrum": {
+          "GMX V2 Perps": 348809
+        },
+        "Avalanche": {
+          "GMX V2 Perps": 13614
+        },
+        "Solana": {
+          "GMX V2 Perps": 316
+        }
+      }
+    ],
+    [
+      1753488000,
+      {
+        "Arbitrum": {
+          "GMX V2 Perps": 234804
+        },
+        "Avalanche": {
+          "GMX V2 Perps": 8903
+        },
+        "Solana": {
+          "GMX V2 Perps": 965
+        }
+      }
+    ],
+    [
+      1753574400,
+      {
+        "Arbitrum": {
+          "GMX V1 Perps": 25,
+          "GMX V2 Perps": 261396
+        },
+        "Avalanche": {
+          "GMX V1 Perps": 131,
+          "GMX V2 Perps": 9977
+        },
+        "Solana": {
+          "GMX V2 Perps": 232
+        }
+      }
+    ],
+    [
+      1753660800,
+      {
+        "Arbitrum": {
+          "GMX V1 Perps": 205,
+          "GMX V2 Perps": 391438
+        },
+        "Avalanche": {
+          "GMX V1 Perps": 2830,
+          "GMX V2 Perps": 11964
+        },
+        "Solana": {
+          "GMX V2 Perps": 802
+        }
+      }
+    ],
+    [
+      1753747200,
+      {
+        "Arbitrum": {
+          "GMX V1 Perps": 5,
+          "GMX V2 Perps": 245760
+        },
+        "Avalanche": {
+          "GMX V1 Perps": 60,
+          "GMX V2 Perps": 15829
+        },
+        "Solana": {
+          "GMX V2 Perps": 398
+        }
+      }
     ]
   ],
-  "change_1d": -7.79
+  "change_1d": -35.65
 }

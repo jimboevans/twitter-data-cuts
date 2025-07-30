@@ -16,8 +16,67 @@
   "symbol": "KMNO",
   "address": "solana:KMNo3nJsBXfcpJTVhZcXLW7RmTwTt4GVFE7suUBo9sS",
   "childProtocols": [
-    {},
-    {}
+    {
+      "name": "Kamino Liquidity",
+      "defillamaId": "2062",
+      "displayName": "Kamino Liquidity",
+      "module": "kamino-liquidity",
+      "category": "Liquidity manager",
+      "logo": "https://icons.llamao.fi/icons/protocols/kamino-liquidity.jpg",
+      "chains": [
+        "solana"
+      ],
+      "methodologyURL": "https://github.com/DefiLlama/dimension-adapters/blob/master/fees/kamino-liquidity",
+      "methodology": {
+        "Revenue": "Revenues are aggregated by Allez Labs using Flipside Crypto data.",
+        "Fees": "Fees are aggregated by Allez Labs using the Kamino API."
+      },
+      "gecko_id": null,
+      "forkedFrom": [],
+      "twitter": "KaminoFinance",
+      "audits": "2",
+      "description": "Solana's liquidity layer. Built on top of concentrated liquidity protocols, Kamino facilitates automated liquidity via quantitative models, depositing into optimized ranges, rebalancing positions, and auto-compounding of fees & rewards.",
+      "address": "solana:KMNo3nJsBXfcpJTVhZcXLW7RmTwTt4GVFE7suUBo9sS",
+      "url": "https://kamino.finance/",
+      "audit_links": [
+        "https://smartstate.tech/reports/kamino-finance-report-27082022.html"
+      ],
+      "cmcId": null,
+      "id": "2062",
+      "parentProtocol": "parent#kamino-finance"
+    },
+    {
+      "name": "Kamino Lend",
+      "defillamaId": "3770",
+      "displayName": "Kamino Lend",
+      "module": "kamino-lending",
+      "category": "Lending",
+      "logo": "https://icons.llamao.fi/icons/protocols/kamino.jpg",
+      "chains": [
+        "solana"
+      ],
+      "methodologyURL": "https://github.com/DefiLlama/dimension-adapters/blob/master/fees/kamino-lending",
+      "methodology": {
+        "UserFees": "Interest paid by borrowers",
+        "Fees": "Fees are aggregated by Allez Labs using the Kamino API",
+        "Revenue": "Percentage of interest going to treasury",
+        "ProtocolRevenue": "Percentage of interest going to treasury",
+        "SupplySideRevenue": "Interest paid to lenders"
+      },
+      "gecko_id": null,
+      "forkedFrom": [],
+      "twitter": "KaminoFinance",
+      "audits": "2",
+      "description": "Kamino Lend (K-Lend) is a novel peer-to-pool borrowing primitive designed as foundational infrastructure to power complex financial products with leverage and automation and as a decentralized matchmaker between borrowers and lenders",
+      "address": "solana:KMNo3nJsBXfcpJTVhZcXLW7RmTwTt4GVFE7suUBo9sS",
+      "url": "https://kamino.finance/",
+      "audit_links": [
+        "https://github.com/hubbleprotocol/kamino-audits"
+      ],
+      "cmcId": null,
+      "id": "3770",
+      "parentProtocol": "parent#kamino-finance"
+    }
   ],
   "linkedProtocols": [
     "Kamino",
@@ -25,7 +84,6 @@
     "Kamino Lend"
   ],
   "defillamaId": "parent#kamino-finance",
-  "disabled": null,
   "displayName": "Kamino",
   "module": null,
   "category": null,
@@ -42,10 +100,11 @@
   "latestFetchIsOk": true,
   "slug": "kamino",
   "protocolType": "protocol",
-  "total24h": 58741,
-  "total48hto24h": 62090,
-  "total7d": 410181,
-  "totalAllTime": 36955088,
+  "total24h": 48253,
+  "total48hto24h": 51235,
+  "total7d": 339218,
+  "total30d": 1701892,
+  "totalAllTime": 37596020,
   "totalDataChart": [
     [
       1697068800,
@@ -1857,7 +1916,7 @@
     ],
     [
       1736121600,
-      78693
+      87872
     ],
     [
       1736208000,
@@ -1997,7 +2056,7 @@
     ],
     [
       1739145600,
-      91981
+      98933
     ],
     [
       1739232000,
@@ -2630,6 +2689,50 @@
     [
       1752796800,
       58741
+    ],
+    [
+      1752883200,
+      71618
+    ],
+    [
+      1752969600,
+      72662
+    ],
+    [
+      1753056000,
+      67878
+    ],
+    [
+      1753142400,
+      73425
+    ],
+    [
+      1753228800,
+      52551
+    ],
+    [
+      1753315200,
+      46837
+    ],
+    [
+      1753401600,
+      47319
+    ],
+    [
+      1753488000,
+      46180
+    ],
+    [
+      1753574400,
+      46843
+    ],
+    [
+      1753660800,
+      51235
+    ],
+    [
+      1753747200,
+      48253
     ]
   ],
   "totalDataChartBreakdown": [
@@ -6703,6 +6806,7 @@
       1736121600,
       {
         "Solana": {
+          "Kamino Liquidity": 9179,
           "Kamino Lend": 78693
         }
       }
@@ -7017,6 +7121,7 @@
       1739145600,
       {
         "Solana": {
+          "Kamino Liquidity": 6952,
           "Kamino Lend": 91981
         }
       }
@@ -8442,7 +8547,106 @@
           "Kamino Lend": 58741
         }
       }
+    ],
+    [
+      1752883200,
+      {
+        "Solana": {
+          "Kamino Liquidity": 0,
+          "Kamino Lend": 71618
+        }
+      }
+    ],
+    [
+      1752969600,
+      {
+        "Solana": {
+          "Kamino Liquidity": 0,
+          "Kamino Lend": 72662
+        }
+      }
+    ],
+    [
+      1753056000,
+      {
+        "Solana": {
+          "Kamino Liquidity": 0,
+          "Kamino Lend": 67878
+        }
+      }
+    ],
+    [
+      1753142400,
+      {
+        "Solana": {
+          "Kamino Liquidity": 0,
+          "Kamino Lend": 73425
+        }
+      }
+    ],
+    [
+      1753228800,
+      {
+        "Solana": {
+          "Kamino Liquidity": 0,
+          "Kamino Lend": 52551
+        }
+      }
+    ],
+    [
+      1753315200,
+      {
+        "Solana": {
+          "Kamino Liquidity": 0,
+          "Kamino Lend": 46837
+        }
+      }
+    ],
+    [
+      1753401600,
+      {
+        "Solana": {
+          "Kamino Liquidity": 0,
+          "Kamino Lend": 47319
+        }
+      }
+    ],
+    [
+      1753488000,
+      {
+        "Solana": {
+          "Kamino Liquidity": 0,
+          "Kamino Lend": 46180
+        }
+      }
+    ],
+    [
+      1753574400,
+      {
+        "Solana": {
+          "Kamino Liquidity": 0,
+          "Kamino Lend": 46843
+        }
+      }
+    ],
+    [
+      1753660800,
+      {
+        "Solana": {
+          "Kamino Liquidity": 0,
+          "Kamino Lend": 51235
+        }
+      }
+    ],
+    [
+      1753747200,
+      {
+        "Solana": {
+          "Kamino Liquidity": 0,
+          "Kamino Lend": 48253
+        }
+      }
     ]
   ],
-  "change_1d": -5.39
+  "change_1d": -5.82
 }

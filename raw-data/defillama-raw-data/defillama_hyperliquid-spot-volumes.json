@@ -17,14 +17,80 @@
   "symbol": "HYPE",
   "address": "hyperliquid:0x0d01dc56dcaaca66ad901c959b4011ec",
   "childProtocols": [
-    {}
+    {
+      "name": "Hyperliquid HLP",
+      "module": "hyperliquid-hlp/index.js",
+      "category": "Derivatives",
+      "logo": "https://icons.llama.fi/hyperliquid.png",
+      "chains": [
+        "Hyperliquid L1"
+      ],
+      "gecko_id": null,
+      "forkedFrom": [],
+      "twitter": "HyperliquidX",
+      "audits": "0",
+      "description": "Hyperliquidity Provider (HLP) is a protocol vault that does market making and liquidations and receives a portion of trading fees",
+      "address": "hyperliquid:0x0d01dc56dcaaca66ad901c959b4011ec",
+      "url": "https://hyperliquid.xyz",
+      "cmcId": null,
+      "id": "5448",
+      "parentProtocol": "parent#hyperliquid"
+    },
+    {
+      "name": "Hyperliquid Perps",
+      "module": "dummy.js",
+      "category": "Derivatives",
+      "logo": "https://icons.llama.fi/hyperliquid.png",
+      "chains": [
+        "Hyperliquid L1"
+      ],
+      "gecko_id": null,
+      "forkedFrom": [],
+      "twitter": "HyperliquidX",
+      "audits": "0",
+      "description": "Hyperliquid is a decentralized perpetual exchange with best-in-class speed, liquidity, and price.",
+      "address": "hyperliquid:0x0d01dc56dcaaca66ad901c959b4011ec",
+      "url": "https://hyperliquid.xyz",
+      "cmcId": null,
+      "id": "5507",
+      "parentProtocol": "parent#hyperliquid"
+    },
+    {
+      "name": "Hyperliquid Spot Orderbook",
+      "defillamaId": "5761",
+      "displayName": "Hyperliquid Spot Orderbook",
+      "module": "hyperliquid-spot",
+      "category": "Dexs",
+      "logo": "https://icons.llamao.fi/icons/protocols/hyperliquid.png",
+      "chains": [
+        "hyperliquid"
+      ],
+      "methodologyURL": "https://github.com/DefiLlama/dimension-adapters/blob/master/dexs/hyperliquid-spot",
+      "methodology": {
+        "UserFees": "Swap fees paid by users",
+        "Fees": "Swap fees paid by users",
+        "Revenue": "Percentage of swap fees going to treasury and/or token holders",
+        "ProtocolRevenue": "Percentage of swap fees going to treasury",
+        "HoldersRevenue": "Money going to governance token holders",
+        "SupplySideRevenue": "Liquidity providers revenue"
+      },
+      "gecko_id": null,
+      "forkedFrom": [],
+      "twitter": "HyperliquidX",
+      "audits": "0",
+      "description": "The order book works in essentially the same way as all centralized exchanges but is fully on-chain",
+      "address": "hyperliquid:0x0d01dc56dcaaca66ad901c959b4011ec",
+      "url": "https://hyperliquid.xyz",
+      "cmcId": null,
+      "id": "5761",
+      "parentProtocol": "parent#hyperliquid"
+    }
   ],
   "linkedProtocols": [
     "Hyperliquid",
     "Hyperliquid Spot Orderbook"
   ],
   "defillamaId": "parent#hyperliquid",
-  "disabled": null,
   "displayName": "Hyperliquid",
   "module": null,
   "category": null,
@@ -41,10 +107,11 @@
   "latestFetchIsOk": true,
   "slug": "hyperliquid",
   "protocolType": "protocol",
-  "total24h": 292172889,
-  "total48hto24h": 249646512,
-  "total7d": 1571249849,
-  "totalAllTime": 51024307976,
+  "total24h": 430369408,
+  "total48hto24h": 457193092,
+  "total7d": 2669178741,
+  "total30d": 10656331216,
+  "totalAllTime": 60631298343,
   "totalDataChart": [
     [
       1726704000,
@@ -561,10 +628,6 @@
     [
       1737763200,
       138875526
-    ],
-    [
-      1737849600,
-      229716868
     ],
     [
       1737936000,
@@ -1193,6 +1256,114 @@
     [
       1751414400,
       292172889
+    ],
+    [
+      1751500800,
+      229236296
+    ],
+    [
+      1751587200,
+      221169152
+    ],
+    [
+      1751673600,
+      128067841
+    ],
+    [
+      1751760000,
+      135062039
+    ],
+    [
+      1751846400,
+      200536259
+    ],
+    [
+      1751932800,
+      248230529
+    ],
+    [
+      1752019200,
+      298577873
+    ],
+    [
+      1752105600,
+      408100683
+    ],
+    [
+      1752192000,
+      470323564
+    ],
+    [
+      1752278400,
+      306157655
+    ],
+    [
+      1752364800,
+      302499066
+    ],
+    [
+      1752451200,
+      527347600
+    ],
+    [
+      1752537600,
+      568382607
+    ],
+    [
+      1752624000,
+      482934022
+    ],
+    [
+      1752710400,
+      613486677
+    ],
+    [
+      1752796800,
+      516622789
+    ],
+    [
+      1752883200,
+      236243594
+    ],
+    [
+      1752969600,
+      339236147
+    ],
+    [
+      1753056000,
+      427336704
+    ],
+    [
+      1753142400,
+      507977397
+    ],
+    [
+      1753228800,
+      456108455
+    ],
+    [
+      1753315200,
+      400136463
+    ],
+    [
+      1753401600,
+      407697636
+    ],
+    [
+      1753488000,
+      234677785
+    ],
+    [
+      1753574400,
+      282995902
+    ],
+    [
+      1753660800,
+      457193092
+    ],
+    [
+      1753747200,
+      430369408
     ]
   ],
   "totalDataChartBreakdown": [
@@ -2225,14 +2396,6 @@
       {
         "Hyperliquid L1": {
           "Hyperliquid Spot Orderbook": 138875526
-        }
-      }
-    ],
-    [
-      1737849600,
-      {
-        "Hyperliquid L1": {
-          "Hyperliquid Spot Orderbook": 229716868
         }
       }
     ],
@@ -3491,7 +3654,223 @@
           "Hyperliquid Spot Orderbook": 292172889
         }
       }
+    ],
+    [
+      1751500800,
+      {
+        "Hyperliquid L1": {
+          "Hyperliquid Spot Orderbook": 229236296
+        }
+      }
+    ],
+    [
+      1751587200,
+      {
+        "Hyperliquid L1": {
+          "Hyperliquid Spot Orderbook": 221169152
+        }
+      }
+    ],
+    [
+      1751673600,
+      {
+        "Hyperliquid L1": {
+          "Hyperliquid Spot Orderbook": 128067841
+        }
+      }
+    ],
+    [
+      1751760000,
+      {
+        "Hyperliquid L1": {
+          "Hyperliquid Spot Orderbook": 135062039
+        }
+      }
+    ],
+    [
+      1751846400,
+      {
+        "Hyperliquid L1": {
+          "Hyperliquid Spot Orderbook": 200536259
+        }
+      }
+    ],
+    [
+      1751932800,
+      {
+        "Hyperliquid L1": {
+          "Hyperliquid Spot Orderbook": 248230529
+        }
+      }
+    ],
+    [
+      1752019200,
+      {
+        "Hyperliquid L1": {
+          "Hyperliquid Spot Orderbook": 298577873
+        }
+      }
+    ],
+    [
+      1752105600,
+      {
+        "Hyperliquid L1": {
+          "Hyperliquid Spot Orderbook": 408100683
+        }
+      }
+    ],
+    [
+      1752192000,
+      {
+        "Hyperliquid L1": {
+          "Hyperliquid Spot Orderbook": 470323564
+        }
+      }
+    ],
+    [
+      1752278400,
+      {
+        "Hyperliquid L1": {
+          "Hyperliquid Spot Orderbook": 306157655
+        }
+      }
+    ],
+    [
+      1752364800,
+      {
+        "Hyperliquid L1": {
+          "Hyperliquid Spot Orderbook": 302499066
+        }
+      }
+    ],
+    [
+      1752451200,
+      {
+        "Hyperliquid L1": {
+          "Hyperliquid Spot Orderbook": 527347600
+        }
+      }
+    ],
+    [
+      1752537600,
+      {
+        "Hyperliquid L1": {
+          "Hyperliquid Spot Orderbook": 568382607
+        }
+      }
+    ],
+    [
+      1752624000,
+      {
+        "Hyperliquid L1": {
+          "Hyperliquid Spot Orderbook": 482934022
+        }
+      }
+    ],
+    [
+      1752710400,
+      {
+        "Hyperliquid L1": {
+          "Hyperliquid Spot Orderbook": 613486677
+        }
+      }
+    ],
+    [
+      1752796800,
+      {
+        "Hyperliquid L1": {
+          "Hyperliquid Spot Orderbook": 516622789
+        }
+      }
+    ],
+    [
+      1752883200,
+      {
+        "Hyperliquid L1": {
+          "Hyperliquid Spot Orderbook": 236243594
+        }
+      }
+    ],
+    [
+      1752969600,
+      {
+        "Hyperliquid L1": {
+          "Hyperliquid Spot Orderbook": 339236147
+        }
+      }
+    ],
+    [
+      1753056000,
+      {
+        "Hyperliquid L1": {
+          "Hyperliquid Spot Orderbook": 427336704
+        }
+      }
+    ],
+    [
+      1753142400,
+      {
+        "Hyperliquid L1": {
+          "Hyperliquid Spot Orderbook": 507977397
+        }
+      }
+    ],
+    [
+      1753228800,
+      {
+        "Hyperliquid L1": {
+          "Hyperliquid Spot Orderbook": 456108455
+        }
+      }
+    ],
+    [
+      1753315200,
+      {
+        "Hyperliquid L1": {
+          "Hyperliquid Spot Orderbook": 400136463
+        }
+      }
+    ],
+    [
+      1753401600,
+      {
+        "Hyperliquid L1": {
+          "Hyperliquid Spot Orderbook": 407697636
+        }
+      }
+    ],
+    [
+      1753488000,
+      {
+        "Hyperliquid L1": {
+          "Hyperliquid Spot Orderbook": 234677785
+        }
+      }
+    ],
+    [
+      1753574400,
+      {
+        "Hyperliquid L1": {
+          "Hyperliquid Spot Orderbook": 282995902
+        }
+      }
+    ],
+    [
+      1753660800,
+      {
+        "Hyperliquid L1": {
+          "Hyperliquid Spot Orderbook": 457193092
+        }
+      }
+    ],
+    [
+      1753747200,
+      {
+        "Hyperliquid L1": {
+          "Hyperliquid Spot Orderbook": 430369408
+        }
+      }
     ]
   ],
-  "change_1d": 17.03
+  "change_1d": -5.87
 }

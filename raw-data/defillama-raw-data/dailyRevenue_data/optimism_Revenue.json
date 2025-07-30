@@ -1,7 +1,6 @@
 {
   "name": "OP Mainnet",
   "defillamaId": "chain#10",
-  "disabled": false,
   "displayName": "OP Mainnet",
   "module": "optimism",
   "category": "Rollup",
@@ -40,10 +39,11 @@
   "latestFetchIsOk": true,
   "slug": "op-mainnet",
   "protocolType": "chain",
-  "total24h": 17224,
-  "total48hto24h": 17059,
-  "total7d": 89544,
-  "totalAllTime": 30294925,
+  "total24h": 8106,
+  "total48hto24h": 15682,
+  "total7d": 69978,
+  "total30d": 283770,
+  "totalAllTime": 30444830,
   "totalDataChart": [
     [
       1637193600,
@@ -4606,6 +4606,10 @@
       7845
     ],
     [
+      1736121600,
+      29271
+    ],
+    [
       1736208000,
       28386
     ],
@@ -5367,15 +5371,59 @@
     ],
     [
       1752624000,
-      15207
+      15144
     ],
     [
       1752710400,
-      17059
+      16592
     ],
     [
       1752796800,
-      17224
+      17274
+    ],
+    [
+      1752883200,
+      7656
+    ],
+    [
+      1752969600,
+      14904
+    ],
+    [
+      1753056000,
+      12801
+    ],
+    [
+      1753142400,
+      15775
+    ],
+    [
+      1753228800,
+      13181
+    ],
+    [
+      1753315200,
+      11351
+    ],
+    [
+      1753401600,
+      10678
+    ],
+    [
+      1753488000,
+      5361
+    ],
+    [
+      1753574400,
+      5619
+    ],
+    [
+      1753660800,
+      15682
+    ],
+    [
+      1753747200,
+      8106
     ]
   ],
   "totalDataChartBreakdown": [
@@ -14500,6 +14548,14 @@
       }
     ],
     [
+      1736121600,
+      {
+        "OP Mainnet": {
+          "OP Mainnet": 29271
+        }
+      }
+    ],
+    [
       1736208000,
       {
         "OP Mainnet": {
@@ -16023,7 +16079,7 @@
       1752624000,
       {
         "OP Mainnet": {
-          "OP Mainnet": 15207
+          "OP Mainnet": 15144
         }
       }
     ],
@@ -16031,7 +16087,7 @@
       1752710400,
       {
         "OP Mainnet": {
-          "OP Mainnet": 17059
+          "OP Mainnet": 16592
         }
       }
     ],
@@ -16039,10 +16095,98 @@
       1752796800,
       {
         "OP Mainnet": {
-          "OP Mainnet": 17224
+          "OP Mainnet": 17274
+        }
+      }
+    ],
+    [
+      1752883200,
+      {
+        "OP Mainnet": {
+          "OP Mainnet": 7656
+        }
+      }
+    ],
+    [
+      1752969600,
+      {
+        "OP Mainnet": {
+          "OP Mainnet": 14904
+        }
+      }
+    ],
+    [
+      1753056000,
+      {
+        "OP Mainnet": {
+          "OP Mainnet": 12801
+        }
+      }
+    ],
+    [
+      1753142400,
+      {
+        "OP Mainnet": {
+          "OP Mainnet": 15775
+        }
+      }
+    ],
+    [
+      1753228800,
+      {
+        "OP Mainnet": {
+          "OP Mainnet": 13181
+        }
+      }
+    ],
+    [
+      1753315200,
+      {
+        "OP Mainnet": {
+          "OP Mainnet": 11351
+        }
+      }
+    ],
+    [
+      1753401600,
+      {
+        "OP Mainnet": {
+          "OP Mainnet": 10678
+        }
+      }
+    ],
+    [
+      1753488000,
+      {
+        "OP Mainnet": {
+          "OP Mainnet": 5361
+        }
+      }
+    ],
+    [
+      1753574400,
+      {
+        "OP Mainnet": {
+          "OP Mainnet": 5619
+        }
+      }
+    ],
+    [
+      1753660800,
+      {
+        "OP Mainnet": {
+          "OP Mainnet": 15682
+        }
+      }
+    ],
+    [
+      1753747200,
+      {
+        "OP Mainnet": {
+          "OP Mainnet": 8106
         }
       }
     ]
   ],
-  "change_1d": 0.97
+  "change_1d": -48.31
 }

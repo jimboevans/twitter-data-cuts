@@ -28,7 +28,6 @@
   ],
   "treasury": "colony.js",
   "defillamaId": "1004",
-  "disabled": false,
   "displayName": "Colony",
   "methodologyURL": "https://github.com/DefiLlama/dimension-adapters/blob/master/fees/colony",
   "methodology": {
@@ -47,10 +46,11 @@
   "latestFetchIsOk": true,
   "slug": "colony",
   "protocolType": "protocol",
-  "total24h": 169,
-  "total48hto24h": 152,
-  "total7d": 106776,
-  "totalAllTime": 763575,
+  "total24h": 367,
+  "total48hto24h": 268,
+  "total7d": 1834,
+  "total30d": 139889,
+  "totalAllTime": 774128,
   "totalDataChart": [
     [
       1722297600,
@@ -691,6 +691,10 @@
     [
       1736035200,
       1914
+    ],
+    [
+      1736121600,
+      4160
     ],
     [
       1736208000,
@@ -1406,7 +1410,51 @@
     ],
     [
       1752883200,
-      169
+      224
+    ],
+    [
+      1752969600,
+      111
+    ],
+    [
+      1753056000,
+      305
+    ],
+    [
+      1753142400,
+      3721
+    ],
+    [
+      1753228800,
+      254
+    ],
+    [
+      1753315200,
+      209
+    ],
+    [
+      1753401600,
+      633
+    ],
+    [
+      1753488000,
+      109
+    ],
+    [
+      1753574400,
+      208
+    ],
+    [
+      1753660800,
+      268
+    ],
+    [
+      1753747200,
+      153
+    ],
+    [
+      1753833600,
+      367
     ]
   ],
   "totalDataChartBreakdown": [
@@ -2687,6 +2735,14 @@
       {
         "Avalanche": {
           "Colony": 1914
+        }
+      }
+    ],
+    [
+      1736121600,
+      {
+        "Avalanche": {
+          "Colony": 4160
         }
       }
     ],
@@ -4118,10 +4174,98 @@
       1752883200,
       {
         "Avalanche": {
-          "Colony": 169
+          "Colony": 224
+        }
+      }
+    ],
+    [
+      1752969600,
+      {
+        "Avalanche": {
+          "Colony": 111
+        }
+      }
+    ],
+    [
+      1753056000,
+      {
+        "Avalanche": {
+          "Colony": 305
+        }
+      }
+    ],
+    [
+      1753142400,
+      {
+        "Avalanche": {
+          "Colony": 3721
+        }
+      }
+    ],
+    [
+      1753228800,
+      {
+        "Avalanche": {
+          "Colony": 254
+        }
+      }
+    ],
+    [
+      1753315200,
+      {
+        "Avalanche": {
+          "Colony": 209
+        }
+      }
+    ],
+    [
+      1753401600,
+      {
+        "Avalanche": {
+          "Colony": 633
+        }
+      }
+    ],
+    [
+      1753488000,
+      {
+        "Avalanche": {
+          "Colony": 109
+        }
+      }
+    ],
+    [
+      1753574400,
+      {
+        "Avalanche": {
+          "Colony": 208
+        }
+      }
+    ],
+    [
+      1753660800,
+      {
+        "Avalanche": {
+          "Colony": 268
+        }
+      }
+    ],
+    [
+      1753747200,
+      {
+        "Avalanche": {
+          "Colony": 153
+        }
+      }
+    ],
+    [
+      1753833600,
+      {
+        "Avalanche": {
+          "Colony": 367
         }
       }
     ]
   ],
-  "change_1d": 11.18
+  "change_1d": 36.94
 }

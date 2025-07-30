@@ -24,7 +24,6 @@
   "listedAt": 1720781977,
   "category": "RWA",
   "defillamaId": "4878",
-  "disabled": false,
   "displayName": "Franklin Templeton",
   "methodologyURL": "https://github.com/DefiLlama/dimension-adapters/blob/master/fees/franklin-templeton",
   "methodology": {
@@ -40,10 +39,11 @@
   "latestFetchIsOk": true,
   "slug": "franklin-templeton",
   "protocolType": "protocol",
-  "total24h": 2696,
-  "total48hto24h": 2560,
-  "total7d": 18168,
-  "totalAllTime": 733599,
+  "total24h": 0,
+  "total48hto24h": 2591,
+  "total7d": 15488,
+  "total30d": 75385,
+  "totalAllTime": 793281,
   "totalDataChart": [
     [
       1723766400,
@@ -1238,10 +1238,6 @@
       2682
     ],
     [
-      1749513600,
-      2682
-    ],
-    [
       1749600000,
       2657
     ],
@@ -1328,6 +1324,102 @@
     [
       1751414400,
       2696
+    ],
+    [
+      1751500800,
+      2696
+    ],
+    [
+      1751587200,
+      2697
+    ],
+    [
+      1751673600,
+      2697
+    ],
+    [
+      1751760000,
+      2697
+    ],
+    [
+      1751846400,
+      2620
+    ],
+    [
+      1751932800,
+      2621
+    ],
+    [
+      1752019200,
+      2624
+    ],
+    [
+      1752105600,
+      2625
+    ],
+    [
+      1752192000,
+      2625
+    ],
+    [
+      1752278400,
+      2625
+    ],
+    [
+      1752364800,
+      2626
+    ],
+    [
+      1752451200,
+      2545
+    ],
+    [
+      1752537600,
+      2545
+    ],
+    [
+      1752624000,
+      2545
+    ],
+    [
+      1752710400,
+      2545
+    ],
+    [
+      1752796800,
+      2545
+    ],
+    [
+      1752883200,
+      2545
+    ],
+    [
+      1752969600,
+      2545
+    ],
+    [
+      1753056000,
+      2545
+    ],
+    [
+      1753142400,
+      2545
+    ],
+    [
+      1753228800,
+      2546
+    ],
+    [
+      1753315200,
+      2579
+    ],
+    [
+      1753401600,
+      2590
+    ],
+    [
+      1753488000,
+      2591
     ]
   ],
   "totalDataChartBreakdown": [
@@ -4610,17 +4702,6 @@
       }
     ],
     [
-      1749513600,
-      {
-        "Polygon": {
-          "Franklin Templeton": 180
-        },
-        "Stellar": {
-          "Franklin Templeton": 2502
-        }
-      }
-    ],
-    [
       1749600000,
       {
         "Polygon": {
@@ -4861,7 +4942,270 @@
           "Franklin Templeton": 2515
         }
       }
+    ],
+    [
+      1751500800,
+      {
+        "Polygon": {
+          "Franklin Templeton": 181
+        },
+        "Stellar": {
+          "Franklin Templeton": 2515
+        }
+      }
+    ],
+    [
+      1751587200,
+      {
+        "Polygon": {
+          "Franklin Templeton": 181
+        },
+        "Stellar": {
+          "Franklin Templeton": 2516
+        }
+      }
+    ],
+    [
+      1751673600,
+      {
+        "Polygon": {
+          "Franklin Templeton": 181
+        },
+        "Stellar": {
+          "Franklin Templeton": 2516
+        }
+      }
+    ],
+    [
+      1751760000,
+      {
+        "Polygon": {
+          "Franklin Templeton": 181
+        },
+        "Stellar": {
+          "Franklin Templeton": 2516
+        }
+      }
+    ],
+    [
+      1751846400,
+      {
+        "Polygon": {
+          "Franklin Templeton": 181
+        },
+        "Stellar": {
+          "Franklin Templeton": 2439
+        }
+      }
+    ],
+    [
+      1751932800,
+      {
+        "Polygon": {
+          "Franklin Templeton": 181
+        },
+        "Stellar": {
+          "Franklin Templeton": 2440
+        }
+      }
+    ],
+    [
+      1752019200,
+      {
+        "Polygon": {
+          "Franklin Templeton": 181
+        },
+        "Stellar": {
+          "Franklin Templeton": 2443
+        }
+      }
+    ],
+    [
+      1752105600,
+      {
+        "Polygon": {
+          "Franklin Templeton": 181
+        },
+        "Stellar": {
+          "Franklin Templeton": 2444
+        }
+      }
+    ],
+    [
+      1752192000,
+      {
+        "Polygon": {
+          "Franklin Templeton": 181
+        },
+        "Stellar": {
+          "Franklin Templeton": 2444
+        }
+      }
+    ],
+    [
+      1752278400,
+      {
+        "Polygon": {
+          "Franklin Templeton": 181
+        },
+        "Stellar": {
+          "Franklin Templeton": 2444
+        }
+      }
+    ],
+    [
+      1752364800,
+      {
+        "Polygon": {
+          "Franklin Templeton": 181
+        },
+        "Stellar": {
+          "Franklin Templeton": 2445
+        }
+      }
+    ],
+    [
+      1752451200,
+      {
+        "Polygon": {
+          "Franklin Templeton": 181
+        },
+        "Stellar": {
+          "Franklin Templeton": 2364
+        }
+      }
+    ],
+    [
+      1752537600,
+      {
+        "Polygon": {
+          "Franklin Templeton": 181
+        },
+        "Stellar": {
+          "Franklin Templeton": 2364
+        }
+      }
+    ],
+    [
+      1752624000,
+      {
+        "Polygon": {
+          "Franklin Templeton": 181
+        },
+        "Stellar": {
+          "Franklin Templeton": 2364
+        }
+      }
+    ],
+    [
+      1752710400,
+      {
+        "Polygon": {
+          "Franklin Templeton": 181
+        },
+        "Stellar": {
+          "Franklin Templeton": 2364
+        }
+      }
+    ],
+    [
+      1752796800,
+      {
+        "Polygon": {
+          "Franklin Templeton": 181
+        },
+        "Stellar": {
+          "Franklin Templeton": 2364
+        }
+      }
+    ],
+    [
+      1752883200,
+      {
+        "Polygon": {
+          "Franklin Templeton": 181
+        },
+        "Stellar": {
+          "Franklin Templeton": 2364
+        }
+      }
+    ],
+    [
+      1752969600,
+      {
+        "Polygon": {
+          "Franklin Templeton": 181
+        },
+        "Stellar": {
+          "Franklin Templeton": 2364
+        }
+      }
+    ],
+    [
+      1753056000,
+      {
+        "Polygon": {
+          "Franklin Templeton": 181
+        },
+        "Stellar": {
+          "Franklin Templeton": 2364
+        }
+      }
+    ],
+    [
+      1753142400,
+      {
+        "Polygon": {
+          "Franklin Templeton": 181
+        },
+        "Stellar": {
+          "Franklin Templeton": 2364
+        }
+      }
+    ],
+    [
+      1753228800,
+      {
+        "Polygon": {
+          "Franklin Templeton": 181
+        },
+        "Stellar": {
+          "Franklin Templeton": 2365
+        }
+      }
+    ],
+    [
+      1753315200,
+      {
+        "Polygon": {
+          "Franklin Templeton": 181
+        },
+        "Stellar": {
+          "Franklin Templeton": 2398
+        }
+      }
+    ],
+    [
+      1753401600,
+      {
+        "Polygon": {
+          "Franklin Templeton": 181
+        },
+        "Stellar": {
+          "Franklin Templeton": 2409
+        }
+      }
+    ],
+    [
+      1753488000,
+      {
+        "Polygon": {
+          "Franklin Templeton": 181
+        },
+        "Stellar": {
+          "Franklin Templeton": 2410
+        }
+      }
     ]
-  ],
-  "change_1d": 5.31
+  ]
 }

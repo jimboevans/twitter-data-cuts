@@ -23,7 +23,6 @@
   ],
   "listedAt": 1746099860,
   "defillamaId": "6126",
-  "disabled": false,
   "displayName": "UniDerp",
   "methodologyURL": "https://github.com/DefiLlama/dimension-adapters/blob/master/fees/uniderp",
   "methodology": {
@@ -41,10 +40,11 @@
   "latestFetchIsOk": true,
   "slug": "uniderp",
   "protocolType": "protocol",
-  "total24h": 360069,
-  "total48hto24h": 432171,
-  "total7d": 2385609,
-  "totalAllTime": 8898292,
+  "total24h": 9424,
+  "total48hto24h": 167679,
+  "total7d": 1787902,
+  "total30d": 7612695,
+  "totalAllTime": 12220922,
   "totalDataChart": [
     [
       1748563200,
@@ -245,6 +245,50 @@
     [
       1752796800,
       360069
+    ],
+    [
+      1752883200,
+      350490
+    ],
+    [
+      1752969600,
+      387938
+    ],
+    [
+      1753056000,
+      443975
+    ],
+    [
+      1753142400,
+      352325
+    ],
+    [
+      1753228800,
+      310654
+    ],
+    [
+      1753315200,
+      347331
+    ],
+    [
+      1753401600,
+      311654
+    ],
+    [
+      1753488000,
+      311199
+    ],
+    [
+      1753574400,
+      329961
+    ],
+    [
+      1753660800,
+      167679
+    ],
+    [
+      1753747200,
+      9424
     ]
   ],
   "totalDataChartBreakdown": [
@@ -647,7 +691,95 @@
           "UniDerp": 360069
         }
       }
+    ],
+    [
+      1752883200,
+      {
+        "Unichain": {
+          "UniDerp": 350490
+        }
+      }
+    ],
+    [
+      1752969600,
+      {
+        "Unichain": {
+          "UniDerp": 387938
+        }
+      }
+    ],
+    [
+      1753056000,
+      {
+        "Unichain": {
+          "UniDerp": 443975
+        }
+      }
+    ],
+    [
+      1753142400,
+      {
+        "Unichain": {
+          "UniDerp": 352325
+        }
+      }
+    ],
+    [
+      1753228800,
+      {
+        "Unichain": {
+          "UniDerp": 310654
+        }
+      }
+    ],
+    [
+      1753315200,
+      {
+        "Unichain": {
+          "UniDerp": 347331
+        }
+      }
+    ],
+    [
+      1753401600,
+      {
+        "Unichain": {
+          "UniDerp": 311654
+        }
+      }
+    ],
+    [
+      1753488000,
+      {
+        "Unichain": {
+          "UniDerp": 311199
+        }
+      }
+    ],
+    [
+      1753574400,
+      {
+        "Unichain": {
+          "UniDerp": 329961
+        }
+      }
+    ],
+    [
+      1753660800,
+      {
+        "Unichain": {
+          "UniDerp": 167679
+        }
+      }
+    ],
+    [
+      1753747200,
+      {
+        "Unichain": {
+          "UniDerp": 9424
+        }
+      }
     ]
   ],
-  "change_1d": -16.68
+  "change_1d": -94.38
 }
