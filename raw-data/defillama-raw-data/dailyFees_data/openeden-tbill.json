@@ -48,11 +48,11 @@
     "OpenEden",
     "OpenEden TBILL"
   ],
-  "total24h": 1610,
-  "total48hto24h": 1524,
-  "total7d": 10661,
-  "total30d": 46442,
-  "totalAllTime": 478646,
+  "total24h": 1676,
+  "total48hto24h": 1522,
+  "total7d": 10749,
+  "total30d": 46501,
+  "totalAllTime": 480322,
   "totalDataChart": [
     [
       1717372800,
@@ -1745,6 +1745,10 @@
     [
       1753833600,
       1610
+    ],
+    [
+      1753920000,
+      1676
     ]
   ],
   "totalDataChartBreakdown": [
@@ -7030,7 +7034,24 @@
           "OpenEden TBILL": 78
         }
       }
+    ],
+    [
+      1753920000,
+      {
+        "Ethereum": {
+          "OpenEden TBILL": 1402
+        },
+        "Arbitrum": {
+          "OpenEden TBILL": 48
+        },
+        "XRPL": {
+          "OpenEden TBILL": 149
+        },
+        "Solana": {
+          "OpenEden TBILL": 77
+        }
+      }
     ]
   ],
-  "change_1d": 5.64
+  "change_1d": 10.12
 }

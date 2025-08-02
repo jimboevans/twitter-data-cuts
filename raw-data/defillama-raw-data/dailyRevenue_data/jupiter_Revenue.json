@@ -212,11 +212,11 @@
   "latestFetchIsOk": true,
   "slug": "jupiter",
   "protocolType": "protocol",
-  "total24h": 881799,
-  "total48hto24h": 1060623,
-  "total7d": 6591523,
-  "total30d": 22566039,
-  "totalAllTime": 260213402,
+  "total24h": 1201198,
+  "total48hto24h": 881799,
+  "total7d": 6215178,
+  "total30d": 23196472,
+  "totalAllTime": 260830151,
   "totalDataChart": [
     [
       1695945600,
@@ -2452,7 +2452,7 @@
     ],
     [
       1744416000,
-      801628
+      219491
     ],
     [
       1744502400,
@@ -2888,7 +2888,11 @@
     ],
     [
       1753833600,
-      17172
+      1201198
+    ],
+    [
+      1753920000,
+      14860
     ]
   ],
   "totalDataChartBreakdown": [
@@ -8313,7 +8317,6 @@
       {
         "Solana": {
           "Jupiter Aggregator": 205557,
-          "Jupiter Perpetual Exchange": 582137,
           "Ape Jupiter": 2618,
           "Jupiter DCA": 11316
         }
@@ -9636,10 +9639,23 @@
       1753833600,
       {
         "Solana": {
-          "Jupiter DCA": 17172
+          "Jupiter Aggregator": 113102,
+          "Jupiter Perpetual Exchange": 1044733,
+          "Ape Jupiter": 282,
+          "Jupiter Staked SOL": 637,
+          "Jupiter DCA": 14460,
+          "Jupiter Studio": 27984
+        }
+      }
+    ],
+    [
+      1753920000,
+      {
+        "Solana": {
+          "Jupiter DCA": 14860
         }
       }
     ]
   ],
-  "change_1d": -16.86
+  "change_1d": 36.22
 }

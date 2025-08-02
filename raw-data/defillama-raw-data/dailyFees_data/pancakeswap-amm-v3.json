@@ -59,11 +59,11 @@
     "PancakeSwap AMM V3",
     "PancakeSwap Infinity"
   ],
-  "total24h": 3676405,
-  "total48hto24h": 4845058,
-  "total7d": 31958539,
-  "total30d": 160750786,
-  "totalAllTime": 510830037,
+  "total24h": 3881725,
+  "total48hto24h": 4542029,
+  "total7d": 31024967,
+  "total30d": 148334175,
+  "totalAllTime": 514994799,
   "totalDataChart": [
     [
       1680307200,
@@ -3447,7 +3447,11 @@
     ],
     [
       1753833600,
-      3676405
+      3959442
+    ],
+    [
+      1753920000,
+      3881725
     ]
   ],
   "totalDataChartBreakdown": [
@@ -25377,34 +25381,66 @@
       1753833600,
       {
         "BSC": {
-          "PancakeSwap AMM V3": 3601758
+          "PancakeSwap AMM V3": 3874641
         },
         "Ethereum": {
-          "PancakeSwap AMM V3": 12798
+          "PancakeSwap AMM V3": 13106
         },
         "Polygon zkEVM": {
-          "PancakeSwap AMM V3": 2
+          "PancakeSwap AMM V3": 4
         },
         "ZKsync Era": {
-          "PancakeSwap AMM V3": 1260
+          "PancakeSwap AMM V3": 1397
         },
         "Arbitrum": {
-          "PancakeSwap AMM V3": 12921
+          "PancakeSwap AMM V3": 15134
         },
         "Linea": {
-          "PancakeSwap AMM V3": 380
+          "PancakeSwap AMM V3": 367
         },
         "Base": {
-          "PancakeSwap AMM V3": 40649
+          "PancakeSwap AMM V3": 47918
         },
         "opBNB": {
-          "PancakeSwap AMM V3": 21
+          "PancakeSwap AMM V3": 32
         },
         "Solana": {
-          "PancakeSwap AMM V3": 6616
+          "PancakeSwap AMM V3": 6843
+        }
+      }
+    ],
+    [
+      1753920000,
+      {
+        "BSC": {
+          "PancakeSwap AMM V3": 3809517
+        },
+        "Ethereum": {
+          "PancakeSwap AMM V3": 9367
+        },
+        "Polygon zkEVM": {
+          "PancakeSwap AMM V3": 6
+        },
+        "ZKsync Era": {
+          "PancakeSwap AMM V3": 754
+        },
+        "Arbitrum": {
+          "PancakeSwap AMM V3": 13606
+        },
+        "Linea": {
+          "PancakeSwap AMM V3": 265
+        },
+        "Base": {
+          "PancakeSwap AMM V3": 43813
+        },
+        "opBNB": {
+          "PancakeSwap AMM V3": 22
+        },
+        "Solana": {
+          "PancakeSwap AMM V3": 4375
         }
       }
     ]
   ],
-  "change_1d": -24.12
+  "change_1d": -14.54
 }

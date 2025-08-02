@@ -36,11 +36,11 @@
   "latestFetchIsOk": true,
   "slug": "bsc",
   "protocolType": "chain",
-  "total24h": 364940,
-  "total48hto24h": 398590,
-  "total7d": 2567855,
-  "total30d": 10496707,
-  "totalAllTime": 1825901967,
+  "total24h": 343796,
+  "total48hto24h": 364940,
+  "total7d": 2453152,
+  "total30d": 10511560,
+  "totalAllTime": 1826245763,
   "totalDataChart": [
     [
       1598745600,
@@ -7221,6 +7221,10 @@
     [
       1753747200,
       364940
+    ],
+    [
+      1753833600,
+      343796
     ]
   ],
   "totalDataChartBreakdown": [
@@ -21583,7 +21587,15 @@
           "BSC": 364940
         }
       }
+    ],
+    [
+      1753833600,
+      {
+        "BSC": {
+          "BSC": 343796
+        }
+      }
     ]
   ],
-  "change_1d": -8.44
+  "change_1d": -5.79
 }

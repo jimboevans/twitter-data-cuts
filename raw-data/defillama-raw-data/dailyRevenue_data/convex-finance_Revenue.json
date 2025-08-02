@@ -43,11 +43,11 @@
   "latestFetchIsOk": true,
   "slug": "convex-finance",
   "protocolType": "protocol",
-  "total24h": 121972,
-  "total48hto24h": 34446,
-  "total7d": 231138,
-  "total30d": 542589,
-  "totalAllTime": 54441568,
+  "total24h": 11160,
+  "total48hto24h": 124680,
+  "total7d": 232712,
+  "total30d": 536140,
+  "totalAllTime": 54342238,
   "totalDataChart": [
     [
       1621296000,
@@ -6187,7 +6187,11 @@
     ],
     [
       1753833600,
-      121972
+      11482
+    ],
+    [
+      1753920000,
+      11160
     ]
   ],
   "totalDataChartBreakdown": [
@@ -18467,10 +18471,18 @@
       1753833600,
       {
         "Ethereum": {
-          "Convex Finance": 121972
+          "Convex Finance": 11482
+        }
+      }
+    ],
+    [
+      1753920000,
+      {
+        "Ethereum": {
+          "Convex Finance": 11160
         }
       }
     ]
   ],
-  "change_1d": 254.1
+  "change_1d": -91.05
 }

@@ -15,7 +15,7 @@
   "symbol": "HYPE",
   "address": "hyperliquid:0x0d01dc56dcaaca66ad901c959b4011ec",
   "currentChainTvls": {
-    "Hyperliquid L1": 545503052.38896
+    "Hyperliquid L1": 549475674.22921
   },
   "chainTvls": {
     "Hyperliquid L1": {
@@ -987,6 +987,10 @@
         {
           "date": 1753833600,
           "totalLiquidityUSD": 545503052.38896
+        },
+        {
+          "date": 1753920000,
+          "totalLiquidityUSD": 549475674.22921
         }
       ],
       "tokensInUsd": [
@@ -2597,7 +2601,13 @@
         {
           "date": 1753833600,
           "tokens": {
-            "USDC": 555976561.69544
+            "USDC": 545503052.38896
+          }
+        },
+        {
+          "date": 1753920000,
+          "tokens": {
+            "USDC": 550943376.1175799
           }
         }
       ],
@@ -4209,7 +4219,13 @@
         {
           "date": 1753833600,
           "tokens": {
-            "USDC": 556080141.12295
+            "USDC": 545605626.24669
+          }
+        },
+        {
+          "date": 1753920000,
+          "tokens": {
+            "USDC": 551044217.2093201
           }
         }
       ]
@@ -5823,7 +5839,13 @@
     {
       "date": 1753833600,
       "tokens": {
-        "USDC": 556080141.12295
+        "USDC": 545605626.24669
+      }
+    },
+    {
+      "date": 1753920000,
+      "tokens": {
+        "USDC": 551044217.2093201
       }
     }
   ],
@@ -7435,7 +7457,13 @@
     {
       "date": 1753833600,
       "tokens": {
-        "USDC": 555976561.69544
+        "USDC": 545503052.38896
+      }
+    },
+    {
+      "date": 1753920000,
+      "tokens": {
+        "USDC": 550943376.1175799
       }
     }
   ],
@@ -8407,12 +8435,16 @@
     {
       "date": 1753833600,
       "totalLiquidityUSD": 545503052.38896
+    },
+    {
+      "date": 1753920000,
+      "totalLiquidityUSD": 549475674.22921
     }
   ],
   "isParentProtocol": true,
   "raises": [],
   "treasury": null,
-  "mcap": 13990648723.97031,
+  "mcap": 14260857273.050474,
   "otherProtocols": [
     "Hyperliquid",
     "Hyperliquid HLP",

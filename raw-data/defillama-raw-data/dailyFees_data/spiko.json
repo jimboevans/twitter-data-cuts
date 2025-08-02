@@ -53,11 +53,11 @@
   "latestFetchIsOk": true,
   "slug": "spiko",
   "protocolType": "protocol",
-  "total24h": 2027,
-  "total48hto24h": 2102,
-  "total7d": 14871,
-  "total30d": 65309,
-  "totalAllTime": 551744,
+  "total24h": 2037,
+  "total48hto24h": 2092,
+  "total7d": 14727,
+  "total30d": 65134,
+  "totalAllTime": 553781,
   "totalDataChart": [
     [
       1713657600,
@@ -1922,6 +1922,10 @@
     [
       1753833600,
       2027
+    ],
+    [
+      1753920000,
+      2037
     ]
   ],
   "totalDataChartBreakdown": [
@@ -7017,7 +7021,18 @@
           "Spiko": 1566
         }
       }
+    ],
+    [
+      1753920000,
+      {
+        "Ethereum": {
+          "Spiko": 461
+        },
+        "Polygon": {
+          "Spiko": 1576
+        }
+      }
     ]
   ],
-  "change_1d": -3.57
+  "change_1d": -2.63
 }

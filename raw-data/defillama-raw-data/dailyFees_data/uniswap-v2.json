@@ -56,11 +56,11 @@
     "Uniswap V3",
     "Uniswap V4"
   ],
-  "total24h": 1639333,
-  "total48hto24h": 1634188,
-  "total7d": 11131674,
-  "total30d": 36021164,
-  "totalAllTime": 1665010776,
+  "total24h": 1821089,
+  "total48hto24h": 1639333,
+  "total7d": 11753693,
+  "total30d": 36778580,
+  "totalAllTime": 1666831865,
   "totalDataChart": [
     [
       1589155200,
@@ -6689,6 +6689,10 @@
     [
       1753747200,
       1639333
+    ],
+    [
+      1753833600,
+      1821089
     ]
   ],
   "totalDataChartBreakdown": [
@@ -24180,7 +24184,30 @@
           "Uniswap V2": 10493
         }
       }
+    ],
+    [
+      1753833600,
+      {
+        "Ethereum": {
+          "Uniswap V2": 580763
+        },
+        "Arbitrum": {
+          "Uniswap V2": 10669
+        },
+        "Polygon": {
+          "Uniswap V2": 11
+        },
+        "Base": {
+          "Uniswap V2": 1215431
+        },
+        "BSC": {
+          "Uniswap V2": 44
+        },
+        "Unichain": {
+          "Uniswap V2": 14171
+        }
+      }
     ]
   ],
-  "change_1d": 0.31
+  "change_1d": 11.09
 }

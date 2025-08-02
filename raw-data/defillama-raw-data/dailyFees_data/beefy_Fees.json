@@ -51,11 +51,11 @@
   "latestFetchIsOk": true,
   "slug": "beefy",
   "protocolType": "protocol",
-  "total24h": 11414,
-  "total48hto24h": 82619,
-  "total7d": 228984,
-  "total30d": 344882,
-  "totalAllTime": 7173251,
+  "total24h": 65867,
+  "total48hto24h": 74410,
+  "total7d": 232346,
+  "total30d": 355931,
+  "totalAllTime": 7249082,
   "totalDataChart": [
     [
       1692921600,
@@ -2482,6 +2482,10 @@
       771
     ],
     [
+      1747008000,
+      9965
+    ],
+    [
       1747094400,
       7923
     ],
@@ -2795,7 +2799,11 @@
     ],
     [
       1753833600,
-      11414
+      11413
+    ],
+    [
+      1753920000,
+      65867
     ]
   ],
   "totalDataChartBreakdown": [
@@ -20557,6 +20565,35 @@
       }
     ],
     [
+      1747008000,
+      {
+        "Arbitrum": {
+          "Beefy": 9075
+        },
+        "Base": {
+          "Beefy": 0
+        },
+        "Polygon": {
+          "Beefy": 155
+        },
+        "Avalanche": {
+          "Beefy": 515
+        },
+        "OP Mainnet": {
+          "Beefy": 0
+        },
+        "BSC": {
+          "Beefy": 220
+        },
+        "Ethereum": {
+          "Beefy": 0
+        },
+        "Linea": {
+          "Beefy": 0
+        }
+      }
+    ],
+    [
       1747094400,
       {
         "Arbitrum": {
@@ -22831,7 +22868,7 @@
           "Beefy": 565
         },
         "Avalanche": {
-          "Beefy": 9638
+          "Beefy": 9637
         },
         "OP Mainnet": {
           "Beefy": 0
@@ -22846,7 +22883,36 @@
           "Beefy": 0
         }
       }
+    ],
+    [
+      1753920000,
+      {
+        "Arbitrum": {
+          "Beefy": 57793
+        },
+        "Base": {
+          "Beefy": 0
+        },
+        "Polygon": {
+          "Beefy": 1405
+        },
+        "Avalanche": {
+          "Beefy": 5859
+        },
+        "OP Mainnet": {
+          "Beefy": 0
+        },
+        "BSC": {
+          "Beefy": 810
+        },
+        "Ethereum": {
+          "Beefy": 0
+        },
+        "Linea": {
+          "Beefy": 0
+        }
+      }
     ]
   ],
-  "change_1d": -86.18
+  "change_1d": -11.48
 }

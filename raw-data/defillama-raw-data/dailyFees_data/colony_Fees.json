@@ -46,11 +46,11 @@
   "latestFetchIsOk": true,
   "slug": "colony",
   "protocolType": "protocol",
-  "total24h": 401,
-  "total48hto24h": 343,
-  "total7d": 2178,
-  "total30d": 280863,
-  "totalAllTime": 1677686,
+  "total24h": 173,
+  "total48hto24h": 199,
+  "total7d": 28134,
+  "total30d": 307023,
+  "totalAllTime": 1703732,
   "totalDataChart": [
     [
       1717372800,
@@ -1682,7 +1682,11 @@
     ],
     [
       1753833600,
-      401
+      26274
+    ],
+    [
+      1753920000,
+      173
     ]
   ],
   "totalDataChartBreakdown": [
@@ -4946,10 +4950,18 @@
       1753833600,
       {
         "Avalanche": {
-          "Colony": 401
+          "Colony": 26274
+        }
+      }
+    ],
+    [
+      1753920000,
+      {
+        "Avalanche": {
+          "Colony": 173
         }
       }
     ]
   ],
-  "change_1d": 16.91
+  "change_1d": -13.07
 }

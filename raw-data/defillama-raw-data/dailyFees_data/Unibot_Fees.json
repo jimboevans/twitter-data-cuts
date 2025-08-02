@@ -37,11 +37,11 @@
   "latestFetchIsOk": true,
   "slug": "unibot",
   "protocolType": "protocol",
-  "total24h": 3566,
-  "total48hto24h": 568,
-  "total7d": 7546,
-  "total30d": 35167,
-  "totalAllTime": 7393159,
+  "total24h": 1555,
+  "total48hto24h": 3566,
+  "total7d": 8042,
+  "total30d": 35606,
+  "totalAllTime": 7394714,
   "totalDataChart": [
     [
       1685059200,
@@ -3226,6 +3226,10 @@
     [
       1753747200,
       3566
+    ],
+    [
+      1753833600,
+      1555
     ]
   ],
   "totalDataChartBreakdown": [
@@ -9596,7 +9600,15 @@
           "Unibot": 3566
         }
       }
+    ],
+    [
+      1753833600,
+      {
+        "Ethereum": {
+          "Unibot": 1555
+        }
+      }
     ]
   ],
-  "change_1d": 527.82
+  "change_1d": -56.39
 }

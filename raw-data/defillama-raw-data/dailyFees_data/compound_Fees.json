@@ -144,11 +144,11 @@
   "latestFetchIsOk": true,
   "slug": "compound-finance",
   "protocolType": "protocol",
-  "total24h": 183451,
-  "total48hto24h": 173843,
-  "total7d": 1248628,
-  "total30d": 5121531,
-  "totalAllTime": 535834078,
+  "total24h": 265170,
+  "total48hto24h": 183451,
+  "total7d": 1302063,
+  "total30d": 5274271,
+  "totalAllTime": 536174539,
   "totalDataChart": [
     [
       1557273600,
@@ -9252,7 +9252,11 @@
     ],
     [
       1753833600,
-      134045
+      265170
+    ],
+    [
+      1753920000,
+      209336
     ]
   ],
   "totalDataChartBreakdown": [
@@ -31657,19 +31661,20 @@
       1753833600,
       {
         "Ethereum": {
-          "Compound V3": 113938
+          "Compound V2": 22018,
+          "Compound V3": 227206
         },
         "Polygon": {
-          "Compound V3": 1876
+          "Compound V3": 772
         },
         "Arbitrum": {
-          "Compound V3": 8584
+          "Compound V3": 7181
         },
         "OP Mainnet": {
-          "Compound V3": 2205
+          "Compound V3": 2365
         },
         "Base": {
-          "Compound V3": 6565
+          "Compound V3": 4723
         },
         "Scroll": {
           "Compound V3": 4
@@ -31678,13 +31683,45 @@
           "Compound V3": 315
         },
         "Unichain": {
-          "Compound V3": 353
+          "Compound V3": 380
         },
         "Linea": {
-          "Compound V3": 205
+          "Compound V3": 206
+        }
+      }
+    ],
+    [
+      1753920000,
+      {
+        "Ethereum": {
+          "Compound V3": 190380
+        },
+        "Polygon": {
+          "Compound V3": 856
+        },
+        "Arbitrum": {
+          "Compound V3": 8192
+        },
+        "OP Mainnet": {
+          "Compound V3": 2483
+        },
+        "Base": {
+          "Compound V3": 6712
+        },
+        "Scroll": {
+          "Compound V3": 4
+        },
+        "Mantle": {
+          "Compound V3": 351
+        },
+        "Unichain": {
+          "Compound V3": 248
+        },
+        "Linea": {
+          "Compound V3": 110
         }
       }
     ]
   ],
-  "change_1d": 5.53
+  "change_1d": 44.55
 }

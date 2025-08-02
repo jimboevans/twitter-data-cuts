@@ -38,10 +38,10 @@
   "latestFetchIsOk": true,
   "slug": "apebot",
   "protocolType": "protocol",
-  "total24h": 8,
-  "total48hto24h": 2,
-  "total7d": 10,
-  "total30d": 37,
+  "total24h": 0,
+  "total48hto24h": 8,
+  "total7d": 18,
+  "total30d": 45,
   "totalAllTime": 45,
   "totalDataChart": [
     [
@@ -131,6 +131,10 @@
     [
       1753833600,
       8
+    ],
+    [
+      1753920000,
+      0
     ]
   ],
   "totalDataChartBreakdown": [
@@ -309,7 +313,14 @@
           "ApeBot": 8
         }
       }
+    ],
+    [
+      1753920000,
+      {
+        "Solana": {
+          "ApeBot": 0
+        }
+      }
     ]
-  ],
-  "change_1d": 300
+  ]
 }

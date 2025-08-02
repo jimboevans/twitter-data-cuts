@@ -33,11 +33,11 @@
   "latestFetchIsOk": true,
   "slug": "world-chain",
   "protocolType": "chain",
-  "total24h": 563,
-  "total48hto24h": 1410,
-  "total7d": 92712,
-  "total30d": 272663,
-  "totalAllTime": 369486,
+  "total24h": 606,
+  "total48hto24h": 563,
+  "total7d": 27183,
+  "total30d": 272734,
+  "totalAllTime": 370092,
   "totalDataChart": [
     [
       1719273600,
@@ -1638,6 +1638,10 @@
     [
       1753747200,
       563
+    ],
+    [
+      1753833600,
+      606
     ]
   ],
   "totalDataChartBreakdown": [
@@ -4840,7 +4844,15 @@
           "World Chain": 563
         }
       }
+    ],
+    [
+      1753833600,
+      {
+        "World Chain": {
+          "World Chain": 606
+        }
+      }
     ]
   ],
-  "change_1d": -60.07
+  "change_1d": 7.64
 }

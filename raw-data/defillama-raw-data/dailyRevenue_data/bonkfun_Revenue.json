@@ -38,11 +38,11 @@
   "latestFetchIsOk": true,
   "slug": "letsbonk.fun",
   "protocolType": "protocol",
-  "total24h": 967766,
-  "total48hto24h": 876518,
-  "total7d": 6455609,
-  "total30d": 21389440,
-  "totalAllTime": 25772856,
+  "total24h": 931052,
+  "total48hto24h": 967766,
+  "total7d": 6228782,
+  "total30d": 22238920,
+  "totalAllTime": 25967525,
   "totalDataChart": [
     [
       1745798400,
@@ -329,10 +329,6 @@
       816381
     ],
     [
-      1752019200,
-      736383
-    ],
-    [
       1752105600,
       772046
     ],
@@ -411,6 +407,10 @@
     [
       1753747200,
       967766
+    ],
+    [
+      1753833600,
+      931052
     ]
   ],
   "totalDataChartBreakdown": [
@@ -983,14 +983,6 @@
       }
     ],
     [
-      1752019200,
-      {
-        "Solana": {
-          "letsBONK.fun": 736383
-        }
-      }
-    ],
-    [
       1752105600,
       {
         "Solana": {
@@ -1149,7 +1141,15 @@
           "letsBONK.fun": 967766
         }
       }
+    ],
+    [
+      1753833600,
+      {
+        "Solana": {
+          "letsBONK.fun": 931052
+        }
+      }
     ]
   ],
-  "change_1d": 10.41
+  "change_1d": -3.79
 }

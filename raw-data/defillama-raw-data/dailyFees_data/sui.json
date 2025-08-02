@@ -35,11 +35,11 @@
   "latestFetchIsOk": true,
   "slug": "sui",
   "protocolType": "chain",
-  "total24h": 40124,
-  "total48hto24h": 33808,
-  "total7d": 279501,
-  "total30d": 1032804,
-  "totalAllTime": 9914171,
+  "total24h": 32627,
+  "total48hto24h": 40124,
+  "total7d": 269642,
+  "total30d": 1043464,
+  "totalAllTime": 9946798,
   "totalDataChart": [
     [
       1734652800,
@@ -924,6 +924,10 @@
     [
       1753747200,
       40124
+    ],
+    [
+      1753833600,
+      32627
     ]
   ],
   "totalDataChartBreakdown": [
@@ -2694,7 +2698,15 @@
           "Sui": 40124
         }
       }
+    ],
+    [
+      1753833600,
+      {
+        "Sui": {
+          "Sui": 32627
+        }
+      }
     ]
   ],
-  "change_1d": 18.68
+  "change_1d": -18.68
 }

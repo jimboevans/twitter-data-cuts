@@ -35,11 +35,11 @@
   "latestFetchIsOk": true,
   "slug": "carbon.inc",
   "protocolType": "protocol",
-  "total24h": 122,
-  "total48hto24h": 110,
-  "total7d": 502,
-  "total30d": 2725,
-  "totalAllTime": 9966,
+  "total24h": 795,
+  "total48hto24h": 122,
+  "total7d": 1226,
+  "total30d": 3484,
+  "totalAllTime": 10761,
   "totalDataChart": [
     [
       1744243200,
@@ -484,6 +484,10 @@
     [
       1753747200,
       122
+    ],
+    [
+      1753833600,
+      795
     ]
   ],
   "totalDataChartBreakdown": [
@@ -1374,7 +1378,15 @@
           "Carbon.inc": 122
         }
       }
+    ],
+    [
+      1753833600,
+      {
+        "Base": {
+          "Carbon.inc": 795
+        }
+      }
     ]
   ],
-  "change_1d": 10.91
+  "change_1d": 551.64
 }

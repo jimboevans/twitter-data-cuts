@@ -48,11 +48,11 @@
     "HyperSwap V2",
     "HyperSwap V3"
   ],
-  "total24h": 96793,
-  "total48hto24h": 230555,
-  "total7d": 1102554,
-  "total30d": 4355757,
-  "totalAllTime": 15495726,
+  "total24h": 109487,
+  "total48hto24h": 218512,
+  "total7d": 1079711,
+  "total30d": 4289356,
+  "totalAllTime": 15652029,
   "totalDataChart": [
     [
       1739836800,
@@ -704,7 +704,11 @@
     ],
     [
       1753833600,
-      96793
+      143609
+    ],
+    [
+      1753920000,
+      109487
     ]
   ],
   "totalDataChartBreakdown": [
@@ -2008,10 +2012,18 @@
       1753833600,
       {
         "Hyperliquid L1": {
-          "HyperSwap V3": 96793
+          "HyperSwap V3": 143609
+        }
+      }
+    ],
+    [
+      1753920000,
+      {
+        "Hyperliquid L1": {
+          "HyperSwap V3": 109487
         }
       }
     ]
   ],
-  "change_1d": -58.02
+  "change_1d": -49.89
 }

@@ -35,11 +35,11 @@
   "latestFetchIsOk": true,
   "slug": "aptos",
   "protocolType": "chain",
-  "total24h": 58315,
-  "total48hto24h": 22295,
-  "total7d": 127143,
-  "total30d": 212269,
-  "totalAllTime": 4223242,
+  "total24h": 62933,
+  "total48hto24h": 58315,
+  "total7d": 173110,
+  "total30d": 272768,
+  "totalAllTime": 4286175,
   "totalDataChart": [
     [
       1665532800,
@@ -4128,6 +4128,10 @@
     [
       1753747200,
       58315
+    ],
+    [
+      1753833600,
+      62933
     ]
   ],
   "totalDataChartBreakdown": [
@@ -12306,7 +12310,15 @@
           "Aptos": 58315
         }
       }
+    ],
+    [
+      1753833600,
+      {
+        "Aptos": {
+          "Aptos": 62933
+        }
+      }
     ]
   ],
-  "change_1d": 161.56
+  "change_1d": 7.92
 }

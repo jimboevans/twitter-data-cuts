@@ -37,11 +37,11 @@
   "latestFetchIsOk": true,
   "slug": "mevx",
   "protocolType": "protocol",
-  "total24h": 9664,
-  "total48hto24h": 10596,
-  "total7d": 70151,
-  "total30d": 371973,
-  "totalAllTime": 7272350,
+  "total24h": 8620,
+  "total48hto24h": 9716,
+  "total7d": 66817,
+  "total30d": 370229,
+  "totalAllTime": 7281305,
   "totalDataChart": [
     [
       1722124800,
@@ -1513,7 +1513,11 @@
     ],
     [
       1753833600,
-      9664
+      9999
+    ],
+    [
+      1753920000,
+      8620
     ]
   ],
   "totalDataChartBreakdown": [
@@ -4457,10 +4461,18 @@
       1753833600,
       {
         "Solana": {
-          "MEVX": 9664
+          "MEVX": 9999
+        }
+      }
+    ],
+    [
+      1753920000,
+      {
+        "Solana": {
+          "MEVX": 8620
         }
       }
     ]
   ],
-  "change_1d": -8.8
+  "change_1d": -11.28
 }

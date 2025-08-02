@@ -73,11 +73,11 @@
   "latestFetchIsOk": true,
   "slug": "usual",
   "protocolType": "protocol",
-  "total24h": 27115,
-  "total48hto24h": 65458,
-  "total7d": 194283,
-  "total30d": 1173106,
-  "totalAllTime": 40838268,
+  "total24h": 26377,
+  "total48hto24h": 26988,
+  "total7d": 193344,
+  "total30d": 893129,
+  "totalAllTime": 40897564,
   "totalDataChart": [
     [
       1736899200,
@@ -780,6 +780,10 @@
       34078
     ],
     [
+      1752019200,
+      32918
+    ],
+    [
       1752105600,
       31275
     ],
@@ -861,7 +865,11 @@
     ],
     [
       1753833600,
-      27115
+      27116
+    ],
+    [
+      1753920000,
+      26377
     ]
   ],
   "totalDataChartBreakdown": [
@@ -2266,6 +2274,14 @@
       }
     ],
     [
+      1752019200,
+      {
+        "Ethereum": {
+          "Usual": 32918
+        }
+      }
+    ],
+    [
       1752105600,
       {
         "Ethereum": {
@@ -2429,10 +2445,18 @@
       1753833600,
       {
         "Ethereum": {
-          "Usual": 27115
+          "Usual": 27116
+        }
+      }
+    ],
+    [
+      1753920000,
+      {
+        "Ethereum": {
+          "Usual": 26377
         }
       }
     ]
   ],
-  "change_1d": -58.58
+  "change_1d": -2.26
 }

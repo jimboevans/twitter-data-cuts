@@ -62,11 +62,11 @@
   "latestFetchIsOk": true,
   "slug": "pendle",
   "protocolType": "protocol",
-  "total24h": 62933,
-  "total48hto24h": 60174,
-  "total7d": 682552,
-  "total30d": 2923913,
-  "totalAllTime": 41425873,
+  "total24h": 539789,
+  "total48hto24h": 62933,
+  "total7d": 1143645,
+  "total30d": 3442317,
+  "totalAllTime": 41965662,
   "totalDataChart": [
     [
       1688688000,
@@ -3071,6 +3071,10 @@
     [
       1753747200,
       62933
+    ],
+    [
+      1753833600,
+      539789
     ]
   ],
   "totalDataChartBreakdown": [
@@ -18852,7 +18856,36 @@
           "Pendle": 0
         }
       }
+    ],
+    [
+      1753833600,
+      {
+        "Ethereum": {
+          "Pendle": 358799
+        },
+        "Arbitrum": {
+          "Pendle": 162180
+        },
+        "BSC": {
+          "Pendle": 12268
+        },
+        "OP Mainnet": {
+          "Pendle": 0
+        },
+        "Mantle": {
+          "Pendle": 1
+        },
+        "Base": {
+          "Pendle": 6541
+        },
+        "Sonic": {
+          "Pendle": 0
+        },
+        "Berachain": {
+          "Pendle": 0
+        }
+      }
     ]
   ],
-  "change_1d": 4.59
+  "change_1d": 757.72
 }

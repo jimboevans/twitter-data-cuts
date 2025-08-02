@@ -45,11 +45,11 @@
     "Sanctum Infinity",
     "Sanctum Validator LSTs"
   ],
-  "total24h": 823212,
-  "total48hto24h": 1269,
-  "total7d": 3411832,
-  "total30d": 11130111,
-  "totalAllTime": 98685687,
+  "total24h": 8170,
+  "total48hto24h": 823212,
+  "total7d": 2548982,
+  "total30d": 11130046,
+  "totalAllTime": 98693857,
   "totalDataChart": [
     [
       1717891200,
@@ -1714,6 +1714,10 @@
     [
       1753747200,
       823212
+    ],
+    [
+      1753833600,
+      8170
     ]
   ],
   "totalDataChartBreakdown": [
@@ -5044,7 +5048,15 @@
           "Sanctum Validator LSTs": 823212
         }
       }
+    ],
+    [
+      1753833600,
+      {
+        "Solana": {
+          "Sanctum Validator LSTs": 8170
+        }
+      }
     ]
   ],
-  "change_1d": 64770.92
+  "change_1d": -99.01
 }

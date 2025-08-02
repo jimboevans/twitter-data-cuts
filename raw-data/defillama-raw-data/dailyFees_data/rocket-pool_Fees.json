@@ -48,11 +48,11 @@
   "latestFetchIsOk": true,
   "slug": "rocket-pool",
   "protocolType": "protocol",
-  "total24h": 141294,
-  "total48hto24h": 49888,
-  "total7d": 1391115,
-  "total30d": 6137089,
-  "totalAllTime": 158404558,
+  "total24h": 171500,
+  "total48hto24h": 87101,
+  "total7d": 1452524,
+  "total30d": 6213946,
+  "totalAllTime": 158516384,
   "totalDataChart": [
     [
       1677888000,
@@ -3568,7 +3568,11 @@
     ],
     [
       1753833600,
-      141294
+      81620
+    ],
+    [
+      1753920000,
+      171500
     ]
   ],
   "totalDataChartBreakdown": [
@@ -10600,10 +10604,18 @@
       1753833600,
       {
         "Ethereum": {
-          "Rocket Pool": 141294
+          "Rocket Pool": 81620
+        }
+      }
+    ],
+    [
+      1753920000,
+      {
+        "Ethereum": {
+          "Rocket Pool": 171500
         }
       }
     ]
   ],
-  "change_1d": 183.22
+  "change_1d": 96.9
 }
