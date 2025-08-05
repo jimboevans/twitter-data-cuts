@@ -18,15 +18,22 @@
   "forkedFromIds": [],
   "module": "letsbonk",
   "twitter": "bonk_fun",
-  "defillamaId": "6282",
-  "displayName": "letsBONK.fun",
-  "methodologyURL": "https://github.com/DefiLlama/dimension-adapters/blob/master/fees/letsbonk",
+  "hallmarks": [
+    [
+      1749513600,
+      "BuyBack and burn increased from 35% to 50% of total revenue, Letsbonk share increased from 45% to 60%"
+    ]
+  ],
   "methodology": {
     "Fees": "Fees are collected from users and distributed to holders and protocol.",
     "Revenue": "Total Letsbonk Protocol Revenue and Holders Revenue",
     "ProtocolRevenue": "2% of total fees for marketing.",
     "HoldersRevenue": "Before 10th jun 2025: 43% of total fees (Buy/burn 35% + SBR 4% + BonkRewards 4%). After 10th jun 2025: 58% of total fees (Buy/burn 50% + SBR 4% + BonkRewards 4%)."
   },
+  "misrepresentedTokens": false,
+  "defillamaId": "6282",
+  "displayName": "letsBONK.fun",
+  "methodologyURL": "https://github.com/DefiLlama/dimension-adapters/blob/master/fees/letsbonk",
   "forkedFrom": null,
   "audit_links": null,
   "versionKey": null,
@@ -35,14 +42,14 @@
   "treasury": null,
   "parentProtocol": null,
   "previousNames": null,
-  "latestFetchIsOk": true,
+  "defaultChartView": null,
   "slug": "letsbonk.fun",
   "protocolType": "protocol",
-  "total24h": 1551753,
-  "total48hto24h": 1612943,
-  "total7d": 10381304,
-  "total30d": 37064869,
-  "totalAllTime": 44153271,
+  "total24h": 1076931,
+  "total48hto24h": 743326,
+  "total7d": 8111166,
+  "total30d": 40353943,
+  "totalAllTime": 50327046,
   "totalDataChart": [
     [
       1745798400,
@@ -329,6 +336,10 @@
       1360635
     ],
     [
+      1752019200,
+      1227305
+    ],
+    [
       1752105600,
       1286743
     ],
@@ -411,6 +422,26 @@
     [
       1753833600,
       1551753
+    ],
+    [
+      1753920000,
+      1310589
+    ],
+    [
+      1754006400,
+      1043964
+    ],
+    [
+      1754092800,
+      771660
+    ],
+    [
+      1754179200,
+      743326
+    ],
+    [
+      1754265600,
+      1076931
     ]
   ],
   "totalDataChartBreakdown": [
@@ -983,6 +1014,14 @@
       }
     ],
     [
+      1752019200,
+      {
+        "Solana": {
+          "letsBONK.fun": 1227305
+        }
+      }
+    ],
+    [
       1752105600,
       {
         "Solana": {
@@ -1149,7 +1188,47 @@
           "letsBONK.fun": 1551753
         }
       }
+    ],
+    [
+      1753920000,
+      {
+        "Solana": {
+          "letsBONK.fun": 1310589
+        }
+      }
+    ],
+    [
+      1754006400,
+      {
+        "Solana": {
+          "letsBONK.fun": 1043964
+        }
+      }
+    ],
+    [
+      1754092800,
+      {
+        "Solana": {
+          "letsBONK.fun": 771660
+        }
+      }
+    ],
+    [
+      1754179200,
+      {
+        "Solana": {
+          "letsBONK.fun": 743326
+        }
+      }
+    ],
+    [
+      1754265600,
+      {
+        "Solana": {
+          "letsBONK.fun": 1076931
+        }
+      }
     ]
   ],
-  "change_1d": -3.79
+  "change_1d": 44.88
 }

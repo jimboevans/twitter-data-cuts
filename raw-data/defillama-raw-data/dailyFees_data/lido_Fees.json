@@ -29,9 +29,6 @@
   "github": [
     "lidofinance"
   ],
-  "defillamaId": "182",
-  "displayName": "Lido",
-  "methodologyURL": "https://github.com/DefiLlama/dimension-adapters/blob/master/fees/lido.ts",
   "methodology": {
     "UserFees": "Lido takes 10% fee on users staking rewards",
     "Fees": "Staking rewards earned by all staked ETH",
@@ -40,18 +37,44 @@
     "SupplySideRevenue": "Staking rewards earned by stETH holders",
     "HoldersRevenue": "No revenue distributed to LDO holders"
   },
+  "misrepresentedTokens": false,
+  "hallmarks": [
+    [
+      1610496000,
+      "Start of incentives for curve pool"
+    ],
+    [
+      1651881600,
+      "UST depeg"
+    ],
+    [
+      1654822801,
+      "stETH depeg"
+    ],
+    [
+      1667865600,
+      "FTX collapse"
+    ],
+    [
+      1684108800,
+      "ETH Withdrawal Activation"
+    ]
+  ],
+  "defillamaId": "182",
+  "displayName": "Lido",
+  "methodologyURL": "https://github.com/DefiLlama/dimension-adapters/blob/master/fees/lido.ts",
   "forkedFrom": null,
   "versionKey": null,
   "parentProtocol": null,
   "previousNames": null,
-  "latestFetchIsOk": true,
+  "defaultChartView": null,
   "slug": "lido",
   "protocolType": "protocol",
-  "total24h": 2774811,
-  "total48hto24h": 2739061,
-  "total7d": 19088099,
-  "total30d": 71332506,
-  "totalAllTime": 2550433427,
+  "total24h": 2468823,
+  "total48hto24h": 2460078,
+  "total7d": 18339729,
+  "total30d": 74850900,
+  "totalAllTime": 2563259284,
   "totalDataChart": [
     [
       1609977600,
@@ -6716,6 +6739,26 @@
     [
       1753833600,
       2774811
+    ],
+    [
+      1753920000,
+      2778167
+    ],
+    [
+      1754006400,
+      2610451
+    ],
+    [
+      1754092800,
+      2508338
+    ],
+    [
+      1754179200,
+      2460078
+    ],
+    [
+      1754265600,
+      2468823
     ]
   ],
   "totalDataChartBreakdown": [
@@ -20046,7 +20089,47 @@
           "Lido": 2774811
         }
       }
+    ],
+    [
+      1753920000,
+      {
+        "Ethereum": {
+          "Lido": 2778167
+        }
+      }
+    ],
+    [
+      1754006400,
+      {
+        "Ethereum": {
+          "Lido": 2610451
+        }
+      }
+    ],
+    [
+      1754092800,
+      {
+        "Ethereum": {
+          "Lido": 2508338
+        }
+      }
+    ],
+    [
+      1754179200,
+      {
+        "Ethereum": {
+          "Lido": 2460078
+        }
+      }
+    ],
+    [
+      1754265600,
+      {
+        "Ethereum": {
+          "Lido": 2468823
+        }
+      }
     ]
   ],
-  "change_1d": 1.31
+  "change_1d": 0.36
 }

@@ -24,9 +24,6 @@
   "github": [
     "convex-eth"
   ],
-  "defillamaId": "319",
-  "displayName": "Convex Finance",
-  "methodologyURL": "https://github.com/DefiLlama/dimension-adapters/blob/master/fees/convex.ts",
   "methodology": {
     "UserFees": "No user fees",
     "Fees": "Includes all treasury revenue, all revenue to CVX lockers and stakers and all revenue to liquid derivatives (cvxCRV, cvxFXS)",
@@ -35,19 +32,57 @@
     "SupplySideRevenue": "All CRV, CVX and FXS rewards redistributed to liquidity providers staking on Convex.",
     "HoldersRevenue": "All revenue going to CVX lockers and stakers, including bribes"
   },
+  "misrepresentedTokens": false,
+  "hallmarks": [
+    [
+      1640164144,
+      "cvxFXS Launched"
+    ],
+    [
+      1642374675,
+      "MIM depeg"
+    ],
+    [
+      1651881600,
+      "UST depeg"
+    ],
+    [
+      1654822801,
+      "stETH depeg"
+    ],
+    [
+      1667692800,
+      "FTX collapse"
+    ],
+    [
+      1690715622,
+      "Curve reentrancy hack"
+    ],
+    [
+      1695705887,
+      "cvxFXN Launched"
+    ],
+    [
+      1698409703,
+      "cvxPRISMA Launched"
+    ]
+  ],
+  "defillamaId": "319",
+  "displayName": "Convex Finance",
+  "methodologyURL": "https://github.com/DefiLlama/dimension-adapters/blob/master/fees/convex.ts",
   "forkedFrom": null,
   "versionKey": null,
   "governanceID": null,
   "parentProtocol": null,
   "previousNames": null,
-  "latestFetchIsOk": true,
+  "defaultChartView": null,
   "slug": "convex-finance",
   "protocolType": "protocol",
-  "total24h": 171441,
-  "total48hto24h": 328674,
-  "total7d": 1971219,
-  "total30d": 5852918,
-  "totalAllTime": 1687758118,
+  "total24h": 217237,
+  "total48hto24h": 198629,
+  "total7d": 1766166,
+  "total30d": 6563568,
+  "totalAllTime": 1688970546,
   "totalDataChart": [
     [
       1621296000,
@@ -5750,10 +5785,6 @@
       79377
     ],
     [
-      1744416000,
-      98404
-    ],
-    [
       1744502400,
       170790
     ],
@@ -6192,6 +6223,26 @@
     [
       1753920000,
       171441
+    ],
+    [
+      1754006400,
+      242321
+    ],
+    [
+      1754092800,
+      250168
+    ],
+    [
+      1754179200,
+      198629
+    ],
+    [
+      1754265600,
+      402477
+    ],
+    [
+      1754352000,
+      217237
     ]
   ],
   "totalDataChartBreakdown": [
@@ -17596,14 +17647,6 @@
       }
     ],
     [
-      1744416000,
-      {
-        "Ethereum": {
-          "Convex Finance": 98404
-        }
-      }
-    ],
-    [
       1744502400,
       {
         "Ethereum": {
@@ -18482,7 +18525,47 @@
           "Convex Finance": 171441
         }
       }
+    ],
+    [
+      1754006400,
+      {
+        "Ethereum": {
+          "Convex Finance": 242321
+        }
+      }
+    ],
+    [
+      1754092800,
+      {
+        "Ethereum": {
+          "Convex Finance": 250168
+        }
+      }
+    ],
+    [
+      1754179200,
+      {
+        "Ethereum": {
+          "Convex Finance": 198629
+        }
+      }
+    ],
+    [
+      1754265600,
+      {
+        "Ethereum": {
+          "Convex Finance": 402477
+        }
+      }
+    ],
+    [
+      1754352000,
+      {
+        "Ethereum": {
+          "Convex Finance": 217237
+        }
+      }
     ]
   ],
-  "change_1d": -47.84
+  "change_1d": 9.37
 }

@@ -33,14 +33,15 @@
   "treasury": null,
   "parentProtocol": null,
   "previousNames": null,
-  "latestFetchIsOk": true,
+  "hallmarks": null,
+  "defaultChartView": null,
   "slug": "solana",
   "protocolType": "chain",
-  "total24h": 1414500,
-  "total48hto24h": 1347138,
-  "total7d": 9322915,
-  "total30d": 40860314,
-  "totalAllTime": 1280314735,
+  "total24h": 1270504,
+  "total48hto24h": 916334,
+  "total7d": 8112478,
+  "total30d": 40494942,
+  "totalAllTime": 1285564756,
   "totalDataChart": [
     [
       1610841600,
@@ -6660,7 +6661,27 @@
     ],
     [
       1753920000,
-      1414500
+      1283924
+    ],
+    [
+      1754006400,
+      1144852
+    ],
+    [
+      1754092800,
+      823389
+    ],
+    [
+      1754179200,
+      916334
+    ],
+    [
+      1754265600,
+      1225518
+    ],
+    [
+      1754352000,
+      1270504
     ]
   ],
   "totalDataChartBreakdown": [
@@ -19900,10 +19921,50 @@
       1753920000,
       {
         "Solana": {
-          "Solana": 1414500
+          "Solana": 1283924
+        }
+      }
+    ],
+    [
+      1754006400,
+      {
+        "Solana": {
+          "Solana": 1144852
+        }
+      }
+    ],
+    [
+      1754092800,
+      {
+        "Solana": {
+          "Solana": 823389
+        }
+      }
+    ],
+    [
+      1754179200,
+      {
+        "Solana": {
+          "Solana": 916334
+        }
+      }
+    ],
+    [
+      1754265600,
+      {
+        "Solana": {
+          "Solana": 1225518
+        }
+      }
+    ],
+    [
+      1754352000,
+      {
+        "Solana": {
+          "Solana": 1270504
         }
       }
     ]
   ],
-  "change_1d": 5
+  "change_1d": 38.65
 }

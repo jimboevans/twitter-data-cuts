@@ -30,9 +30,6 @@
     "aurafinance"
   ],
   "treasury": "aura.js",
-  "defillamaId": "1918",
-  "displayName": "Aura",
-  "methodologyURL": "https://github.com/DefiLlama/dimension-adapters/blob/master/fees/aura.ts",
   "methodology": {
     "UserFees": "Pays management + performance fees",
     "Fees": "Staking rewards from all staking pools from users.",
@@ -41,17 +38,22 @@
     "SupplySideRevenue": "Staking rewards distributed to depositors.",
     "HoldersRevenue": "Staking rewards earned by AURA holders."
   },
+  "misrepresentedTokens": false,
+  "defillamaId": "1918",
+  "displayName": "Aura",
+  "methodologyURL": "https://github.com/DefiLlama/dimension-adapters/blob/master/fees/aura.ts",
   "versionKey": null,
   "parentProtocol": null,
   "previousNames": null,
-  "latestFetchIsOk": true,
+  "hallmarks": null,
+  "defaultChartView": null,
   "slug": "aura",
   "protocolType": "protocol",
-  "total24h": 10772,
-  "total48hto24h": 7444,
-  "total7d": 65667,
-  "total30d": 230135,
-  "totalAllTime": 35130619,
+  "total24h": 9202,
+  "total48hto24h": 9468,
+  "total7d": 66879,
+  "total30d": 245529,
+  "totalAllTime": 35181439,
   "totalDataChart": [
     [
       1669852800,
@@ -3947,7 +3949,27 @@
     ],
     [
       1753920000,
-      10772
+      14827
+    ],
+    [
+      1754006400,
+      8814
+    ],
+    [
+      1754092800,
+      9472
+    ],
+    [
+      1754179200,
+      9468
+    ],
+    [
+      1754265600,
+      9809
+    ],
+    [
+      1754352000,
+      9202
     ]
   ],
   "totalDataChartBreakdown": [
@@ -11739,10 +11761,50 @@
       1753920000,
       {
         "Ethereum": {
-          "Aura": 10772
+          "Aura": 14827
+        }
+      }
+    ],
+    [
+      1754006400,
+      {
+        "Ethereum": {
+          "Aura": 8814
+        }
+      }
+    ],
+    [
+      1754092800,
+      {
+        "Ethereum": {
+          "Aura": 9472
+        }
+      }
+    ],
+    [
+      1754179200,
+      {
+        "Ethereum": {
+          "Aura": 9468
+        }
+      }
+    ],
+    [
+      1754265600,
+      {
+        "Ethereum": {
+          "Aura": 9809
+        }
+      }
+    ],
+    [
+      1754352000,
+      {
+        "Ethereum": {
+          "Aura": 9202
         }
       }
     ]
   ],
-  "change_1d": 44.71
+  "change_1d": -2.81
 }

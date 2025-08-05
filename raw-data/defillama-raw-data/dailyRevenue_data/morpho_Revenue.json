@@ -11,7 +11,21 @@
     "Base",
     "Polygon",
     "Unichain",
-    "Katana"
+    "Katana",
+    "Arbitrum",
+    "Fraxtal",
+    "Ink",
+    "OP Mainnet",
+    "Scroll",
+    "World Chain",
+    "Mode",
+    "Corn",
+    "Hemi",
+    "Sonic",
+    "Hyperliquid L1",
+    "Soneium",
+    "TAC",
+    "Zircuit"
   ],
   "twitter": "MorphoLabs",
   "governanceID": [
@@ -32,6 +46,7 @@
       "chains": [
         "Ethereum"
       ],
+      "methodology": "Collateral (supply minus borrows) in the balance of the Morpho contracts",
       "gecko_id": null,
       "twitter": "MorphoLabs",
       "audits": "2",
@@ -53,6 +68,7 @@
       "chains": [
         "Ethereum"
       ],
+      "methodology": "Collateral (supply minus borrows) in the balance of the Morpho contracts",
       "gecko_id": null,
       "twitter": "MorphoLabs",
       "audits": "2",
@@ -74,6 +90,7 @@
       "chains": [
         "Ethereum"
       ],
+      "methodology": "Collateral (supply minus borrows) in the balance of the Morpho contracts",
       "gecko_id": null,
       "twitter": "MorphoLabs",
       "audits": "2",
@@ -99,14 +116,28 @@
         "base",
         "polygon",
         "unichain",
-        "katana"
+        "katana",
+        "arbitrum",
+        "fraxtal",
+        "ink",
+        "optimism",
+        "scroll",
+        "wc",
+        "mode",
+        "corn",
+        "hemi",
+        "sonic",
+        "hyperliquid",
+        "soneium",
+        "tac",
+        "zircuit"
       ],
       "methodologyURL": "https://github.com/DefiLlama/dimension-adapters/blob/master/fees/morpho",
       "methodology": {
         "UserFees": "Interest paid by borrowers",
         "Fees": "Total borrow interest paid by borrowers.",
-        "Revenue": "Percentage of interest going to treasury",
-        "ProtocolRevenue": "Total interests are distributed to Morpho.",
+        "Revenue": "No revenue for Morpho protocol.",
+        "ProtocolRevenue": "No revenue for Morpho protocol.",
         "SupplySideRevenue": "Total interests are distributed to suppliers/lenders."
       },
       "gecko_id": null,
@@ -140,7 +171,8 @@
   "versionKey": null,
   "parentProtocol": null,
   "previousNames": null,
-  "latestFetchIsOk": true,
+  "hallmarks": null,
+  "defaultChartView": null,
   "slug": "morpho",
   "protocolType": "protocol",
   "total24h": 0,
@@ -390,10 +422,6 @@
       0
     ],
     [
-      1751932800,
-      0
-    ],
-    [
       1752019200,
       0
     ],
@@ -483,6 +511,26 @@
     ],
     [
       1753920000,
+      0
+    ],
+    [
+      1754006400,
+      0
+    ],
+    [
+      1754092800,
+      0
+    ],
+    [
+      1754179200,
+      0
+    ],
+    [
+      1754265600,
+      0
+    ],
+    [
+      1754352000,
       0
     ]
   ],
@@ -1211,26 +1259,6 @@
       }
     ],
     [
-      1751932800,
-      {
-        "Ethereum": {
-          "Morpho Blue": 0
-        },
-        "Base": {
-          "Morpho Blue": 0
-        },
-        "Polygon": {
-          "Morpho Blue": 0
-        },
-        "Unichain": {
-          "Morpho Blue": 0
-        },
-        "Katana": {
-          "Morpho Blue": 0
-        }
-      }
-    ],
-    [
       1752019200,
       {
         "Ethereum": {
@@ -1686,6 +1714,148 @@
           "Morpho Blue": 0
         },
         "Katana": {
+          "Morpho Blue": 0
+        }
+      }
+    ],
+    [
+      1754006400,
+      {
+        "Ethereum": {
+          "Morpho Blue": 0
+        },
+        "Base": {
+          "Morpho Blue": 0
+        },
+        "Polygon": {
+          "Morpho Blue": 0
+        },
+        "Unichain": {
+          "Morpho Blue": 0
+        },
+        "Katana": {
+          "Morpho Blue": 0
+        }
+      }
+    ],
+    [
+      1754092800,
+      {
+        "Ethereum": {
+          "Morpho Blue": 0
+        },
+        "Base": {
+          "Morpho Blue": 0
+        },
+        "Polygon": {
+          "Morpho Blue": 0
+        },
+        "Unichain": {
+          "Morpho Blue": 0
+        },
+        "Katana": {
+          "Morpho Blue": 0
+        }
+      }
+    ],
+    [
+      1754179200,
+      {
+        "Ethereum": {
+          "Morpho Blue": 0
+        },
+        "Base": {
+          "Morpho Blue": 0
+        },
+        "Polygon": {
+          "Morpho Blue": 0
+        },
+        "Unichain": {
+          "Morpho Blue": 0
+        },
+        "Katana": {
+          "Morpho Blue": 0
+        }
+      }
+    ],
+    [
+      1754265600,
+      {
+        "Ethereum": {
+          "Morpho Blue": 0
+        },
+        "Base": {
+          "Morpho Blue": 0
+        },
+        "Polygon": {
+          "Morpho Blue": 0
+        },
+        "Unichain": {
+          "Morpho Blue": 0
+        },
+        "Katana": {
+          "Morpho Blue": 0
+        }
+      }
+    ],
+    [
+      1754352000,
+      {
+        "Ethereum": {
+          "Morpho Blue": 0
+        },
+        "Base": {
+          "Morpho Blue": 0
+        },
+        "Polygon": {
+          "Morpho Blue": 0
+        },
+        "Unichain": {
+          "Morpho Blue": 0
+        },
+        "Katana": {
+          "Morpho Blue": 0
+        },
+        "Arbitrum": {
+          "Morpho Blue": 0
+        },
+        "Fraxtal": {
+          "Morpho Blue": 0
+        },
+        "Ink": {
+          "Morpho Blue": 0
+        },
+        "OP Mainnet": {
+          "Morpho Blue": 0
+        },
+        "Scroll": {
+          "Morpho Blue": 0
+        },
+        "World Chain": {
+          "Morpho Blue": 0
+        },
+        "Mode": {
+          "Morpho Blue": 0
+        },
+        "Corn": {
+          "Morpho Blue": 0
+        },
+        "Hemi": {
+          "Morpho Blue": 0
+        },
+        "Sonic": {
+          "Morpho Blue": 0
+        },
+        "Hyperliquid L1": {
+          "Morpho Blue": 0
+        },
+        "Soneium": {
+          "Morpho Blue": 0
+        },
+        "TAC": {
+          "Morpho Blue": 0
+        },
+        "Zircuit": {
           "Morpho Blue": 0
         }
       }

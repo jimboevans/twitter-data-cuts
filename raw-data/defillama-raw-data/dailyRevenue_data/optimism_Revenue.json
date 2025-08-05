@@ -36,14 +36,15 @@
   "treasury": null,
   "parentProtocol": null,
   "previousNames": null,
-  "latestFetchIsOk": true,
+  "hallmarks": null,
+  "defaultChartView": null,
   "slug": "op-mainnet",
   "protocolType": "chain",
-  "total24h": 9035,
-  "total48hto24h": 8106,
-  "total7d": 65832,
-  "total30d": 287931,
-  "totalAllTime": 30449404,
+  "total24h": 6552,
+  "total48hto24h": 3712,
+  "total7d": 57216,
+  "total30d": 304027,
+  "totalAllTime": 30493940,
   "totalDataChart": [
     [
       1637193600,
@@ -4990,6 +4991,10 @@
       5708
     ],
     [
+      1744416000,
+      4461
+    ],
+    [
       1744502400,
       13475
     ],
@@ -5424,6 +5429,26 @@
     [
       1753833600,
       9035
+    ],
+    [
+      1753920000,
+      6607
+    ],
+    [
+      1754006400,
+      15684
+    ],
+    [
+      1754092800,
+      7520
+    ],
+    [
+      1754179200,
+      3712
+    ],
+    [
+      1754265600,
+      6552
     ]
   ],
   "totalDataChartBreakdown": [
@@ -15316,6 +15341,14 @@
       }
     ],
     [
+      1744416000,
+      {
+        "OP Mainnet": {
+          "OP Mainnet": 4461
+        }
+      }
+    ],
+    [
       1744502400,
       {
         "OP Mainnet": {
@@ -16186,7 +16219,47 @@
           "OP Mainnet": 9035
         }
       }
+    ],
+    [
+      1753920000,
+      {
+        "OP Mainnet": {
+          "OP Mainnet": 6607
+        }
+      }
+    ],
+    [
+      1754006400,
+      {
+        "OP Mainnet": {
+          "OP Mainnet": 15684
+        }
+      }
+    ],
+    [
+      1754092800,
+      {
+        "OP Mainnet": {
+          "OP Mainnet": 7520
+        }
+      }
+    ],
+    [
+      1754179200,
+      {
+        "OP Mainnet": {
+          "OP Mainnet": 3712
+        }
+      }
+    ],
+    [
+      1754265600,
+      {
+        "OP Mainnet": {
+          "OP Mainnet": 6552
+        }
+      }
     ]
   ],
-  "change_1d": 11.46
+  "change_1d": 76.51
 }

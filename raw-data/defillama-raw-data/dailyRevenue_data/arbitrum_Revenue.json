@@ -35,14 +35,15 @@
   "treasury": null,
   "parentProtocol": null,
   "previousNames": null,
-  "latestFetchIsOk": true,
+  "hallmarks": null,
+  "defaultChartView": null,
   "slug": "arbitrum",
   "protocolType": "chain",
-  "total24h": 42336,
-  "total48hto24h": 27247,
-  "total7d": 216612,
-  "total30d": 935920,
-  "totalAllTime": 62354821,
+  "total24h": 22685,
+  "total48hto24h": 11428,
+  "total7d": 214459,
+  "total30d": 987016,
+  "totalAllTime": 62499697,
   "totalDataChart": [
     [
       1628553600,
@@ -5615,6 +5616,26 @@
     [
       1753833600,
       42336
+    ],
+    [
+      1753920000,
+      22025
+    ],
+    [
+      1754006400,
+      68186
+    ],
+    [
+      1754092800,
+      20552
+    ],
+    [
+      1754179200,
+      11428
+    ],
+    [
+      1754265600,
+      22685
     ]
   ],
   "totalDataChartBreakdown": [
@@ -16761,7 +16782,47 @@
           "Arbitrum": 42336
         }
       }
+    ],
+    [
+      1753920000,
+      {
+        "Arbitrum": {
+          "Arbitrum": 22025
+        }
+      }
+    ],
+    [
+      1754006400,
+      {
+        "Arbitrum": {
+          "Arbitrum": 68186
+        }
+      }
+    ],
+    [
+      1754092800,
+      {
+        "Arbitrum": {
+          "Arbitrum": 20552
+        }
+      }
+    ],
+    [
+      1754179200,
+      {
+        "Arbitrum": {
+          "Arbitrum": 11428
+        }
+      }
+    ],
+    [
+      1754265600,
+      {
+        "Arbitrum": {
+          "Arbitrum": 22685
+        }
+      }
     ]
   ],
-  "change_1d": 55.38
+  "change_1d": 98.5
 }

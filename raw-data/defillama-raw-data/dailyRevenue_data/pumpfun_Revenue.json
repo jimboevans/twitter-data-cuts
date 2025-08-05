@@ -20,22 +20,24 @@
   "twitter": "pumpdotfun",
   "parentProtocol": "parent#pump",
   "listedAt": 1712427917,
-  "defillamaId": "4449",
-  "displayName": "pump.fun",
-  "methodologyURL": "https://github.com/DefiLlama/dimension-adapters/blob/master/fees/pumpdotfun.ts",
   "methodology": {
     "Fees": "Trading and launching tokens fees paid by users",
     "Revenue": "Trading and launching tokens fees paid by users",
     "ProtocolRevenue": "pump.fun takes all fees paid by users",
     "HoldersRevenue": "PUMP token buybacks from the revenue"
   },
+  "misrepresentedTokens": false,
+  "defillamaId": "4449",
+  "displayName": "pump.fun",
+  "methodologyURL": "https://github.com/DefiLlama/dimension-adapters/blob/master/fees/pumpdotfun.ts",
   "audit_links": null,
   "versionKey": null,
   "github": null,
   "governanceID": null,
   "treasury": null,
   "previousNames": null,
-  "latestFetchIsOk": true,
+  "hallmarks": null,
+  "defaultChartView": null,
   "slug": "pump.fun",
   "protocolType": "protocol",
   "linkedProtocols": [
@@ -43,11 +45,11 @@
     "pump.fun",
     "PumpSwap"
   ],
-  "total24h": 355417,
-  "total48hto24h": 378225,
-  "total7d": 2612211,
-  "total30d": 21530506,
-  "totalAllTime": 712622827,
+  "total24h": 182281,
+  "total48hto24h": 230153,
+  "total7d": 1981484,
+  "total30d": 16630719,
+  "totalAllTime": 715394520,
   "totalDataChart": [
     [
       1709251200,
@@ -1678,6 +1680,10 @@
       1377374
     ],
     [
+      1744416000,
+      1523851
+    ],
+    [
       1744502400,
       1389826
     ],
@@ -2112,6 +2118,26 @@
     [
       1753833600,
       355417
+    ],
+    [
+      1753920000,
+      316300
+    ],
+    [
+      1754006400,
+      206807
+    ],
+    [
+      1754092800,
+      312301
+    ],
+    [
+      1754179200,
+      230153
+    ],
+    [
+      1754265600,
+      182281
     ]
   ],
   "totalDataChartBreakdown": [
@@ -5372,6 +5398,14 @@
       }
     ],
     [
+      1744416000,
+      {
+        "Solana": {
+          "pump.fun": 1523851
+        }
+      }
+    ],
+    [
       1744502400,
       {
         "Solana": {
@@ -6242,7 +6276,47 @@
           "pump.fun": 355417
         }
       }
+    ],
+    [
+      1753920000,
+      {
+        "Solana": {
+          "pump.fun": 316300
+        }
+      }
+    ],
+    [
+      1754006400,
+      {
+        "Solana": {
+          "pump.fun": 206807
+        }
+      }
+    ],
+    [
+      1754092800,
+      {
+        "Solana": {
+          "pump.fun": 312301
+        }
+      }
+    ],
+    [
+      1754179200,
+      {
+        "Solana": {
+          "pump.fun": 230153
+        }
+      }
+    ],
+    [
+      1754265600,
+      {
+        "Solana": {
+          "pump.fun": 182281
+        }
+      }
     ]
   ],
-  "change_1d": -6.03
+  "change_1d": -20.8
 }

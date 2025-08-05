@@ -33,14 +33,15 @@
   "treasury": null,
   "parentProtocol": null,
   "previousNames": null,
-  "latestFetchIsOk": true,
+  "hallmarks": null,
+  "defaultChartView": null,
   "slug": "ton",
   "protocolType": "chain",
-  "total24h": 8543,
-  "total48hto24h": 8911,
-  "total7d": 50633,
-  "total30d": 226231,
-  "totalAllTime": 3105407,
+  "total24h": 10666,
+  "total48hto24h": 8449,
+  "total7d": 65003,
+  "total30d": 236758,
+  "totalAllTime": 3152956,
   "totalDataChart": [
     [
       1734480000,
@@ -941,6 +942,26 @@
     [
       1753833600,
       8543
+    ],
+    [
+      1753920000,
+      11045
+    ],
+    [
+      1754006400,
+      9332
+    ],
+    [
+      1754092800,
+      8057
+    ],
+    [
+      1754179200,
+      8449
+    ],
+    [
+      1754265600,
+      10666
     ]
   ],
   "totalDataChartBreakdown": [
@@ -2743,7 +2764,47 @@
           "TON": 8543
         }
       }
+    ],
+    [
+      1753920000,
+      {
+        "TON": {
+          "TON": 11045
+        }
+      }
+    ],
+    [
+      1754006400,
+      {
+        "TON": {
+          "TON": 9332
+        }
+      }
+    ],
+    [
+      1754092800,
+      {
+        "TON": {
+          "TON": 8057
+        }
+      }
+    ],
+    [
+      1754179200,
+      {
+        "TON": {
+          "TON": 8449
+        }
+      }
+    ],
+    [
+      1754265600,
+      {
+        "TON": {
+          "TON": 10666
+        }
+      }
     ]
   ],
-  "change_1d": -4.13
+  "change_1d": 26.24
 }

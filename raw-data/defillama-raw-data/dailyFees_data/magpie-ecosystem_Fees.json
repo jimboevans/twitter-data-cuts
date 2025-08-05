@@ -242,14 +242,15 @@
   "github": null,
   "parentProtocol": null,
   "previousNames": null,
-  "latestFetchIsOk": true,
+  "hallmarks": null,
+  "defaultChartView": null,
   "slug": "magpie-ecosystem",
   "protocolType": "protocol",
-  "total24h": 16306,
-  "total48hto24h": 181748,
-  "total7d": 319362,
-  "total30d": 771526,
-  "totalAllTime": 16822629,
+  "total24h": 14381,
+  "total48hto24h": 14442,
+  "total7d": 311652,
+  "total30d": 769626,
+  "totalAllTime": 16903589,
   "totalDataChart": [
     [
       1708732800,
@@ -2345,7 +2346,27 @@
     ],
     [
       1753920000,
-      45696
+      50264
+    ],
+    [
+      1754006400,
+      18177
+    ],
+    [
+      1754092800,
+      16334
+    ],
+    [
+      1754179200,
+      14442
+    ],
+    [
+      1754265600,
+      14381
+    ],
+    [
+      1754352000,
+      13058
     ]
   ],
   "totalDataChartBreakdown": [
@@ -12744,24 +12765,134 @@
       1753920000,
       {
         "BSC": {
-          "Wompie": 28,
-          "Penpie": 1873,
+          "Wompie": 38,
+          "Penpie": 1810,
           "Radpie": 0,
           "Cakepie": 0
         },
         "Arbitrum": {
           "Wompie": 0,
-          "Penpie": 28409,
+          "Penpie": 31070,
           "Radpie": 0,
           "Cakepie": 0
         },
         "Ethereum": {
-          "Penpie": 15386,
+          "Penpie": 17346,
+          "Radpie": 0,
+          "Cakepie": 0
+        }
+      }
+    ],
+    [
+      1754006400,
+      {
+        "BSC": {
+          "Wompie": 5,
+          "Penpie": 1520,
+          "Radpie": 0,
+          "Cakepie": 0
+        },
+        "Arbitrum": {
+          "Wompie": 0,
+          "Penpie": 6222,
+          "Radpie": 0,
+          "Cakepie": 0
+        },
+        "Ethereum": {
+          "Penpie": 10430,
+          "Radpie": 0,
+          "Cakepie": 0
+        }
+      }
+    ],
+    [
+      1754092800,
+      {
+        "BSC": {
+          "Wompie": 6,
+          "Penpie": 555,
+          "Radpie": 0,
+          "Cakepie": 0
+        },
+        "Arbitrum": {
+          "Wompie": 0,
+          "Penpie": 5164,
+          "Radpie": 0,
+          "Cakepie": 0
+        },
+        "Ethereum": {
+          "Penpie": 10609,
+          "Radpie": 0,
+          "Cakepie": 0
+        }
+      }
+    ],
+    [
+      1754179200,
+      {
+        "BSC": {
+          "Wompie": 4,
+          "Penpie": 416,
+          "Radpie": 0,
+          "Cakepie": 0
+        },
+        "Arbitrum": {
+          "Wompie": 0,
+          "Penpie": 4434,
+          "Radpie": 0,
+          "Cakepie": 0
+        },
+        "Ethereum": {
+          "Penpie": 9588,
+          "Radpie": 0,
+          "Cakepie": 0
+        }
+      }
+    ],
+    [
+      1754265600,
+      {
+        "BSC": {
+          "Wompie": 2,
+          "Penpie": 1341,
+          "Radpie": 0,
+          "Cakepie": 0
+        },
+        "Arbitrum": {
+          "Wompie": 0,
+          "Penpie": 2924,
+          "Radpie": 0,
+          "Cakepie": 0
+        },
+        "Ethereum": {
+          "Penpie": 10114,
+          "Radpie": 0,
+          "Cakepie": 0
+        }
+      }
+    ],
+    [
+      1754352000,
+      {
+        "BSC": {
+          "Wompie": 1,
+          "Penpie": 1787,
+          "Radpie": 0,
+          "Cakepie": 0
+        },
+        "Arbitrum": {
+          "Wompie": 0,
+          "Penpie": 1909,
+          "Radpie": 0,
+          "Cakepie": 0
+        },
+        "Ethereum": {
+          "Penpie": 9361,
           "Radpie": 0,
           "Cakepie": 0
         }
       }
     ]
   ],
-  "change_1d": -91.03
+  "change_1d": -0.42
 }

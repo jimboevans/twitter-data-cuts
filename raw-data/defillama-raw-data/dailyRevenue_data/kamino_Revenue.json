@@ -97,14 +97,15 @@
   "treasury": null,
   "parentProtocol": null,
   "previousNames": null,
-  "latestFetchIsOk": true,
+  "hallmarks": null,
+  "defaultChartView": null,
   "slug": "kamino",
   "protocolType": "protocol",
-  "total24h": 46347,
-  "total48hto24h": 48253,
-  "total7d": 333014,
-  "total30d": 1693931,
-  "totalAllTime": 37642367,
+  "total24h": 43757,
+  "total48hto24h": 42527,
+  "total7d": 318327,
+  "total30d": 1649171,
+  "totalAllTime": 37866094,
   "totalDataChart": [
     [
       1697068800,
@@ -2737,6 +2738,26 @@
     [
       1753833600,
       46347
+    ],
+    [
+      1753920000,
+      47520
+    ],
+    [
+      1754006400,
+      46055
+    ],
+    [
+      1754092800,
+      43868
+    ],
+    [
+      1754179200,
+      42527
+    ],
+    [
+      1754265600,
+      43757
     ]
   ],
   "totalDataChartBreakdown": [
@@ -8659,7 +8680,52 @@
           "Kamino Lend": 46347
         }
       }
+    ],
+    [
+      1753920000,
+      {
+        "Solana": {
+          "Kamino Liquidity": 0,
+          "Kamino Lend": 47520
+        }
+      }
+    ],
+    [
+      1754006400,
+      {
+        "Solana": {
+          "Kamino Liquidity": 0,
+          "Kamino Lend": 46055
+        }
+      }
+    ],
+    [
+      1754092800,
+      {
+        "Solana": {
+          "Kamino Liquidity": 0,
+          "Kamino Lend": 43868
+        }
+      }
+    ],
+    [
+      1754179200,
+      {
+        "Solana": {
+          "Kamino Liquidity": 0,
+          "Kamino Lend": 42527
+        }
+      }
+    ],
+    [
+      1754265600,
+      {
+        "Solana": {
+          "Kamino Liquidity": 0,
+          "Kamino Lend": 43757
+        }
+      }
     ]
   ],
-  "change_1d": -3.95
+  "change_1d": 2.89
 }

@@ -20,9 +20,6 @@
   "twitter": "sanctumso",
   "parentProtocol": "parent#sanctum",
   "listedAt": 1711406065,
-  "defillamaId": "4371",
-  "displayName": "Sanctum Validator LSTs",
-  "methodologyURL": "https://github.com/DefiLlama/dimension-adapters/blob/master/fees/sanctum-validator-lsts",
   "methodology": {
     "UserFees": "Percentage of rewards paid to protocol",
     "Fees": "Staking rewards + withdrawal/deposit fees from Sanctum LSTs",
@@ -30,13 +27,18 @@
     "ProtocolRevenue": "Fee from users rewards",
     "SupplySideRevenue": "Revenue earned by stETH holders"
   },
+  "misrepresentedTokens": false,
+  "defillamaId": "4371",
+  "displayName": "Sanctum Validator LSTs",
+  "methodologyURL": "https://github.com/DefiLlama/dimension-adapters/blob/master/fees/sanctum-validator-lsts",
   "audit_links": null,
   "versionKey": null,
   "github": null,
   "governanceID": null,
   "treasury": null,
   "previousNames": null,
-  "latestFetchIsOk": true,
+  "hallmarks": null,
+  "defaultChartView": null,
   "slug": "sanctum-validator-lsts",
   "protocolType": "protocol",
   "linkedProtocols": [
@@ -45,11 +47,11 @@
     "Sanctum Infinity",
     "Sanctum Validator LSTs"
   ],
-  "total24h": 8170,
-  "total48hto24h": 21062,
-  "total7d": 77446,
-  "total30d": 403748,
-  "totalAllTime": 2578123,
+  "total24h": 3727,
+  "total48hto24h": 22967,
+  "total7d": 97332,
+  "total30d": 388502,
+  "totalAllTime": 2646223,
   "totalDataChart": [
     [
       1717891200,
@@ -1718,6 +1720,26 @@
     [
       1753833600,
       8170
+    ],
+    [
+      1753920000,
+      22325
+    ],
+    [
+      1754006400,
+      18869
+    ],
+    [
+      1754092800,
+      212
+    ],
+    [
+      1754179200,
+      22967
+    ],
+    [
+      1754265600,
+      3727
     ]
   ],
   "totalDataChartBreakdown": [
@@ -5056,7 +5078,47 @@
           "Sanctum Validator LSTs": 8170
         }
       }
+    ],
+    [
+      1753920000,
+      {
+        "Solana": {
+          "Sanctum Validator LSTs": 22325
+        }
+      }
+    ],
+    [
+      1754006400,
+      {
+        "Solana": {
+          "Sanctum Validator LSTs": 18869
+        }
+      }
+    ],
+    [
+      1754092800,
+      {
+        "Solana": {
+          "Sanctum Validator LSTs": 212
+        }
+      }
+    ],
+    [
+      1754179200,
+      {
+        "Solana": {
+          "Sanctum Validator LSTs": 22967
+        }
+      }
+    ],
+    [
+      1754265600,
+      {
+        "Solana": {
+          "Sanctum Validator LSTs": 3727
+        }
+      }
     ]
   ],
-  "change_1d": -61.21
+  "change_1d": -83.77
 }

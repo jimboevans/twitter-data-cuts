@@ -76,6 +76,7 @@
       "chains": [
         "Ethereum"
       ],
+      "methodology": "Returns the total assets owned by primeETH",
       "gecko_id": null,
       "twitter": "PrimeStaked",
       "audits": "0",
@@ -149,14 +150,15 @@
   "treasury": null,
   "parentProtocol": null,
   "previousNames": null,
-  "latestFetchIsOk": true,
+  "hallmarks": null,
+  "defaultChartView": null,
   "slug": "origin-protocol",
   "protocolType": "protocol",
-  "total24h": 7024,
-  "total48hto24h": 7004,
-  "total7d": 48037,
-  "total30d": 152795,
-  "totalAllTime": 3289500,
+  "total24h": 6627,
+  "total48hto24h": 6268,
+  "total7d": 46023,
+  "total30d": 165501,
+  "totalAllTime": 3321236,
   "totalDataChart": [
     [
       1719878400,
@@ -1736,7 +1738,27 @@
     ],
     [
       1753920000,
-      3620
+      6704
+    ],
+    [
+      1754006400,
+      6292
+    ],
+    [
+      1754092800,
+      6104
+    ],
+    [
+      1754179200,
+      6268
+    ],
+    [
+      1754265600,
+      6627
+    ],
+    [
+      1754352000,
+      3361
     ]
   ],
   "totalDataChartBreakdown": [
@@ -4896,10 +4918,50 @@
       1753920000,
       {
         "Ethereum": {
-          "Origin Dollar": 3620
+          "Origin Dollar": 6704
+        }
+      }
+    ],
+    [
+      1754006400,
+      {
+        "Ethereum": {
+          "Origin Dollar": 6292
+        }
+      }
+    ],
+    [
+      1754092800,
+      {
+        "Ethereum": {
+          "Origin Dollar": 6104
+        }
+      }
+    ],
+    [
+      1754179200,
+      {
+        "Ethereum": {
+          "Origin Dollar": 6268
+        }
+      }
+    ],
+    [
+      1754265600,
+      {
+        "Ethereum": {
+          "Origin Dollar": 6627
+        }
+      }
+    ],
+    [
+      1754352000,
+      {
+        "Ethereum": {
+          "Origin Dollar": 3361
         }
       }
     ]
   ],
-  "change_1d": 0.29
+  "change_1d": 5.73
 }

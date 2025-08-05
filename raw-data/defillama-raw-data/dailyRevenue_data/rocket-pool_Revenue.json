@@ -30,9 +30,6 @@
     "rocket-pool"
   ],
   "listedAt": 1637712907,
-  "defillamaId": "900",
-  "displayName": "Rocket Pool",
-  "methodologyURL": "https://github.com/DefiLlama/dimension-adapters/blob/master/fees/rocketpool.ts",
   "methodology": {
     "UserFees": "Percentage of rewards paid to protocol",
     "Fees": "Total ETH staking rewards from Rocketpool active validators",
@@ -40,12 +37,17 @@
     "ProtocolRevenue": "Fee from users rewards",
     "SupplySideRevenue": "Total ETH staking rewards are distributed to rETH stakers and minipool depositors."
   },
+  "misrepresentedTokens": false,
+  "defillamaId": "900",
+  "displayName": "Rocket Pool",
+  "methodologyURL": "https://github.com/DefiLlama/dimension-adapters/blob/master/fees/rocketpool.ts",
   "forkedFrom": null,
   "versionKey": null,
   "treasury": null,
   "parentProtocol": null,
   "previousNames": null,
-  "latestFetchIsOk": true,
+  "hallmarks": null,
+  "defaultChartView": null,
   "slug": "rocket-pool",
   "protocolType": "protocol",
   "total24h": 0,
@@ -3432,6 +3434,26 @@
     ],
     [
       1753920000,
+      0
+    ],
+    [
+      1754006400,
+      0
+    ],
+    [
+      1754092800,
+      0
+    ],
+    [
+      1754179200,
+      0
+    ],
+    [
+      1754265600,
+      0
+    ],
+    [
+      1754352000,
       0
     ]
   ],
@@ -10190,6 +10212,46 @@
     ],
     [
       1753920000,
+      {
+        "Ethereum": {
+          "Rocket Pool": 0
+        }
+      }
+    ],
+    [
+      1754006400,
+      {
+        "Ethereum": {
+          "Rocket Pool": 0
+        }
+      }
+    ],
+    [
+      1754092800,
+      {
+        "Ethereum": {
+          "Rocket Pool": 0
+        }
+      }
+    ],
+    [
+      1754179200,
+      {
+        "Ethereum": {
+          "Rocket Pool": 0
+        }
+      }
+    ],
+    [
+      1754265600,
+      {
+        "Ethereum": {
+          "Rocket Pool": 0
+        }
+      }
+    ],
+    [
+      1754352000,
       {
         "Ethereum": {
           "Rocket Pool": 0

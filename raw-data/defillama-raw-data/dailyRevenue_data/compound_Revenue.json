@@ -60,7 +60,13 @@
       ],
       "cmcId": null,
       "id": "114",
-      "parentProtocol": "parent#compound-finance"
+      "parentProtocol": "parent#compound-finance",
+      "hallmarks": [
+        [
+          1592226000,
+          "COMP distribution begins"
+        ]
+      ]
     },
     {
       "name": "Compound V3",
@@ -141,14 +147,15 @@
   "versionKey": null,
   "parentProtocol": null,
   "previousNames": null,
-  "latestFetchIsOk": true,
+  "hallmarks": null,
+  "defaultChartView": null,
   "slug": "compound-finance",
   "protocolType": "protocol",
-  "total24h": 4013,
-  "total48hto24h": 3900,
-  "total7d": 30248,
-  "total30d": 159847,
-  "totalAllTime": 63066827,
+  "total24h": 5376,
+  "total48hto24h": 6023,
+  "total7d": 34203,
+  "total30d": 167639,
+  "totalAllTime": 63096905,
   "totalDataChart": [
     [
       1557273600,
@@ -9003,6 +9010,10 @@
       4034
     ],
     [
+      1749513600,
+      3788
+    ],
+    [
       1749600000,
       4438
     ],
@@ -9201,6 +9212,26 @@
     [
       1753833600,
       4013
+    ],
+    [
+      1753920000,
+      5876
+    ],
+    [
+      1754006400,
+      4726
+    ],
+    [
+      1754092800,
+      4289
+    ],
+    [
+      1754179200,
+      6023
+    ],
+    [
+      1754265600,
+      5376
     ]
   ],
   "totalDataChartBreakdown": [
@@ -26909,6 +26940,14 @@
       }
     ],
     [
+      1749513600,
+      {
+        "Ethereum": {
+          "Compound V2": 3788
+        }
+      }
+    ],
+    [
       1749600000,
       {
         "Ethereum": {
@@ -27307,7 +27346,47 @@
           "Compound V2": 4013
         }
       }
+    ],
+    [
+      1753920000,
+      {
+        "Ethereum": {
+          "Compound V2": 5876
+        }
+      }
+    ],
+    [
+      1754006400,
+      {
+        "Ethereum": {
+          "Compound V2": 4726
+        }
+      }
+    ],
+    [
+      1754092800,
+      {
+        "Ethereum": {
+          "Compound V2": 4289
+        }
+      }
+    ],
+    [
+      1754179200,
+      {
+        "Ethereum": {
+          "Compound V2": 6023
+        }
+      }
+    ],
+    [
+      1754265600,
+      {
+        "Ethereum": {
+          "Compound V2": 5376
+        }
+      }
     ]
   ],
-  "change_1d": 2.9
+  "change_1d": -10.74
 }

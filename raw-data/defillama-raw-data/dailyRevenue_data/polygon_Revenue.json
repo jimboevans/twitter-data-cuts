@@ -33,14 +33,15 @@
   "treasury": null,
   "parentProtocol": null,
   "previousNames": null,
-  "latestFetchIsOk": true,
+  "hallmarks": null,
+  "defaultChartView": null,
   "slug": "polygon",
   "protocolType": "chain",
-  "total24h": 2692,
-  "total48hto24h": 7710,
-  "total7d": 50469,
-  "total30d": 215482,
-  "totalAllTime": 78559008,
+  "total24h": 6472,
+  "total48hto24h": 5847,
+  "total7d": 42772,
+  "total30d": 217979,
+  "totalAllTime": 78591378,
   "totalDataChart": [
     [
       1616716800,
@@ -6385,6 +6386,26 @@
     [
       1753833600,
       2692
+    ],
+    [
+      1753920000,
+      5414
+    ],
+    [
+      1754006400,
+      8802
+    ],
+    [
+      1754092800,
+      5835
+    ],
+    [
+      1754179200,
+      5847
+    ],
+    [
+      1754265600,
+      6472
     ]
   ],
   "totalDataChartBreakdown": [
@@ -19075,7 +19096,47 @@
           "Polygon": 2692
         }
       }
+    ],
+    [
+      1753920000,
+      {
+        "Polygon": {
+          "Polygon": 5414
+        }
+      }
+    ],
+    [
+      1754006400,
+      {
+        "Polygon": {
+          "Polygon": 8802
+        }
+      }
+    ],
+    [
+      1754092800,
+      {
+        "Polygon": {
+          "Polygon": 5835
+        }
+      }
+    ],
+    [
+      1754179200,
+      {
+        "Polygon": {
+          "Polygon": 5847
+        }
+      }
+    ],
+    [
+      1754265600,
+      {
+        "Polygon": {
+          "Polygon": 6472
+        }
+      }
     ]
   ],
-  "change_1d": -65.08
+  "change_1d": 10.69
 }

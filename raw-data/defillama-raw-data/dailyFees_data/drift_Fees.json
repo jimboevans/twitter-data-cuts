@@ -116,14 +116,15 @@
   "treasury": null,
   "parentProtocol": null,
   "previousNames": null,
-  "latestFetchIsOk": true,
+  "hallmarks": null,
+  "defaultChartView": null,
   "slug": "drift",
   "protocolType": "protocol",
-  "total24h": 107083,
-  "total48hto24h": 186332,
-  "total7d": 996607,
-  "total30d": 3621691,
-  "totalAllTime": 29062119,
+  "total24h": 39250,
+  "total48hto24h": 145336,
+  "total7d": 1011045,
+  "total30d": 3952928,
+  "totalAllTime": 29779749,
   "totalDataChart": [
     [
       1717113600,
@@ -1828,6 +1829,26 @@
     [
       1753833600,
       107083
+    ],
+    [
+      1753920000,
+      159061
+    ],
+    [
+      1754006400,
+      316358
+    ],
+    [
+      1754092800,
+      57625
+    ],
+    [
+      1754179200,
+      145336
+    ],
+    [
+      1754265600,
+      39250
     ]
   ],
   "totalDataChartBreakdown": [
@@ -5332,7 +5353,52 @@
           "Drift Staked SOL": 0
         }
       }
+    ],
+    [
+      1753920000,
+      {
+        "Solana": {
+          "Drift Trade": 56781,
+          "Drift Staked SOL": 102280
+        }
+      }
+    ],
+    [
+      1754006400,
+      {
+        "Solana": {
+          "Drift Trade": 218292,
+          "Drift Staked SOL": 98066
+        }
+      }
+    ],
+    [
+      1754092800,
+      {
+        "Solana": {
+          "Drift Trade": 57625,
+          "Drift Staked SOL": 0
+        }
+      }
+    ],
+    [
+      1754179200,
+      {
+        "Solana": {
+          "Drift Trade": 48495,
+          "Drift Staked SOL": 96841
+        }
+      }
+    ],
+    [
+      1754265600,
+      {
+        "Solana": {
+          "Drift Trade": 39250,
+          "Drift Staked SOL": 0
+        }
+      }
     ]
   ],
-  "change_1d": -42.53
+  "change_1d": -72.99
 }

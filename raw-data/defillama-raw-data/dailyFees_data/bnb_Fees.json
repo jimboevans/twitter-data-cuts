@@ -33,14 +33,15 @@
   "treasury": null,
   "parentProtocol": null,
   "previousNames": null,
-  "latestFetchIsOk": true,
+  "hallmarks": null,
+  "defaultChartView": null,
   "slug": "bsc",
   "protocolType": "chain",
-  "total24h": 343796,
-  "total48hto24h": 364940,
-  "total7d": 2453152,
-  "total30d": 10511560,
-  "totalAllTime": 1826245763,
+  "total24h": 301553,
+  "total48hto24h": 270986,
+  "total7d": 2213064,
+  "total30d": 10482602,
+  "totalAllTime": 1827750091,
   "totalDataChart": [
     [
       1598745600,
@@ -7225,6 +7226,26 @@
     [
       1753833600,
       343796
+    ],
+    [
+      1753920000,
+      363590
+    ],
+    [
+      1754006400,
+      320610
+    ],
+    [
+      1754092800,
+      247589
+    ],
+    [
+      1754179200,
+      270986
+    ],
+    [
+      1754265600,
+      301553
     ]
   ],
   "totalDataChartBreakdown": [
@@ -21595,7 +21616,47 @@
           "BSC": 343796
         }
       }
+    ],
+    [
+      1753920000,
+      {
+        "BSC": {
+          "BSC": 363590
+        }
+      }
+    ],
+    [
+      1754006400,
+      {
+        "BSC": {
+          "BSC": 320610
+        }
+      }
+    ],
+    [
+      1754092800,
+      {
+        "BSC": {
+          "BSC": 247589
+        }
+      }
+    ],
+    [
+      1754179200,
+      {
+        "BSC": {
+          "BSC": 270986
+        }
+      }
+    ],
+    [
+      1754265600,
+      {
+        "BSC": {
+          "BSC": 301553
+        }
+      }
     ]
   ],
-  "change_1d": -5.79
+  "change_1d": 11.28
 }

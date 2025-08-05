@@ -27,9 +27,6 @@
     "colonyLab"
   ],
   "treasury": "colony.js",
-  "defillamaId": "1004",
-  "displayName": "Colony",
-  "methodologyURL": "https://github.com/DefiLlama/dimension-adapters/blob/master/fees/colony",
   "methodology": {
     "UserFees": "Pays management + performance fees",
     "Fees": "Yield",
@@ -38,19 +35,41 @@
     "SupplySideRevenue": "83.33% of the fees collected from Colony DEX transactions are distributed to liquidity providers. Additionally, 10% of ceTokens are distributed to staked liquidity providers on Colony's DEX, incentivizing them to continue providing liquidity and supporting the exchange. Additional revenue can be generated through farm rewards based on specific marketing campaigns and incentive programs.",
     "HoldersRevenue": "Revenue distributed to token stakers includes 100% from CLY staking and unstaking fees, 50% of CAI fees, 8% of early-stage activity fees (ceTokens), and 70% of Validator Program activity revenues. This distribution creates a strong APY for CLY stakers, incentivizing protocol staking and long-term involvement in Colony's protocol."
   },
+  "misrepresentedTokens": false,
+  "hallmarks": [
+    [
+      1651241728,
+      "Staking V2 Launch"
+    ],
+    [
+      1711370069,
+      "Staking V3 Launch"
+    ],
+    [
+      1715688000,
+      "EarlyStage Launch"
+    ],
+    [
+      1719792000,
+      "Liquid Vesting DEX Launch"
+    ]
+  ],
+  "defillamaId": "1004",
+  "displayName": "Colony",
+  "methodologyURL": "https://github.com/DefiLlama/dimension-adapters/blob/master/fees/colony",
   "forkedFrom": null,
   "versionKey": null,
   "governanceID": null,
   "parentProtocol": null,
   "previousNames": null,
-  "latestFetchIsOk": true,
+  "defaultChartView": null,
   "slug": "colony",
   "protocolType": "protocol",
-  "total24h": 103,
-  "total48hto24h": 153,
-  "total7d": 6246,
-  "total30d": 144441,
-  "totalAllTime": 778530,
+  "total24h": 133,
+  "total48hto24h": 180,
+  "total7d": 5544,
+  "total30d": 136070,
+  "totalAllTime": 779285,
   "totalDataChart": [
     [
       1722297600,
@@ -1458,7 +1477,27 @@
     ],
     [
       1753920000,
-      103
+      121
+    ],
+    [
+      1754006400,
+      105
+    ],
+    [
+      1754092800,
+      122
+    ],
+    [
+      1754179200,
+      180
+    ],
+    [
+      1754265600,
+      197
+    ],
+    [
+      1754352000,
+      133
     ]
   ],
   "totalDataChartBreakdown": [
@@ -4274,10 +4313,50 @@
       1753920000,
       {
         "Avalanche": {
-          "Colony": 103
+          "Colony": 121
+        }
+      }
+    ],
+    [
+      1754006400,
+      {
+        "Avalanche": {
+          "Colony": 105
+        }
+      }
+    ],
+    [
+      1754092800,
+      {
+        "Avalanche": {
+          "Colony": 122
+        }
+      }
+    ],
+    [
+      1754179200,
+      {
+        "Avalanche": {
+          "Colony": 180
+        }
+      }
+    ],
+    [
+      1754265600,
+      {
+        "Avalanche": {
+          "Colony": 197
+        }
+      }
+    ],
+    [
+      1754352000,
+      {
+        "Avalanche": {
+          "Colony": 133
         }
       }
     ]
   ],
-  "change_1d": -32.68
+  "change_1d": -26.11
 }

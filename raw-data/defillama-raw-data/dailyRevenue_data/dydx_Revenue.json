@@ -52,7 +52,13 @@
       ],
       "cmcId": null,
       "id": "144",
-      "parentProtocol": "parent#dydx"
+      "parentProtocol": "parent#dydx",
+      "hallmarks": [
+        [
+          1627960574,
+          "dydx token"
+        ]
+      ]
     },
     {
       "name": "dYdX V4",
@@ -82,7 +88,13 @@
       "url": "https://dydx.trade",
       "cmcId": null,
       "id": "4067",
-      "parentProtocol": "parent#dydx"
+      "parentProtocol": "parent#dydx",
+      "hallmarks": [
+        [
+          1731974400,
+          "dYdX Unlimited launch"
+        ]
+      ]
     }
   ],
   "linkedProtocols": [
@@ -102,14 +114,15 @@
   "versionKey": null,
   "parentProtocol": null,
   "previousNames": null,
-  "latestFetchIsOk": true,
+  "hallmarks": null,
+  "defaultChartView": null,
   "slug": "dydx",
   "protocolType": "protocol",
-  "total24h": 53234,
-  "total48hto24h": 52294,
-  "total7d": 400752,
-  "total30d": 1727545,
-  "totalAllTime": 89770647,
+  "total24h": 52680,
+  "total48hto24h": 26338,
+  "total7d": 358746,
+  "total30d": 1808765,
+  "totalAllTime": 89986324,
   "totalDataChart": [
     [
       1699833600,
@@ -2160,10 +2173,6 @@
       49213
     ],
     [
-      1744416000,
-      37541
-    ],
-    [
       1744502400,
       40945
     ],
@@ -2598,6 +2607,26 @@
     [
       1753833600,
       53234
+    ],
+    [
+      1753920000,
+      50353
+    ],
+    [
+      1754006400,
+      87646
+    ],
+    [
+      1754092800,
+      36201
+    ],
+    [
+      1754179200,
+      26338
+    ],
+    [
+      1754265600,
+      52680
     ]
   ],
   "totalDataChartBreakdown": [
@@ -7718,14 +7747,6 @@
       }
     ],
     [
-      1744416000,
-      {
-        "dYdX": {
-          "dYdX V4": 37541
-        }
-      }
-    ],
-    [
       1744502400,
       {
         "dYdX": {
@@ -8596,7 +8617,47 @@
           "dYdX V4": 53234
         }
       }
+    ],
+    [
+      1753920000,
+      {
+        "dYdX": {
+          "dYdX V4": 50353
+        }
+      }
+    ],
+    [
+      1754006400,
+      {
+        "dYdX": {
+          "dYdX V4": 87646
+        }
+      }
+    ],
+    [
+      1754092800,
+      {
+        "dYdX": {
+          "dYdX V4": 36201
+        }
+      }
+    ],
+    [
+      1754179200,
+      {
+        "dYdX": {
+          "dYdX V4": 26338
+        }
+      }
+    ],
+    [
+      1754265600,
+      {
+        "dYdX": {
+          "dYdX V4": 52680
+        }
+      }
     ]
   ],
-  "change_1d": 1.8
+  "change_1d": 100.02
 }

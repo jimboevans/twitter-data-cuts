@@ -30,9 +30,6 @@
   ],
   "parentProtocol": "parent#apex-protocol",
   "listedAt": 1656934904,
-  "defillamaId": "1878",
-  "displayName": "ApeX Pro",
-  "methodologyURL": "https://github.com/DefiLlama/dimension-adapters/blob/master/fees/apex.ts",
   "methodology": {
     "UserFees": "Fees paid by users",
     "Fees": "Fees paid by users",
@@ -41,12 +38,17 @@
     "HoldersRevenue": "Fees going to governance token holders",
     "SupplySideRevenue": "LPs revenue"
   },
+  "misrepresentedTokens": false,
+  "defillamaId": "1878",
+  "displayName": "ApeX Pro",
+  "methodologyURL": "https://github.com/DefiLlama/dimension-adapters/blob/master/fees/apex.ts",
   "versionKey": null,
   "github": null,
   "governanceID": null,
   "treasury": null,
   "previousNames": null,
-  "latestFetchIsOk": true,
+  "hallmarks": null,
+  "defaultChartView": null,
   "slug": "apex-pro",
   "protocolType": "protocol",
   "linkedProtocols": [
@@ -56,7 +58,6 @@
   ],
   "total24h": 0,
   "total48hto24h": 0,
-  "total7d": 0,
   "total30d": 0,
   "totalAllTime": 11616999,
   "totalDataChart": [
@@ -2654,6 +2655,10 @@
     ],
     [
       1749427200,
+      0
+    ],
+    [
+      1749513600,
       0
     ],
     [
@@ -8012,6 +8017,14 @@
     ],
     [
       1749427200,
+      {
+        "Ethereum": {
+          "ApeX Pro": 0
+        }
+      }
+    ],
+    [
+      1749513600,
       {
         "Ethereum": {
           "ApeX Pro": 0

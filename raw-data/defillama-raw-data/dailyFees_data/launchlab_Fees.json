@@ -19,22 +19,24 @@
   "twitter": "RaydiumProtocol",
   "forkedFrom": [],
   "parentProtocol": "parent#raydium",
-  "defillamaId": "6074",
-  "displayName": "LaunchLab",
-  "methodologyURL": "https://github.com/DefiLlama/dimension-adapters/blob/master/fees/launchlab",
   "methodology": {
     "Fees": "1% platform fee on all transactions.",
     "Revenue": "0.25% burned + 0.75% to protocol of 1% platform fees",
     "ProtocolRevenue": "0.75% of platform fees go to the protocol.",
     "HoldersRevenue": "0.25% of platform fees are burned."
   },
+  "misrepresentedTokens": false,
+  "defillamaId": "6074",
+  "displayName": "LaunchLab",
+  "methodologyURL": "https://github.com/DefiLlama/dimension-adapters/blob/master/fees/launchlab",
   "audit_links": null,
   "versionKey": null,
   "github": null,
   "governanceID": null,
   "treasury": null,
   "previousNames": null,
-  "latestFetchIsOk": true,
+  "hallmarks": null,
+  "defaultChartView": null,
   "slug": "launchlab",
   "protocolType": "protocol",
   "linkedProtocols": [
@@ -42,11 +44,11 @@
     "Raydium AMM",
     "LaunchLab"
   ],
-  "total24h": 365587,
-  "total48hto24h": 372792,
-  "total7d": 2476763,
-  "total30d": 9117671,
-  "totalAllTime": 11952180,
+  "total24h": 332564,
+  "total48hto24h": 257419,
+  "total7d": 2104437,
+  "total30d": 10032190,
+  "totalAllTime": 13318238,
   "totalDataChart": [
     [
       1744761600,
@@ -471,6 +473,26 @@
     [
       1753833600,
       365587
+    ],
+    [
+      1753920000,
+      299286
+    ],
+    [
+      1754006400,
+      284251
+    ],
+    [
+      1754092800,
+      192538
+    ],
+    [
+      1754179200,
+      257419
+    ],
+    [
+      1754265600,
+      332564
     ]
   ],
   "totalDataChartBreakdown": [
@@ -1321,7 +1343,47 @@
           "LaunchLab": 365587
         }
       }
+    ],
+    [
+      1753920000,
+      {
+        "Solana": {
+          "LaunchLab": 299286
+        }
+      }
+    ],
+    [
+      1754006400,
+      {
+        "Solana": {
+          "LaunchLab": 284251
+        }
+      }
+    ],
+    [
+      1754092800,
+      {
+        "Solana": {
+          "LaunchLab": 192538
+        }
+      }
+    ],
+    [
+      1754179200,
+      {
+        "Solana": {
+          "LaunchLab": 257419
+        }
+      }
+    ],
+    [
+      1754265600,
+      {
+        "Solana": {
+          "LaunchLab": 332564
+        }
+      }
     ]
   ],
-  "change_1d": -1.93
+  "change_1d": 29.19
 }
