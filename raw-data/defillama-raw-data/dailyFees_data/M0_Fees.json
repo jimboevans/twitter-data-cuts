@@ -54,11 +54,11 @@
   "defaultChartView": null,
   "slug": "m0",
   "protocolType": "protocol",
-  "total24h": 25647,
-  "total48hto24h": 30303,
-  "total7d": 204491,
-  "total30d": 1276580,
-  "totalAllTime": 9099834,
+  "total24h": 25353,
+  "total48hto24h": 23349,
+  "total7d": 199602,
+  "total30d": 1269026,
+  "totalAllTime": 9124900,
   "totalDataChart": [
     [
       1737763200,
@@ -830,7 +830,11 @@
     ],
     [
       1754352000,
-      25647
+      25360
+    ],
+    [
+      1754438400,
+      25353
     ]
   ],
   "totalDataChartBreakdown": [
@@ -2374,10 +2378,18 @@
       1754352000,
       {
         "Ethereum": {
-          "M0": 25647
+          "M0": 25360
+        }
+      }
+    ],
+    [
+      1754438400,
+      {
+        "Ethereum": {
+          "M0": 25353
         }
       }
     ]
   ],
-  "change_1d": -15.36
+  "change_1d": 8.58
 }

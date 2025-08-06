@@ -118,11 +118,11 @@
   "defaultChartView": null,
   "slug": "dydx",
   "protocolType": "protocol",
-  "total24h": 52680,
-  "total48hto24h": 26338,
-  "total7d": 358746,
-  "total30d": 1808765,
-  "totalAllTime": 89986324,
+  "total24h": 51077,
+  "total48hto24h": 52680,
+  "total7d": 357529,
+  "total30d": 1843850,
+  "totalAllTime": 90037401,
   "totalDataChart": [
     [
       1699833600,
@@ -2627,6 +2627,10 @@
     [
       1754265600,
       52680
+    ],
+    [
+      1754352000,
+      51077
     ]
   ],
   "totalDataChartBreakdown": [
@@ -8657,7 +8661,15 @@
           "dYdX V4": 52680
         }
       }
+    ],
+    [
+      1754352000,
+      {
+        "dYdX": {
+          "dYdX V4": 51077
+        }
+      }
     ]
   ],
-  "change_1d": 100.02
+  "change_1d": -3.04
 }

@@ -64,11 +64,11 @@
   "defaultChartView": null,
   "slug": "pendle",
   "protocolType": "protocol",
-  "total24h": 77508,
-  "total48hto24h": 44427,
-  "total7d": 1093690,
-  "total30d": 3905082,
-  "totalAllTime": 43523950,
+  "total24h": 49681,
+  "total48hto24h": 77508,
+  "total7d": 1077555,
+  "total30d": 3945469,
+  "totalAllTime": 43573631,
   "totalDataChart": [
     [
       1688688000,
@@ -3093,6 +3093,10 @@
     [
       1754265600,
       77508
+    ],
+    [
+      1754352000,
+      49681
     ]
   ],
   "totalDataChartBreakdown": [
@@ -19019,7 +19023,36 @@
           "Pendle": 8
         }
       }
+    ],
+    [
+      1754352000,
+      {
+        "Ethereum": {
+          "Pendle": 48738
+        },
+        "Arbitrum": {
+          "Pendle": 552
+        },
+        "BSC": {
+          "Pendle": 65
+        },
+        "OP Mainnet": {
+          "Pendle": 0
+        },
+        "Mantle": {
+          "Pendle": 0
+        },
+        "Base": {
+          "Pendle": 312
+        },
+        "Sonic": {
+          "Pendle": 6
+        },
+        "Berachain": {
+          "Pendle": 8
+        }
+      }
     ]
   ],
-  "change_1d": 74.46
+  "change_1d": -35.9
 }

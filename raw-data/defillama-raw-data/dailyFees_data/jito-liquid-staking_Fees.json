@@ -60,11 +60,11 @@
     "Jito Liquid Staking",
     "Jito MEV Tips"
   ],
-  "total24h": 19869,
-  "total48hto24h": 1619,
-  "total7d": 243235,
-  "total30d": 1370709,
-  "totalAllTime": 19241469,
+  "total24h": 61964,
+  "total48hto24h": 19869,
+  "total7d": 192882,
+  "total30d": 1432657,
+  "totalAllTime": 19303433,
   "totalDataChart": [
     [
       1684281600,
@@ -3309,6 +3309,10 @@
     [
       1754265600,
       19869
+    ],
+    [
+      1754352000,
+      61964
     ]
   ],
   "totalDataChartBreakdown": [
@@ -9799,7 +9803,15 @@
           "Jito Liquid Staking": 19869
         }
       }
+    ],
+    [
+      1754352000,
+      {
+        "Solana": {
+          "Jito Liquid Staking": 61964
+        }
+      }
     ]
   ],
-  "change_1d": 1127.24
+  "change_1d": 211.86
 }

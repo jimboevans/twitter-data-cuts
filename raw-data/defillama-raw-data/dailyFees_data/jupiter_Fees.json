@@ -219,11 +219,11 @@
   "defaultChartView": null,
   "slug": "jupiter",
   "protocolType": "protocol",
-  "total24h": 1228819,
-  "total48hto24h": 1598178,
-  "total7d": 24208666,
-  "total30d": 96666349,
-  "totalAllTime": 1018888196,
+  "total24h": 860666,
+  "total48hto24h": 1228819,
+  "total7d": 21362173,
+  "total30d": 96342944,
+  "totalAllTime": 1019752060,
   "totalDataChart": [
     [
       1695945600,
@@ -2919,7 +2919,11 @@
     ],
     [
       1754352000,
-      11023
+      860666
+    ],
+    [
+      1754438400,
+      14221
     ]
   ],
   "totalDataChartBreakdown": [
@@ -9745,10 +9749,22 @@
       1754352000,
       {
         "Solana": {
-          "Jupiter DCA": 11023
+          "Jupiter Aggregator": 488749,
+          "Ape Jupiter": 186,
+          "Jupiter Staked SOL": 348038,
+          "Jupiter DCA": 13883,
+          "Jupiter Studio": 9810
+        }
+      }
+    ],
+    [
+      1754438400,
+      {
+        "Solana": {
+          "Jupiter DCA": 14221
         }
       }
     ]
   ],
-  "change_1d": -23.11
+  "change_1d": -29.96
 }

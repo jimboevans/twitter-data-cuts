@@ -246,11 +246,11 @@
   "defaultChartView": null,
   "slug": "magpie-ecosystem",
   "protocolType": "protocol",
-  "total24h": 2695,
-  "total48hto24h": 2417,
-  "total7d": 29924,
-  "total30d": 104924,
-  "totalAllTime": 8583357,
+  "total24h": 2692,
+  "total48hto24h": 2695,
+  "total7d": 21133,
+  "total30d": 105322,
+  "totalAllTime": 8586228,
   "totalDataChart": [
     [
       1708732800,
@@ -2366,7 +2366,11 @@
     ],
     [
       1754352000,
-      2486
+      2692
+    ],
+    [
+      1754438400,
+      2665
     ]
   ],
   "totalDataChartBreakdown": [
@@ -12875,24 +12879,46 @@
       1754352000,
       {
         "BSC": {
-          "Wompie": 1,
-          "Penpie": 303,
+          "Wompie": 7,
+          "Penpie": 293,
           "Radpie": 0,
           "Cakepie": 0
         },
         "Arbitrum": {
           "Wompie": 0,
-          "Penpie": 311,
+          "Penpie": 438,
           "Radpie": 0,
           "Cakepie": 0
         },
         "Ethereum": {
-          "Penpie": 1871,
+          "Penpie": 1954,
+          "Radpie": 0,
+          "Cakepie": 0
+        }
+      }
+    ],
+    [
+      1754438400,
+      {
+        "BSC": {
+          "Wompie": 7,
+          "Penpie": 314,
+          "Radpie": 0,
+          "Cakepie": 0
+        },
+        "Arbitrum": {
+          "Wompie": 0,
+          "Penpie": 365,
+          "Radpie": 0,
+          "Cakepie": 0
+        },
+        "Ethereum": {
+          "Penpie": 1979,
           "Radpie": 0,
           "Cakepie": 0
         }
       }
     ]
   ],
-  "change_1d": 11.5
+  "change_1d": -0.11
 }

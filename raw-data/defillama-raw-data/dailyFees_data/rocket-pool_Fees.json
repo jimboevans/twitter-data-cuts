@@ -50,11 +50,11 @@
   "defaultChartView": null,
   "slug": "rocket-pool",
   "protocolType": "protocol",
-  "total24h": 217850,
-  "total48hto24h": 383319,
-  "total7d": 1444527,
-  "total30d": 6752773,
-  "totalAllTime": 159838540,
+  "total24h": 195069,
+  "total48hto24h": 343262,
+  "total7d": 1561102,
+  "total30d": 6625712,
+  "totalAllTime": 160019435,
   "totalDataChart": [
     [
       1677888000,
@@ -3594,7 +3594,11 @@
     ],
     [
       1754352000,
-      217850
+      203676
+    ],
+    [
+      1754438400,
+      195069
     ]
   ],
   "totalDataChartBreakdown": [
@@ -10674,7 +10678,15 @@
       1754352000,
       {
         "Ethereum": {
-          "Rocket Pool": 217850
+          "Rocket Pool": 203676
+        }
+      }
+    ],
+    [
+      1754438400,
+      {
+        "Ethereum": {
+          "Rocket Pool": 195069
         }
       }
     ]

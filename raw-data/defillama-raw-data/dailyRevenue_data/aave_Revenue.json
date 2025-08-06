@@ -217,11 +217,11 @@
   "defaultChartView": null,
   "slug": "aave",
   "protocolType": "protocol",
-  "total24h": 354000,
-  "total48hto24h": 365661,
-  "total7d": 2486358,
-  "total30d": 9688126,
-  "totalAllTime": 228126276,
+  "total24h": 349165,
+  "total48hto24h": 354000,
+  "total7d": 2508866,
+  "total30d": 9807935,
+  "totalAllTime": 228131360,
   "totalDataChart": [
     [
       1607040000,
@@ -7041,7 +7041,11 @@
     ],
     [
       1754352000,
-      345373
+      349165
+    ],
+    [
+      1754438400,
+      1292
     ]
   ],
   "totalDataChartBreakdown": [
@@ -59186,58 +59190,72 @@
       1754352000,
       {
         "Ethereum": {
-          "AAVE V2": 1419,
-          "AAVE V3": 305903
+          "AAVE V2": 1535,
+          "AAVE V3": 309615
         },
         "Polygon": {
           "AAVE V2": 0,
-          "AAVE V3": 4695
+          "AAVE V3": 4324
         },
         "Avalanche": {
-          "AAVE V2": 10,
-          "AAVE V3": 8282
+          "AAVE V2": 17,
+          "AAVE V3": 9058
         },
         "OP Mainnet": {
-          "AAVE V3": 1181
+          "AAVE V3": 1148
         },
         "Arbitrum": {
-          "AAVE V3": 12110
+          "AAVE V3": 11462
         },
         "Fantom": {
           "AAVE V3": 0
         },
         "Base": {
-          "AAVE V3": 7923
+          "AAVE V3": 8055
         },
         "BSC": {
-          "AAVE V3": 2494
+          "AAVE V3": 2583
         },
         "Metis": {
-          "AAVE V3": 67
+          "AAVE V3": 96
         },
         "Gnosis": {
-          "AAVE V3": 407
+          "AAVE V3": 402
         },
         "Scroll": {
-          "AAVE V3": 297
+          "AAVE V3": 277
         },
         "ZKsync Era": {
-          "AAVE V3": 30
+          "AAVE V3": 29
         },
         "Linea": {
           "AAVE V3": 95
         },
         "Sonic": {
-          "AAVE V3": 420
+          "AAVE V3": 425
         },
         "Celo": {
-          "AAVE V3": 39
+          "AAVE V3": 43
         },
         "Soneium": {
           "AAVE V3": 1
         }
       }
+    ],
+    [
+      1754438400,
+      {
+        "Ethereum": {
+          "AAVE V2": 1238
+        },
+        "Polygon": {
+          "AAVE V2": 0
+        },
+        "Avalanche": {
+          "AAVE V2": 54
+        }
+      }
     ]
   ],
-  "change_1d": -3.19
+  "change_1d": -1.37
 }

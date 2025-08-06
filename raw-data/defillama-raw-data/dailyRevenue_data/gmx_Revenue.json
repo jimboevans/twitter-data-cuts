@@ -162,11 +162,11 @@
   "defaultChartView": null,
   "slug": "gmx",
   "protocolType": "protocol",
-  "total24h": 196892,
-  "total48hto24h": 86965,
-  "total7d": 1175447,
-  "total30d": 3851577,
-  "totalAllTime": 143087410,
+  "total24h": 124018,
+  "total48hto24h": 196892,
+  "total7d": 1202511,
+  "total30d": 3936763,
+  "totalAllTime": 143211428,
   "totalDataChart": [
     [
       1630627200,
@@ -5895,6 +5895,10 @@
     [
       1754265600,
       196892
+    ],
+    [
+      1754352000,
+      124018
     ]
   ],
   "totalDataChartBreakdown": [
@@ -22769,7 +22773,23 @@
           "GMX V2 Perps": 42
         }
       }
+    ],
+    [
+      1754352000,
+      {
+        "Arbitrum": {
+          "GMX V1 Perps": 1617,
+          "GMX V2 Perps": 116745
+        },
+        "Avalanche": {
+          "GMX V1 Perps": 292,
+          "GMX V2 Perps": 5285
+        },
+        "Solana": {
+          "GMX V2 Perps": 79
+        }
+      }
     ]
   ],
-  "change_1d": 126.4
+  "change_1d": -37.01
 }

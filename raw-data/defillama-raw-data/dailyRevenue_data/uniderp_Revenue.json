@@ -42,11 +42,11 @@
   "defaultChartView": null,
   "slug": "uniderp",
   "protocolType": "protocol",
-  "total24h": 4910,
-  "total48hto24h": 1281,
-  "total7d": 40432,
-  "total30d": 3530356,
-  "totalAllTime": 6146230,
+  "total24h": 1222,
+  "total48hto24h": 4910,
+  "total7d": 36942,
+  "total30d": 3476972,
+  "totalAllTime": 6147452,
   "totalDataChart": [
     [
       1748563200,
@@ -315,6 +315,10 @@
     [
       1754265600,
       4910
+    ],
+    [
+      1754352000,
+      1222
     ]
   ],
   "totalDataChartBreakdown": [
@@ -853,7 +857,15 @@
           "UniDerp": 4910
         }
       }
+    ],
+    [
+      1754352000,
+      {
+        "Unichain": {
+          "UniDerp": 1222
+        }
+      }
     ]
   ],
-  "change_1d": 283.29
+  "change_1d": -75.11
 }

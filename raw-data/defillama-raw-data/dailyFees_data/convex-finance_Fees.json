@@ -30,7 +30,7 @@
     "Revenue": "Sum of protocol revenue and holders' revenue",
     "ProtocolRevenue": "Share of revenue going to Convex treasury (includes caller incentives on Frax pools, POL yield and Votemarket bribes)",
     "SupplySideRevenue": "All CRV, CVX and FXS rewards redistributed to liquidity providers staking on Convex.",
-    "HoldersRevenue": "All revenue going to CVX lockers and stakers, including bribes"
+    "HoldersRevenue": "All revenue going to CVX lockers and stakers"
   },
   "misrepresentedTokens": false,
   "hallmarks": [
@@ -78,11 +78,11 @@
   "defaultChartView": null,
   "slug": "convex-finance",
   "protocolType": "protocol",
-  "total24h": 217237,
-  "total48hto24h": 198629,
-  "total7d": 1766166,
-  "total30d": 6563568,
-  "totalAllTime": 1688970546,
+  "total24h": 167775,
+  "total48hto24h": 402477,
+  "total7d": 1650355,
+  "total30d": 6699514,
+  "totalAllTime": 1689133947,
   "totalDataChart": [
     [
       1621296000,
@@ -6242,7 +6242,11 @@
     ],
     [
       1754352000,
-      217237
+      212863
+    ],
+    [
+      1754438400,
+      167775
     ]
   ],
   "totalDataChartBreakdown": [
@@ -18562,10 +18566,18 @@
       1754352000,
       {
         "Ethereum": {
-          "Convex Finance": 217237
+          "Convex Finance": 212863
+        }
+      }
+    ],
+    [
+      1754438400,
+      {
+        "Ethereum": {
+          "Convex Finance": 167775
         }
       }
     ]
   ],
-  "change_1d": 9.37
+  "change_1d": -58.31
 }

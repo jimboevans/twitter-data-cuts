@@ -37,11 +37,11 @@
   "defaultChartView": null,
   "slug": "ton",
   "protocolType": "chain",
-  "total24h": 10666,
-  "total48hto24h": 8449,
-  "total7d": 65003,
-  "total30d": 236758,
-  "totalAllTime": 3152956,
+  "total24h": 8443,
+  "total48hto24h": 10666,
+  "total7d": 64535,
+  "total30d": 238743,
+  "totalAllTime": 3161399,
   "totalDataChart": [
     [
       1734480000,
@@ -962,6 +962,10 @@
     [
       1754265600,
       10666
+    ],
+    [
+      1754352000,
+      8443
     ]
   ],
   "totalDataChartBreakdown": [
@@ -2804,7 +2808,15 @@
           "TON": 10666
         }
       }
+    ],
+    [
+      1754352000,
+      {
+        "TON": {
+          "TON": 8443
+        }
+      }
     ]
   ],
-  "change_1d": 26.24
+  "change_1d": -20.84
 }

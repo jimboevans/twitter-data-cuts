@@ -49,11 +49,11 @@
   "defaultChartView": null,
   "slug": "aura",
   "protocolType": "protocol",
-  "total24h": 2300,
-  "total48hto24h": 2367,
-  "total7d": 16719,
-  "total30d": 61380,
-  "totalAllTime": 8795356,
+  "total24h": 2146,
+  "total48hto24h": 2452,
+  "total7d": 17059,
+  "total30d": 61854,
+  "totalAllTime": 8797403,
   "totalDataChart": [
     [
       1669852800,
@@ -3969,7 +3969,11 @@
     ],
     [
       1754352000,
-      2300
+      2201
+    ],
+    [
+      1754438400,
+      2146
     ]
   ],
   "totalDataChartBreakdown": [
@@ -11801,10 +11805,18 @@
       1754352000,
       {
         "Ethereum": {
-          "Aura": 2300
+          "Aura": 2201
+        }
+      }
+    ],
+    [
+      1754438400,
+      {
+        "Ethereum": {
+          "Aura": 2146
         }
       }
     ]
   ],
-  "change_1d": -2.83
+  "change_1d": -12.48
 }

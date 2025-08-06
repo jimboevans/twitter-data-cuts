@@ -40,11 +40,11 @@
   "defaultChartView": null,
   "slug": "op-mainnet",
   "protocolType": "chain",
-  "total24h": 6552,
-  "total48hto24h": 3712,
-  "total7d": 57216,
-  "total30d": 304027,
-  "totalAllTime": 30493940,
+  "total24h": 6101,
+  "total48hto24h": 6552,
+  "total7d": 55211,
+  "total30d": 306788,
+  "totalAllTime": 30500041,
   "totalDataChart": [
     [
       1637193600,
@@ -5449,6 +5449,10 @@
     [
       1754265600,
       6552
+    ],
+    [
+      1754352000,
+      6101
     ]
   ],
   "totalDataChartBreakdown": [
@@ -16259,7 +16263,15 @@
           "OP Mainnet": 6552
         }
       }
+    ],
+    [
+      1754352000,
+      {
+        "OP Mainnet": {
+          "OP Mainnet": 6101
+        }
+      }
     ]
   ],
-  "change_1d": 76.51
+  "change_1d": -6.88
 }

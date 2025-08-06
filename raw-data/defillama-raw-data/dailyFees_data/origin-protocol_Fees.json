@@ -154,11 +154,11 @@
   "defaultChartView": null,
   "slug": "origin-protocol",
   "protocolType": "protocol",
-  "total24h": 6627,
-  "total48hto24h": 6268,
-  "total7d": 46023,
-  "total30d": 165501,
-  "totalAllTime": 3321236,
+  "total24h": 6378,
+  "total48hto24h": 6627,
+  "total7d": 45397,
+  "total30d": 167321,
+  "totalAllTime": 3324253,
   "totalDataChart": [
     [
       1719878400,
@@ -1758,7 +1758,11 @@
     ],
     [
       1754352000,
-      3361
+      6378
+    ],
+    [
+      1754438400,
+      0
     ]
   ],
   "totalDataChartBreakdown": [
@@ -4958,10 +4962,18 @@
       1754352000,
       {
         "Ethereum": {
-          "Origin Dollar": 3361
+          "Origin Dollar": 6378
+        }
+      }
+    ],
+    [
+      1754438400,
+      {
+        "Ethereum": {
+          "Origin Dollar": 0
         }
       }
     ]
   ],
-  "change_1d": 5.73
+  "change_1d": -3.76
 }

@@ -70,11 +70,11 @@
   "defaultChartView": null,
   "slug": "lido",
   "protocolType": "protocol",
-  "total24h": 2468823,
-  "total48hto24h": 2460078,
-  "total7d": 18339729,
-  "total30d": 74850900,
-  "totalAllTime": 2563259284,
+  "total24h": 2611218,
+  "total48hto24h": 2468823,
+  "total7d": 18211886,
+  "total30d": 75639970,
+  "totalAllTime": 2565870502,
   "totalDataChart": [
     [
       1609977600,
@@ -6759,6 +6759,10 @@
     [
       1754265600,
       2468823
+    ],
+    [
+      1754352000,
+      2611218
     ]
   ],
   "totalDataChartBreakdown": [
@@ -20129,7 +20133,15 @@
           "Lido": 2468823
         }
       }
+    ],
+    [
+      1754352000,
+      {
+        "Ethereum": {
+          "Lido": 2611218
+        }
+      }
     ]
   ],
-  "change_1d": 0.36
+  "change_1d": 5.77
 }
