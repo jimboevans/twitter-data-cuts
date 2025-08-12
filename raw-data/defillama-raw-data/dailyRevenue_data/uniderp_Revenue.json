@@ -42,11 +42,11 @@
   "defaultChartView": null,
   "slug": "uniderp",
   "protocolType": "protocol",
-  "total24h": 1222,
-  "total48hto24h": 4910,
-  "total7d": 36942,
-  "total30d": 3476972,
-  "totalAllTime": 6147452,
+  "total24h": 7591,
+  "total48hto24h": 13042,
+  "total7d": 242219,
+  "total30d": 2995353,
+  "totalAllTime": 6388449,
   "totalDataChart": [
     [
       1748563200,
@@ -319,6 +319,30 @@
     [
       1754352000,
       1222
+    ],
+    [
+      1754438400,
+      4198
+    ],
+    [
+      1754524800,
+      116746
+    ],
+    [
+      1754611200,
+      61681
+    ],
+    [
+      1754697600,
+      37739
+    ],
+    [
+      1754784000,
+      13042
+    ],
+    [
+      1754870400,
+      7591
     ]
   ],
   "totalDataChartBreakdown": [
@@ -865,7 +889,55 @@
           "UniDerp": 1222
         }
       }
+    ],
+    [
+      1754438400,
+      {
+        "Unichain": {
+          "UniDerp": 4198
+        }
+      }
+    ],
+    [
+      1754524800,
+      {
+        "Unichain": {
+          "UniDerp": 116746
+        }
+      }
+    ],
+    [
+      1754611200,
+      {
+        "Unichain": {
+          "UniDerp": 61681
+        }
+      }
+    ],
+    [
+      1754697600,
+      {
+        "Unichain": {
+          "UniDerp": 37739
+        }
+      }
+    ],
+    [
+      1754784000,
+      {
+        "Unichain": {
+          "UniDerp": 13042
+        }
+      }
+    ],
+    [
+      1754870400,
+      {
+        "Unichain": {
+          "UniDerp": 7591
+        }
+      }
     ]
   ],
-  "change_1d": -75.11
+  "change_1d": -41.8
 }

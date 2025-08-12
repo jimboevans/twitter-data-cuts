@@ -47,11 +47,11 @@
     "Sanctum Infinity",
     "Sanctum Validator LSTs"
   ],
-  "total24h": 735840,
-  "total48hto24h": 3727,
-  "total7d": 2993228,
-  "total30d": 12225544,
-  "totalAllTime": 101678915,
+  "total24h": 801453,
+  "total48hto24h": 918,
+  "total7d": 3167224,
+  "total30d": 12683533,
+  "totalAllTime": 104109861,
   "totalDataChart": [
     [
       1717891200,
@@ -1510,10 +1510,6 @@
       615460
     ],
     [
-      1749340800,
-      438
-    ],
-    [
       1749427200,
       669097
     ],
@@ -1744,6 +1740,30 @@
     [
       1754352000,
       735840
+    ],
+    [
+      1754438400,
+      1137
+    ],
+    [
+      1754524800,
+      787597
+    ],
+    [
+      1754611200,
+      3659
+    ],
+    [
+      1754697600,
+      836620
+    ],
+    [
+      1754784000,
+      918
+    ],
+    [
+      1754870400,
+      801453
     ]
   ],
   "totalDataChartBreakdown": [
@@ -4660,14 +4680,6 @@
       }
     ],
     [
-      1749340800,
-      {
-        "Solana": {
-          "Sanctum Validator LSTs": 438
-        }
-      }
-    ],
-    [
       1749427200,
       {
         "Solana": {
@@ -5130,7 +5142,55 @@
           "Sanctum Validator LSTs": 735840
         }
       }
+    ],
+    [
+      1754438400,
+      {
+        "Solana": {
+          "Sanctum Validator LSTs": 1137
+        }
+      }
+    ],
+    [
+      1754524800,
+      {
+        "Solana": {
+          "Sanctum Validator LSTs": 787597
+        }
+      }
+    ],
+    [
+      1754611200,
+      {
+        "Solana": {
+          "Sanctum Validator LSTs": 3659
+        }
+      }
+    ],
+    [
+      1754697600,
+      {
+        "Solana": {
+          "Sanctum Validator LSTs": 836620
+        }
+      }
+    ],
+    [
+      1754784000,
+      {
+        "Solana": {
+          "Sanctum Validator LSTs": 918
+        }
+      }
+    ],
+    [
+      1754870400,
+      {
+        "Solana": {
+          "Sanctum Validator LSTs": 801453
+        }
+      }
     ]
   ],
-  "change_1d": 19643.49
+  "change_1d": 87204.25
 }

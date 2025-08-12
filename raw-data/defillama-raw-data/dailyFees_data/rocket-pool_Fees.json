@@ -50,11 +50,11 @@
   "defaultChartView": null,
   "slug": "rocket-pool",
   "protocolType": "protocol",
-  "total24h": 195069,
-  "total48hto24h": 343262,
-  "total7d": 1561102,
-  "total30d": 6625712,
-  "totalAllTime": 160019435,
+  "total24h": 130297,
+  "total48hto24h": 59032,
+  "total7d": 792258,
+  "total30d": 5988810,
+  "totalAllTime": 160543245,
   "totalDataChart": [
     [
       1677888000,
@@ -3598,7 +3598,31 @@
     ],
     [
       1754438400,
-      195069
+      84533
+    ],
+    [
+      1754524800,
+      42942
+    ],
+    [
+      1754611200,
+      237619
+    ],
+    [
+      1754697600,
+      132543
+    ],
+    [
+      1754784000,
+      59032
+    ],
+    [
+      1754870400,
+      31913
+    ],
+    [
+      1754956800,
+      130297
     ]
   ],
   "totalDataChartBreakdown": [
@@ -10686,10 +10710,58 @@
       1754438400,
       {
         "Ethereum": {
-          "Rocket Pool": 195069
+          "Rocket Pool": 84533
+        }
+      }
+    ],
+    [
+      1754524800,
+      {
+        "Ethereum": {
+          "Rocket Pool": 42942
+        }
+      }
+    ],
+    [
+      1754611200,
+      {
+        "Ethereum": {
+          "Rocket Pool": 237619
+        }
+      }
+    ],
+    [
+      1754697600,
+      {
+        "Ethereum": {
+          "Rocket Pool": 132543
+        }
+      }
+    ],
+    [
+      1754784000,
+      {
+        "Ethereum": {
+          "Rocket Pool": 59032
+        }
+      }
+    ],
+    [
+      1754870400,
+      {
+        "Ethereum": {
+          "Rocket Pool": 31913
+        }
+      }
+    ],
+    [
+      1754956800,
+      {
+        "Ethereum": {
+          "Rocket Pool": 130297
         }
       }
     ]
   ],
-  "change_1d": -43.17
+  "change_1d": 120.72
 }

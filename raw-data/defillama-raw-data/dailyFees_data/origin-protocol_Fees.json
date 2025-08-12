@@ -154,11 +154,11 @@
   "defaultChartView": null,
   "slug": "origin-protocol",
   "protocolType": "protocol",
-  "total24h": 6378,
-  "total48hto24h": 6627,
-  "total7d": 45397,
-  "total30d": 167321,
-  "totalAllTime": 3324253,
+  "total24h": 6628,
+  "total48hto24h": 7040,
+  "total7d": 42133,
+  "total30d": 179215,
+  "totalAllTime": 3362951,
   "totalDataChart": [
     [
       1719878400,
@@ -1762,7 +1762,31 @@
     ],
     [
       1754438400,
-      0
+      6154
+    ],
+    [
+      1754524800,
+      6085
+    ],
+    [
+      1754611200,
+      5008
+    ],
+    [
+      1754697600,
+      4840
+    ],
+    [
+      1754784000,
+      7040
+    ],
+    [
+      1754870400,
+      6628
+    ],
+    [
+      1754956800,
+      2943
     ]
   ],
   "totalDataChartBreakdown": [
@@ -4970,10 +4994,58 @@
       1754438400,
       {
         "Ethereum": {
-          "Origin Dollar": 0
+          "Origin Dollar": 6154
+        }
+      }
+    ],
+    [
+      1754524800,
+      {
+        "Ethereum": {
+          "Origin Dollar": 6085
+        }
+      }
+    ],
+    [
+      1754611200,
+      {
+        "Ethereum": {
+          "Origin Dollar": 5008
+        }
+      }
+    ],
+    [
+      1754697600,
+      {
+        "Ethereum": {
+          "Origin Dollar": 4840
+        }
+      }
+    ],
+    [
+      1754784000,
+      {
+        "Ethereum": {
+          "Origin Dollar": 7040
+        }
+      }
+    ],
+    [
+      1754870400,
+      {
+        "Ethereum": {
+          "Origin Dollar": 6628
+        }
+      }
+    ],
+    [
+      1754956800,
+      {
+        "Ethereum": {
+          "Origin Dollar": 2943
         }
       }
     ]
   ],
-  "change_1d": -3.76
+  "change_1d": -5.85
 }

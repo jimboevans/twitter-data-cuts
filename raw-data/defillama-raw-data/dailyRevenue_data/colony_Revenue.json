@@ -65,11 +65,11 @@
   "defaultChartView": null,
   "slug": "colony",
   "protocolType": "protocol",
-  "total24h": 202,
-  "total48hto24h": 197,
-  "total7d": 5593,
-  "total30d": 132105,
-  "totalAllTime": 779354,
+  "total24h": 6458,
+  "total48hto24h": 138,
+  "total7d": 16045,
+  "total30d": 134328,
+  "totalAllTime": 801655,
   "totalDataChart": [
     [
       1722297600,
@@ -1498,6 +1498,34 @@
     [
       1754352000,
       202
+    ],
+    [
+      1754438400,
+      113
+    ],
+    [
+      1754524800,
+      4473
+    ],
+    [
+      1754611200,
+      192
+    ],
+    [
+      1754697600,
+      172
+    ],
+    [
+      1754784000,
+      138
+    ],
+    [
+      1754870400,
+      10755
+    ],
+    [
+      1754956800,
+      6458
     ]
   ],
   "totalDataChartBreakdown": [
@@ -4356,7 +4384,63 @@
           "Colony": 202
         }
       }
+    ],
+    [
+      1754438400,
+      {
+        "Avalanche": {
+          "Colony": 113
+        }
+      }
+    ],
+    [
+      1754524800,
+      {
+        "Avalanche": {
+          "Colony": 4473
+        }
+      }
+    ],
+    [
+      1754611200,
+      {
+        "Avalanche": {
+          "Colony": 192
+        }
+      }
+    ],
+    [
+      1754697600,
+      {
+        "Avalanche": {
+          "Colony": 172
+        }
+      }
+    ],
+    [
+      1754784000,
+      {
+        "Avalanche": {
+          "Colony": 138
+        }
+      }
+    ],
+    [
+      1754870400,
+      {
+        "Avalanche": {
+          "Colony": 10755
+        }
+      }
+    ],
+    [
+      1754956800,
+      {
+        "Avalanche": {
+          "Colony": 6458
+        }
+      }
     ]
   ],
-  "change_1d": 2.54
+  "change_1d": 4579.71
 }

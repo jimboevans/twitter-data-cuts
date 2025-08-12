@@ -120,11 +120,11 @@
   "defaultChartView": null,
   "slug": "drift",
   "protocolType": "protocol",
-  "total24h": 166101,
-  "total48hto24h": 39250,
-  "total7d": 990814,
-  "total30d": 4037429,
-  "totalAllTime": 29945850,
+  "total24h": 187751,
+  "total48hto24h": 62246,
+  "total7d": 840171,
+  "total30d": 4177466,
+  "totalAllTime": 30538320,
   "totalDataChart": [
     [
       1717113600,
@@ -1732,7 +1732,7 @@
     ],
     [
       1751760000,
-      81600
+      0
     ],
     [
       1751846400,
@@ -1853,6 +1853,30 @@
     [
       1754352000,
       166101
+    ],
+    [
+      1754438400,
+      43757
+    ],
+    [
+      1754524800,
+      163881
+    ],
+    [
+      1754611200,
+      52140
+    ],
+    [
+      1754697600,
+      164295
+    ],
+    [
+      1754784000,
+      62246
+    ],
+    [
+      1754870400,
+      187751
     ]
   ],
   "totalDataChartBreakdown": [
@@ -5137,7 +5161,6 @@
       1751760000,
       {
         "Solana": {
-          "Drift Trade": 81600,
           "Drift Staked SOL": 0
         }
       }
@@ -5411,7 +5434,61 @@
           "Drift Staked SOL": 97428
         }
       }
+    ],
+    [
+      1754438400,
+      {
+        "Solana": {
+          "Drift Trade": 43757,
+          "Drift Staked SOL": 0
+        }
+      }
+    ],
+    [
+      1754524800,
+      {
+        "Solana": {
+          "Drift Trade": 59564,
+          "Drift Staked SOL": 104317
+        }
+      }
+    ],
+    [
+      1754611200,
+      {
+        "Solana": {
+          "Drift Trade": 52140,
+          "Drift Staked SOL": 0
+        }
+      }
+    ],
+    [
+      1754697600,
+      {
+        "Solana": {
+          "Drift Trade": 54309,
+          "Drift Staked SOL": 109986
+        }
+      }
+    ],
+    [
+      1754784000,
+      {
+        "Solana": {
+          "Drift Trade": 62246,
+          "Drift Staked SOL": 0
+        }
+      }
+    ],
+    [
+      1754870400,
+      {
+        "Solana": {
+          "Drift Trade": 82324,
+          "Drift Staked SOL": 105427
+        }
+      }
     ]
   ],
-  "change_1d": 323.19
+  "change_1d": 201.63
 }

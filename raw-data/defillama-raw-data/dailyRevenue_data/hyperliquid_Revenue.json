@@ -108,11 +108,11 @@
   "defaultChartView": null,
   "slug": "hyperliquid",
   "protocolType": "protocol",
-  "total24h": 2516271,
-  "total48hto24h": 2342064,
-  "total7d": 18582640,
-  "total30d": 90390665,
-  "totalAllTime": 540213598,
+  "total24h": 4346754,
+  "total48hto24h": 2562419,
+  "total7d": 19661439,
+  "total30d": 93544421,
+  "totalAllTime": 558263841,
   "totalDataChart": [
     [
       1734912000,
@@ -1012,7 +1012,31 @@
     ],
     [
       1754438400,
-      2524507
+      1934709
+    ],
+    [
+      1754524800,
+      2730973
+    ],
+    [
+      1754611200,
+      2899824
+    ],
+    [
+      1754697600,
+      2670489
+    ],
+    [
+      1754784000,
+      2562419
+    ],
+    [
+      1754870400,
+      4346754
+    ],
+    [
+      1754956800,
+      3429582
     ]
   ],
   "totalDataChartBreakdown": [
@@ -2812,10 +2836,58 @@
       1754438400,
       {
         "Hyperliquid L1": {
-          "Hyperliquid Spot Orderbook": 2524507
+          "Hyperliquid Spot Orderbook": 1934709
+        }
+      }
+    ],
+    [
+      1754524800,
+      {
+        "Hyperliquid L1": {
+          "Hyperliquid Spot Orderbook": 2730973
+        }
+      }
+    ],
+    [
+      1754611200,
+      {
+        "Hyperliquid L1": {
+          "Hyperliquid Spot Orderbook": 2899824
+        }
+      }
+    ],
+    [
+      1754697600,
+      {
+        "Hyperliquid L1": {
+          "Hyperliquid Spot Orderbook": 2670489
+        }
+      }
+    ],
+    [
+      1754784000,
+      {
+        "Hyperliquid L1": {
+          "Hyperliquid Spot Orderbook": 2562419
+        }
+      }
+    ],
+    [
+      1754870400,
+      {
+        "Hyperliquid L1": {
+          "Hyperliquid Spot Orderbook": 4346754
+        }
+      }
+    ],
+    [
+      1754956800,
+      {
+        "Hyperliquid L1": {
+          "Hyperliquid Spot Orderbook": 3429582
         }
       }
     ]
   ],
-  "change_1d": 7.44
+  "change_1d": 69.63
 }

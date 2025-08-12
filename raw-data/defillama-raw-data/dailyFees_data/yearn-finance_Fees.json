@@ -56,11 +56,11 @@
     "Yearn Ether",
     "Yearn Curating"
   ],
-  "total24h": 63064,
-  "total48hto24h": 69419,
-  "total7d": 3866846,
-  "total30d": 12221413,
-  "totalAllTime": 24538192,
+  "total24h": 89486,
+  "total48hto24h": 89082,
+  "total7d": 664648,
+  "total30d": 12425021,
+  "totalAllTime": 27561944,
   "totalDataChart": [
     [
       1737590400,
@@ -375,8 +375,8 @@
       34773
     ],
     [
-      1744329600,
-      54921
+      1744416000,
+      2584961
     ],
     [
       1744502400,
@@ -840,7 +840,31 @@
     ],
     [
       1754438400,
-      63064
+      66012
+    ],
+    [
+      1754524800,
+      66630
+    ],
+    [
+      1754611200,
+      71079
+    ],
+    [
+      1754697600,
+      90122
+    ],
+    [
+      1754784000,
+      89082
+    ],
+    [
+      1754870400,
+      84365
+    ],
+    [
+      1754956800,
+      89486
     ]
   ],
   "totalDataChartBreakdown": [
@@ -2405,22 +2429,22 @@
       }
     ],
     [
-      1744329600,
+      1744416000,
       {
         "Ethereum": {
-          "Yearn Finance": 54476
+          "Yearn Finance": 2584490
         },
         "Polygon": {
           "Yearn Finance": 125
         },
         "OP Mainnet": {
-          "Yearn Finance": 1
+          "Yearn Finance": 0
         },
         "Arbitrum": {
           "Yearn Finance": 0
         },
         "Base": {
-          "Yearn Finance": 319
+          "Yearn Finance": 346
         }
       }
     ],
@@ -4728,7 +4752,7 @@
       1754438400,
       {
         "Ethereum": {
-          "Yearn Finance": 62468
+          "Yearn Finance": 65448
         },
         "Polygon": {
           "Yearn Finance": 89
@@ -4740,10 +4764,130 @@
           "Yearn Finance": 0
         },
         "Base": {
-          "Yearn Finance": 507
+          "Yearn Finance": 475
+        }
+      }
+    ],
+    [
+      1754524800,
+      {
+        "Polygon": {
+          "Yearn Finance": 95
+        },
+        "OP Mainnet": {
+          "Yearn Finance": 0
+        },
+        "Arbitrum": {
+          "Yearn Finance": 0
+        },
+        "Ethereum": {
+          "Yearn Finance": 66002
+        },
+        "Base": {
+          "Yearn Finance": 533
+        }
+      }
+    ],
+    [
+      1754611200,
+      {
+        "Polygon": {
+          "Yearn Finance": 92
+        },
+        "Ethereum": {
+          "Yearn Finance": 70447
+        },
+        "OP Mainnet": {
+          "Yearn Finance": 0
+        },
+        "Base": {
+          "Yearn Finance": 540
+        },
+        "Arbitrum": {
+          "Yearn Finance": 0
+        }
+      }
+    ],
+    [
+      1754697600,
+      {
+        "Polygon": {
+          "Yearn Finance": 90
+        },
+        "OP Mainnet": {
+          "Yearn Finance": 0
+        },
+        "Arbitrum": {
+          "Yearn Finance": 0
+        },
+        "Ethereum": {
+          "Yearn Finance": 89389
+        },
+        "Base": {
+          "Yearn Finance": 643
+        }
+      }
+    ],
+    [
+      1754784000,
+      {
+        "Polygon": {
+          "Yearn Finance": 87
+        },
+        "Ethereum": {
+          "Yearn Finance": 88264
+        },
+        "OP Mainnet": {
+          "Yearn Finance": 0
+        },
+        "Arbitrum": {
+          "Yearn Finance": 0
+        },
+        "Base": {
+          "Yearn Finance": 731
+        }
+      }
+    ],
+    [
+      1754870400,
+      {
+        "Polygon": {
+          "Yearn Finance": 84
+        },
+        "OP Mainnet": {
+          "Yearn Finance": 0
+        },
+        "Arbitrum": {
+          "Yearn Finance": 0
+        },
+        "Ethereum": {
+          "Yearn Finance": 83627
+        },
+        "Base": {
+          "Yearn Finance": 654
+        }
+      }
+    ],
+    [
+      1754956800,
+      {
+        "Polygon": {
+          "Yearn Finance": 58
+        },
+        "Ethereum": {
+          "Yearn Finance": 88751
+        },
+        "OP Mainnet": {
+          "Yearn Finance": 0
+        },
+        "Arbitrum": {
+          "Yearn Finance": 0
+        },
+        "Base": {
+          "Yearn Finance": 677
         }
       }
     ]
   ],
-  "change_1d": -9.15
+  "change_1d": 0.45
 }

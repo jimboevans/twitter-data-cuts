@@ -151,11 +151,11 @@
   "defaultChartView": null,
   "slug": "compound-finance",
   "protocolType": "protocol",
-  "total24h": 5241,
-  "total48hto24h": 5376,
-  "total7d": 35544,
-  "total30d": 169469,
-  "totalAllTime": 63102146,
+  "total24h": 5853,
+  "total48hto24h": 5072,
+  "total7d": 40477,
+  "total30d": 167473,
+  "totalAllTime": 63137382,
   "totalDataChart": [
     [
       1557273600,
@@ -9236,6 +9236,30 @@
     [
       1754352000,
       5241
+    ],
+    [
+      1754438400,
+      5086
+    ],
+    [
+      1754524800,
+      6709
+    ],
+    [
+      1754611200,
+      6350
+    ],
+    [
+      1754697600,
+      6166
+    ],
+    [
+      1754784000,
+      5072
+    ],
+    [
+      1754870400,
+      5853
     ]
   ],
   "totalDataChartBreakdown": [
@@ -27398,7 +27422,55 @@
           "Compound V2": 5241
         }
       }
+    ],
+    [
+      1754438400,
+      {
+        "Ethereum": {
+          "Compound V2": 5086
+        }
+      }
+    ],
+    [
+      1754524800,
+      {
+        "Ethereum": {
+          "Compound V2": 6709
+        }
+      }
+    ],
+    [
+      1754611200,
+      {
+        "Ethereum": {
+          "Compound V2": 6350
+        }
+      }
+    ],
+    [
+      1754697600,
+      {
+        "Ethereum": {
+          "Compound V2": 6166
+        }
+      }
+    ],
+    [
+      1754784000,
+      {
+        "Ethereum": {
+          "Compound V2": 5072
+        }
+      }
+    ],
+    [
+      1754870400,
+      {
+        "Ethereum": {
+          "Compound V2": 5853
+        }
+      }
     ]
   ],
-  "change_1d": -2.51
+  "change_1d": 15.4
 }
