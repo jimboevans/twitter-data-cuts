@@ -22,9 +22,6 @@
   "twitter": "aerodromefi",
   "parentProtocol": "parent#aerodrome",
   "listedAt": 1714088562,
-  "defillamaId": "4524",
-  "displayName": "Aerodrome Slipstream",
-  "methodologyURL": "https://github.com/DefiLlama/dimension-adapters/blob/master/dexs/aerodrome-slipstream",
   "methodology": {
     "UserFees": "Swap fees paid by users",
     "Fees": "Swap fees paid by users",
@@ -33,6 +30,10 @@
     "HoldersRevenue": "Money going to governance token holders",
     "SupplySideRevenue": "Liquidity providers revenue"
   },
+  "misrepresentedTokens": false,
+  "defillamaId": "4524",
+  "displayName": "Aerodrome Slipstream",
+  "methodologyURL": "https://github.com/DefiLlama/dimension-adapters/blob/master/dexs/aerodrome-slipstream",
   "forkedFrom": null,
   "audit_links": null,
   "versionKey": null,
@@ -40,7 +41,8 @@
   "governanceID": null,
   "treasury": null,
   "previousNames": null,
-  "latestFetchIsOk": true,
+  "hallmarks": null,
+  "defaultChartView": null,
   "slug": "aerodrome-slipstream",
   "protocolType": "protocol",
   "linkedProtocols": [
@@ -48,11 +50,11 @@
     "Aerodrome V1",
     "Aerodrome Slipstream"
   ],
-  "total24h": 398014,
-  "total48hto24h": 445334,
-  "total7d": 2924745,
-  "total30d": 11485361,
-  "totalAllTime": 146659804,
+  "total24h": 565549,
+  "total48hto24h": 596143,
+  "total7d": 3501010,
+  "total30d": 13403130,
+  "totalAllTime": 152359738,
   "totalDataChart": [
     [
       1714780800,
@@ -1865,6 +1867,58 @@
     [
       1753833600,
       398014
+    ],
+    [
+      1753920000,
+      407802
+    ],
+    [
+      1754006400,
+      444981
+    ],
+    [
+      1754092800,
+      319928
+    ],
+    [
+      1754179200,
+      245212
+    ],
+    [
+      1754265600,
+      397338
+    ],
+    [
+      1754352000,
+      383663
+    ],
+    [
+      1754438400,
+      343935
+    ],
+    [
+      1754524800,
+      436835
+    ],
+    [
+      1754611200,
+      547238
+    ],
+    [
+      1754697600,
+      530161
+    ],
+    [
+      1754784000,
+      481149
+    ],
+    [
+      1754870400,
+      596143
+    ],
+    [
+      1754956800,
+      565549
     ]
   ],
   "totalDataChartBreakdown": [
@@ -5491,7 +5545,111 @@
           "Aerodrome Slipstream": 398014
         }
       }
+    ],
+    [
+      1753920000,
+      {
+        "Base": {
+          "Aerodrome Slipstream": 407802
+        }
+      }
+    ],
+    [
+      1754006400,
+      {
+        "Base": {
+          "Aerodrome Slipstream": 444981
+        }
+      }
+    ],
+    [
+      1754092800,
+      {
+        "Base": {
+          "Aerodrome Slipstream": 319928
+        }
+      }
+    ],
+    [
+      1754179200,
+      {
+        "Base": {
+          "Aerodrome Slipstream": 245212
+        }
+      }
+    ],
+    [
+      1754265600,
+      {
+        "Base": {
+          "Aerodrome Slipstream": 397338
+        }
+      }
+    ],
+    [
+      1754352000,
+      {
+        "Base": {
+          "Aerodrome Slipstream": 383663
+        }
+      }
+    ],
+    [
+      1754438400,
+      {
+        "Base": {
+          "Aerodrome Slipstream": 343935
+        }
+      }
+    ],
+    [
+      1754524800,
+      {
+        "Base": {
+          "Aerodrome Slipstream": 436835
+        }
+      }
+    ],
+    [
+      1754611200,
+      {
+        "Base": {
+          "Aerodrome Slipstream": 547238
+        }
+      }
+    ],
+    [
+      1754697600,
+      {
+        "Base": {
+          "Aerodrome Slipstream": 530161
+        }
+      }
+    ],
+    [
+      1754784000,
+      {
+        "Base": {
+          "Aerodrome Slipstream": 481149
+        }
+      }
+    ],
+    [
+      1754870400,
+      {
+        "Base": {
+          "Aerodrome Slipstream": 596143
+        }
+      }
+    ],
+    [
+      1754956800,
+      {
+        "Base": {
+          "Aerodrome Slipstream": 565549
+        }
+      }
     ]
   ],
-  "change_1d": -10.63
+  "change_1d": -5.13
 }

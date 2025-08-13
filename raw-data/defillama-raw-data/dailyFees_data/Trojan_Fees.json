@@ -18,14 +18,15 @@
   "forkedFrom": [],
   "module": "primordium",
   "twitter": "TrojanOnSolana",
-  "defillamaId": "4293",
-  "displayName": "Trojan",
-  "methodologyURL": "https://github.com/DefiLlama/dimension-adapters/blob/master/fees/primordium.ts",
   "methodology": {
     "Fees": "All trading fees paid by users while using Trojan bot.",
     "Revenue": "Fees collected by Trojan protocol.",
     "ProtocolRevenue": "Fees collected by Trojan protocol."
   },
+  "misrepresentedTokens": false,
+  "defillamaId": "4293",
+  "displayName": "Trojan",
+  "methodologyURL": "https://github.com/DefiLlama/dimension-adapters/blob/master/fees/primordium.ts",
   "audit_links": null,
   "versionKey": null,
   "github": null,
@@ -33,14 +34,15 @@
   "treasury": null,
   "parentProtocol": null,
   "previousNames": null,
-  "latestFetchIsOk": true,
+  "hallmarks": null,
+  "defaultChartView": null,
   "slug": "trojan",
   "protocolType": "protocol",
-  "total24h": 127532,
-  "total48hto24h": 151205,
-  "total7d": 947443,
-  "total30d": 4924714,
-  "totalAllTime": 193036017,
+  "total24h": 139035,
+  "total48hto24h": 101813,
+  "total7d": 743263,
+  "total30d": 4250467,
+  "totalAllTime": 194137949,
   "totalDataChart": [
     [
       1704412800,
@@ -2003,10 +2005,6 @@
       247900
     ],
     [
-      1746748800,
-      223121
-    ],
-    [
       1746835200,
       196292
     ],
@@ -2333,6 +2331,58 @@
     [
       1753833600,
       127532
+    ],
+    [
+      1753920000,
+      135316
+    ],
+    [
+      1754006400,
+      99152
+    ],
+    [
+      1754092800,
+      45428
+    ],
+    [
+      1754179200,
+      92547
+    ],
+    [
+      1754265600,
+      66477
+    ],
+    [
+      1754352000,
+      142870
+    ],
+    [
+      1754438400,
+      132526
+    ],
+    [
+      1754524800,
+      84624
+    ],
+    [
+      1754611200,
+      111289
+    ],
+    [
+      1754697600,
+      113426
+    ],
+    [
+      1754784000,
+      60550
+    ],
+    [
+      1754870400,
+      101813
+    ],
+    [
+      1754956800,
+      139035
     ]
   ],
   "totalDataChartBreakdown": [
@@ -6257,14 +6307,6 @@
       }
     ],
     [
-      1746748800,
-      {
-        "Solana": {
-          "Trojan": 223121
-        }
-      }
-    ],
-    [
       1746835200,
       {
         "Solana": {
@@ -6919,7 +6961,111 @@
           "Trojan": 127532
         }
       }
+    ],
+    [
+      1753920000,
+      {
+        "Solana": {
+          "Trojan": 135316
+        }
+      }
+    ],
+    [
+      1754006400,
+      {
+        "Solana": {
+          "Trojan": 99152
+        }
+      }
+    ],
+    [
+      1754092800,
+      {
+        "Solana": {
+          "Trojan": 45428
+        }
+      }
+    ],
+    [
+      1754179200,
+      {
+        "Solana": {
+          "Trojan": 92547
+        }
+      }
+    ],
+    [
+      1754265600,
+      {
+        "Solana": {
+          "Trojan": 66477
+        }
+      }
+    ],
+    [
+      1754352000,
+      {
+        "Solana": {
+          "Trojan": 142870
+        }
+      }
+    ],
+    [
+      1754438400,
+      {
+        "Solana": {
+          "Trojan": 132526
+        }
+      }
+    ],
+    [
+      1754524800,
+      {
+        "Solana": {
+          "Trojan": 84624
+        }
+      }
+    ],
+    [
+      1754611200,
+      {
+        "Solana": {
+          "Trojan": 111289
+        }
+      }
+    ],
+    [
+      1754697600,
+      {
+        "Solana": {
+          "Trojan": 113426
+        }
+      }
+    ],
+    [
+      1754784000,
+      {
+        "Solana": {
+          "Trojan": 60550
+        }
+      }
+    ],
+    [
+      1754870400,
+      {
+        "Solana": {
+          "Trojan": 101813
+        }
+      }
+    ],
+    [
+      1754956800,
+      {
+        "Solana": {
+          "Trojan": 139035
+        }
+      }
     ]
   ],
-  "change_1d": -15.66
+  "change_1d": 36.56
 }

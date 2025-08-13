@@ -38,26 +38,28 @@
   ],
   "listedAt": 1723568412,
   "category": "RWA",
-  "defillamaId": "4980",
-  "displayName": "Spiko",
-  "methodologyURL": "https://github.com/DefiLlama/dimension-adapters/blob/master/fees/spiko",
   "methodology": {
     "Fees": "Total yields are generated from investment assets.",
     "Revenue": "15% yields are collected by Spiko protocol."
   },
+  "misrepresentedTokens": false,
+  "defillamaId": "4980",
+  "displayName": "Spiko",
+  "methodologyURL": "https://github.com/DefiLlama/dimension-adapters/blob/master/fees/spiko",
   "versionKey": null,
   "governanceID": null,
   "treasury": null,
   "parentProtocol": null,
   "previousNames": null,
-  "latestFetchIsOk": true,
+  "hallmarks": null,
+  "defaultChartView": null,
   "slug": "spiko",
   "protocolType": "protocol",
-  "total24h": 2037,
-  "total48hto24h": 2092,
-  "total7d": 14727,
-  "total30d": 65134,
-  "totalAllTime": 553781,
+  "total24h": 2432,
+  "total48hto24h": 2215,
+  "total7d": 15110,
+  "total30d": 64058,
+  "totalAllTime": 581751,
   "totalDataChart": [
     [
       1713657600,
@@ -1926,6 +1928,58 @@
     [
       1753920000,
       2037
+    ],
+    [
+      1754006400,
+      2091
+    ],
+    [
+      1754092800,
+      2091
+    ],
+    [
+      1754179200,
+      2091
+    ],
+    [
+      1754265600,
+      2073
+    ],
+    [
+      1754352000,
+      2082
+    ],
+    [
+      1754438400,
+      2094
+    ],
+    [
+      1754524800,
+      2085
+    ],
+    [
+      1754611200,
+      2099
+    ],
+    [
+      1754697600,
+      2099
+    ],
+    [
+      1754784000,
+      2099
+    ],
+    [
+      1754870400,
+      2215
+    ],
+    [
+      1754956800,
+      2419
+    ],
+    [
+      1755043200,
+      2432
     ]
   ],
   "totalDataChartBreakdown": [
@@ -7032,7 +7086,150 @@
           "Spiko": 1576
         }
       }
+    ],
+    [
+      1754006400,
+      {
+        "Ethereum": {
+          "Spiko": 461
+        },
+        "Polygon": {
+          "Spiko": 1630
+        }
+      }
+    ],
+    [
+      1754092800,
+      {
+        "Ethereum": {
+          "Spiko": 461
+        },
+        "Polygon": {
+          "Spiko": 1630
+        }
+      }
+    ],
+    [
+      1754179200,
+      {
+        "Ethereum": {
+          "Spiko": 461
+        },
+        "Polygon": {
+          "Spiko": 1630
+        }
+      }
+    ],
+    [
+      1754265600,
+      {
+        "Ethereum": {
+          "Spiko": 461
+        },
+        "Polygon": {
+          "Spiko": 1612
+        }
+      }
+    ],
+    [
+      1754352000,
+      {
+        "Ethereum": {
+          "Spiko": 461
+        },
+        "Polygon": {
+          "Spiko": 1621
+        }
+      }
+    ],
+    [
+      1754438400,
+      {
+        "Ethereum": {
+          "Spiko": 461
+        },
+        "Polygon": {
+          "Spiko": 1633
+        }
+      }
+    ],
+    [
+      1754524800,
+      {
+        "Ethereum": {
+          "Spiko": 461
+        },
+        "Polygon": {
+          "Spiko": 1624
+        }
+      }
+    ],
+    [
+      1754611200,
+      {
+        "Ethereum": {
+          "Spiko": 461
+        },
+        "Polygon": {
+          "Spiko": 1638
+        }
+      }
+    ],
+    [
+      1754697600,
+      {
+        "Ethereum": {
+          "Spiko": 461
+        },
+        "Polygon": {
+          "Spiko": 1638
+        }
+      }
+    ],
+    [
+      1754784000,
+      {
+        "Ethereum": {
+          "Spiko": 461
+        },
+        "Polygon": {
+          "Spiko": 1638
+        }
+      }
+    ],
+    [
+      1754870400,
+      {
+        "Polygon": {
+          "Spiko": 1754
+        },
+        "Ethereum": {
+          "Spiko": 461
+        }
+      }
+    ],
+    [
+      1754956800,
+      {
+        "Ethereum": {
+          "Spiko": 652
+        },
+        "Polygon": {
+          "Spiko": 1767
+        }
+      }
+    ],
+    [
+      1755043200,
+      {
+        "Ethereum": {
+          "Spiko": 653
+        },
+        "Polygon": {
+          "Spiko": 1779
+        }
+      }
     ]
   ],
-  "change_1d": -2.63
+  "change_1d": 9.8
 }

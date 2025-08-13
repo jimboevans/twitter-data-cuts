@@ -15,7 +15,7 @@
   "chains": [
     "Solana"
   ],
-  "module": "jito",
+  "module": "jito-staked-sol",
   "twitter": "jito_sol",
   "forkedFromIds": [],
   "audit_links": [
@@ -35,16 +35,15 @@
   "listedAt": 1669265429,
   "methodology": {
     "UserFees": "Percentage of rewards paid to protocol",
-    "Fees": "Fee accured to the jito DAO (Withdrawal Fees, Interceptor Fees, Tip Router Fees)",
-    "Revenue": "Fee accured to the jito DAO (Withdrawal Fees, Interceptor Fees, Tip Router Fees)",
+    "Fees": "Staking rewards from staked SOL on jito staked solana",
+    "Revenue": "Percentage of user rewards paid to protocol",
     "ProtocolRevenue": "Fee from users rewards",
-    "SupplySideRevenue": "Revenue earned by stETH holders",
-    "HoldersRevenue": "Fee paid to token holders"
+    "SupplySideRevenue": "Revenue earned by stETH holders"
   },
   "misrepresentedTokens": false,
   "defillamaId": "2308",
   "displayName": "Jito Liquid Staking",
-  "methodologyURL": "https://github.com/DefiLlama/dimension-adapters/blob/master/fees/jito",
+  "methodologyURL": "https://github.com/DefiLlama/dimension-adapters/blob/master/fees/jito-staked-sol",
   "forkedFrom": null,
   "versionKey": null,
   "github": null,
@@ -58,13 +57,14 @@
   "linkedProtocols": [
     "Jito",
     "Jito Liquid Staking",
-    "Jito MEV Tips"
+    "Jito MEV Tips",
+    "Jito DAO"
   ],
-  "total24h": 32,
-  "total48hto24h": 79969,
-  "total7d": 342306,
-  "total30d": 1398356,
-  "totalAllTime": 19583759,
+  "total24h": 0,
+  "total48hto24h": 32,
+  "total7d": 280342,
+  "total30d": 1294841,
+  "totalAllTime": 19583775,
   "totalDataChart": [
     [
       1684281600,
@@ -3191,6 +3191,10 @@
       80212
     ],
     [
+      1751760000,
+      16
+    ],
+    [
       1751846400,
       93115
     ],
@@ -3333,6 +3337,10 @@
     [
       1754870400,
       32
+    ],
+    [
+      1754956800,
+      0
     ]
   ],
   "totalDataChartBreakdown": [
@@ -9585,6 +9593,14 @@
       }
     ],
     [
+      1751760000,
+      {
+        "Solana": {
+          "Jito Liquid Staking": 16
+        }
+      }
+    ],
+    [
       1751846400,
       {
         "Solana": {
@@ -9871,7 +9887,14 @@
           "Jito Liquid Staking": 32
         }
       }
+    ],
+    [
+      1754956800,
+      {
+        "Solana": {
+          "Jito Liquid Staking": 0
+        }
+      }
     ]
-  ],
-  "change_1d": -99.96
+  ]
 }

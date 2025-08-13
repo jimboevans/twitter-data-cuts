@@ -22,12 +22,13 @@
   "forkedFrom": [],
   "listedAt": 1698280827,
   "category": "RWA",
-  "defillamaId": "3698",
-  "displayName": "Hashnote USYC",
-  "methodologyURL": "https://github.com/DefiLlama/dimension-adapters/blob/master/fees/hashnote-usyc",
   "methodology": {
     "Fees": "All yields are generated from USYC backing assets."
   },
+  "misrepresentedTokens": false,
+  "defillamaId": "3698",
+  "displayName": "Hashnote USYC",
+  "methodologyURL": "https://github.com/DefiLlama/dimension-adapters/blob/master/fees/hashnote-usyc",
   "audit_links": null,
   "versionKey": null,
   "github": null,
@@ -35,14 +36,15 @@
   "treasury": null,
   "parentProtocol": null,
   "previousNames": null,
-  "latestFetchIsOk": true,
+  "hallmarks": null,
+  "defaultChartView": null,
   "slug": "hashnote-usyc",
   "protocolType": "protocol",
-  "total24h": 2866,
-  "total48hto24h": 2694,
-  "total7d": 18765,
-  "total30d": 89696,
-  "totalAllTime": 2349018,
+  "total24h": 5238,
+  "total48hto24h": 15737,
+  "total7d": 34933,
+  "total30d": 110074,
+  "totalAllTime": 2408879,
   "totalDataChart": [
     [
       1695945600,
@@ -2525,6 +2527,10 @@
       11682
     ],
     [
+      1749513600,
+      3698
+    ],
+    [
       1749600000,
       3682
     ],
@@ -2723,6 +2729,58 @@
     [
       1753833600,
       2866
+    ],
+    [
+      1753920000,
+      2838
+    ],
+    [
+      1754006400,
+      2868
+    ],
+    [
+      1754092800,
+      0
+    ],
+    [
+      1754179200,
+      0
+    ],
+    [
+      1754265600,
+      11311
+    ],
+    [
+      1754352000,
+      4213
+    ],
+    [
+      1754438400,
+      4155
+    ],
+    [
+      1754524800,
+      4904
+    ],
+    [
+      1754611200,
+      4899
+    ],
+    [
+      1754697600,
+      0
+    ],
+    [
+      1754784000,
+      0
+    ],
+    [
+      1754870400,
+      15737
+    ],
+    [
+      1754956800,
+      5238
     ]
   ],
   "totalDataChartBreakdown": [
@@ -7687,6 +7745,14 @@
       }
     ],
     [
+      1749513600,
+      {
+        "Ethereum": {
+          "Hashnote USYC": 3698
+        }
+      }
+    ],
+    [
       1749600000,
       {
         "Ethereum": {
@@ -8085,7 +8151,111 @@
           "Hashnote USYC": 2866
         }
       }
+    ],
+    [
+      1753920000,
+      {
+        "Ethereum": {
+          "Hashnote USYC": 2838
+        }
+      }
+    ],
+    [
+      1754006400,
+      {
+        "Ethereum": {
+          "Hashnote USYC": 2868
+        }
+      }
+    ],
+    [
+      1754092800,
+      {
+        "Ethereum": {
+          "Hashnote USYC": 0
+        }
+      }
+    ],
+    [
+      1754179200,
+      {
+        "Ethereum": {
+          "Hashnote USYC": 0
+        }
+      }
+    ],
+    [
+      1754265600,
+      {
+        "Ethereum": {
+          "Hashnote USYC": 11311
+        }
+      }
+    ],
+    [
+      1754352000,
+      {
+        "Ethereum": {
+          "Hashnote USYC": 4213
+        }
+      }
+    ],
+    [
+      1754438400,
+      {
+        "Ethereum": {
+          "Hashnote USYC": 4155
+        }
+      }
+    ],
+    [
+      1754524800,
+      {
+        "Ethereum": {
+          "Hashnote USYC": 4904
+        }
+      }
+    ],
+    [
+      1754611200,
+      {
+        "Ethereum": {
+          "Hashnote USYC": 4899
+        }
+      }
+    ],
+    [
+      1754697600,
+      {
+        "Ethereum": {
+          "Hashnote USYC": 0
+        }
+      }
+    ],
+    [
+      1754784000,
+      {
+        "Ethereum": {
+          "Hashnote USYC": 0
+        }
+      }
+    ],
+    [
+      1754870400,
+      {
+        "Ethereum": {
+          "Hashnote USYC": 15737
+        }
+      }
+    ],
+    [
+      1754956800,
+      {
+        "Ethereum": {
+          "Hashnote USYC": 5238
+        }
+      }
     ]
   ],
-  "change_1d": 6.38
+  "change_1d": -66.72
 }

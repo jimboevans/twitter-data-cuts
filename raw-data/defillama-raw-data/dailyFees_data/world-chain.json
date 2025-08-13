@@ -30,14 +30,15 @@
   "treasury": null,
   "parentProtocol": null,
   "previousNames": null,
-  "latestFetchIsOk": true,
+  "hallmarks": null,
+  "defaultChartView": null,
   "slug": "world-chain",
   "protocolType": "chain",
-  "total24h": 606,
-  "total48hto24h": 563,
-  "total7d": 27183,
-  "total30d": 272734,
-  "totalAllTime": 370092,
+  "total24h": 621,
+  "total48hto24h": 728,
+  "total7d": 3906,
+  "total30d": 250786,
+  "totalAllTime": 376828,
   "totalDataChart": [
     [
       1719273600,
@@ -1642,6 +1643,58 @@
     [
       1753833600,
       606
+    ],
+    [
+      1753920000,
+      478
+    ],
+    [
+      1754006400,
+      566
+    ],
+    [
+      1754092800,
+      568
+    ],
+    [
+      1754179200,
+      385
+    ],
+    [
+      1754265600,
+      342
+    ],
+    [
+      1754352000,
+      491
+    ],
+    [
+      1754438400,
+      508
+    ],
+    [
+      1754524800,
+      471
+    ],
+    [
+      1754611200,
+      509
+    ],
+    [
+      1754697600,
+      517
+    ],
+    [
+      1754784000,
+      552
+    ],
+    [
+      1754870400,
+      728
+    ],
+    [
+      1754956800,
+      621
     ]
   ],
   "totalDataChartBreakdown": [
@@ -4852,7 +4905,111 @@
           "World Chain": 606
         }
       }
+    ],
+    [
+      1753920000,
+      {
+        "World Chain": {
+          "World Chain": 478
+        }
+      }
+    ],
+    [
+      1754006400,
+      {
+        "World Chain": {
+          "World Chain": 566
+        }
+      }
+    ],
+    [
+      1754092800,
+      {
+        "World Chain": {
+          "World Chain": 568
+        }
+      }
+    ],
+    [
+      1754179200,
+      {
+        "World Chain": {
+          "World Chain": 385
+        }
+      }
+    ],
+    [
+      1754265600,
+      {
+        "World Chain": {
+          "World Chain": 342
+        }
+      }
+    ],
+    [
+      1754352000,
+      {
+        "World Chain": {
+          "World Chain": 491
+        }
+      }
+    ],
+    [
+      1754438400,
+      {
+        "World Chain": {
+          "World Chain": 508
+        }
+      }
+    ],
+    [
+      1754524800,
+      {
+        "World Chain": {
+          "World Chain": 471
+        }
+      }
+    ],
+    [
+      1754611200,
+      {
+        "World Chain": {
+          "World Chain": 509
+        }
+      }
+    ],
+    [
+      1754697600,
+      {
+        "World Chain": {
+          "World Chain": 517
+        }
+      }
+    ],
+    [
+      1754784000,
+      {
+        "World Chain": {
+          "World Chain": 552
+        }
+      }
+    ],
+    [
+      1754870400,
+      {
+        "World Chain": {
+          "World Chain": 728
+        }
+      }
+    ],
+    [
+      1754956800,
+      {
+        "World Chain": {
+          "World Chain": 621
+        }
+      }
     ]
   ],
-  "change_1d": 7.64
+  "change_1d": -14.7
 }

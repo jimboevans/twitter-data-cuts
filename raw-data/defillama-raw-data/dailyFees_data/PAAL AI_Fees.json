@@ -18,12 +18,13 @@
   "module": "paal-ai",
   "forkedFrom": [],
   "twitter": "PaalMind",
-  "defillamaId": "3723",
-  "displayName": "PAAL AI",
-  "methodologyURL": "https://github.com/DefiLlama/dimension-adapters/blob/master/fees/paal-ai",
   "methodology": {
     "Fees": "Fees paid by users for using PAAL AI services."
   },
+  "misrepresentedTokens": true,
+  "defillamaId": "3723",
+  "displayName": "PAAL AI",
+  "methodologyURL": "https://github.com/DefiLlama/dimension-adapters/blob/master/fees/paal-ai",
   "audit_links": null,
   "versionKey": null,
   "github": null,
@@ -31,14 +32,15 @@
   "treasury": null,
   "parentProtocol": null,
   "previousNames": null,
-  "latestFetchIsOk": true,
+  "hallmarks": null,
+  "defaultChartView": null,
   "slug": "paal-ai",
   "protocolType": "protocol",
   "total24h": 0,
-  "total48hto24h": 357,
-  "total7d": 87767,
-  "total30d": 109630,
-  "totalAllTime": 13923584,
+  "total48hto24h": 0,
+  "total7d": 11017,
+  "total30d": 124119,
+  "totalAllTime": 13949834,
   "totalDataChart": [
     [
       1690070400,
@@ -2966,6 +2968,54 @@
     ],
     [
       1753920000,
+      0
+    ],
+    [
+      1754006400,
+      0
+    ],
+    [
+      1754092800,
+      15181
+    ],
+    [
+      1754179200,
+      52
+    ],
+    [
+      1754265600,
+      0
+    ],
+    [
+      1754438400,
+      2473
+    ],
+    [
+      1754524800,
+      0
+    ],
+    [
+      1754611200,
+      0
+    ],
+    [
+      1754697600,
+      0
+    ],
+    [
+      1754784000,
+      8544
+    ],
+    [
+      1754870400,
+      0
+    ],
+    [
+      1754956800,
+      0
+    ],
+    [
+      1755043200,
       0
     ]
   ],
@@ -8820,6 +8870,102 @@
     ],
     [
       1753920000,
+      {
+        "Ethereum": {
+          "PAAL AI": 0
+        }
+      }
+    ],
+    [
+      1754006400,
+      {
+        "Ethereum": {
+          "PAAL AI": 0
+        }
+      }
+    ],
+    [
+      1754092800,
+      {
+        "Ethereum": {
+          "PAAL AI": 15181
+        }
+      }
+    ],
+    [
+      1754179200,
+      {
+        "Ethereum": {
+          "PAAL AI": 52
+        }
+      }
+    ],
+    [
+      1754265600,
+      {
+        "Ethereum": {
+          "PAAL AI": 0
+        }
+      }
+    ],
+    [
+      1754438400,
+      {
+        "Ethereum": {
+          "PAAL AI": 2473
+        }
+      }
+    ],
+    [
+      1754524800,
+      {
+        "Ethereum": {
+          "PAAL AI": 0
+        }
+      }
+    ],
+    [
+      1754611200,
+      {
+        "Ethereum": {
+          "PAAL AI": 0
+        }
+      }
+    ],
+    [
+      1754697600,
+      {
+        "Ethereum": {
+          "PAAL AI": 0
+        }
+      }
+    ],
+    [
+      1754784000,
+      {
+        "Ethereum": {
+          "PAAL AI": 8544
+        }
+      }
+    ],
+    [
+      1754870400,
+      {
+        "Ethereum": {
+          "PAAL AI": 0
+        }
+      }
+    ],
+    [
+      1754956800,
+      {
+        "Ethereum": {
+          "PAAL AI": 0
+        }
+      }
+    ],
+    [
+      1755043200,
       {
         "Ethereum": {
           "PAAL AI": 0

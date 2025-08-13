@@ -20,9 +20,6 @@
   "forkedFromIds": [],
   "audit_links": [],
   "parentProtocol": "parent#meteora",
-  "defillamaId": "6288",
-  "displayName": "Meteora DAMM V2",
-  "methodologyURL": "https://github.com/DefiLlama/dimension-adapters/blob/master/fees/meteora-damm-v2.ts",
   "methodology": {
     "UserFees": "Swap fees paid by users",
     "Fees": "Swap fees paid by users",
@@ -31,13 +28,18 @@
     "HoldersRevenue": "Money going to governance token holders",
     "SupplySideRevenue": "Liquidity providers revenue"
   },
+  "misrepresentedTokens": false,
+  "defillamaId": "6288",
+  "displayName": "Meteora DAMM V2",
+  "methodologyURL": "https://github.com/DefiLlama/dimension-adapters/blob/master/fees/meteora-damm-v2.ts",
   "forkedFrom": null,
   "versionKey": null,
   "github": null,
   "governanceID": null,
   "treasury": null,
   "previousNames": null,
-  "latestFetchIsOk": true,
+  "hallmarks": null,
+  "defaultChartView": null,
   "slug": "meteora-damm-v2",
   "protocolType": "protocol",
   "linkedProtocols": [
@@ -47,11 +49,11 @@
     "Meteora DAMM V2",
     "Meteora Dynamic Bonding Curve"
   ],
-  "total24h": 748241,
-  "total48hto24h": 680858,
-  "total7d": 5766794,
-  "total30d": 20238764,
-  "totalAllTime": 35918057,
+  "total24h": 2419826,
+  "total48hto24h": 1703473,
+  "total7d": 12333498,
+  "total30d": 28820455,
+  "totalAllTime": 55346864,
   "totalDataChart": [
     [
       1749427200,
@@ -263,7 +265,59 @@
     ],
     [
       1753920000,
-      748241
+      809794
+    ],
+    [
+      1754006400,
+      1072146
+    ],
+    [
+      1754092800,
+      857068
+    ],
+    [
+      1754179200,
+      311887
+    ],
+    [
+      1754265600,
+      1188885
+    ],
+    [
+      1754352000,
+      1183944
+    ],
+    [
+      1754438400,
+      791649
+    ],
+    [
+      1754524800,
+      1849902
+    ],
+    [
+      1754611200,
+      1840838
+    ],
+    [
+      1754697600,
+      2081680
+    ],
+    [
+      1754784000,
+      1635357
+    ],
+    [
+      1754870400,
+      1703473
+    ],
+    [
+      1754956800,
+      2430599
+    ],
+    [
+      1755043200,
+      2419826
     ]
   ],
   "totalDataChartBreakdown": [
@@ -687,10 +741,114 @@
       1753920000,
       {
         "Solana": {
-          "Meteora DAMM V2": 748241
+          "Meteora DAMM V2": 809794
+        }
+      }
+    ],
+    [
+      1754006400,
+      {
+        "Solana": {
+          "Meteora DAMM V2": 1072146
+        }
+      }
+    ],
+    [
+      1754092800,
+      {
+        "Solana": {
+          "Meteora DAMM V2": 857068
+        }
+      }
+    ],
+    [
+      1754179200,
+      {
+        "Solana": {
+          "Meteora DAMM V2": 311887
+        }
+      }
+    ],
+    [
+      1754265600,
+      {
+        "Solana": {
+          "Meteora DAMM V2": 1188885
+        }
+      }
+    ],
+    [
+      1754352000,
+      {
+        "Solana": {
+          "Meteora DAMM V2": 1183944
+        }
+      }
+    ],
+    [
+      1754438400,
+      {
+        "Solana": {
+          "Meteora DAMM V2": 791649
+        }
+      }
+    ],
+    [
+      1754524800,
+      {
+        "Solana": {
+          "Meteora DAMM V2": 1849902
+        }
+      }
+    ],
+    [
+      1754611200,
+      {
+        "Solana": {
+          "Meteora DAMM V2": 1840838
+        }
+      }
+    ],
+    [
+      1754697600,
+      {
+        "Solana": {
+          "Meteora DAMM V2": 2081680
+        }
+      }
+    ],
+    [
+      1754784000,
+      {
+        "Solana": {
+          "Meteora DAMM V2": 1635357
+        }
+      }
+    ],
+    [
+      1754870400,
+      {
+        "Solana": {
+          "Meteora DAMM V2": 1703473
+        }
+      }
+    ],
+    [
+      1754956800,
+      {
+        "Solana": {
+          "Meteora DAMM V2": 2430599
+        }
+      }
+    ],
+    [
+      1755043200,
+      {
+        "Solana": {
+          "Meteora DAMM V2": 2419826
         }
       }
     ]
   ],
-  "change_1d": 9.9
+  "change_1d": 42.05
 }

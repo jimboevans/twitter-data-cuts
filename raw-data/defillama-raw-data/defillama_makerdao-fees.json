@@ -31,9 +31,6 @@
       "proof": []
     }
   ],
-  "defillamaId": "118",
-  "displayName": "Sky Lending",
-  "methodologyURL": "https://github.com/DefiLlama/dimension-adapters/blob/master/fees/makerdao.ts",
   "methodology": {
     "UserFees": "Interest paid to borrow",
     "Fees": "Stability fees charged on DAI loans, liquidation income from collateral auctions, and PSM (Peg Stability Module) fees from USDC/DAI conversions",
@@ -41,23 +38,28 @@
     "ProtocolRevenue": "Net protocol revenue after subtracting SKY token buybacks",
     "HoldersRevenue": "SKY token buybacks + staking rewards for sky stakers"
   },
+  "misrepresentedTokens": false,
+  "defillamaId": "118",
+  "displayName": "Sky Lending",
+  "methodologyURL": "https://github.com/DefiLlama/dimension-adapters/blob/master/fees/makerdao.ts",
   "forkedFrom": null,
   "versionKey": null,
   "github": null,
   "governanceID": null,
   "treasury": null,
-  "latestFetchIsOk": true,
+  "hallmarks": null,
+  "defaultChartView": null,
   "slug": "sky-lending",
   "protocolType": "protocol",
   "linkedProtocols": [
     "Sky",
     "Sky Lending"
   ],
-  "total24h": 1206801,
-  "total48hto24h": 1213969,
-  "total7d": 7829360,
-  "total30d": 29509689,
-  "totalAllTime": 790343721,
+  "total24h": 1140644,
+  "total48hto24h": 1155506,
+  "total7d": 8600302,
+  "total30d": 33072665,
+  "totalAllTime": 806225202,
   "totalDataChart": [
     [
       1573776000,
@@ -8398,6 +8400,58 @@
     [
       1753833600,
       1206801
+    ],
+    [
+      1753920000,
+      1200630
+    ],
+    [
+      1754006400,
+      1200362
+    ],
+    [
+      1754092800,
+      1193345
+    ],
+    [
+      1754179200,
+      1195540
+    ],
+    [
+      1754265600,
+      1238696
+    ],
+    [
+      1754352000,
+      1252606
+    ],
+    [
+      1754438400,
+      1249447
+    ],
+    [
+      1754524800,
+      1251816
+    ],
+    [
+      1754611200,
+      1265131
+    ],
+    [
+      1754697600,
+      1268859
+    ],
+    [
+      1754784000,
+      1268899
+    ],
+    [
+      1754870400,
+      1155506
+    ],
+    [
+      1754956800,
+      1140644
     ]
   ],
   "totalDataChartBreakdown": [
@@ -25080,7 +25134,111 @@
           "Sky Lending": 1206801
         }
       }
+    ],
+    [
+      1753920000,
+      {
+        "Ethereum": {
+          "Sky Lending": 1200630
+        }
+      }
+    ],
+    [
+      1754006400,
+      {
+        "Ethereum": {
+          "Sky Lending": 1200362
+        }
+      }
+    ],
+    [
+      1754092800,
+      {
+        "Ethereum": {
+          "Sky Lending": 1193345
+        }
+      }
+    ],
+    [
+      1754179200,
+      {
+        "Ethereum": {
+          "Sky Lending": 1195540
+        }
+      }
+    ],
+    [
+      1754265600,
+      {
+        "Ethereum": {
+          "Sky Lending": 1238696
+        }
+      }
+    ],
+    [
+      1754352000,
+      {
+        "Ethereum": {
+          "Sky Lending": 1252606
+        }
+      }
+    ],
+    [
+      1754438400,
+      {
+        "Ethereum": {
+          "Sky Lending": 1249447
+        }
+      }
+    ],
+    [
+      1754524800,
+      {
+        "Ethereum": {
+          "Sky Lending": 1251816
+        }
+      }
+    ],
+    [
+      1754611200,
+      {
+        "Ethereum": {
+          "Sky Lending": 1265131
+        }
+      }
+    ],
+    [
+      1754697600,
+      {
+        "Ethereum": {
+          "Sky Lending": 1268859
+        }
+      }
+    ],
+    [
+      1754784000,
+      {
+        "Ethereum": {
+          "Sky Lending": 1268899
+        }
+      }
+    ],
+    [
+      1754870400,
+      {
+        "Ethereum": {
+          "Sky Lending": 1155506
+        }
+      }
+    ],
+    [
+      1754956800,
+      {
+        "Ethereum": {
+          "Sky Lending": 1140644
+        }
+      }
     ]
   ],
-  "change_1d": -0.59
+  "change_1d": -1.29
 }

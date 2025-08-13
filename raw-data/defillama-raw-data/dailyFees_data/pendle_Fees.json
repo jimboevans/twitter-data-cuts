@@ -64,11 +64,11 @@
   "defaultChartView": null,
   "slug": "pendle",
   "protocolType": "protocol",
-  "total24h": 100923,
-  "total48hto24h": 67507,
-  "total7d": 846301,
-  "total30d": 4514253,
-  "totalAllTime": 44348200,
+  "total24h": 104641,
+  "total48hto24h": 100923,
+  "total7d": 901261,
+  "total30d": 4595519,
+  "totalAllTime": 44486026,
   "totalDataChart": [
     [
       1688688000,
@@ -2639,6 +2639,10 @@
       20232
     ],
     [
+      1744329600,
+      12493
+    ],
+    [
       1744416000,
       11134
     ],
@@ -2749,6 +2753,10 @@
     [
       1746748800,
       39135
+    ],
+    [
+      1746835200,
+      20692
     ],
     [
       1746921600,
@@ -3117,6 +3125,10 @@
     [
       1754870400,
       100923
+    ],
+    [
+      1754956800,
+      104641
     ]
   ],
   "totalDataChartBreakdown": [
@@ -15739,6 +15751,35 @@
       }
     ],
     [
+      1744329600,
+      {
+        "Ethereum": {
+          "Pendle": 11846
+        },
+        "Arbitrum": {
+          "Pendle": 191
+        },
+        "BSC": {
+          "Pendle": 126
+        },
+        "OP Mainnet": {
+          "Pendle": 0
+        },
+        "Mantle": {
+          "Pendle": 4
+        },
+        "Base": {
+          "Pendle": 326
+        },
+        "Sonic": {
+          "Pendle": 0
+        },
+        "Berachain": {
+          "Pendle": 0
+        }
+      }
+    ],
+    [
       1744416000,
       {
         "Ethereum": {
@@ -16541,6 +16582,35 @@
         },
         "Base": {
           "Pendle": 378
+        },
+        "Sonic": {
+          "Pendle": 0
+        },
+        "Berachain": {
+          "Pendle": 0
+        }
+      }
+    ],
+    [
+      1746835200,
+      {
+        "Ethereum": {
+          "Pendle": 19884
+        },
+        "Arbitrum": {
+          "Pendle": 420
+        },
+        "BSC": {
+          "Pendle": 276
+        },
+        "OP Mainnet": {
+          "Pendle": 0
+        },
+        "Mantle": {
+          "Pendle": 0
+        },
+        "Base": {
+          "Pendle": 112
         },
         "Sonic": {
           "Pendle": 0
@@ -19217,7 +19287,36 @@
           "Pendle": 103
         }
       }
+    ],
+    [
+      1754956800,
+      {
+        "Mantle": {
+          "Pendle": 28
+        },
+        "Berachain": {
+          "Pendle": 9
+        },
+        "OP Mainnet": {
+          "Pendle": 0
+        },
+        "Arbitrum": {
+          "Pendle": 804
+        },
+        "Sonic": {
+          "Pendle": 11
+        },
+        "Base": {
+          "Pendle": 106
+        },
+        "BSC": {
+          "Pendle": 45
+        },
+        "Ethereum": {
+          "Pendle": 103638
+        }
+      }
     ]
   ],
-  "change_1d": 49.5
+  "change_1d": 3.68
 }

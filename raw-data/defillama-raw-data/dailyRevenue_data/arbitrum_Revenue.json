@@ -39,11 +39,11 @@
   "defaultChartView": null,
   "slug": "arbitrum",
   "protocolType": "chain",
-  "total24h": 42858,
-  "total48hto24h": 22781,
-  "total7d": 220577,
-  "total30d": 1057734,
-  "totalAllTime": 62720274,
+  "total24h": 67612,
+  "total48hto24h": 42858,
+  "total7d": 263705,
+  "total30d": 1113107,
+  "totalAllTime": 62787886,
   "totalDataChart": [
     [
       1628553600,
@@ -5664,6 +5664,10 @@
     [
       1754870400,
       42858
+    ],
+    [
+      1754956800,
+      67612
     ]
   ],
   "totalDataChartBreakdown": [
@@ -16906,7 +16910,15 @@
           "Arbitrum": 42858
         }
       }
+    ],
+    [
+      1754956800,
+      {
+        "Arbitrum": {
+          "Arbitrum": 67612
+        }
+      }
     ]
   ],
-  "change_1d": 88.13
+  "change_1d": 57.76
 }

@@ -101,11 +101,11 @@
   "defaultChartView": null,
   "slug": "kamino",
   "protocolType": "protocol",
-  "total24h": 312503,
-  "total48hto24h": 306023,
-  "total7d": 2126116,
-  "total30d": 9669271,
-  "totalAllTime": 162217435,
+  "total24h": 327792,
+  "total48hto24h": 312503,
+  "total7d": 2165373,
+  "total30d": 9678421,
+  "totalAllTime": 162855711,
   "totalDataChart": [
     [
       1697068800,
@@ -2529,7 +2529,7 @@
     ],
     [
       1749340800,
-      272821
+      284623
     ],
     [
       1749427200,
@@ -2638,6 +2638,10 @@
     [
       1751673600,
       291806
+    ],
+    [
+      1751760000,
+      298682
     ],
     [
       1751846400,
@@ -2782,6 +2786,10 @@
     [
       1754870400,
       312503
+    ],
+    [
+      1754956800,
+      327792
     ]
   ],
   "totalDataChartBreakdown": [
@@ -8232,6 +8240,7 @@
       1749340800,
       {
         "Solana": {
+          "Kamino Liquidity": 11802,
           "Kamino Lend": 272821
         }
       }
@@ -8476,6 +8485,15 @@
         "Solana": {
           "Kamino Liquidity": 4969,
           "Kamino Lend": 286837
+        }
+      }
+    ],
+    [
+      1751760000,
+      {
+        "Solana": {
+          "Kamino Liquidity": 7420,
+          "Kamino Lend": 291262
         }
       }
     ],
@@ -8802,7 +8820,16 @@
           "Kamino Lend": 304381
         }
       }
+    ],
+    [
+      1754956800,
+      {
+        "Solana": {
+          "Kamino Liquidity": 5254,
+          "Kamino Lend": 322538
+        }
+      }
     ]
   ],
-  "change_1d": 2.12
+  "change_1d": 4.89
 }

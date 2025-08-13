@@ -30,14 +30,15 @@
   "treasury": null,
   "parentProtocol": null,
   "previousNames": null,
-  "latestFetchIsOk": true,
+  "hallmarks": null,
+  "defaultChartView": null,
   "slug": "unichain",
   "protocolType": "chain",
-  "total24h": 25117,
-  "total48hto24h": 25232,
-  "total7d": 165648,
-  "total30d": 693542,
-  "totalAllTime": 1303420,
+  "total24h": 22802,
+  "total48hto24h": 26330,
+  "total7d": 137034,
+  "total30d": 785053,
+  "totalAllTime": 1554703,
   "totalDataChart": [
     [
       1730678400,
@@ -1114,6 +1115,58 @@
     [
       1753833600,
       25117
+    ],
+    [
+      1753920000,
+      16277
+    ],
+    [
+      1754006400,
+      39775
+    ],
+    [
+      1754092800,
+      17108
+    ],
+    [
+      1754179200,
+      8789
+    ],
+    [
+      1754265600,
+      15732
+    ],
+    [
+      1754352000,
+      16568
+    ],
+    [
+      1754438400,
+      13744
+    ],
+    [
+      1754524800,
+      16567
+    ],
+    [
+      1754611200,
+      18284
+    ],
+    [
+      1754697600,
+      22823
+    ],
+    [
+      1754784000,
+      16484
+    ],
+    [
+      1754870400,
+      26330
+    ],
+    [
+      1754956800,
+      22802
     ]
   ],
   "totalDataChartBreakdown": [
@@ -3268,7 +3321,111 @@
           "Unichain": 25117
         }
       }
+    ],
+    [
+      1753920000,
+      {
+        "Unichain": {
+          "Unichain": 16277
+        }
+      }
+    ],
+    [
+      1754006400,
+      {
+        "Unichain": {
+          "Unichain": 39775
+        }
+      }
+    ],
+    [
+      1754092800,
+      {
+        "Unichain": {
+          "Unichain": 17108
+        }
+      }
+    ],
+    [
+      1754179200,
+      {
+        "Unichain": {
+          "Unichain": 8789
+        }
+      }
+    ],
+    [
+      1754265600,
+      {
+        "Unichain": {
+          "Unichain": 15732
+        }
+      }
+    ],
+    [
+      1754352000,
+      {
+        "Unichain": {
+          "Unichain": 16568
+        }
+      }
+    ],
+    [
+      1754438400,
+      {
+        "Unichain": {
+          "Unichain": 13744
+        }
+      }
+    ],
+    [
+      1754524800,
+      {
+        "Unichain": {
+          "Unichain": 16567
+        }
+      }
+    ],
+    [
+      1754611200,
+      {
+        "Unichain": {
+          "Unichain": 18284
+        }
+      }
+    ],
+    [
+      1754697600,
+      {
+        "Unichain": {
+          "Unichain": 22823
+        }
+      }
+    ],
+    [
+      1754784000,
+      {
+        "Unichain": {
+          "Unichain": 16484
+        }
+      }
+    ],
+    [
+      1754870400,
+      {
+        "Unichain": {
+          "Unichain": 26330
+        }
+      }
+    ],
+    [
+      1754956800,
+      {
+        "Unichain": {
+          "Unichain": 22802
+        }
+      }
     ]
   ],
-  "change_1d": -0.46
+  "change_1d": -13.4
 }

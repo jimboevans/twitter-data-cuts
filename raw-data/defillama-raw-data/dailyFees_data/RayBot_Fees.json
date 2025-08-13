@@ -18,14 +18,15 @@
   "forkedFrom": [],
   "module": "raybot",
   "twitter": "RayBot_sol",
-  "defillamaId": "5022",
-  "displayName": "RayBot",
-  "methodologyURL": "https://github.com/DefiLlama/dimension-adapters/blob/master/fees/raybot.ts",
   "methodology": {
     "Fees": "All trading fees paid by users while using Raybot bot.",
     "Revenue": "Trading fees are collected by Raybot protocol.",
     "ProtocolRevenue": "Trading fees are collected by Raybot protocol."
   },
+  "misrepresentedTokens": false,
+  "defillamaId": "5022",
+  "displayName": "RayBot",
+  "methodologyURL": "https://github.com/DefiLlama/dimension-adapters/blob/master/fees/raybot.ts",
   "audit_links": null,
   "versionKey": null,
   "github": null,
@@ -33,14 +34,15 @@
   "treasury": null,
   "parentProtocol": null,
   "previousNames": null,
-  "latestFetchIsOk": true,
+  "hallmarks": null,
+  "defaultChartView": null,
   "slug": "raybot",
   "protocolType": "protocol",
-  "total24h": 4522,
-  "total48hto24h": 6683,
-  "total7d": 40585,
-  "total30d": 163152,
-  "totalAllTime": 4890416,
+  "total24h": 5001,
+  "total48hto24h": 4548,
+  "total7d": 46320,
+  "total30d": 174649,
+  "totalAllTime": 4963044,
   "totalDataChart": [
     [
       1707609600,
@@ -2180,7 +2182,59 @@
     ],
     [
       1753920000,
-      4522
+      4627
+    ],
+    [
+      1754006400,
+      6820
+    ],
+    [
+      1754092800,
+      2890
+    ],
+    [
+      1754179200,
+      4984
+    ],
+    [
+      1754265600,
+      2270
+    ],
+    [
+      1754352000,
+      4238
+    ],
+    [
+      1754438400,
+      4797
+    ],
+    [
+      1754524800,
+      4595
+    ],
+    [
+      1754611200,
+      7998
+    ],
+    [
+      1754697600,
+      4251
+    ],
+    [
+      1754784000,
+      6462
+    ],
+    [
+      1754870400,
+      4548
+    ],
+    [
+      1754956800,
+      13669
+    ],
+    [
+      1755043200,
+      5001
     ]
   ],
   "totalDataChartBreakdown": [
@@ -6460,10 +6514,114 @@
       1753920000,
       {
         "Solana": {
-          "RayBot": 4522
+          "RayBot": 4627
+        }
+      }
+    ],
+    [
+      1754006400,
+      {
+        "Solana": {
+          "RayBot": 6820
+        }
+      }
+    ],
+    [
+      1754092800,
+      {
+        "Solana": {
+          "RayBot": 2890
+        }
+      }
+    ],
+    [
+      1754179200,
+      {
+        "Solana": {
+          "RayBot": 4984
+        }
+      }
+    ],
+    [
+      1754265600,
+      {
+        "Solana": {
+          "RayBot": 2270
+        }
+      }
+    ],
+    [
+      1754352000,
+      {
+        "Solana": {
+          "RayBot": 4238
+        }
+      }
+    ],
+    [
+      1754438400,
+      {
+        "Solana": {
+          "RayBot": 4797
+        }
+      }
+    ],
+    [
+      1754524800,
+      {
+        "Solana": {
+          "RayBot": 4595
+        }
+      }
+    ],
+    [
+      1754611200,
+      {
+        "Solana": {
+          "RayBot": 7998
+        }
+      }
+    ],
+    [
+      1754697600,
+      {
+        "Solana": {
+          "RayBot": 4251
+        }
+      }
+    ],
+    [
+      1754784000,
+      {
+        "Solana": {
+          "RayBot": 6462
+        }
+      }
+    ],
+    [
+      1754870400,
+      {
+        "Solana": {
+          "RayBot": 4548
+        }
+      }
+    ],
+    [
+      1754956800,
+      {
+        "Solana": {
+          "RayBot": 13669
+        }
+      }
+    ],
+    [
+      1755043200,
+      {
+        "Solana": {
+          "RayBot": 5001
         }
       }
     ]
   ],
-  "change_1d": -32.34
+  "change_1d": 9.96
 }

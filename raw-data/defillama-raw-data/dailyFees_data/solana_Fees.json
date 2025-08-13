@@ -37,11 +37,11 @@
   "defaultChartView": null,
   "slug": "solana",
   "protocolType": "chain",
-  "total24h": 1618702,
-  "total48hto24h": 1320934,
-  "total7d": 10027500,
-  "total30d": 41695647,
-  "totalAllTime": 1295940454,
+  "total24h": 2005631,
+  "total48hto24h": 1611688,
+  "total7d": 10528556,
+  "total30d": 42550888,
+  "totalAllTime": 1298153882,
   "totalDataChart": [
     [
       1610841600,
@@ -6709,7 +6709,11 @@
     ],
     [
       1754956800,
-      1618702
+      1826499
+    ],
+    [
+      1755043200,
+      2005631
     ]
   ],
   "totalDataChartBreakdown": [
@@ -20045,10 +20049,18 @@
       1754956800,
       {
         "Solana": {
-          "Solana": 1618702
+          "Solana": 1826499
+        }
+      }
+    ],
+    [
+      1755043200,
+      {
+        "Solana": {
+          "Solana": 2005631
         }
       }
     ]
   ],
-  "change_1d": 22.54
+  "change_1d": 24.44
 }

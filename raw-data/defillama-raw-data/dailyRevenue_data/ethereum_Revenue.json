@@ -46,11 +46,11 @@
   "defaultChartView": null,
   "slug": "ethereum",
   "protocolType": "chain",
-  "total24h": 489592,
-  "total48hto24h": 305615,
-  "total7d": 2934222,
-  "total30d": 21970586,
-  "totalAllTime": 12453443415,
+  "total24h": 1216156,
+  "total48hto24h": 519125,
+  "total7d": 3357268,
+  "total30d": 22606797,
+  "totalAllTime": 12455154780,
   "totalDataChart": [
     [
       1438300800,
@@ -9722,7 +9722,11 @@
     ],
     [
       1754956800,
-      489592
+      984801
+    ],
+    [
+      1755043200,
+      1216156
     ]
   ],
   "totalDataChartBreakdown": [
@@ -29066,10 +29070,18 @@
       1754956800,
       {
         "Ethereum": {
-          "Ethereum": 489592
+          "Ethereum": 984801
+        }
+      }
+    ],
+    [
+      1755043200,
+      {
+        "Ethereum": {
+          "Ethereum": 1216156
         }
       }
     ]
   ],
-  "change_1d": 60.2
+  "change_1d": 134.27
 }

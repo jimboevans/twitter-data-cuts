@@ -58,26 +58,28 @@
   ],
   "listedAt": 1721046229,
   "category": "RWA",
-  "defillamaId": "4882",
-  "displayName": "Usual",
-  "methodologyURL": "https://github.com/DefiLlama/dimension-adapters/blob/master/fees/usual.ts",
   "methodology": {
     "Fees": "Total USD0 redemption fees and USD0++ early unstake fees.",
     "ProtocolRevenue": "Total fees are distributed to protocol treasury.",
     "HoldersRevenue": "Total fees are distributed to token holders."
   },
+  "misrepresentedTokens": false,
+  "defillamaId": "4882",
+  "displayName": "Usual",
+  "methodologyURL": "https://github.com/DefiLlama/dimension-adapters/blob/master/fees/usual.ts",
   "versionKey": null,
   "github": null,
   "governanceID": null,
   "parentProtocol": null,
-  "latestFetchIsOk": true,
+  "hallmarks": null,
+  "defaultChartView": null,
   "slug": "usual",
   "protocolType": "protocol",
-  "total24h": 26377,
-  "total48hto24h": 26988,
-  "total7d": 193344,
-  "total30d": 893129,
-  "totalAllTime": 40897564,
+  "total24h": 90066,
+  "total48hto24h": 58871,
+  "total7d": 242110,
+  "total30d": 925042,
+  "totalAllTime": 41371586,
   "totalDataChart": [
     [
       1736899200,
@@ -869,7 +871,59 @@
     ],
     [
       1753920000,
-      26377
+      26356
+    ],
+    [
+      1754006400,
+      32546
+    ],
+    [
+      1754092800,
+      8269
+    ],
+    [
+      1754179200,
+      8107
+    ],
+    [
+      1754265600,
+      64415
+    ],
+    [
+      1754352000,
+      28530
+    ],
+    [
+      1754438400,
+      25121
+    ],
+    [
+      1754524800,
+      25544
+    ],
+    [
+      1754611200,
+      25246
+    ],
+    [
+      1754697600,
+      8249
+    ],
+    [
+      1754784000,
+      8937
+    ],
+    [
+      1754870400,
+      58871
+    ],
+    [
+      1754956800,
+      90142
+    ],
+    [
+      1755043200,
+      90066
     ]
   ],
   "totalDataChartBreakdown": [
@@ -2453,10 +2507,114 @@
       1753920000,
       {
         "Ethereum": {
-          "Usual": 26377
+          "Usual": 26356
+        }
+      }
+    ],
+    [
+      1754006400,
+      {
+        "Ethereum": {
+          "Usual": 32546
+        }
+      }
+    ],
+    [
+      1754092800,
+      {
+        "Ethereum": {
+          "Usual": 8269
+        }
+      }
+    ],
+    [
+      1754179200,
+      {
+        "Ethereum": {
+          "Usual": 8107
+        }
+      }
+    ],
+    [
+      1754265600,
+      {
+        "Ethereum": {
+          "Usual": 64415
+        }
+      }
+    ],
+    [
+      1754352000,
+      {
+        "Ethereum": {
+          "Usual": 28530
+        }
+      }
+    ],
+    [
+      1754438400,
+      {
+        "Ethereum": {
+          "Usual": 25121
+        }
+      }
+    ],
+    [
+      1754524800,
+      {
+        "Ethereum": {
+          "Usual": 25544
+        }
+      }
+    ],
+    [
+      1754611200,
+      {
+        "Ethereum": {
+          "Usual": 25246
+        }
+      }
+    ],
+    [
+      1754697600,
+      {
+        "Ethereum": {
+          "Usual": 8249
+        }
+      }
+    ],
+    [
+      1754784000,
+      {
+        "Ethereum": {
+          "Usual": 8937
+        }
+      }
+    ],
+    [
+      1754870400,
+      {
+        "Ethereum": {
+          "Usual": 58871
+        }
+      }
+    ],
+    [
+      1754956800,
+      {
+        "Ethereum": {
+          "Usual": 90142
+        }
+      }
+    ],
+    [
+      1755043200,
+      {
+        "Ethereum": {
+          "Usual": 90066
         }
       }
     ]
   ],
-  "change_1d": -2.26
+  "change_1d": 52.99
 }

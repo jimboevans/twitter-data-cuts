@@ -45,11 +45,11 @@
   "defaultChartView": null,
   "slug": "letsbonk.fun",
   "protocolType": "protocol",
-  "total24h": 94314,
-  "total48hto24h": 117957,
-  "total7d": 2625679,
-  "total30d": 34549075,
-  "totalAllTime": 52952725,
+  "total24h": 66585,
+  "total48hto24h": 94314,
+  "total7d": 1607222,
+  "total30d": 33736534,
+  "totalAllTime": 53019310,
   "totalDataChart": [
     [
       1745798400,
@@ -470,6 +470,10 @@
     [
       1754870400,
       94314
+    ],
+    [
+      1754956800,
+      66585
     ]
   ],
   "totalDataChartBreakdown": [
@@ -1312,7 +1316,15 @@
           "letsBONK.fun": 94314
         }
       }
+    ],
+    [
+      1754956800,
+      {
+        "Solana": {
+          "letsBONK.fun": 66585
+        }
+      }
     ]
   ],
-  "change_1d": -20.04
+  "change_1d": -29.4
 }

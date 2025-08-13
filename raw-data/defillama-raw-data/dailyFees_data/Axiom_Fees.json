@@ -18,31 +18,38 @@
   "forkedFrom": [],
   "module": "axiom",
   "twitter": "AxiomExchange",
-  "defillamaId": "6049",
-  "displayName": "Axiom",
-  "methodologyURL": "https://github.com/DefiLlama/dimension-adapters/blob/master/fees/axiom.ts",
+  "parentProtocol": "parent#axiom",
   "methodology": {
     "Fees": "User pays 0.75%-1% fee on each trade",
     "Revenue": "Users receive some chunk of the fees, so revenue is lower than fees",
     "UserFees": "User pays 0.75%-1% fee on each trade",
-    "HoldersRevenue": "Fees distributed to token holders",
+    "HoldersRevenue": "No token holder revenue",
     "ProtocolRevenue": "Users receive some chunk of the fees, so revenue is lower than fees"
   },
+  "misrepresentedTokens": false,
+  "defillamaId": "6049",
+  "displayName": "Axiom",
+  "methodologyURL": "https://github.com/DefiLlama/dimension-adapters/blob/master/fees/axiom.ts",
   "audit_links": null,
   "versionKey": null,
   "github": null,
   "governanceID": null,
   "treasury": null,
-  "parentProtocol": null,
   "previousNames": null,
-  "latestFetchIsOk": true,
+  "hallmarks": null,
+  "defaultChartView": null,
   "slug": "axiom",
   "protocolType": "protocol",
-  "total24h": 1574660,
-  "total48hto24h": 1652146,
-  "total7d": 11394683,
-  "total30d": 51883850,
-  "totalAllTime": 206546654,
+  "linkedProtocols": [
+    "Axiom Pro",
+    "Axiom",
+    "Axiom Perps"
+  ],
+  "total24h": 3075624,
+  "total48hto24h": 2241281,
+  "total7d": 15055362,
+  "total30d": 56424385,
+  "totalAllTime": 230597171,
   "totalDataChart": [
     [
       1736985600,
@@ -670,167 +677,215 @@
     ],
     [
       1750464000,
-      935928
+      939505
     ],
     [
       1750550400,
-      840037
+      849980
     ],
     [
       1750636800,
-      1045516
+      1066143
     ],
     [
       1750723200,
-      1266274
+      1291302
     ],
     [
       1750809600,
-      1670442
+      1674899
     ],
     [
       1750896000,
-      1325187
+      1335039
     ],
     [
       1750982400,
-      1460641
+      1504858
     ],
     [
       1751068800,
-      1285515
+      1317122
     ],
     [
       1751155200,
-      971546
+      1026809
     ],
     [
       1751241600,
-      1593670
+      1692857
     ],
     [
       1751328000,
-      1540176
+      1543539
     ],
     [
       1751414400,
-      1704350
+      1798429
     ],
     [
       1751500800,
-      1839764
+      1853793
     ],
     [
       1751587200,
-      1294651
+      1298201
     ],
     [
       1751673600,
-      1620169
+      1622199
     ],
     [
       1751760000,
-      1708104
+      1710497
     ],
     [
       1751846400,
-      1885772
+      1888237
     ],
     [
       1751932800,
-      1690261
+      1692198
     ],
     [
       1752019200,
-      1606161
+      1670573
     ],
     [
       1752105600,
-      1818269
+      1896620
     ],
     [
       1752192000,
-      1529454
+      1562903
     ],
     [
       1752278400,
-      1114068
+      1117367
     ],
     [
       1752364800,
-      1059984
+      1126328
     ],
     [
       1752451200,
-      1722731
+      1759311
     ],
     [
       1752537600,
-      1851299
+      1953704
     ],
     [
       1752624000,
-      2457330
+      2544104
     ],
     [
       1752710400,
-      2349940
+      2423753
     ],
     [
       1752796800,
-      2655127
+      2688772
     ],
     [
       1752883200,
-      1340826
+      1361560
     ],
     [
       1752969600,
-      1504268
+      1573491
     ],
     [
       1753056000,
-      2116003
+      2124315
     ],
     [
       1753142400,
-      2110712
+      2401014
     ],
     [
       1753228800,
-      1969748
+      1996922
     ],
     [
       1753315200,
-      2212003
+      2215142
     ],
     [
       1753401600,
-      1546091
+      1588006
     ],
     [
       1753488000,
-      1468880
+      1461103
     ],
     [
       1753574400,
-      1154852
+      1203383
     ],
     [
       1753660800,
-      1796807
+      1940095
     ],
     [
       1753747200,
-      1652146
+      1725769
     ],
     [
       1753833600,
-      1563904
+      1589622
     ],
     [
       1753920000,
-      1574660
+      1752561
+    ],
+    [
+      1754006400,
+      1310951
+    ],
+    [
+      1754092800,
+      979017
+    ],
+    [
+      1754179200,
+      1123753
+    ],
+    [
+      1754265600,
+      1713071
+    ],
+    [
+      1754352000,
+      1939604
+    ],
+    [
+      1754438400,
+      1843827
+    ],
+    [
+      1754524800,
+      2353677
+    ],
+    [
+      1754611200,
+      2113699
+    ],
+    [
+      1754697600,
+      1798407
+    ],
+    [
+      1754784000,
+      1628847
+    ],
+    [
+      1754870400,
+      2241281
+    ],
+    [
+      1754956800,
+      3075624
     ]
   ],
   "totalDataChartBreakdown": [
@@ -2086,7 +2141,10 @@
       1750464000,
       {
         "Solana": {
-          "Axiom": 935928
+          "Axiom": 935881
+        },
+        "Hyperliquid L1": {
+          "Axiom": 3624
         }
       }
     ],
@@ -2094,7 +2152,10 @@
       1750550400,
       {
         "Solana": {
-          "Axiom": 840037
+          "Axiom": 840046
+        },
+        "Hyperliquid L1": {
+          "Axiom": 9934
         }
       }
     ],
@@ -2102,7 +2163,10 @@
       1750636800,
       {
         "Solana": {
-          "Axiom": 1045516
+          "Axiom": 1058635
+        },
+        "Hyperliquid L1": {
+          "Axiom": 7508
         }
       }
     ],
@@ -2110,7 +2174,10 @@
       1750723200,
       {
         "Solana": {
-          "Axiom": 1266274
+          "Axiom": 1286383
+        },
+        "Hyperliquid L1": {
+          "Axiom": 4919
         }
       }
     ],
@@ -2118,7 +2185,10 @@
       1750809600,
       {
         "Solana": {
-          "Axiom": 1670442
+          "Axiom": 1670333
+        },
+        "Hyperliquid L1": {
+          "Axiom": 4566
         }
       }
     ],
@@ -2126,7 +2196,10 @@
       1750896000,
       {
         "Solana": {
-          "Axiom": 1325187
+          "Axiom": 1330358
+        },
+        "Hyperliquid L1": {
+          "Axiom": 4681
         }
       }
     ],
@@ -2134,7 +2207,10 @@
       1750982400,
       {
         "Solana": {
-          "Axiom": 1460641
+          "Axiom": 1501716
+        },
+        "Hyperliquid L1": {
+          "Axiom": 3142
         }
       }
     ],
@@ -2142,7 +2218,10 @@
       1751068800,
       {
         "Solana": {
-          "Axiom": 1285515
+          "Axiom": 1315201
+        },
+        "Hyperliquid L1": {
+          "Axiom": 1921
         }
       }
     ],
@@ -2150,7 +2229,10 @@
       1751155200,
       {
         "Solana": {
-          "Axiom": 971546
+          "Axiom": 1024108
+        },
+        "Hyperliquid L1": {
+          "Axiom": 2701
         }
       }
     ],
@@ -2158,7 +2240,10 @@
       1751241600,
       {
         "Solana": {
-          "Axiom": 1593670
+          "Axiom": 1689603
+        },
+        "Hyperliquid L1": {
+          "Axiom": 3254
         }
       }
     ],
@@ -2166,7 +2251,10 @@
       1751328000,
       {
         "Solana": {
-          "Axiom": 1540176
+          "Axiom": 1540209
+        },
+        "Hyperliquid L1": {
+          "Axiom": 3330
         }
       }
     ],
@@ -2174,7 +2262,10 @@
       1751414400,
       {
         "Solana": {
-          "Axiom": 1704350
+          "Axiom": 1794372
+        },
+        "Hyperliquid L1": {
+          "Axiom": 4057
         }
       }
     ],
@@ -2182,7 +2273,10 @@
       1751500800,
       {
         "Solana": {
-          "Axiom": 1839764
+          "Axiom": 1850557
+        },
+        "Hyperliquid L1": {
+          "Axiom": 3236
         }
       }
     ],
@@ -2190,7 +2284,10 @@
       1751587200,
       {
         "Solana": {
-          "Axiom": 1294651
+          "Axiom": 1294538
+        },
+        "Hyperliquid L1": {
+          "Axiom": 3663
         }
       }
     ],
@@ -2198,7 +2295,10 @@
       1751673600,
       {
         "Solana": {
-          "Axiom": 1620169
+          "Axiom": 1620155
+        },
+        "Hyperliquid L1": {
+          "Axiom": 2044
         }
       }
     ],
@@ -2206,7 +2306,10 @@
       1751760000,
       {
         "Solana": {
-          "Axiom": 1708104
+          "Axiom": 1708130
+        },
+        "Hyperliquid L1": {
+          "Axiom": 2367
         }
       }
     ],
@@ -2214,7 +2317,10 @@
       1751846400,
       {
         "Solana": {
-          "Axiom": 1885772
+          "Axiom": 1885836
+        },
+        "Hyperliquid L1": {
+          "Axiom": 2401
         }
       }
     ],
@@ -2222,7 +2328,10 @@
       1751932800,
       {
         "Solana": {
-          "Axiom": 1690261
+          "Axiom": 1690269
+        },
+        "Hyperliquid L1": {
+          "Axiom": 1929
         }
       }
     ],
@@ -2230,7 +2339,10 @@
       1752019200,
       {
         "Solana": {
-          "Axiom": 1606161
+          "Axiom": 1667011
+        },
+        "Hyperliquid L1": {
+          "Axiom": 3562
         }
       }
     ],
@@ -2238,7 +2350,10 @@
       1752105600,
       {
         "Solana": {
-          "Axiom": 1818269
+          "Axiom": 1891482
+        },
+        "Hyperliquid L1": {
+          "Axiom": 5138
         }
       }
     ],
@@ -2246,7 +2361,10 @@
       1752192000,
       {
         "Solana": {
-          "Axiom": 1529454
+          "Axiom": 1555790
+        },
+        "Hyperliquid L1": {
+          "Axiom": 7113
         }
       }
     ],
@@ -2254,7 +2372,10 @@
       1752278400,
       {
         "Solana": {
-          "Axiom": 1114068
+          "Axiom": 1114095
+        },
+        "Hyperliquid L1": {
+          "Axiom": 3272
         }
       }
     ],
@@ -2262,7 +2383,10 @@
       1752364800,
       {
         "Solana": {
-          "Axiom": 1059984
+          "Axiom": 1123243
+        },
+        "Hyperliquid L1": {
+          "Axiom": 3085
         }
       }
     ],
@@ -2270,7 +2394,10 @@
       1752451200,
       {
         "Solana": {
-          "Axiom": 1722731
+          "Axiom": 1751268
+        },
+        "Hyperliquid L1": {
+          "Axiom": 8043
         }
       }
     ],
@@ -2278,7 +2405,10 @@
       1752537600,
       {
         "Solana": {
-          "Axiom": 1851299
+          "Axiom": 1945632
+        },
+        "Hyperliquid L1": {
+          "Axiom": 8072
         }
       }
     ],
@@ -2286,7 +2416,10 @@
       1752624000,
       {
         "Solana": {
-          "Axiom": 2457330
+          "Axiom": 2538831
+        },
+        "Hyperliquid L1": {
+          "Axiom": 5273
         }
       }
     ],
@@ -2294,7 +2427,10 @@
       1752710400,
       {
         "Solana": {
-          "Axiom": 2349940
+          "Axiom": 2415011
+        },
+        "Hyperliquid L1": {
+          "Axiom": 8742
         }
       }
     ],
@@ -2302,7 +2438,10 @@
       1752796800,
       {
         "Solana": {
-          "Axiom": 2655127
+          "Axiom": 2686859
+        },
+        "Hyperliquid L1": {
+          "Axiom": 1913
         }
       }
     ],
@@ -2310,7 +2449,10 @@
       1752883200,
       {
         "Solana": {
-          "Axiom": 1340826
+          "Axiom": 1359508
+        },
+        "Hyperliquid L1": {
+          "Axiom": 2052
         }
       }
     ],
@@ -2318,7 +2460,10 @@
       1752969600,
       {
         "Solana": {
-          "Axiom": 1504268
+          "Axiom": 1566490
+        },
+        "Hyperliquid L1": {
+          "Axiom": 7001
         }
       }
     ],
@@ -2326,7 +2471,10 @@
       1753056000,
       {
         "Solana": {
-          "Axiom": 2116003
+          "Axiom": 2116033
+        },
+        "Hyperliquid L1": {
+          "Axiom": 8282
         }
       }
     ],
@@ -2334,7 +2482,10 @@
       1753142400,
       {
         "Solana": {
-          "Axiom": 2110712
+          "Axiom": 2397139
+        },
+        "Hyperliquid L1": {
+          "Axiom": 3875
         }
       }
     ],
@@ -2342,7 +2493,10 @@
       1753228800,
       {
         "Solana": {
-          "Axiom": 1969748
+          "Axiom": 1993115
+        },
+        "Hyperliquid L1": {
+          "Axiom": 3807
         }
       }
     ],
@@ -2350,7 +2504,10 @@
       1753315200,
       {
         "Solana": {
-          "Axiom": 2212003
+          "Axiom": 2211892
+        },
+        "Hyperliquid L1": {
+          "Axiom": 3250
         }
       }
     ],
@@ -2358,7 +2515,10 @@
       1753401600,
       {
         "Solana": {
-          "Axiom": 1546091
+          "Axiom": 1580534
+        },
+        "Hyperliquid L1": {
+          "Axiom": 7472
         }
       }
     ],
@@ -2366,7 +2526,10 @@
       1753488000,
       {
         "Solana": {
-          "Axiom": 1468880
+          "Axiom": 1458337
+        },
+        "Hyperliquid L1": {
+          "Axiom": 2766
         }
       }
     ],
@@ -2374,7 +2537,10 @@
       1753574400,
       {
         "Solana": {
-          "Axiom": 1154852
+          "Axiom": 1199954
+        },
+        "Hyperliquid L1": {
+          "Axiom": 3429
         }
       }
     ],
@@ -2382,7 +2548,10 @@
       1753660800,
       {
         "Solana": {
-          "Axiom": 1796807
+          "Axiom": 1932987
+        },
+        "Hyperliquid L1": {
+          "Axiom": 7108
         }
       }
     ],
@@ -2390,7 +2559,10 @@
       1753747200,
       {
         "Solana": {
-          "Axiom": 1652146
+          "Axiom": 1721758
+        },
+        "Hyperliquid L1": {
+          "Axiom": 4011
         }
       }
     ],
@@ -2398,7 +2570,10 @@
       1753833600,
       {
         "Solana": {
-          "Axiom": 1563904
+          "Axiom": 1585955
+        },
+        "Hyperliquid L1": {
+          "Axiom": 3667
         }
       }
     ],
@@ -2406,10 +2581,124 @@
       1753920000,
       {
         "Solana": {
-          "Axiom": 1574660
+          "Axiom": 1749076
+        },
+        "Hyperliquid L1": {
+          "Axiom": 3485
+        }
+      }
+    ],
+    [
+      1754006400,
+      {
+        "Solana": {
+          "Axiom": 1303614
+        },
+        "Hyperliquid L1": {
+          "Axiom": 7337
+        }
+      }
+    ],
+    [
+      1754092800,
+      {
+        "Solana": {
+          "Axiom": 976190
+        },
+        "Hyperliquid L1": {
+          "Axiom": 2827
+        }
+      }
+    ],
+    [
+      1754179200,
+      {
+        "Solana": {
+          "Axiom": 1121658
+        },
+        "Hyperliquid L1": {
+          "Axiom": 2095
+        }
+      }
+    ],
+    [
+      1754265600,
+      {
+        "Solana": {
+          "Axiom": 1713071
+        },
+        "Hyperliquid L1": {
+          "Axiom": 0
+        }
+      }
+    ],
+    [
+      1754352000,
+      {
+        "Solana": {
+          "Axiom": 1939604
+        },
+        "Hyperliquid L1": {
+          "Axiom": 0
+        }
+      }
+    ],
+    [
+      1754438400,
+      {
+        "Solana": {
+          "Axiom": 1843827
+        }
+      }
+    ],
+    [
+      1754524800,
+      {
+        "Solana": {
+          "Axiom": 2353677
+        }
+      }
+    ],
+    [
+      1754611200,
+      {
+        "Solana": {
+          "Axiom": 2113699
+        }
+      }
+    ],
+    [
+      1754697600,
+      {
+        "Solana": {
+          "Axiom": 1798407
+        }
+      }
+    ],
+    [
+      1754784000,
+      {
+        "Solana": {
+          "Axiom": 1628847
+        }
+      }
+    ],
+    [
+      1754870400,
+      {
+        "Solana": {
+          "Axiom": 2241281
+        }
+      }
+    ],
+    [
+      1754956800,
+      {
+        "Solana": {
+          "Axiom": 3075624
         }
       }
     ]
   ],
-  "change_1d": -4.69
+  "change_1d": 37.23
 }

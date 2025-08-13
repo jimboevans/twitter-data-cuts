@@ -20,9 +20,6 @@
   "twitter": "orca_so",
   "openSource": false,
   "parentProtocol": "parent#orca",
-  "defillamaId": "283",
-  "displayName": "Orca DEX",
-  "methodologyURL": "https://github.com/DefiLlama/dimension-adapters/blob/master/dexs/orca",
   "methodology": {
     "UserFees": "All fees paid by users",
     "Fees": "All fees paid by users",
@@ -31,6 +28,20 @@
     "HoldersRevenue": "20% of protocol fees allocated for xORCA holder buybacks and burns.",
     "SupplySideRevenue": "Revenue earned by LPs (87% of total fees)"
   },
+  "misrepresentedTokens": false,
+  "hallmarks": [
+    [
+      1628565707,
+      "Token+LM launch"
+    ],
+    [
+      1667865600,
+      "FTX collapse"
+    ]
+  ],
+  "defillamaId": "283",
+  "displayName": "Orca DEX",
+  "methodologyURL": "https://github.com/DefiLlama/dimension-adapters/blob/master/dexs/orca",
   "forkedFrom": null,
   "audit_links": null,
   "versionKey": null,
@@ -38,18 +49,18 @@
   "governanceID": null,
   "treasury": null,
   "previousNames": null,
-  "latestFetchIsOk": true,
+  "defaultChartView": null,
   "slug": "orca-dex",
   "protocolType": "protocol",
   "linkedProtocols": [
     "Orca",
     "Orca DEX"
   ],
-  "total24h": 402319,
-  "total48hto24h": 539194,
-  "total7d": 3665717,
-  "total30d": 14845784,
-  "totalAllTime": 144533835,
+  "total24h": 431451,
+  "total48hto24h": 363109,
+  "total7d": 2206378,
+  "total30d": 14355941,
+  "totalAllTime": 148439502,
   "totalDataChart": [
     [
       1731369600,
@@ -1093,7 +1104,59 @@
     ],
     [
       1753920000,
-      402319
+      372301
+    ],
+    [
+      1754006400,
+      503363
+    ],
+    [
+      1754092800,
+      222133
+    ],
+    [
+      1754179200,
+      94623
+    ],
+    [
+      1754265600,
+      207028
+    ],
+    [
+      1754352000,
+      270709
+    ],
+    [
+      1754438400,
+      251951
+    ],
+    [
+      1754524800,
+      265788
+    ],
+    [
+      1754611200,
+      348456
+    ],
+    [
+      1754697600,
+      270737
+    ],
+    [
+      1754784000,
+      353419
+    ],
+    [
+      1754870400,
+      363109
+    ],
+    [
+      1754956800,
+      352918
+    ],
+    [
+      1755043200,
+      431451
     ]
   ],
   "totalDataChartBreakdown": [
@@ -3961,13 +4024,156 @@
       1753920000,
       {
         "Solana": {
-          "Orca DEX": 400961
+          "Orca DEX": 371096
         },
         "Eclipse": {
-          "Orca DEX": 1358
+          "Orca DEX": 1205
+        }
+      }
+    ],
+    [
+      1754006400,
+      {
+        "Solana": {
+          "Orca DEX": 500615
+        },
+        "Eclipse": {
+          "Orca DEX": 2748
+        }
+      }
+    ],
+    [
+      1754092800,
+      {
+        "Solana": {
+          "Orca DEX": 220755
+        },
+        "Eclipse": {
+          "Orca DEX": 1378
+        }
+      }
+    ],
+    [
+      1754179200,
+      {
+        "Solana": {
+          "Orca DEX": 93971
+        },
+        "Eclipse": {
+          "Orca DEX": 652
+        }
+      }
+    ],
+    [
+      1754265600,
+      {
+        "Solana": {
+          "Orca DEX": 206044
+        },
+        "Eclipse": {
+          "Orca DEX": 984
+        }
+      }
+    ],
+    [
+      1754352000,
+      {
+        "Solana": {
+          "Orca DEX": 269635
+        },
+        "Eclipse": {
+          "Orca DEX": 1074
+        }
+      }
+    ],
+    [
+      1754438400,
+      {
+        "Solana": {
+          "Orca DEX": 250968
+        },
+        "Eclipse": {
+          "Orca DEX": 983
+        }
+      }
+    ],
+    [
+      1754524800,
+      {
+        "Eclipse": {
+          "Orca DEX": 1264
+        },
+        "Solana": {
+          "Orca DEX": 264524
+        }
+      }
+    ],
+    [
+      1754611200,
+      {
+        "Eclipse": {
+          "Orca DEX": 1269
+        },
+        "Solana": {
+          "Orca DEX": 347187
+        }
+      }
+    ],
+    [
+      1754697600,
+      {
+        "Eclipse": {
+          "Orca DEX": 1161
+        },
+        "Solana": {
+          "Orca DEX": 269576
+        }
+      }
+    ],
+    [
+      1754784000,
+      {
+        "Eclipse": {
+          "Orca DEX": 2247
+        },
+        "Solana": {
+          "Orca DEX": 351172
+        }
+      }
+    ],
+    [
+      1754870400,
+      {
+        "Eclipse": {
+          "Orca DEX": 1454
+        },
+        "Solana": {
+          "Orca DEX": 361655
+        }
+      }
+    ],
+    [
+      1754956800,
+      {
+        "Eclipse": {
+          "Orca DEX": 1584
+        },
+        "Solana": {
+          "Orca DEX": 351334
+        }
+      }
+    ],
+    [
+      1755043200,
+      {
+        "Eclipse": {
+          "Orca DEX": 1553
+        },
+        "Solana": {
+          "Orca DEX": 429898
         }
       }
     ]
   ],
-  "change_1d": -25.39
+  "change_1d": 18.82
 }

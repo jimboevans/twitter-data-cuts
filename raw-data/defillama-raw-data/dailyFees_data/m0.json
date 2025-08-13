@@ -34,29 +34,31 @@
   ],
   "listedAt": 1728953339,
   "category": "RWA",
-  "defillamaId": "5241",
-  "displayName": "M0",
-  "methodologyURL": "https://github.com/DefiLlama/dimension-adapters/blob/master/fees/m0.ts",
   "methodology": {
     "Fees": "Total minter fees and penalty fees paid by borrowers.",
     "SupplySideRevenue": "Total yields are earning from off-chain deposited collaterals",
     "HoldersRevenue": "Total fees are distibuted to whitelised M staker",
     "ProtocolRevenue": "Total fees are earned by M0 protocol"
   },
+  "misrepresentedTokens": false,
+  "defillamaId": "5241",
+  "displayName": "M0",
+  "methodologyURL": "https://github.com/DefiLlama/dimension-adapters/blob/master/fees/m0.ts",
   "versionKey": null,
   "github": null,
   "governanceID": null,
   "treasury": null,
   "parentProtocol": null,
   "previousNames": null,
-  "latestFetchIsOk": true,
+  "hallmarks": null,
+  "defaultChartView": null,
   "slug": "m0",
   "protocolType": "protocol",
-  "total24h": 27834,
-  "total48hto24h": 30249,
-  "total7d": 263463,
-  "total30d": 1467458,
-  "totalAllTime": 8808680,
+  "total24h": 25565,
+  "total48hto24h": 25558,
+  "total7d": 190846,
+  "total30d": 1117330,
+  "totalAllTime": 9315958,
   "totalDataChart": [
     [
       1737763200,
@@ -487,6 +489,10 @@
       26424
     ],
     [
+      1747008000,
+      151057
+    ],
+    [
       1747094400,
       26897
     ],
@@ -804,7 +810,59 @@
     ],
     [
       1753920000,
-      27834
+      27838
+    ],
+    [
+      1754006400,
+      30395
+    ],
+    [
+      1754092800,
+      30399
+    ],
+    [
+      1754179200,
+      30303
+    ],
+    [
+      1754265600,
+      23349
+    ],
+    [
+      1754352000,
+      25360
+    ],
+    [
+      1754438400,
+      25393
+    ],
+    [
+      1754524800,
+      37593
+    ],
+    [
+      1754611200,
+      25634
+    ],
+    [
+      1754697600,
+      25551
+    ],
+    [
+      1754784000,
+      25557
+    ],
+    [
+      1754870400,
+      25558
+    ],
+    [
+      1754956800,
+      25560
+    ],
+    [
+      1755043200,
+      25565
     ]
   ],
   "totalDataChartBreakdown": [
@@ -1665,6 +1723,14 @@
       }
     ],
     [
+      1747008000,
+      {
+        "Ethereum": {
+          "M0": 151057
+        }
+      }
+    ],
+    [
       1747094400,
       {
         "Ethereum": {
@@ -2300,10 +2366,114 @@
       1753920000,
       {
         "Ethereum": {
-          "M0": 27834
+          "M0": 27838
+        }
+      }
+    ],
+    [
+      1754006400,
+      {
+        "Ethereum": {
+          "M0": 30395
+        }
+      }
+    ],
+    [
+      1754092800,
+      {
+        "Ethereum": {
+          "M0": 30399
+        }
+      }
+    ],
+    [
+      1754179200,
+      {
+        "Ethereum": {
+          "M0": 30303
+        }
+      }
+    ],
+    [
+      1754265600,
+      {
+        "Ethereum": {
+          "M0": 23349
+        }
+      }
+    ],
+    [
+      1754352000,
+      {
+        "Ethereum": {
+          "M0": 25360
+        }
+      }
+    ],
+    [
+      1754438400,
+      {
+        "Ethereum": {
+          "M0": 25393
+        }
+      }
+    ],
+    [
+      1754524800,
+      {
+        "Ethereum": {
+          "M0": 37593
+        }
+      }
+    ],
+    [
+      1754611200,
+      {
+        "Ethereum": {
+          "M0": 25634
+        }
+      }
+    ],
+    [
+      1754697600,
+      {
+        "Ethereum": {
+          "M0": 25551
+        }
+      }
+    ],
+    [
+      1754784000,
+      {
+        "Ethereum": {
+          "M0": 25557
+        }
+      }
+    ],
+    [
+      1754870400,
+      {
+        "Ethereum": {
+          "M0": 25558
+        }
+      }
+    ],
+    [
+      1754956800,
+      {
+        "Ethereum": {
+          "M0": 25560
+        }
+      }
+    ],
+    [
+      1755043200,
+      {
+        "Ethereum": {
+          "M0": 25565
         }
       }
     ]
   ],
-  "change_1d": -7.98
+  "change_1d": 0.03
 }

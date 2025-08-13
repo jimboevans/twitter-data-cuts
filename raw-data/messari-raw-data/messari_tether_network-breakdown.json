@@ -15431,11 +15431,11 @@
         ],
         [
           {
-            "network_slug": "solana",
+            "network_slug": "ton",
             "value": null
           },
           {
-            "network_slug": "ton",
+            "network_slug": "solana",
             "value": null
           },
           {
@@ -15962,11 +15962,11 @@
         ],
         [
           {
-            "network_slug": "solana",
+            "network_slug": "ton",
             "value": null
           },
           {
-            "network_slug": "ton",
+            "network_slug": "solana",
             "value": null
           },
           {
@@ -16029,11 +16029,11 @@
         ],
         [
           {
-            "network_slug": "ton",
+            "network_slug": "solana",
             "value": null
           },
           {
-            "network_slug": "solana",
+            "network_slug": "ton",
             "value": null
           },
           {
@@ -16041,10 +16041,6 @@
             "value": 1000.36446
           },
           {
-            "network_slug": "celo",
-            "value": 0
-          },
-          {
             "network_slug": "ethereum",
             "value": 0
           },
@@ -16055,15 +16051,19 @@
           {
             "network_slug": "aptos",
             "value": 0
+          },
+          {
+            "network_slug": "celo",
+            "value": 0
           }
         ],
         [
           {
-            "network_slug": "celo",
+            "network_slug": "solana",
             "value": null
           },
           {
-            "network_slug": "solana",
+            "network_slug": "celo",
             "value": null
           },
           {
@@ -16071,10 +16071,6 @@
             "value": null
           },
           {
-            "network_slug": "tron",
-            "value": 0
-          },
-          {
             "network_slug": "aptos",
             "value": 0
           },
@@ -16084,6 +16080,10 @@
           },
           {
             "network_slug": "ethereum",
+            "value": 0
+          },
+          {
+            "network_slug": "tron",
             "value": 0
           }
         ],
@@ -16119,11 +16119,11 @@
         ],
         [
           {
-            "network_slug": "ton",
+            "network_slug": "solana",
             "value": null
           },
           {
-            "network_slug": "solana",
+            "network_slug": "ton",
             "value": null
           },
           {
@@ -16194,15 +16194,15 @@
             "value": 0
           },
           {
+            "network_slug": "ethereum",
+            "value": 0
+          },
+          {
             "network_slug": "tron",
             "value": 0
           },
           {
             "network_slug": "aptos",
-            "value": 0
-          },
-          {
-            "network_slug": "ethereum",
             "value": 0
           },
           {
@@ -16224,11 +16224,7 @@
             "value": null
           },
           {
-            "network_slug": "avalanche",
-            "value": 0
-          },
-          {
-            "network_slug": "aptos",
+            "network_slug": "tron",
             "value": 0
           },
           {
@@ -16236,7 +16232,11 @@
             "value": 0
           },
           {
-            "network_slug": "tron",
+            "network_slug": "aptos",
+            "value": 0
+          },
+          {
+            "network_slug": "avalanche",
             "value": 0
           }
         ],
@@ -16272,11 +16272,11 @@
         ],
         [
           {
-            "network_slug": "ton",
+            "network_slug": "solana",
             "value": null
           },
           {
-            "network_slug": "solana",
+            "network_slug": "ton",
             "value": null
           },
           {
@@ -16335,19 +16335,19 @@
         ],
         [
           {
-            "network_slug": "solana",
-            "value": null
-          },
-          {
             "network_slug": "ton",
             "value": null
           },
           {
-            "network_slug": "ethereum",
+            "network_slug": "solana",
+            "value": null
+          },
+          {
+            "network_slug": "aptos",
             "value": 0
           },
           {
-            "network_slug": "celo",
+            "network_slug": "ethereum",
             "value": 0
           },
           {
@@ -16355,20 +16355,16 @@
             "value": 0
           },
           {
-            "network_slug": "aptos",
+            "network_slug": "avalanche",
             "value": 0
           },
           {
-            "network_slug": "avalanche",
+            "network_slug": "celo",
             "value": 0
           }
         ],
         [
           {
-            "network_slug": "solana",
-            "value": null
-          },
-          {
             "network_slug": "ton",
             "value": null
           },
@@ -16377,11 +16373,11 @@
             "value": null
           },
           {
-            "network_slug": "avalanche",
-            "value": 0
+            "network_slug": "solana",
+            "value": null
           },
           {
-            "network_slug": "aptos",
+            "network_slug": "tron",
             "value": 0
           },
           {
@@ -16389,7 +16385,11 @@
             "value": 0
           },
           {
-            "network_slug": "tron",
+            "network_slug": "aptos",
+            "value": 0
+          },
+          {
+            "network_slug": "avalanche",
             "value": 0
           }
         ],
@@ -16496,7 +16496,7 @@
             "value": null
           },
           {
-            "network_slug": "tron",
+            "network_slug": "aptos",
             "value": 0
           },
           {
@@ -16512,7 +16512,7 @@
             "value": 0
           },
           {
-            "network_slug": "aptos",
+            "network_slug": "tron",
             "value": 0
           }
         ],
@@ -16641,15 +16641,23 @@
         ],
         [
           {
-            "network_slug": "ton",
-            "value": null
-          },
-          {
             "network_slug": "solana",
             "value": null
           },
           {
+            "network_slug": "ton",
+            "value": null
+          },
+          {
+            "network_slug": "tron",
+            "value": 0
+          },
+          {
             "network_slug": "ethereum",
+            "value": 0
+          },
+          {
+            "network_slug": "celo",
             "value": 0
           },
           {
@@ -16659,19 +16667,11 @@
           {
             "network_slug": "aptos",
             "value": 0
-          },
-          {
-            "network_slug": "tron",
-            "value": 0
-          },
-          {
-            "network_slug": "celo",
-            "value": 0
           }
         ],
         [
           {
-            "network_slug": "ton",
+            "network_slug": "celo",
             "value": null
           },
           {
@@ -16679,15 +16679,15 @@
             "value": null
           },
           {
-            "network_slug": "celo",
+            "network_slug": "ton",
             "value": null
           },
           {
-            "network_slug": "tron",
+            "network_slug": "ethereum",
             "value": 0
           },
           {
-            "network_slug": "ethereum",
+            "network_slug": "tron",
             "value": 0
           },
           {
@@ -16731,11 +16731,11 @@
         ],
         [
           {
-            "network_slug": "solana",
+            "network_slug": "ton",
             "value": null
           },
           {
-            "network_slug": "ton",
+            "network_slug": "solana",
             "value": null
           },
           {
@@ -16802,7 +16802,7 @@
             "value": null
           },
           {
-            "network_slug": "tron",
+            "network_slug": "celo",
             "value": 0
           },
           {
@@ -16810,11 +16810,11 @@
             "value": 0
           },
           {
-            "network_slug": "celo",
+            "network_slug": "aptos",
             "value": 0
           },
           {
-            "network_slug": "aptos",
+            "network_slug": "tron",
             "value": 0
           },
           {
@@ -16828,16 +16828,12 @@
             "value": null
           },
           {
-            "network_slug": "ton",
-            "value": null
-          },
-          {
             "network_slug": "solana",
             "value": null
           },
           {
-            "network_slug": "aptos",
-            "value": 0
+            "network_slug": "ton",
+            "value": null
           },
           {
             "network_slug": "tron",
@@ -16845,6 +16841,10 @@
           },
           {
             "network_slug": "avalanche",
+            "value": 0
+          },
+          {
+            "network_slug": "aptos",
             "value": 0
           },
           {
@@ -16955,15 +16955,11 @@
             "value": null
           },
           {
-            "network_slug": "avalanche",
-            "value": 0
-          },
-          {
             "network_slug": "celo",
             "value": 0
           },
           {
-            "network_slug": "aptos",
+            "network_slug": "tron",
             "value": 0
           },
           {
@@ -16971,11 +16967,19 @@
             "value": 0
           },
           {
-            "network_slug": "tron",
+            "network_slug": "aptos",
+            "value": 0
+          },
+          {
+            "network_slug": "avalanche",
             "value": 0
           }
         ],
         [
+          {
+            "network_slug": "solana",
+            "value": null
+          },
           {
             "network_slug": "celo",
             "value": null
@@ -16985,15 +16989,11 @@
             "value": null
           },
           {
-            "network_slug": "solana",
-            "value": null
-          },
-          {
-            "network_slug": "ethereum",
+            "network_slug": "tron",
             "value": 0
           },
           {
-            "network_slug": "tron",
+            "network_slug": "ethereum",
             "value": 0
           },
           {
@@ -17037,11 +17037,11 @@
         ],
         [
           {
-            "network_slug": "solana",
+            "network_slug": "ton",
             "value": null
           },
           {
-            "network_slug": "ton",
+            "network_slug": "solana",
             "value": null
           },
           {
@@ -17100,19 +17100,15 @@
         ],
         [
           {
-            "network_slug": "ton",
-            "value": null
-          },
-          {
             "network_slug": "solana",
             "value": null
           },
           {
-            "network_slug": "tron",
-            "value": 0
+            "network_slug": "ton",
+            "value": null
           },
           {
-            "network_slug": "ethereum",
+            "network_slug": "aptos",
             "value": 0
           },
           {
@@ -17120,11 +17116,15 @@
             "value": 0
           },
           {
-            "network_slug": "aptos",
+            "network_slug": "tron",
             "value": 0
           },
           {
             "network_slug": "celo",
+            "value": 0
+          },
+          {
+            "network_slug": "ethereum",
             "value": 0
           }
         ],
@@ -17134,11 +17134,11 @@
             "value": null
           },
           {
-            "network_slug": "celo",
+            "network_slug": "solana",
             "value": null
           },
           {
-            "network_slug": "solana",
+            "network_slug": "celo",
             "value": null
           },
           {
@@ -17146,11 +17146,11 @@
             "value": 7094659.758715404
           },
           {
-            "network_slug": "aptos",
+            "network_slug": "avalanche",
             "value": 0
           },
           {
-            "network_slug": "avalanche",
+            "network_slug": "aptos",
             "value": 0
           },
           {
@@ -17190,11 +17190,11 @@
         ],
         [
           {
-            "network_slug": "solana",
+            "network_slug": "ton",
             "value": null
           },
           {
-            "network_slug": "ton",
+            "network_slug": "solana",
             "value": null
           },
           {
@@ -17261,11 +17261,11 @@
             "value": null
           },
           {
-            "network_slug": "avalanche",
+            "network_slug": "tron",
             "value": 0
           },
           {
-            "network_slug": "aptos",
+            "network_slug": "celo",
             "value": 0
           },
           {
@@ -17273,17 +17273,17 @@
             "value": 0
           },
           {
-            "network_slug": "tron",
+            "network_slug": "aptos",
             "value": 0
           },
           {
-            "network_slug": "celo",
+            "network_slug": "avalanche",
             "value": 0
           }
         ],
         [
           {
-            "network_slug": "solana",
+            "network_slug": "ton",
             "value": null
           },
           {
@@ -17291,16 +17291,8 @@
             "value": null
           },
           {
-            "network_slug": "ton",
+            "network_slug": "solana",
             "value": null
-          },
-          {
-            "network_slug": "aptos",
-            "value": 0
-          },
-          {
-            "network_slug": "ethereum",
-            "value": 0
           },
           {
             "network_slug": "avalanche",
@@ -17308,6 +17300,14 @@
           },
           {
             "network_slug": "tron",
+            "value": 0
+          },
+          {
+            "network_slug": "ethereum",
+            "value": 0
+          },
+          {
+            "network_slug": "aptos",
             "value": 0
           }
         ],
@@ -17343,11 +17343,11 @@
         ],
         [
           {
-            "network_slug": "solana",
+            "network_slug": "ton",
             "value": null
           },
           {
-            "network_slug": "ton",
+            "network_slug": "solana",
             "value": null
           },
           {
@@ -17418,11 +17418,7 @@
             "value": 1000288980
           },
           {
-            "network_slug": "avalanche",
-            "value": 0
-          },
-          {
-            "network_slug": "aptos",
+            "network_slug": "celo",
             "value": 0
           },
           {
@@ -17430,17 +17426,21 @@
             "value": 0
           },
           {
-            "network_slug": "celo",
+            "network_slug": "aptos",
+            "value": 0
+          },
+          {
+            "network_slug": "avalanche",
             "value": 0
           }
         ],
         [
           {
-            "network_slug": "celo",
+            "network_slug": "solana",
             "value": null
           },
           {
-            "network_slug": "solana",
+            "network_slug": "celo",
             "value": null
           },
           {
@@ -17456,11 +17456,11 @@
             "value": 5765138.526121874
           },
           {
-            "network_slug": "aptos",
+            "network_slug": "avalanche",
             "value": 0
           },
           {
-            "network_slug": "avalanche",
+            "network_slug": "aptos",
             "value": 0
           }
         ],
@@ -17496,11 +17496,11 @@
         ],
         [
           {
-            "network_slug": "solana",
+            "network_slug": "ton",
             "value": null
           },
           {
-            "network_slug": "ton",
+            "network_slug": "solana",
             "value": null
           },
           {
@@ -17575,15 +17575,15 @@
             "value": 0
           },
           {
+            "network_slug": "aptos",
+            "value": 0
+          },
+          {
             "network_slug": "ethereum",
             "value": 0
           },
           {
             "network_slug": "avalanche",
-            "value": 0
-          },
-          {
-            "network_slug": "aptos",
             "value": 0
           }
         ],
@@ -17601,19 +17601,19 @@
             "value": null
           },
           {
-            "network_slug": "ethereum",
-            "value": 0
-          },
-          {
-            "network_slug": "aptos",
-            "value": 0
-          },
-          {
             "network_slug": "avalanche",
             "value": 0
           },
           {
+            "network_slug": "ethereum",
+            "value": 0
+          },
+          {
             "network_slug": "tron",
+            "value": 0
+          },
+          {
+            "network_slug": "aptos",
             "value": 0
           }
         ],
@@ -17649,11 +17649,11 @@
         ],
         [
           {
-            "network_slug": "solana",
+            "network_slug": "ton",
             "value": null
           },
           {
-            "network_slug": "ton",
+            "network_slug": "solana",
             "value": null
           },
           {
@@ -17712,11 +17712,11 @@
         ],
         [
           {
-            "network_slug": "solana",
+            "network_slug": "ton",
             "value": null
           },
           {
-            "network_slug": "ton",
+            "network_slug": "solana",
             "value": null
           },
           {
@@ -17742,10 +17742,6 @@
         ],
         [
           {
-            "network_slug": "solana",
-            "value": null
-          },
-          {
             "network_slug": "celo",
             "value": null
           },
@@ -17754,11 +17750,15 @@
             "value": null
           },
           {
-            "network_slug": "tron",
-            "value": 0
+            "network_slug": "solana",
+            "value": null
           },
           {
             "network_slug": "avalanche",
+            "value": 0
+          },
+          {
+            "network_slug": "tron",
             "value": 0
           },
           {
@@ -17802,11 +17802,11 @@
         ],
         [
           {
-            "network_slug": "ton",
+            "network_slug": "solana",
             "value": null
           },
           {
-            "network_slug": "solana",
+            "network_slug": "ton",
             "value": null
           },
           {
@@ -17897,11 +17897,11 @@
         ],
         [
           {
-            "network_slug": "solana",
+            "network_slug": "ton",
             "value": null
           },
           {
-            "network_slug": "ton",
+            "network_slug": "solana",
             "value": null
           },
           {
@@ -18277,11 +18277,11 @@
         ],
         [
           {
-            "network_slug": "ton",
+            "network_slug": "solana",
             "value": null
           },
           {
-            "network_slug": "solana",
+            "network_slug": "ton",
             "value": null
           },
           {
@@ -18372,11 +18372,11 @@
         ],
         [
           {
-            "network_slug": "ton",
+            "network_slug": "solana",
             "value": null
           },
           {
-            "network_slug": "solana",
+            "network_slug": "ton",
             "value": null
           },
           {
@@ -18467,11 +18467,11 @@
         ],
         [
           {
-            "network_slug": "ton",
+            "network_slug": "solana",
             "value": null
           },
           {
-            "network_slug": "solana",
+            "network_slug": "ton",
             "value": null
           },
           {
@@ -18752,11 +18752,11 @@
         ],
         [
           {
-            "network_slug": "ton",
+            "network_slug": "solana",
             "value": null
           },
           {
-            "network_slug": "solana",
+            "network_slug": "ton",
             "value": null
           },
           {
@@ -19132,11 +19132,11 @@
         ],
         [
           {
-            "network_slug": "solana",
+            "network_slug": "ton",
             "value": null
           },
           {
-            "network_slug": "ton",
+            "network_slug": "solana",
             "value": null
           },
           {
@@ -19417,11 +19417,11 @@
         ],
         [
           {
-            "network_slug": "solana",
+            "network_slug": "ton",
             "value": null
           },
           {
-            "network_slug": "ton",
+            "network_slug": "solana",
             "value": null
           },
           {
@@ -19512,11 +19512,11 @@
         ],
         [
           {
-            "network_slug": "solana",
+            "network_slug": "ton",
             "value": null
           },
           {
-            "network_slug": "ton",
+            "network_slug": "solana",
             "value": null
           },
           {
@@ -19607,11 +19607,11 @@
         ],
         [
           {
-            "network_slug": "ton",
+            "network_slug": "solana",
             "value": null
           },
           {
-            "network_slug": "solana",
+            "network_slug": "ton",
             "value": null
           },
           {
@@ -19702,11 +19702,11 @@
         ],
         [
           {
-            "network_slug": "ton",
+            "network_slug": "solana",
             "value": null
           },
           {
-            "network_slug": "solana",
+            "network_slug": "ton",
             "value": null
           },
           {
@@ -19797,11 +19797,11 @@
         ],
         [
           {
-            "network_slug": "solana",
+            "network_slug": "ton",
             "value": null
           },
           {
-            "network_slug": "ton",
+            "network_slug": "solana",
             "value": null
           },
           {
@@ -20177,11 +20177,11 @@
         ],
         [
           {
-            "network_slug": "ton",
+            "network_slug": "solana",
             "value": null
           },
           {
-            "network_slug": "solana",
+            "network_slug": "ton",
             "value": null
           },
           {
@@ -20272,11 +20272,11 @@
         ],
         [
           {
-            "network_slug": "solana",
+            "network_slug": "ton",
             "value": null
           },
           {
-            "network_slug": "ton",
+            "network_slug": "solana",
             "value": null
           },
           {
@@ -20462,11 +20462,11 @@
         ],
         [
           {
-            "network_slug": "ton",
+            "network_slug": "solana",
             "value": null
           },
           {
-            "network_slug": "solana",
+            "network_slug": "ton",
             "value": null
           },
           {
@@ -20747,11 +20747,11 @@
         ],
         [
           {
-            "network_slug": "ton",
+            "network_slug": "solana",
             "value": null
           },
           {
-            "network_slug": "solana",
+            "network_slug": "ton",
             "value": null
           },
           {
@@ -21032,11 +21032,11 @@
         ],
         [
           {
-            "network_slug": "ton",
+            "network_slug": "solana",
             "value": null
           },
           {
-            "network_slug": "solana",
+            "network_slug": "ton",
             "value": null
           },
           {
@@ -21222,11 +21222,11 @@
         ],
         [
           {
-            "network_slug": "solana",
+            "network_slug": "ton",
             "value": null
           },
           {
-            "network_slug": "ton",
+            "network_slug": "solana",
             "value": null
           },
           {
@@ -21602,11 +21602,11 @@
         ],
         [
           {
-            "network_slug": "solana",
+            "network_slug": "ton",
             "value": null
           },
           {
-            "network_slug": "ton",
+            "network_slug": "solana",
             "value": null
           },
           {
@@ -21982,11 +21982,11 @@
         ],
         [
           {
-            "network_slug": "solana",
+            "network_slug": "ton",
             "value": null
           },
           {
-            "network_slug": "ton",
+            "network_slug": "solana",
             "value": null
           },
           {
@@ -22172,11 +22172,11 @@
         ],
         [
           {
-            "network_slug": "ton",
+            "network_slug": "solana",
             "value": null
           },
           {
-            "network_slug": "solana",
+            "network_slug": "ton",
             "value": null
           },
           {
@@ -22590,7 +22590,7 @@
           },
           {
             "network_slug": "ethereum",
-            "value": 76522780067.88394
+            "value": 76522780067.88396
           },
           {
             "network_slug": "solana",
@@ -22685,11 +22685,11 @@
           },
           {
             "network_slug": "ethereum",
-            "value": 76860959965.95259
+            "value": 76860959965.95258
           },
           {
             "network_slug": "solana",
-            "value": 2024180725.409525
+            "value": 2024180725.409524
           },
           {
             "network_slug": "aptos",
@@ -22705,7 +22705,7 @@
           },
           {
             "network_slug": "celo",
-            "value": 131410593.9252312
+            "value": 131410593.9252313
           }
         ],
         [],
@@ -22717,23 +22717,23 @@
           },
           {
             "network_slug": "tron",
-            "value": 27927911526.71703
+            "value": 27927911526.7142
           },
           {
             "network_slug": "ethereum",
-            "value": 18013473159.93701
+            "value": 18013473159.93629
           },
           {
             "network_slug": "aptos",
-            "value": 2678460597.937758
+            "value": 2678460597.939175
           },
           {
             "network_slug": "avalanche",
-            "value": 2385753715.101522
+            "value": 2385753715.10149
           },
           {
             "network_slug": "celo",
-            "value": 194286862.5210057
+            "value": 194286862.5208439
           },
           {
             "network_slug": "ton",
@@ -22768,6 +22768,101 @@
           {
             "network_slug": "avalanche",
             "value": 78972
+          }
+        ]
+      ],
+      [
+        1754956800,
+        [
+          {
+            "network_slug": "tron",
+            "value": 82626038461.32402
+          },
+          {
+            "network_slug": "ethereum",
+            "value": 76835976463.88155
+          },
+          {
+            "network_slug": "solana",
+            "value": 2053603593.644959
+          },
+          {
+            "network_slug": "aptos",
+            "value": 885340894.1997839
+          },
+          {
+            "network_slug": "ton",
+            "value": 838585722.0564903
+          },
+          {
+            "network_slug": "avalanche",
+            "value": 491675097.8891831
+          },
+          {
+            "network_slug": "celo",
+            "value": 131443190.9016906
+          }
+        ],
+        [],
+        [],
+        [
+          {
+            "network_slug": "solana",
+            "value": null
+          },
+          {
+            "network_slug": "tron",
+            "value": 27634576596.13898
+          },
+          {
+            "network_slug": "ethereum",
+            "value": 18545485143.86622
+          },
+          {
+            "network_slug": "aptos",
+            "value": 2135354228.786457
+          },
+          {
+            "network_slug": "avalanche",
+            "value": 1438997621.968871
+          },
+          {
+            "network_slug": "ton",
+            "value": 415684989.5323454
+          },
+          {
+            "network_slug": "celo",
+            "value": 159153191.7248735
+          }
+        ],
+        [
+          {
+            "network_slug": "ton",
+            "value": null
+          },
+          {
+            "network_slug": "solana",
+            "value": null
+          },
+          {
+            "network_slug": "celo",
+            "value": 4037426
+          },
+          {
+            "network_slug": "tron",
+            "value": 2378710
+          },
+          {
+            "network_slug": "aptos",
+            "value": 1549392
+          },
+          {
+            "network_slug": "ethereum",
+            "value": 359302
+          },
+          {
+            "network_slug": "avalanche",
+            "value": 69817
           }
         ]
       ]

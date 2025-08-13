@@ -20,17 +20,19 @@
   "twitter": "pumpdotfun",
   "parentProtocol": "parent#pump",
   "listedAt": 1712427917,
+  "methodology": {},
+  "misrepresentedTokens": false,
   "defillamaId": "4449",
   "displayName": "pump.fun",
   "methodologyURL": "https://github.com/DefiLlama/dimension-adapters/blob/master/dexs/pumpfun.ts",
-  "methodology": {},
   "audit_links": null,
   "versionKey": null,
   "github": null,
   "governanceID": null,
   "treasury": null,
   "previousNames": null,
-  "latestFetchIsOk": true,
+  "hallmarks": null,
+  "defaultChartView": null,
   "slug": "pump.fun",
   "protocolType": "protocol",
   "linkedProtocols": [
@@ -38,11 +40,11 @@
     "pump.fun",
     "PumpSwap"
   ],
-  "total24h": 16179702,
-  "total48hto24h": 21534114,
-  "total7d": 143787408,
-  "total30d": 1347728155,
-  "totalAllTime": 69040745073,
+  "total24h": 154932561,
+  "total48hto24h": 142075552,
+  "total7d": 823728167,
+  "total30d": 1495506266,
+  "totalAllTime": 69718124048,
   "totalDataChart": [
     [
       1714089600,
@@ -939,10 +941,6 @@
     [
       1733356800,
       282392825
-    ],
-    [
-      1733443200,
-      255081733
     ],
     [
       1733529600,
@@ -1887,6 +1885,58 @@
     [
       1753833600,
       16179702
+    ],
+    [
+      1753920000,
+      18947342
+    ],
+    [
+      1754006400,
+      12733636
+    ],
+    [
+      1754092800,
+      13825787
+    ],
+    [
+      1754179200,
+      12559274
+    ],
+    [
+      1754265600,
+      10395234
+    ],
+    [
+      1754352000,
+      40271268
+    ],
+    [
+      1754438400,
+      119042855
+    ],
+    [
+      1754524800,
+      102395861
+    ],
+    [
+      1754611200,
+      106928025
+    ],
+    [
+      1754697600,
+      97941319
+    ],
+    [
+      1754784000,
+      100411994
+    ],
+    [
+      1754870400,
+      142075552
+    ],
+    [
+      1754956800,
+      154932561
     ]
   ],
   "totalDataChartBreakdown": [
@@ -3679,14 +3729,6 @@
       {
         "Solana": {
           "pump.fun": 282392825
-        }
-      }
-    ],
-    [
-      1733443200,
-      {
-        "Solana": {
-          "pump.fun": 255081733
         }
       }
     ],
@@ -5577,7 +5619,111 @@
           "pump.fun": 16179702
         }
       }
+    ],
+    [
+      1753920000,
+      {
+        "Solana": {
+          "pump.fun": 18947342
+        }
+      }
+    ],
+    [
+      1754006400,
+      {
+        "Solana": {
+          "pump.fun": 12733636
+        }
+      }
+    ],
+    [
+      1754092800,
+      {
+        "Solana": {
+          "pump.fun": 13825787
+        }
+      }
+    ],
+    [
+      1754179200,
+      {
+        "Solana": {
+          "pump.fun": 12559274
+        }
+      }
+    ],
+    [
+      1754265600,
+      {
+        "Solana": {
+          "pump.fun": 10395234
+        }
+      }
+    ],
+    [
+      1754352000,
+      {
+        "Solana": {
+          "pump.fun": 40271268
+        }
+      }
+    ],
+    [
+      1754438400,
+      {
+        "Solana": {
+          "pump.fun": 119042855
+        }
+      }
+    ],
+    [
+      1754524800,
+      {
+        "Solana": {
+          "pump.fun": 102395861
+        }
+      }
+    ],
+    [
+      1754611200,
+      {
+        "Solana": {
+          "pump.fun": 106928025
+        }
+      }
+    ],
+    [
+      1754697600,
+      {
+        "Solana": {
+          "pump.fun": 97941319
+        }
+      }
+    ],
+    [
+      1754784000,
+      {
+        "Solana": {
+          "pump.fun": 100411994
+        }
+      }
+    ],
+    [
+      1754870400,
+      {
+        "Solana": {
+          "pump.fun": 142075552
+        }
+      }
+    ],
+    [
+      1754956800,
+      {
+        "Solana": {
+          "pump.fun": 154932561
+        }
+      }
     ]
   ],
-  "change_1d": -24.86
+  "change_1d": 9.05
 }

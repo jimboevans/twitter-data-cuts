@@ -18,13 +18,14 @@
   "module": "padre",
   "twitter": "PadreApp",
   "forkedFromIds": [],
-  "defillamaId": "6328",
-  "displayName": "Padre",
-  "methodologyURL": "https://github.com/DefiLlama/dimension-adapters/blob/master/fees/padre",
   "methodology": {
     "Fees": "Trading fees paid by users while using Padre bot.",
     "Revenue": "All fees are collected by Padre protocol."
   },
+  "misrepresentedTokens": false,
+  "defillamaId": "6328",
+  "displayName": "Padre",
+  "methodologyURL": "https://github.com/DefiLlama/dimension-adapters/blob/master/fees/padre",
   "forkedFrom": null,
   "audit_links": null,
   "versionKey": null,
@@ -33,14 +34,15 @@
   "treasury": null,
   "parentProtocol": null,
   "previousNames": null,
-  "latestFetchIsOk": true,
+  "hallmarks": null,
+  "defaultChartView": null,
   "slug": "padre",
   "protocolType": "protocol",
-  "total24h": 27559,
-  "total48hto24h": 40049,
-  "total7d": 154712,
-  "total30d": 612204,
-  "totalAllTime": 2106921,
+  "total24h": 38811,
+  "total48hto24h": 38795,
+  "total7d": 220631,
+  "total30d": 745702,
+  "totalAllTime": 2447648,
   "totalDataChart": [
     [
       1722211200,
@@ -1473,6 +1475,58 @@
     [
       1753833600,
       27559
+    ],
+    [
+      1753920000,
+      27261
+    ],
+    [
+      1754006400,
+      17898
+    ],
+    [
+      1754092800,
+      14832
+    ],
+    [
+      1754179200,
+      17011
+    ],
+    [
+      1754265600,
+      16084
+    ],
+    [
+      1754352000,
+      27010
+    ],
+    [
+      1754438400,
+      27035
+    ],
+    [
+      1754524800,
+      37138
+    ],
+    [
+      1754611200,
+      27481
+    ],
+    [
+      1754697600,
+      25405
+    ],
+    [
+      1754784000,
+      25966
+    ],
+    [
+      1754870400,
+      38795
+    ],
+    [
+      1754956800,
+      38811
     ]
   ],
   "totalDataChartBreakdown": [
@@ -4339,7 +4393,111 @@
           "Padre": 27559
         }
       }
+    ],
+    [
+      1753920000,
+      {
+        "Solana": {
+          "Padre": 27261
+        }
+      }
+    ],
+    [
+      1754006400,
+      {
+        "Solana": {
+          "Padre": 17898
+        }
+      }
+    ],
+    [
+      1754092800,
+      {
+        "Solana": {
+          "Padre": 14832
+        }
+      }
+    ],
+    [
+      1754179200,
+      {
+        "Solana": {
+          "Padre": 17011
+        }
+      }
+    ],
+    [
+      1754265600,
+      {
+        "Solana": {
+          "Padre": 16084
+        }
+      }
+    ],
+    [
+      1754352000,
+      {
+        "Solana": {
+          "Padre": 27010
+        }
+      }
+    ],
+    [
+      1754438400,
+      {
+        "Solana": {
+          "Padre": 27035
+        }
+      }
+    ],
+    [
+      1754524800,
+      {
+        "Solana": {
+          "Padre": 37138
+        }
+      }
+    ],
+    [
+      1754611200,
+      {
+        "Solana": {
+          "Padre": 27481
+        }
+      }
+    ],
+    [
+      1754697600,
+      {
+        "Solana": {
+          "Padre": 25405
+        }
+      }
+    ],
+    [
+      1754784000,
+      {
+        "Solana": {
+          "Padre": 25966
+        }
+      }
+    ],
+    [
+      1754870400,
+      {
+        "Solana": {
+          "Padre": 38795
+        }
+      }
+    ],
+    [
+      1754956800,
+      {
+        "Solana": {
+          "Padre": 38811
+        }
+      }
     ]
   ],
-  "change_1d": -31.19
+  "change_1d": 0.04
 }

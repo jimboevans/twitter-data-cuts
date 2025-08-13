@@ -22,12 +22,19 @@
   "twitter": "Paxos",
   "listedAt": 1720549017,
   "category": "RWA",
-  "defillamaId": "4862",
-  "displayName": "Paxos Gold",
-  "methodologyURL": "https://github.com/DefiLlama/dimension-adapters/blob/master/fees/paxos-gold",
   "methodology": {
     "Fees": "Fees paid by users while transferring PAXG token."
   },
+  "misrepresentedTokens": false,
+  "hallmarks": [
+    [
+      1724371200,
+      "Transfer fee was set to 0"
+    ]
+  ],
+  "defillamaId": "4862",
+  "displayName": "Paxos Gold",
+  "methodologyURL": "https://github.com/DefiLlama/dimension-adapters/blob/master/fees/paxos-gold",
   "audit_links": null,
   "versionKey": null,
   "github": null,
@@ -35,7 +42,7 @@
   "treasury": null,
   "parentProtocol": null,
   "previousNames": null,
-  "latestFetchIsOk": true,
+  "defaultChartView": null,
   "slug": "paxos-gold",
   "protocolType": "protocol",
   "total24h": 0,
@@ -2250,6 +2257,58 @@
     ],
     [
       1753920000,
+      0
+    ],
+    [
+      1754006400,
+      0
+    ],
+    [
+      1754092800,
+      0
+    ],
+    [
+      1754179200,
+      0
+    ],
+    [
+      1754265600,
+      0
+    ],
+    [
+      1754352000,
+      0
+    ],
+    [
+      1754438400,
+      0
+    ],
+    [
+      1754524800,
+      0
+    ],
+    [
+      1754611200,
+      0
+    ],
+    [
+      1754697600,
+      0
+    ],
+    [
+      1754784000,
+      0
+    ],
+    [
+      1754870400,
+      0
+    ],
+    [
+      1754956800,
+      0
+    ],
+    [
+      1755043200,
       0
     ]
   ],
@@ -6664,6 +6723,110 @@
     ],
     [
       1753920000,
+      {
+        "Ethereum": {
+          "Paxos Gold": 0
+        }
+      }
+    ],
+    [
+      1754006400,
+      {
+        "Ethereum": {
+          "Paxos Gold": 0
+        }
+      }
+    ],
+    [
+      1754092800,
+      {
+        "Ethereum": {
+          "Paxos Gold": 0
+        }
+      }
+    ],
+    [
+      1754179200,
+      {
+        "Ethereum": {
+          "Paxos Gold": 0
+        }
+      }
+    ],
+    [
+      1754265600,
+      {
+        "Ethereum": {
+          "Paxos Gold": 0
+        }
+      }
+    ],
+    [
+      1754352000,
+      {
+        "Ethereum": {
+          "Paxos Gold": 0
+        }
+      }
+    ],
+    [
+      1754438400,
+      {
+        "Ethereum": {
+          "Paxos Gold": 0
+        }
+      }
+    ],
+    [
+      1754524800,
+      {
+        "Ethereum": {
+          "Paxos Gold": 0
+        }
+      }
+    ],
+    [
+      1754611200,
+      {
+        "Ethereum": {
+          "Paxos Gold": 0
+        }
+      }
+    ],
+    [
+      1754697600,
+      {
+        "Ethereum": {
+          "Paxos Gold": 0
+        }
+      }
+    ],
+    [
+      1754784000,
+      {
+        "Ethereum": {
+          "Paxos Gold": 0
+        }
+      }
+    ],
+    [
+      1754870400,
+      {
+        "Ethereum": {
+          "Paxos Gold": 0
+        }
+      }
+    ],
+    [
+      1754956800,
+      {
+        "Ethereum": {
+          "Paxos Gold": 0
+        }
+      }
+    ],
+    [
+      1755043200,
       {
         "Ethereum": {
           "Paxos Gold": 0

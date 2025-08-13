@@ -21,9 +21,6 @@
   "audit_links": [],
   "parentProtocol": "parent#meteora",
   "listedAt": 1708387360,
-  "defillamaId": "4148",
-  "displayName": "Meteora DLMM",
-  "methodologyURL": "https://github.com/DefiLlama/dimension-adapters/blob/master/fees/meteora-dlmm.ts",
   "methodology": {
     "UserFees": "Swap fees paid by users",
     "Fees": "Swap fees paid by users",
@@ -32,12 +29,17 @@
     "HoldersRevenue": "Money going to governance token holders",
     "SupplySideRevenue": "Liquidity providers revenue"
   },
+  "misrepresentedTokens": false,
+  "defillamaId": "4148",
+  "displayName": "Meteora DLMM",
+  "methodologyURL": "https://github.com/DefiLlama/dimension-adapters/blob/master/fees/meteora-dlmm.ts",
   "versionKey": null,
   "github": null,
   "governanceID": null,
   "treasury": null,
   "previousNames": null,
-  "latestFetchIsOk": true,
+  "hallmarks": null,
+  "defaultChartView": null,
   "slug": "meteora-dlmm",
   "protocolType": "protocol",
   "linkedProtocols": [
@@ -47,11 +49,11 @@
     "Meteora DAMM V2",
     "Meteora Dynamic Bonding Curve"
   ],
-  "total24h": 1451149,
-  "total48hto24h": 1801894,
-  "total7d": 11474111,
-  "total30d": 109086856,
-  "totalAllTime": 1271208091,
+  "total24h": 2197507,
+  "total48hto24h": 1662778,
+  "total7d": 12147940,
+  "total30d": 51280779,
+  "totalAllTime": 1287935990,
   "totalDataChart": [
     [
       1737331200,
@@ -602,10 +604,6 @@
       4348188
     ],
     [
-      1749168000,
-      3487848
-    ],
-    [
       1749254400,
       4662097
     ],
@@ -823,7 +821,59 @@
     ],
     [
       1753920000,
-      1451149
+      1489991
+    ],
+    [
+      1754006400,
+      1190343
+    ],
+    [
+      1754092800,
+      808341
+    ],
+    [
+      1754179200,
+      868839
+    ],
+    [
+      1754265600,
+      1316000
+    ],
+    [
+      1754352000,
+      1647935
+    ],
+    [
+      1754438400,
+      1504933
+    ],
+    [
+      1754524800,
+      2034880
+    ],
+    [
+      1754611200,
+      1288605
+    ],
+    [
+      1754697600,
+      1822834
+    ],
+    [
+      1754784000,
+      1348989
+    ],
+    [
+      1754870400,
+      1662778
+    ],
+    [
+      1754956800,
+      2484921
+    ],
+    [
+      1755043200,
+      2197507
     ]
   ],
   "totalDataChartBreakdown": [
@@ -1924,14 +1974,6 @@
       }
     ],
     [
-      1749168000,
-      {
-        "Solana": {
-          "Meteora DLMM": 3487848
-        }
-      }
-    ],
-    [
       1749254400,
       {
         "Solana": {
@@ -2367,10 +2409,114 @@
       1753920000,
       {
         "Solana": {
-          "Meteora DLMM": 1451149
+          "Meteora DLMM": 1489991
+        }
+      }
+    ],
+    [
+      1754006400,
+      {
+        "Solana": {
+          "Meteora DLMM": 1190343
+        }
+      }
+    ],
+    [
+      1754092800,
+      {
+        "Solana": {
+          "Meteora DLMM": 808341
+        }
+      }
+    ],
+    [
+      1754179200,
+      {
+        "Solana": {
+          "Meteora DLMM": 868839
+        }
+      }
+    ],
+    [
+      1754265600,
+      {
+        "Solana": {
+          "Meteora DLMM": 1316000
+        }
+      }
+    ],
+    [
+      1754352000,
+      {
+        "Solana": {
+          "Meteora DLMM": 1647935
+        }
+      }
+    ],
+    [
+      1754438400,
+      {
+        "Solana": {
+          "Meteora DLMM": 1504933
+        }
+      }
+    ],
+    [
+      1754524800,
+      {
+        "Solana": {
+          "Meteora DLMM": 2034880
+        }
+      }
+    ],
+    [
+      1754611200,
+      {
+        "Solana": {
+          "Meteora DLMM": 1288605
+        }
+      }
+    ],
+    [
+      1754697600,
+      {
+        "Solana": {
+          "Meteora DLMM": 1822834
+        }
+      }
+    ],
+    [
+      1754784000,
+      {
+        "Solana": {
+          "Meteora DLMM": 1348989
+        }
+      }
+    ],
+    [
+      1754870400,
+      {
+        "Solana": {
+          "Meteora DLMM": 1662778
+        }
+      }
+    ],
+    [
+      1754956800,
+      {
+        "Solana": {
+          "Meteora DLMM": 2484921
+        }
+      }
+    ],
+    [
+      1755043200,
+      {
+        "Solana": {
+          "Meteora DLMM": 2197507
         }
       }
     ]
   ],
-  "change_1d": -19.47
+  "change_1d": 32.16
 }

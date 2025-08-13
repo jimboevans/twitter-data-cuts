@@ -23,12 +23,13 @@
   "forkedFrom": [],
   "listedAt": 1720781977,
   "category": "RWA",
-  "defillamaId": "4878",
-  "displayName": "Franklin Templeton",
-  "methodologyURL": "https://github.com/DefiLlama/dimension-adapters/blob/master/fees/franklin-templeton",
   "methodology": {
     "Fees": "Total yields are generated from investment assets, mostly US Treasuries."
   },
+  "misrepresentedTokens": true,
+  "defillamaId": "4878",
+  "displayName": "Franklin Templeton",
+  "methodologyURL": "https://github.com/DefiLlama/dimension-adapters/blob/master/fees/franklin-templeton",
   "audit_links": null,
   "versionKey": null,
   "github": null,
@@ -36,14 +37,15 @@
   "treasury": null,
   "parentProtocol": null,
   "previousNames": null,
-  "latestFetchIsOk": true,
+  "hallmarks": null,
+  "defaultChartView": null,
   "slug": "franklin-templeton",
   "protocolType": "protocol",
-  "total24h": 0,
+  "total24h": 3365,
   "total48hto24h": 0,
-  "total7d": 12942,
-  "total30d": 72802,
-  "totalAllTime": 795963,
+  "total7d": 3365,
+  "total30d": 41758,
+  "totalAllTime": 802693,
   "totalDataChart": [
     [
       1723766400,
@@ -1424,6 +1426,14 @@
     [
       1753488000,
       2591
+    ],
+    [
+      1754956800,
+      3365
+    ],
+    [
+      1755043200,
+      3365
     ]
   ],
   "totalDataChartBreakdown": [
@@ -5219,6 +5229,28 @@
         },
         "Stellar": {
           "Franklin Templeton": 2410
+        }
+      }
+    ],
+    [
+      1754956800,
+      {
+        "Stellar": {
+          "Franklin Templeton": 3129
+        },
+        "Polygon": {
+          "Franklin Templeton": 236
+        }
+      }
+    ],
+    [
+      1755043200,
+      {
+        "Stellar": {
+          "Franklin Templeton": 3129
+        },
+        "Polygon": {
+          "Franklin Templeton": 236
         }
       }
     ]

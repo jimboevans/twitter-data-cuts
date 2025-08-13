@@ -20,9 +20,6 @@
   "twitter": "pumpdotfun",
   "parentProtocol": "parent#pump",
   "listedAt": 1742516927,
-  "defillamaId": "5936",
-  "displayName": "PumpSwap",
-  "methodologyURL": "https://github.com/DefiLlama/dimension-adapters/blob/master/fees/pump-swap",
   "methodology": {
     "UserFees": "Swap fees paid by users",
     "Fees": "Total fees collected from all sources, including LP fees (0.20%) and protocol fees (0.05%) and coin creator fees (0.05%) from each trade",
@@ -32,13 +29,18 @@
     "SupplySideRevenue": "Value earned by liquidity providers, which is the 0.20% LP fee from each trade",
     "Volume": "Tracks the trading volume across all pairs on PumpFun AMM"
   },
+  "misrepresentedTokens": false,
+  "defillamaId": "5936",
+  "displayName": "PumpSwap",
+  "methodologyURL": "https://github.com/DefiLlama/dimension-adapters/blob/master/fees/pump-swap",
   "audit_links": null,
   "versionKey": null,
   "github": null,
   "governanceID": null,
   "treasury": null,
   "previousNames": null,
-  "latestFetchIsOk": true,
+  "hallmarks": null,
+  "defaultChartView": null,
   "slug": "pumpswap",
   "protocolType": "protocol",
   "linkedProtocols": [
@@ -46,11 +48,11 @@
     "pump.fun",
     "PumpSwap"
   ],
-  "total24h": 330793,
-  "total48hto24h": 382928,
-  "total7d": 2384181,
-  "total30d": 18042593,
-  "totalAllTime": 122640815,
+  "total24h": 1506272,
+  "total48hto24h": 1239887,
+  "total7d": 7720081,
+  "total30d": 19765118,
+  "totalAllTime": 132422367,
   "totalDataChart": [
     [
       1735084800,
@@ -923,6 +925,58 @@
     [
       1753833600,
       330793
+    ],
+    [
+      1753920000,
+      412847
+    ],
+    [
+      1754006400,
+      262532
+    ],
+    [
+      1754092800,
+      177628
+    ],
+    [
+      1754179200,
+      196240
+    ],
+    [
+      1754265600,
+      292036
+    ],
+    [
+      1754352000,
+      720188
+    ],
+    [
+      1754438400,
+      1010304
+    ],
+    [
+      1754524800,
+      1013855
+    ],
+    [
+      1754611200,
+      1054051
+    ],
+    [
+      1754697600,
+      942259
+    ],
+    [
+      1754784000,
+      953453
+    ],
+    [
+      1754870400,
+      1239887
+    ],
+    [
+      1754956800,
+      1506272
     ]
   ],
   "totalDataChartBreakdown": [
@@ -2669,7 +2723,111 @@
           "PumpSwap": 330793
         }
       }
+    ],
+    [
+      1753920000,
+      {
+        "Solana": {
+          "PumpSwap": 412847
+        }
+      }
+    ],
+    [
+      1754006400,
+      {
+        "Solana": {
+          "PumpSwap": 262532
+        }
+      }
+    ],
+    [
+      1754092800,
+      {
+        "Solana": {
+          "PumpSwap": 177628
+        }
+      }
+    ],
+    [
+      1754179200,
+      {
+        "Solana": {
+          "PumpSwap": 196240
+        }
+      }
+    ],
+    [
+      1754265600,
+      {
+        "Solana": {
+          "PumpSwap": 292036
+        }
+      }
+    ],
+    [
+      1754352000,
+      {
+        "Solana": {
+          "PumpSwap": 720188
+        }
+      }
+    ],
+    [
+      1754438400,
+      {
+        "Solana": {
+          "PumpSwap": 1010304
+        }
+      }
+    ],
+    [
+      1754524800,
+      {
+        "Solana": {
+          "PumpSwap": 1013855
+        }
+      }
+    ],
+    [
+      1754611200,
+      {
+        "Solana": {
+          "PumpSwap": 1054051
+        }
+      }
+    ],
+    [
+      1754697600,
+      {
+        "Solana": {
+          "PumpSwap": 942259
+        }
+      }
+    ],
+    [
+      1754784000,
+      {
+        "Solana": {
+          "PumpSwap": 953453
+        }
+      }
+    ],
+    [
+      1754870400,
+      {
+        "Solana": {
+          "PumpSwap": 1239887
+        }
+      }
+    ],
+    [
+      1754956800,
+      {
+        "Solana": {
+          "PumpSwap": 1506272
+        }
+      }
     ]
   ],
-  "change_1d": -13.61
+  "change_1d": 21.48
 }

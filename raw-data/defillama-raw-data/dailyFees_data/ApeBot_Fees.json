@@ -21,28 +21,30 @@
   "github": [
     "ApeBotOfficial"
   ],
-  "defillamaId": "6420",
-  "displayName": "ApeBot",
-  "methodologyURL": "https://github.com/DefiLlama/dimension-adapters/blob/master/fees/apebot",
   "methodology": {
     "Fees": "Fees collected from the swaps.",
     "Revenue": "All collected fees are protocol revenue.",
     "ProtocolRevenue": "100% fees goes to the protocol."
   },
+  "misrepresentedTokens": false,
+  "defillamaId": "6420",
+  "displayName": "ApeBot",
+  "methodologyURL": "https://github.com/DefiLlama/dimension-adapters/blob/master/fees/apebot",
   "audit_links": null,
   "versionKey": null,
   "governanceID": null,
   "treasury": null,
   "parentProtocol": null,
   "previousNames": null,
-  "latestFetchIsOk": true,
+  "hallmarks": null,
+  "defaultChartView": null,
   "slug": "apebot",
   "protocolType": "protocol",
   "total24h": 0,
-  "total48hto24h": 8,
-  "total7d": 18,
-  "total30d": 45,
-  "totalAllTime": 45,
+  "total48hto24h": 0,
+  "total7d": 1,
+  "total30d": 40,
+  "totalAllTime": 46,
   "totalDataChart": [
     [
       1752019200,
@@ -134,6 +136,58 @@
     ],
     [
       1753920000,
+      0
+    ],
+    [
+      1754006400,
+      0
+    ],
+    [
+      1754092800,
+      0
+    ],
+    [
+      1754179200,
+      0
+    ],
+    [
+      1754265600,
+      0
+    ],
+    [
+      1754352000,
+      0
+    ],
+    [
+      1754438400,
+      0
+    ],
+    [
+      1754524800,
+      0
+    ],
+    [
+      1754611200,
+      0
+    ],
+    [
+      1754697600,
+      1
+    ],
+    [
+      1754784000,
+      0
+    ],
+    [
+      1754870400,
+      0
+    ],
+    [
+      1754956800,
+      0
+    ],
+    [
+      1755043200,
       0
     ]
   ],
@@ -316,6 +370,110 @@
     ],
     [
       1753920000,
+      {
+        "Solana": {
+          "ApeBot": 0
+        }
+      }
+    ],
+    [
+      1754006400,
+      {
+        "Solana": {
+          "ApeBot": 0
+        }
+      }
+    ],
+    [
+      1754092800,
+      {
+        "Solana": {
+          "ApeBot": 0
+        }
+      }
+    ],
+    [
+      1754179200,
+      {
+        "Solana": {
+          "ApeBot": 0
+        }
+      }
+    ],
+    [
+      1754265600,
+      {
+        "Solana": {
+          "ApeBot": 0
+        }
+      }
+    ],
+    [
+      1754352000,
+      {
+        "Solana": {
+          "ApeBot": 0
+        }
+      }
+    ],
+    [
+      1754438400,
+      {
+        "Solana": {
+          "ApeBot": 0
+        }
+      }
+    ],
+    [
+      1754524800,
+      {
+        "Solana": {
+          "ApeBot": 0
+        }
+      }
+    ],
+    [
+      1754611200,
+      {
+        "Solana": {
+          "ApeBot": 0
+        }
+      }
+    ],
+    [
+      1754697600,
+      {
+        "Solana": {
+          "ApeBot": 1
+        }
+      }
+    ],
+    [
+      1754784000,
+      {
+        "Solana": {
+          "ApeBot": 0
+        }
+      }
+    ],
+    [
+      1754870400,
+      {
+        "Solana": {
+          "ApeBot": 0
+        }
+      }
+    ],
+    [
+      1754956800,
+      {
+        "Solana": {
+          "ApeBot": 0
+        }
+      }
+    ],
+    [
+      1755043200,
       {
         "Solana": {
           "ApeBot": 0

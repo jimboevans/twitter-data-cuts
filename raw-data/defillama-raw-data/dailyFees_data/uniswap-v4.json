@@ -35,9 +35,6 @@
   ],
   "parentProtocol": "parent#uniswap",
   "listedAt": 1738172667,
-  "defillamaId": "5690",
-  "displayName": "Uniswap V4",
-  "methodologyURL": "https://github.com/DefiLlama/dimension-adapters/blob/master/fees/uniswap-v4.ts",
   "methodology": {
     "UserFees": "Swap fees paid by users.",
     "Fees": "Swap fees paid by users.",
@@ -46,13 +43,18 @@
     "HoldersRevenue": "No revenue for UNI holders.",
     "SupplySideRevenue": "All fees are distributed to LPs."
   },
+  "misrepresentedTokens": false,
+  "defillamaId": "5690",
+  "displayName": "Uniswap V4",
+  "methodologyURL": "https://github.com/DefiLlama/dimension-adapters/blob/master/fees/uniswap-v4.ts",
   "forkedFrom": null,
   "versionKey": null,
   "github": null,
   "governanceID": null,
   "treasury": null,
   "previousNames": null,
-  "latestFetchIsOk": true,
+  "hallmarks": null,
+  "defaultChartView": null,
   "slug": "uniswap-v4",
   "protocolType": "protocol",
   "linkedProtocols": [
@@ -62,12 +64,688 @@
     "Uniswap V3",
     "Uniswap V4"
   ],
-  "total24h": 671381,
-  "total48hto24h": 943911,
-  "total7d": 4237629,
-  "total30d": 4841494,
-  "totalAllTime": 5512875,
+  "total24h": 730274,
+  "total48hto24h": 609604,
+  "total7d": 3752479,
+  "total30d": 16745395,
+  "totalAllTime": 49487043,
   "totalDataChart": [
+    [
+      1738368000,
+      39281
+    ],
+    [
+      1738454400,
+      31631
+    ],
+    [
+      1738540800,
+      96749
+    ],
+    [
+      1738627200,
+      53419
+    ],
+    [
+      1738713600,
+      31005
+    ],
+    [
+      1738800000,
+      30004
+    ],
+    [
+      1738886400,
+      37741
+    ],
+    [
+      1738972800,
+      25567
+    ],
+    [
+      1739059200,
+      75691
+    ],
+    [
+      1739145600,
+      65223
+    ],
+    [
+      1739232000,
+      71167
+    ],
+    [
+      1739318400,
+      68210
+    ],
+    [
+      1739404800,
+      39667
+    ],
+    [
+      1739577600,
+      18544
+    ],
+    [
+      1739664000,
+      25663
+    ],
+    [
+      1739750400,
+      79641
+    ],
+    [
+      1739836800,
+      67714
+    ],
+    [
+      1739923200,
+      38621
+    ],
+    [
+      1740009600,
+      77142
+    ],
+    [
+      1740096000,
+      95409
+    ],
+    [
+      1740182400,
+      32928
+    ],
+    [
+      1740268800,
+      30472
+    ],
+    [
+      1740355200,
+      65419
+    ],
+    [
+      1740441600,
+      126752
+    ],
+    [
+      1740528000,
+      91320
+    ],
+    [
+      1740614400,
+      66961
+    ],
+    [
+      1740700800,
+      107793
+    ],
+    [
+      1740787200,
+      37451
+    ],
+    [
+      1740873600,
+      200454
+    ],
+    [
+      1740960000,
+      193699
+    ],
+    [
+      1741046400,
+      152332
+    ],
+    [
+      1741132800,
+      105175
+    ],
+    [
+      1741219200,
+      100018
+    ],
+    [
+      1741305600,
+      159601
+    ],
+    [
+      1741392000,
+      59623
+    ],
+    [
+      1741478400,
+      54213
+    ],
+    [
+      1741564800,
+      102848
+    ],
+    [
+      1741737600,
+      59765
+    ],
+    [
+      1741824000,
+      49239
+    ],
+    [
+      1741910400,
+      52091
+    ],
+    [
+      1741996800,
+      22592
+    ],
+    [
+      1742083200,
+      31097
+    ],
+    [
+      1742169600,
+      38763
+    ],
+    [
+      1742256000,
+      43818
+    ],
+    [
+      1742342400,
+      79099
+    ],
+    [
+      1742428800,
+      61944
+    ],
+    [
+      1742515200,
+      44538
+    ],
+    [
+      1742601600,
+      26610
+    ],
+    [
+      1742688000,
+      30820
+    ],
+    [
+      1742774400,
+      61717
+    ],
+    [
+      1742860800,
+      50805
+    ],
+    [
+      1742947200,
+      61107
+    ],
+    [
+      1743033600,
+      53859
+    ],
+    [
+      1743120000,
+      60467
+    ],
+    [
+      1743206400,
+      33835
+    ],
+    [
+      1743292800,
+      29330
+    ],
+    [
+      1743379200,
+      88354
+    ],
+    [
+      1743465600,
+      61900
+    ],
+    [
+      1743552000,
+      89152
+    ],
+    [
+      1743638400,
+      51322
+    ],
+    [
+      1743724800,
+      67166
+    ],
+    [
+      1743811200,
+      21682
+    ],
+    [
+      1743897600,
+      68801
+    ],
+    [
+      1743984000,
+      144965
+    ],
+    [
+      1744070400,
+      59197
+    ],
+    [
+      1744156800,
+      131828
+    ],
+    [
+      1744243200,
+      93485
+    ],
+    [
+      1744329600,
+      121569
+    ],
+    [
+      1744416000,
+      59948
+    ],
+    [
+      1744502400,
+      58771
+    ],
+    [
+      1744588800,
+      65060
+    ],
+    [
+      1744675200,
+      70379
+    ],
+    [
+      1744761600,
+      115270
+    ],
+    [
+      1744848000,
+      105019
+    ],
+    [
+      1744934400,
+      51566
+    ],
+    [
+      1745020800,
+      57088
+    ],
+    [
+      1745107200,
+      75613
+    ],
+    [
+      1745193600,
+      176802
+    ],
+    [
+      1745280000,
+      268821
+    ],
+    [
+      1745366400,
+      296680
+    ],
+    [
+      1745452800,
+      201438
+    ],
+    [
+      1745539200,
+      206912
+    ],
+    [
+      1745625600,
+      149981
+    ],
+    [
+      1745712000,
+      142092
+    ],
+    [
+      1745798400,
+      213091
+    ],
+    [
+      1745884800,
+      243928
+    ],
+    [
+      1745971200,
+      211398
+    ],
+    [
+      1746057600,
+      211662
+    ],
+    [
+      1746144000,
+      173494
+    ],
+    [
+      1746230400,
+      112317
+    ],
+    [
+      1746316800,
+      149021
+    ],
+    [
+      1746403200,
+      222611
+    ],
+    [
+      1746489600,
+      233052
+    ],
+    [
+      1746576000,
+      239079
+    ],
+    [
+      1746662400,
+      532181
+    ],
+    [
+      1746748800,
+      439541
+    ],
+    [
+      1746835200,
+      362639
+    ],
+    [
+      1746921600,
+      326670
+    ],
+    [
+      1747008000,
+      468212
+    ],
+    [
+      1747094400,
+      454399
+    ],
+    [
+      1747180800,
+      338373
+    ],
+    [
+      1747267200,
+      493393
+    ],
+    [
+      1747353600,
+      398653
+    ],
+    [
+      1747440000,
+      236648
+    ],
+    [
+      1747526400,
+      353168
+    ],
+    [
+      1747612800,
+      476730
+    ],
+    [
+      1747699200,
+      384290
+    ],
+    [
+      1747872000,
+      516935
+    ],
+    [
+      1747958400,
+      529947
+    ],
+    [
+      1748044800,
+      217084
+    ],
+    [
+      1748131200,
+      250991
+    ],
+    [
+      1748217600,
+      301843
+    ],
+    [
+      1748304000,
+      389739
+    ],
+    [
+      1748390400,
+      326391
+    ],
+    [
+      1748476800,
+      515686
+    ],
+    [
+      1748563200,
+      441116
+    ],
+    [
+      1748649600,
+      216331
+    ],
+    [
+      1748736000,
+      206080
+    ],
+    [
+      1748822400,
+      267199
+    ],
+    [
+      1748908800,
+      253179
+    ],
+    [
+      1748995200,
+      266299
+    ],
+    [
+      1749081600,
+      428435
+    ],
+    [
+      1749168000,
+      271697
+    ],
+    [
+      1749254400,
+      195120
+    ],
+    [
+      1749340800,
+      241068
+    ],
+    [
+      1749427200,
+      345527
+    ],
+    [
+      1749513600,
+      561798
+    ],
+    [
+      1749600000,
+      585957
+    ],
+    [
+      1749686400,
+      561025
+    ],
+    [
+      1749772800,
+      590046
+    ],
+    [
+      1749859200,
+      211734
+    ],
+    [
+      1749945600,
+      240320
+    ],
+    [
+      1750032000,
+      347257
+    ],
+    [
+      1750118400,
+      517242
+    ],
+    [
+      1750204800,
+      457310
+    ],
+    [
+      1750291200,
+      238387
+    ],
+    [
+      1750377600,
+      374221
+    ],
+    [
+      1750464000,
+      276756
+    ],
+    [
+      1750550400,
+      469036
+    ],
+    [
+      1750636800,
+      512815
+    ],
+    [
+      1750723200,
+      457140
+    ],
+    [
+      1750809600,
+      338914
+    ],
+    [
+      1750896000,
+      353151
+    ],
+    [
+      1750982400,
+      265646
+    ],
+    [
+      1751068800,
+      111083
+    ],
+    [
+      1751155200,
+      214934
+    ],
+    [
+      1751241600,
+      302366
+    ],
+    [
+      1751328000,
+      263848
+    ],
+    [
+      1751414400,
+      382703
+    ],
+    [
+      1751500800,
+      385344
+    ],
+    [
+      1751587200,
+      253587
+    ],
+    [
+      1751673600,
+      139982
+    ],
+    [
+      1751760000,
+      225973
+    ],
+    [
+      1751846400,
+      304335
+    ],
+    [
+      1751932800,
+      311668
+    ],
+    [
+      1752019200,
+      590014
+    ],
+    [
+      1752105600,
+      609600
+    ],
+    [
+      1752192000,
+      571646
+    ],
+    [
+      1752278400,
+      245439
+    ],
+    [
+      1752364800,
+      267649
+    ],
+    [
+      1752451200,
+      506784
+    ],
+    [
+      1752537600,
+      714049
+    ],
+    [
+      1752624000,
+      604904
+    ],
+    [
+      1752710400,
+      755147
+    ],
+    [
+      1752796800,
+      752209
+    ],
+    [
+      1752883200,
+      308080
+    ],
+    [
+      1752969600,
+      480164
+    ],
+    [
+      1753056000,
+      590457
+    ],
+    [
+      1753142400,
+      692789
+    ],
     [
       1753228800,
       603865
@@ -102,10 +780,7494 @@
     ],
     [
       1753920000,
-      671381
+      476682
+    ],
+    [
+      1754006400,
+      747801
+    ],
+    [
+      1754092800,
+      415193
+    ],
+    [
+      1754179200,
+      253254
+    ],
+    [
+      1754265600,
+      393310
+    ],
+    [
+      1754352000,
+      460599
+    ],
+    [
+      1754438400,
+      398454
+    ],
+    [
+      1754524800,
+      538867
+    ],
+    [
+      1754611200,
+      561371
+    ],
+    [
+      1754697600,
+      447813
+    ],
+    [
+      1754784000,
+      466096
+    ],
+    [
+      1754870400,
+      609604
+    ],
+    [
+      1754956800,
+      730274
     ]
   ],
   "totalDataChartBreakdown": [
+    [
+      1738368000,
+      {
+        "Ethereum": {
+          "Uniswap V4": 5370
+        },
+        "Unichain": {
+          "Uniswap V4": 400
+        },
+        "OP Mainnet": {
+          "Uniswap V4": 111
+        },
+        "Base": {
+          "Uniswap V4": 31979
+        },
+        "Arbitrum": {
+          "Uniswap V4": 664
+        },
+        "Polygon": {
+          "Uniswap V4": 672
+        },
+        "Blast": {
+          "Uniswap V4": 0
+        },
+        "Zora": {
+          "Uniswap V4": 0
+        },
+        "World Chain": {
+          "Uniswap V4": 0
+        },
+        "Ink": {
+          "Uniswap V4": 0
+        },
+        "Soneium": {
+          "Uniswap V4": 0
+        },
+        "Avalanche": {
+          "Uniswap V4": 0
+        },
+        "BSC": {
+          "Uniswap V4": 85
+        }
+      }
+    ],
+    [
+      1738454400,
+      {
+        "Ethereum": {
+          "Uniswap V4": 15682
+        },
+        "Unichain": {
+          "Uniswap V4": 394
+        },
+        "OP Mainnet": {
+          "Uniswap V4": 674
+        },
+        "Base": {
+          "Uniswap V4": 11192
+        },
+        "Arbitrum": {
+          "Uniswap V4": 1800
+        },
+        "Polygon": {
+          "Uniswap V4": 1267
+        },
+        "Blast": {
+          "Uniswap V4": 0
+        },
+        "Zora": {
+          "Uniswap V4": 0
+        },
+        "World Chain": {
+          "Uniswap V4": 0
+        },
+        "Ink": {
+          "Uniswap V4": 0
+        },
+        "Soneium": {
+          "Uniswap V4": 0
+        },
+        "Avalanche": {
+          "Uniswap V4": 0
+        },
+        "BSC": {
+          "Uniswap V4": 622
+        }
+      }
+    ],
+    [
+      1738540800,
+      {
+        "Ethereum": {
+          "Uniswap V4": 70598
+        },
+        "Unichain": {
+          "Uniswap V4": 24
+        },
+        "OP Mainnet": {
+          "Uniswap V4": 1744
+        },
+        "Base": {
+          "Uniswap V4": 13909
+        },
+        "Arbitrum": {
+          "Uniswap V4": 6703
+        },
+        "Polygon": {
+          "Uniswap V4": 3073
+        },
+        "Blast": {
+          "Uniswap V4": 0
+        },
+        "Zora": {
+          "Uniswap V4": 0
+        },
+        "World Chain": {
+          "Uniswap V4": 1
+        },
+        "Ink": {
+          "Uniswap V4": 0
+        },
+        "Soneium": {
+          "Uniswap V4": 0
+        },
+        "Avalanche": {
+          "Uniswap V4": 3
+        },
+        "BSC": {
+          "Uniswap V4": 694
+        }
+      }
+    ],
+    [
+      1738627200,
+      {
+        "Ethereum": {
+          "Uniswap V4": 30062
+        },
+        "Unichain": {
+          "Uniswap V4": 642
+        },
+        "OP Mainnet": {
+          "Uniswap V4": 1514
+        },
+        "Base": {
+          "Uniswap V4": 8667
+        },
+        "Arbitrum": {
+          "Uniswap V4": 9127
+        },
+        "Polygon": {
+          "Uniswap V4": 2853
+        },
+        "Blast": {
+          "Uniswap V4": 0
+        },
+        "Zora": {
+          "Uniswap V4": 0
+        },
+        "World Chain": {
+          "Uniswap V4": 0
+        },
+        "Ink": {
+          "Uniswap V4": 0
+        },
+        "Soneium": {
+          "Uniswap V4": 0
+        },
+        "Avalanche": {
+          "Uniswap V4": 4
+        },
+        "BSC": {
+          "Uniswap V4": 550
+        }
+      }
+    ],
+    [
+      1738713600,
+      {
+        "Ethereum": {
+          "Uniswap V4": 13947
+        },
+        "Unichain": {
+          "Uniswap V4": 1179
+        },
+        "OP Mainnet": {
+          "Uniswap V4": 955
+        },
+        "Base": {
+          "Uniswap V4": 5889
+        },
+        "Arbitrum": {
+          "Uniswap V4": 6398
+        },
+        "Polygon": {
+          "Uniswap V4": 2333
+        },
+        "Blast": {
+          "Uniswap V4": 0
+        },
+        "Zora": {
+          "Uniswap V4": 0
+        },
+        "World Chain": {
+          "Uniswap V4": 0
+        },
+        "Ink": {
+          "Uniswap V4": 0
+        },
+        "Soneium": {
+          "Uniswap V4": 0
+        },
+        "Avalanche": {
+          "Uniswap V4": 5
+        },
+        "BSC": {
+          "Uniswap V4": 299
+        }
+      }
+    ],
+    [
+      1738800000,
+      {
+        "Ethereum": {
+          "Uniswap V4": 15844
+        },
+        "Unichain": {
+          "Uniswap V4": 440
+        },
+        "OP Mainnet": {
+          "Uniswap V4": 738
+        },
+        "Base": {
+          "Uniswap V4": 4626
+        },
+        "Arbitrum": {
+          "Uniswap V4": 5824
+        },
+        "Polygon": {
+          "Uniswap V4": 1974
+        },
+        "Blast": {
+          "Uniswap V4": 0
+        },
+        "Zora": {
+          "Uniswap V4": 0
+        },
+        "World Chain": {
+          "Uniswap V4": 0
+        },
+        "Ink": {
+          "Uniswap V4": 0
+        },
+        "Soneium": {
+          "Uniswap V4": 0
+        },
+        "Avalanche": {
+          "Uniswap V4": 6
+        },
+        "BSC": {
+          "Uniswap V4": 552
+        }
+      }
+    ],
+    [
+      1738886400,
+      {
+        "Ethereum": {
+          "Uniswap V4": 20917
+        },
+        "Unichain": {
+          "Uniswap V4": 93
+        },
+        "OP Mainnet": {
+          "Uniswap V4": 738
+        },
+        "Base": {
+          "Uniswap V4": 6230
+        },
+        "Arbitrum": {
+          "Uniswap V4": 7013
+        },
+        "Polygon": {
+          "Uniswap V4": 2307
+        },
+        "Blast": {
+          "Uniswap V4": 0
+        },
+        "Zora": {
+          "Uniswap V4": 0
+        },
+        "World Chain": {
+          "Uniswap V4": 0
+        },
+        "Ink": {
+          "Uniswap V4": 0
+        },
+        "Soneium": {
+          "Uniswap V4": 0
+        },
+        "Avalanche": {
+          "Uniswap V4": 7
+        },
+        "BSC": {
+          "Uniswap V4": 436
+        }
+      }
+    ],
+    [
+      1738972800,
+      {
+        "Ethereum": {
+          "Uniswap V4": 13182
+        },
+        "Unichain": {
+          "Uniswap V4": 21
+        },
+        "OP Mainnet": {
+          "Uniswap V4": 242
+        },
+        "Base": {
+          "Uniswap V4": 7471
+        },
+        "Arbitrum": {
+          "Uniswap V4": 3586
+        },
+        "Polygon": {
+          "Uniswap V4": 815
+        },
+        "Blast": {
+          "Uniswap V4": 0
+        },
+        "Zora": {
+          "Uniswap V4": 0
+        },
+        "World Chain": {
+          "Uniswap V4": 0
+        },
+        "Ink": {
+          "Uniswap V4": 0
+        },
+        "Soneium": {
+          "Uniswap V4": 0
+        },
+        "Avalanche": {
+          "Uniswap V4": 7
+        },
+        "BSC": {
+          "Uniswap V4": 243
+        }
+      }
+    ],
+    [
+      1739059200,
+      {
+        "Ethereum": {
+          "Uniswap V4": 21371
+        },
+        "Unichain": {
+          "Uniswap V4": 141
+        },
+        "OP Mainnet": {
+          "Uniswap V4": 374
+        },
+        "Base": {
+          "Uniswap V4": 8361
+        },
+        "Arbitrum": {
+          "Uniswap V4": 5117
+        },
+        "Polygon": {
+          "Uniswap V4": 1931
+        },
+        "Blast": {
+          "Uniswap V4": 0
+        },
+        "Zora": {
+          "Uniswap V4": 0
+        },
+        "World Chain": {
+          "Uniswap V4": 0
+        },
+        "Ink": {
+          "Uniswap V4": 0
+        },
+        "Soneium": {
+          "Uniswap V4": 0
+        },
+        "Avalanche": {
+          "Uniswap V4": 9
+        },
+        "BSC": {
+          "Uniswap V4": 38387
+        }
+      }
+    ],
+    [
+      1739145600,
+      {
+        "Ethereum": {
+          "Uniswap V4": 26698
+        },
+        "Unichain": {
+          "Uniswap V4": 2422
+        },
+        "OP Mainnet": {
+          "Uniswap V4": 540
+        },
+        "Base": {
+          "Uniswap V4": 8932
+        },
+        "Arbitrum": {
+          "Uniswap V4": 6723
+        },
+        "Polygon": {
+          "Uniswap V4": 2022
+        },
+        "Blast": {
+          "Uniswap V4": 0
+        },
+        "Zora": {
+          "Uniswap V4": 0
+        },
+        "World Chain": {
+          "Uniswap V4": 0
+        },
+        "Ink": {
+          "Uniswap V4": 0
+        },
+        "Soneium": {
+          "Uniswap V4": 0
+        },
+        "Avalanche": {
+          "Uniswap V4": 9
+        },
+        "BSC": {
+          "Uniswap V4": 17877
+        }
+      }
+    ],
+    [
+      1739232000,
+      {
+        "Ethereum": {
+          "Uniswap V4": 27639
+        },
+        "Unichain": {
+          "Uniswap V4": 4384
+        },
+        "OP Mainnet": {
+          "Uniswap V4": 299
+        },
+        "Base": {
+          "Uniswap V4": 6125
+        },
+        "Arbitrum": {
+          "Uniswap V4": 5702
+        },
+        "Polygon": {
+          "Uniswap V4": 1937
+        },
+        "Blast": {
+          "Uniswap V4": 0
+        },
+        "Zora": {
+          "Uniswap V4": 0
+        },
+        "World Chain": {
+          "Uniswap V4": 0
+        },
+        "Ink": {
+          "Uniswap V4": 0
+        },
+        "Soneium": {
+          "Uniswap V4": 0
+        },
+        "Avalanche": {
+          "Uniswap V4": 7
+        },
+        "BSC": {
+          "Uniswap V4": 25074
+        }
+      }
+    ],
+    [
+      1739318400,
+      {
+        "Ethereum": {
+          "Uniswap V4": 40733
+        },
+        "Unichain": {
+          "Uniswap V4": 1187
+        },
+        "OP Mainnet": {
+          "Uniswap V4": 287
+        },
+        "Base": {
+          "Uniswap V4": 9412
+        },
+        "Arbitrum": {
+          "Uniswap V4": 9711
+        },
+        "Polygon": {
+          "Uniswap V4": 2940
+        },
+        "Blast": {
+          "Uniswap V4": 0
+        },
+        "Zora": {
+          "Uniswap V4": 0
+        },
+        "World Chain": {
+          "Uniswap V4": 0
+        },
+        "Ink": {
+          "Uniswap V4": 0
+        },
+        "Soneium": {
+          "Uniswap V4": 0
+        },
+        "Avalanche": {
+          "Uniswap V4": 8
+        },
+        "BSC": {
+          "Uniswap V4": 3932
+        }
+      }
+    ],
+    [
+      1739404800,
+      {
+        "Ethereum": {
+          "Uniswap V4": 23650
+        },
+        "Unichain": {
+          "Uniswap V4": 529
+        },
+        "OP Mainnet": {
+          "Uniswap V4": 191
+        },
+        "Base": {
+          "Uniswap V4": 6450
+        },
+        "Arbitrum": {
+          "Uniswap V4": 5665
+        },
+        "Polygon": {
+          "Uniswap V4": 2107
+        },
+        "Blast": {
+          "Uniswap V4": 0
+        },
+        "Zora": {
+          "Uniswap V4": 0
+        },
+        "World Chain": {
+          "Uniswap V4": 0
+        },
+        "Ink": {
+          "Uniswap V4": 0
+        },
+        "Soneium": {
+          "Uniswap V4": 0
+        },
+        "Avalanche": {
+          "Uniswap V4": 5
+        },
+        "BSC": {
+          "Uniswap V4": 1070
+        }
+      }
+    ],
+    [
+      1739577600,
+      {
+        "Ethereum": {
+          "Uniswap V4": 10966
+        },
+        "Unichain": {
+          "Uniswap V4": 326
+        },
+        "OP Mainnet": {
+          "Uniswap V4": 92
+        },
+        "Base": {
+          "Uniswap V4": 3414
+        },
+        "Arbitrum": {
+          "Uniswap V4": 2330
+        },
+        "Polygon": {
+          "Uniswap V4": 1038
+        },
+        "Blast": {
+          "Uniswap V4": 0
+        },
+        "Zora": {
+          "Uniswap V4": 0
+        },
+        "World Chain": {
+          "Uniswap V4": 0
+        },
+        "Ink": {
+          "Uniswap V4": 0
+        },
+        "Soneium": {
+          "Uniswap V4": 0
+        },
+        "Avalanche": {
+          "Uniswap V4": 4
+        },
+        "BSC": {
+          "Uniswap V4": 374
+        }
+      }
+    ],
+    [
+      1739664000,
+      {
+        "Ethereum": {
+          "Uniswap V4": 18514
+        },
+        "Unichain": {
+          "Uniswap V4": 242
+        },
+        "OP Mainnet": {
+          "Uniswap V4": 139
+        },
+        "Base": {
+          "Uniswap V4": 2504
+        },
+        "Arbitrum": {
+          "Uniswap V4": 2386
+        },
+        "Polygon": {
+          "Uniswap V4": 1540
+        },
+        "Blast": {
+          "Uniswap V4": 0
+        },
+        "Zora": {
+          "Uniswap V4": 0
+        },
+        "World Chain": {
+          "Uniswap V4": 0
+        },
+        "Ink": {
+          "Uniswap V4": 0
+        },
+        "Soneium": {
+          "Uniswap V4": 0
+        },
+        "Avalanche": {
+          "Uniswap V4": 4
+        },
+        "BSC": {
+          "Uniswap V4": 334
+        }
+      }
+    ],
+    [
+      1739750400,
+      {
+        "Ethereum": {
+          "Uniswap V4": 61967
+        },
+        "Unichain": {
+          "Uniswap V4": 1307
+        },
+        "OP Mainnet": {
+          "Uniswap V4": 331
+        },
+        "Base": {
+          "Uniswap V4": 4604
+        },
+        "Arbitrum": {
+          "Uniswap V4": 7266
+        },
+        "Polygon": {
+          "Uniswap V4": 3727
+        },
+        "Blast": {
+          "Uniswap V4": 0
+        },
+        "Zora": {
+          "Uniswap V4": 0
+        },
+        "World Chain": {
+          "Uniswap V4": 0
+        },
+        "Ink": {
+          "Uniswap V4": 0
+        },
+        "Soneium": {
+          "Uniswap V4": 0
+        },
+        "Avalanche": {
+          "Uniswap V4": 6
+        },
+        "BSC": {
+          "Uniswap V4": 433
+        }
+      }
+    ],
+    [
+      1739836800,
+      {
+        "Ethereum": {
+          "Uniswap V4": 50975
+        },
+        "Unichain": {
+          "Uniswap V4": 1030
+        },
+        "OP Mainnet": {
+          "Uniswap V4": 394
+        },
+        "Base": {
+          "Uniswap V4": 5128
+        },
+        "Arbitrum": {
+          "Uniswap V4": 6391
+        },
+        "Polygon": {
+          "Uniswap V4": 3205
+        },
+        "Blast": {
+          "Uniswap V4": 0
+        },
+        "Zora": {
+          "Uniswap V4": 0
+        },
+        "World Chain": {
+          "Uniswap V4": 0
+        },
+        "Ink": {
+          "Uniswap V4": 0
+        },
+        "Soneium": {
+          "Uniswap V4": 0
+        },
+        "Avalanche": {
+          "Uniswap V4": 3
+        },
+        "BSC": {
+          "Uniswap V4": 588
+        }
+      }
+    ],
+    [
+      1739923200,
+      {
+        "Ethereum": {
+          "Uniswap V4": 21817
+        },
+        "Unichain": {
+          "Uniswap V4": 878
+        },
+        "OP Mainnet": {
+          "Uniswap V4": 233
+        },
+        "Base": {
+          "Uniswap V4": 8252
+        },
+        "Arbitrum": {
+          "Uniswap V4": 4440
+        },
+        "Polygon": {
+          "Uniswap V4": 2145
+        },
+        "Blast": {
+          "Uniswap V4": 0
+        },
+        "Zora": {
+          "Uniswap V4": 0
+        },
+        "World Chain": {
+          "Uniswap V4": 0
+        },
+        "Ink": {
+          "Uniswap V4": 0
+        },
+        "Soneium": {
+          "Uniswap V4": 0
+        },
+        "Avalanche": {
+          "Uniswap V4": 2
+        },
+        "BSC": {
+          "Uniswap V4": 854
+        }
+      }
+    ],
+    [
+      1740009600,
+      {
+        "Ethereum": {
+          "Uniswap V4": 27029
+        },
+        "Unichain": {
+          "Uniswap V4": 877
+        },
+        "OP Mainnet": {
+          "Uniswap V4": 281
+        },
+        "Base": {
+          "Uniswap V4": 42566
+        },
+        "Arbitrum": {
+          "Uniswap V4": 3732
+        },
+        "Polygon": {
+          "Uniswap V4": 1904
+        },
+        "Blast": {
+          "Uniswap V4": 0
+        },
+        "Zora": {
+          "Uniswap V4": 0
+        },
+        "World Chain": {
+          "Uniswap V4": 0
+        },
+        "Ink": {
+          "Uniswap V4": 0
+        },
+        "Soneium": {
+          "Uniswap V4": 0
+        },
+        "Avalanche": {
+          "Uniswap V4": 8
+        },
+        "BSC": {
+          "Uniswap V4": 745
+        }
+      }
+    ],
+    [
+      1740096000,
+      {
+        "Ethereum": {
+          "Uniswap V4": 57636
+        },
+        "Unichain": {
+          "Uniswap V4": 1659
+        },
+        "OP Mainnet": {
+          "Uniswap V4": 512
+        },
+        "Base": {
+          "Uniswap V4": 22059
+        },
+        "Arbitrum": {
+          "Uniswap V4": 7680
+        },
+        "Polygon": {
+          "Uniswap V4": 4702
+        },
+        "Blast": {
+          "Uniswap V4": 0
+        },
+        "Zora": {
+          "Uniswap V4": 0
+        },
+        "World Chain": {
+          "Uniswap V4": 0
+        },
+        "Ink": {
+          "Uniswap V4": 0
+        },
+        "Soneium": {
+          "Uniswap V4": 0
+        },
+        "Avalanche": {
+          "Uniswap V4": 24
+        },
+        "BSC": {
+          "Uniswap V4": 1137
+        }
+      }
+    ],
+    [
+      1740182400,
+      {
+        "Ethereum": {
+          "Uniswap V4": 19439
+        },
+        "Unichain": {
+          "Uniswap V4": 692
+        },
+        "OP Mainnet": {
+          "Uniswap V4": 235
+        },
+        "Base": {
+          "Uniswap V4": 6987
+        },
+        "Arbitrum": {
+          "Uniswap V4": 3415
+        },
+        "Polygon": {
+          "Uniswap V4": 1582
+        },
+        "Blast": {
+          "Uniswap V4": 0
+        },
+        "Zora": {
+          "Uniswap V4": 0
+        },
+        "World Chain": {
+          "Uniswap V4": 0
+        },
+        "Ink": {
+          "Uniswap V4": 0
+        },
+        "Soneium": {
+          "Uniswap V4": 0
+        },
+        "Avalanche": {
+          "Uniswap V4": 13
+        },
+        "BSC": {
+          "Uniswap V4": 565
+        }
+      }
+    ],
+    [
+      1740268800,
+      {
+        "Ethereum": {
+          "Uniswap V4": 18253
+        },
+        "Unichain": {
+          "Uniswap V4": 824
+        },
+        "OP Mainnet": {
+          "Uniswap V4": 447
+        },
+        "Base": {
+          "Uniswap V4": 5827
+        },
+        "Arbitrum": {
+          "Uniswap V4": 3225
+        },
+        "Polygon": {
+          "Uniswap V4": 1571
+        },
+        "Blast": {
+          "Uniswap V4": 0
+        },
+        "Zora": {
+          "Uniswap V4": 0
+        },
+        "World Chain": {
+          "Uniswap V4": 0
+        },
+        "Ink": {
+          "Uniswap V4": 0
+        },
+        "Soneium": {
+          "Uniswap V4": 0
+        },
+        "Avalanche": {
+          "Uniswap V4": 8
+        },
+        "BSC": {
+          "Uniswap V4": 317
+        }
+      }
+    ],
+    [
+      1740355200,
+      {
+        "Ethereum": {
+          "Uniswap V4": 45165
+        },
+        "Unichain": {
+          "Uniswap V4": 1554
+        },
+        "OP Mainnet": {
+          "Uniswap V4": 522
+        },
+        "Base": {
+          "Uniswap V4": 7132
+        },
+        "Arbitrum": {
+          "Uniswap V4": 6521
+        },
+        "Polygon": {
+          "Uniswap V4": 3779
+        },
+        "Blast": {
+          "Uniswap V4": 0
+        },
+        "Zora": {
+          "Uniswap V4": 0
+        },
+        "World Chain": {
+          "Uniswap V4": 0
+        },
+        "Ink": {
+          "Uniswap V4": 0
+        },
+        "Soneium": {
+          "Uniswap V4": 0
+        },
+        "Avalanche": {
+          "Uniswap V4": 7
+        },
+        "BSC": {
+          "Uniswap V4": 739
+        }
+      }
+    ],
+    [
+      1740441600,
+      {
+        "Ethereum": {
+          "Uniswap V4": 97191
+        },
+        "Unichain": {
+          "Uniswap V4": 1654
+        },
+        "OP Mainnet": {
+          "Uniswap V4": 1067
+        },
+        "Base": {
+          "Uniswap V4": 8944
+        },
+        "Arbitrum": {
+          "Uniswap V4": 12981
+        },
+        "Polygon": {
+          "Uniswap V4": 4186
+        },
+        "Blast": {
+          "Uniswap V4": 0
+        },
+        "Zora": {
+          "Uniswap V4": 0
+        },
+        "World Chain": {
+          "Uniswap V4": 0
+        },
+        "Ink": {
+          "Uniswap V4": 0
+        },
+        "Soneium": {
+          "Uniswap V4": 0
+        },
+        "Avalanche": {
+          "Uniswap V4": 5
+        },
+        "BSC": {
+          "Uniswap V4": 724
+        }
+      }
+    ],
+    [
+      1740528000,
+      {
+        "Ethereum": {
+          "Uniswap V4": 64374
+        },
+        "Unichain": {
+          "Uniswap V4": 847
+        },
+        "OP Mainnet": {
+          "Uniswap V4": 1105
+        },
+        "Base": {
+          "Uniswap V4": 8930
+        },
+        "Arbitrum": {
+          "Uniswap V4": 11721
+        },
+        "Polygon": {
+          "Uniswap V4": 3674
+        },
+        "Blast": {
+          "Uniswap V4": 0
+        },
+        "Zora": {
+          "Uniswap V4": 0
+        },
+        "World Chain": {
+          "Uniswap V4": 0
+        },
+        "Ink": {
+          "Uniswap V4": 0
+        },
+        "Soneium": {
+          "Uniswap V4": 0
+        },
+        "Avalanche": {
+          "Uniswap V4": 15
+        },
+        "BSC": {
+          "Uniswap V4": 654
+        }
+      }
+    ],
+    [
+      1740614400,
+      {
+        "Ethereum": {
+          "Uniswap V4": 43826
+        },
+        "Unichain": {
+          "Uniswap V4": 217
+        },
+        "OP Mainnet": {
+          "Uniswap V4": 562
+        },
+        "Base": {
+          "Uniswap V4": 6100
+        },
+        "Arbitrum": {
+          "Uniswap V4": 12393
+        },
+        "Polygon": {
+          "Uniswap V4": 2464
+        },
+        "Blast": {
+          "Uniswap V4": 0
+        },
+        "Zora": {
+          "Uniswap V4": 0
+        },
+        "World Chain": {
+          "Uniswap V4": 0
+        },
+        "Ink": {
+          "Uniswap V4": 0
+        },
+        "Soneium": {
+          "Uniswap V4": 0
+        },
+        "Avalanche": {
+          "Uniswap V4": 11
+        },
+        "BSC": {
+          "Uniswap V4": 1388
+        }
+      }
+    ],
+    [
+      1740700800,
+      {
+        "Ethereum": {
+          "Uniswap V4": 86631
+        },
+        "Unichain": {
+          "Uniswap V4": 355
+        },
+        "OP Mainnet": {
+          "Uniswap V4": 969
+        },
+        "Base": {
+          "Uniswap V4": 4518
+        },
+        "Arbitrum": {
+          "Uniswap V4": 10622
+        },
+        "Polygon": {
+          "Uniswap V4": 3742
+        },
+        "Blast": {
+          "Uniswap V4": 0
+        },
+        "Zora": {
+          "Uniswap V4": 0
+        },
+        "World Chain": {
+          "Uniswap V4": 0
+        },
+        "Ink": {
+          "Uniswap V4": 0
+        },
+        "Soneium": {
+          "Uniswap V4": 0
+        },
+        "Avalanche": {
+          "Uniswap V4": 16
+        },
+        "BSC": {
+          "Uniswap V4": 940
+        }
+      }
+    ],
+    [
+      1740787200,
+      {
+        "Ethereum": {
+          "Uniswap V4": 27042
+        },
+        "Unichain": {
+          "Uniswap V4": 320
+        },
+        "OP Mainnet": {
+          "Uniswap V4": 292
+        },
+        "Base": {
+          "Uniswap V4": 2118
+        },
+        "Arbitrum": {
+          "Uniswap V4": 5550
+        },
+        "Polygon": {
+          "Uniswap V4": 1437
+        },
+        "Blast": {
+          "Uniswap V4": 0
+        },
+        "Zora": {
+          "Uniswap V4": 0
+        },
+        "World Chain": {
+          "Uniswap V4": 0
+        },
+        "Ink": {
+          "Uniswap V4": 0
+        },
+        "Soneium": {
+          "Uniswap V4": 0
+        },
+        "Avalanche": {
+          "Uniswap V4": 6
+        },
+        "BSC": {
+          "Uniswap V4": 686
+        }
+      }
+    ],
+    [
+      1740873600,
+      {
+        "Ethereum": {
+          "Uniswap V4": 167910
+        },
+        "Unichain": {
+          "Uniswap V4": 1743
+        },
+        "OP Mainnet": {
+          "Uniswap V4": 851
+        },
+        "Base": {
+          "Uniswap V4": 5081
+        },
+        "Arbitrum": {
+          "Uniswap V4": 18474
+        },
+        "Polygon": {
+          "Uniswap V4": 4508
+        },
+        "Blast": {
+          "Uniswap V4": 0
+        },
+        "Zora": {
+          "Uniswap V4": 0
+        },
+        "World Chain": {
+          "Uniswap V4": 0
+        },
+        "Ink": {
+          "Uniswap V4": 0
+        },
+        "Soneium": {
+          "Uniswap V4": 0
+        },
+        "Avalanche": {
+          "Uniswap V4": 35
+        },
+        "BSC": {
+          "Uniswap V4": 1852
+        }
+      }
+    ],
+    [
+      1740960000,
+      {
+        "Ethereum": {
+          "Uniswap V4": 164563
+        },
+        "Unichain": {
+          "Uniswap V4": 993
+        },
+        "OP Mainnet": {
+          "Uniswap V4": 945
+        },
+        "Base": {
+          "Uniswap V4": 4648
+        },
+        "Arbitrum": {
+          "Uniswap V4": 17856
+        },
+        "Polygon": {
+          "Uniswap V4": 3045
+        },
+        "Blast": {
+          "Uniswap V4": 0
+        },
+        "Zora": {
+          "Uniswap V4": 0
+        },
+        "World Chain": {
+          "Uniswap V4": 1
+        },
+        "Ink": {
+          "Uniswap V4": 0
+        },
+        "Soneium": {
+          "Uniswap V4": 0
+        },
+        "Avalanche": {
+          "Uniswap V4": 32
+        },
+        "BSC": {
+          "Uniswap V4": 1616
+        }
+      }
+    ],
+    [
+      1741046400,
+      {
+        "Ethereum": {
+          "Uniswap V4": 120310
+        },
+        "Unichain": {
+          "Uniswap V4": 869
+        },
+        "OP Mainnet": {
+          "Uniswap V4": 891
+        },
+        "Base": {
+          "Uniswap V4": 3659
+        },
+        "Arbitrum": {
+          "Uniswap V4": 20886
+        },
+        "Polygon": {
+          "Uniswap V4": 3785
+        },
+        "Blast": {
+          "Uniswap V4": 0
+        },
+        "Zora": {
+          "Uniswap V4": 0
+        },
+        "World Chain": {
+          "Uniswap V4": 1
+        },
+        "Ink": {
+          "Uniswap V4": 0
+        },
+        "Soneium": {
+          "Uniswap V4": 0
+        },
+        "Avalanche": {
+          "Uniswap V4": 6
+        },
+        "BSC": {
+          "Uniswap V4": 1925
+        }
+      }
+    ],
+    [
+      1741132800,
+      {
+        "Ethereum": {
+          "Uniswap V4": 72092
+        },
+        "Unichain": {
+          "Uniswap V4": 469
+        },
+        "OP Mainnet": {
+          "Uniswap V4": 387
+        },
+        "Base": {
+          "Uniswap V4": 7893
+        },
+        "Arbitrum": {
+          "Uniswap V4": 20359
+        },
+        "Polygon": {
+          "Uniswap V4": 2856
+        },
+        "Blast": {
+          "Uniswap V4": 0
+        },
+        "Zora": {
+          "Uniswap V4": 1
+        },
+        "World Chain": {
+          "Uniswap V4": 1
+        },
+        "Ink": {
+          "Uniswap V4": 0
+        },
+        "Soneium": {
+          "Uniswap V4": 0
+        },
+        "Avalanche": {
+          "Uniswap V4": 12
+        },
+        "BSC": {
+          "Uniswap V4": 1105
+        }
+      }
+    ],
+    [
+      1741219200,
+      {
+        "Ethereum": {
+          "Uniswap V4": 69094
+        },
+        "Unichain": {
+          "Uniswap V4": 398
+        },
+        "OP Mainnet": {
+          "Uniswap V4": 440
+        },
+        "Base": {
+          "Uniswap V4": 5247
+        },
+        "Arbitrum": {
+          "Uniswap V4": 20310
+        },
+        "Polygon": {
+          "Uniswap V4": 2885
+        },
+        "Blast": {
+          "Uniswap V4": 0
+        },
+        "Zora": {
+          "Uniswap V4": 0
+        },
+        "World Chain": {
+          "Uniswap V4": 1
+        },
+        "Ink": {
+          "Uniswap V4": 0
+        },
+        "Soneium": {
+          "Uniswap V4": 0
+        },
+        "Avalanche": {
+          "Uniswap V4": 46
+        },
+        "BSC": {
+          "Uniswap V4": 1597
+        }
+      }
+    ],
+    [
+      1741305600,
+      {
+        "Ethereum": {
+          "Uniswap V4": 111951
+        },
+        "Unichain": {
+          "Uniswap V4": 715
+        },
+        "OP Mainnet": {
+          "Uniswap V4": 533
+        },
+        "Base": {
+          "Uniswap V4": 5407
+        },
+        "Arbitrum": {
+          "Uniswap V4": 36207
+        },
+        "Polygon": {
+          "Uniswap V4": 3469
+        },
+        "Blast": {
+          "Uniswap V4": 0
+        },
+        "Zora": {
+          "Uniswap V4": 0
+        },
+        "World Chain": {
+          "Uniswap V4": 1
+        },
+        "Ink": {
+          "Uniswap V4": 0
+        },
+        "Soneium": {
+          "Uniswap V4": 0
+        },
+        "Avalanche": {
+          "Uniswap V4": 49
+        },
+        "BSC": {
+          "Uniswap V4": 1269
+        }
+      }
+    ],
+    [
+      1741392000,
+      {
+        "Ethereum": {
+          "Uniswap V4": 25086
+        },
+        "Unichain": {
+          "Uniswap V4": 340
+        },
+        "OP Mainnet": {
+          "Uniswap V4": 190
+        },
+        "Base": {
+          "Uniswap V4": 25234
+        },
+        "Arbitrum": {
+          "Uniswap V4": 6870
+        },
+        "Polygon": {
+          "Uniswap V4": 1562
+        },
+        "Blast": {
+          "Uniswap V4": 0
+        },
+        "Zora": {
+          "Uniswap V4": 0
+        },
+        "World Chain": {
+          "Uniswap V4": 0
+        },
+        "Ink": {
+          "Uniswap V4": 0
+        },
+        "Soneium": {
+          "Uniswap V4": 0
+        },
+        "Avalanche": {
+          "Uniswap V4": 37
+        },
+        "BSC": {
+          "Uniswap V4": 304
+        }
+      }
+    ],
+    [
+      1741478400,
+      {
+        "Ethereum": {
+          "Uniswap V4": 33762
+        },
+        "Unichain": {
+          "Uniswap V4": 326
+        },
+        "OP Mainnet": {
+          "Uniswap V4": 393
+        },
+        "Base": {
+          "Uniswap V4": 7136
+        },
+        "Arbitrum": {
+          "Uniswap V4": 9670
+        },
+        "Polygon": {
+          "Uniswap V4": 2293
+        },
+        "Blast": {
+          "Uniswap V4": 0
+        },
+        "Zora": {
+          "Uniswap V4": 0
+        },
+        "World Chain": {
+          "Uniswap V4": 0
+        },
+        "Ink": {
+          "Uniswap V4": 0
+        },
+        "Soneium": {
+          "Uniswap V4": 0
+        },
+        "Avalanche": {
+          "Uniswap V4": 17
+        },
+        "BSC": {
+          "Uniswap V4": 616
+        }
+      }
+    ],
+    [
+      1741564800,
+      {
+        "Ethereum": {
+          "Uniswap V4": 62709
+        },
+        "Unichain": {
+          "Uniswap V4": 531
+        },
+        "OP Mainnet": {
+          "Uniswap V4": 899
+        },
+        "Base": {
+          "Uniswap V4": 14211
+        },
+        "Arbitrum": {
+          "Uniswap V4": 19908
+        },
+        "Polygon": {
+          "Uniswap V4": 3802
+        },
+        "Blast": {
+          "Uniswap V4": 0
+        },
+        "Zora": {
+          "Uniswap V4": 0
+        },
+        "World Chain": {
+          "Uniswap V4": 0
+        },
+        "Ink": {
+          "Uniswap V4": 0
+        },
+        "Soneium": {
+          "Uniswap V4": 0
+        },
+        "Avalanche": {
+          "Uniswap V4": 23
+        },
+        "BSC": {
+          "Uniswap V4": 765
+        }
+      }
+    ],
+    [
+      1741737600,
+      {
+        "Ethereum": {
+          "Uniswap V4": 23799
+        },
+        "Unichain": {
+          "Uniswap V4": 460
+        },
+        "OP Mainnet": {
+          "Uniswap V4": 335
+        },
+        "Base": {
+          "Uniswap V4": 15762
+        },
+        "Arbitrum": {
+          "Uniswap V4": 16135
+        },
+        "Polygon": {
+          "Uniswap V4": 2656
+        },
+        "Blast": {
+          "Uniswap V4": 0
+        },
+        "Zora": {
+          "Uniswap V4": 0
+        },
+        "World Chain": {
+          "Uniswap V4": 0
+        },
+        "Ink": {
+          "Uniswap V4": 0
+        },
+        "Soneium": {
+          "Uniswap V4": 0
+        },
+        "Avalanche": {
+          "Uniswap V4": 34
+        },
+        "BSC": {
+          "Uniswap V4": 584
+        }
+      }
+    ],
+    [
+      1741824000,
+      {
+        "Ethereum": {
+          "Uniswap V4": 22065
+        },
+        "Unichain": {
+          "Uniswap V4": 295
+        },
+        "OP Mainnet": {
+          "Uniswap V4": 219
+        },
+        "Base": {
+          "Uniswap V4": 12582
+        },
+        "Arbitrum": {
+          "Uniswap V4": 11143
+        },
+        "Polygon": {
+          "Uniswap V4": 1722
+        },
+        "Blast": {
+          "Uniswap V4": 0
+        },
+        "Zora": {
+          "Uniswap V4": 0
+        },
+        "World Chain": {
+          "Uniswap V4": 1
+        },
+        "Ink": {
+          "Uniswap V4": 0
+        },
+        "Soneium": {
+          "Uniswap V4": 0
+        },
+        "Avalanche": {
+          "Uniswap V4": 31
+        },
+        "BSC": {
+          "Uniswap V4": 1181
+        }
+      }
+    ],
+    [
+      1741910400,
+      {
+        "Ethereum": {
+          "Uniswap V4": 13712
+        },
+        "Unichain": {
+          "Uniswap V4": 227
+        },
+        "OP Mainnet": {
+          "Uniswap V4": 161
+        },
+        "Base": {
+          "Uniswap V4": 25968
+        },
+        "Arbitrum": {
+          "Uniswap V4": 9197
+        },
+        "Polygon": {
+          "Uniswap V4": 2385
+        },
+        "Blast": {
+          "Uniswap V4": 0
+        },
+        "Zora": {
+          "Uniswap V4": 0
+        },
+        "World Chain": {
+          "Uniswap V4": 0
+        },
+        "Ink": {
+          "Uniswap V4": 0
+        },
+        "Soneium": {
+          "Uniswap V4": 0
+        },
+        "Avalanche": {
+          "Uniswap V4": 28
+        },
+        "BSC": {
+          "Uniswap V4": 413
+        }
+      }
+    ],
+    [
+      1741996800,
+      {
+        "Ethereum": {
+          "Uniswap V4": 11336
+        },
+        "Unichain": {
+          "Uniswap V4": 144
+        },
+        "OP Mainnet": {
+          "Uniswap V4": 182
+        },
+        "Base": {
+          "Uniswap V4": 5771
+        },
+        "Arbitrum": {
+          "Uniswap V4": 3624
+        },
+        "Polygon": {
+          "Uniswap V4": 1188
+        },
+        "Blast": {
+          "Uniswap V4": 0
+        },
+        "Zora": {
+          "Uniswap V4": 0
+        },
+        "World Chain": {
+          "Uniswap V4": 0
+        },
+        "Ink": {
+          "Uniswap V4": 0
+        },
+        "Soneium": {
+          "Uniswap V4": 0
+        },
+        "Avalanche": {
+          "Uniswap V4": 48
+        },
+        "BSC": {
+          "Uniswap V4": 299
+        }
+      }
+    ],
+    [
+      1742083200,
+      {
+        "Ethereum": {
+          "Uniswap V4": 10891
+        },
+        "Unichain": {
+          "Uniswap V4": 251
+        },
+        "OP Mainnet": {
+          "Uniswap V4": 172
+        },
+        "Base": {
+          "Uniswap V4": 8687
+        },
+        "Arbitrum": {
+          "Uniswap V4": 8775
+        },
+        "Polygon": {
+          "Uniswap V4": 1801
+        },
+        "Blast": {
+          "Uniswap V4": 0
+        },
+        "Zora": {
+          "Uniswap V4": 0
+        },
+        "World Chain": {
+          "Uniswap V4": 1
+        },
+        "Ink": {
+          "Uniswap V4": 0
+        },
+        "Soneium": {
+          "Uniswap V4": 0
+        },
+        "Avalanche": {
+          "Uniswap V4": 70
+        },
+        "BSC": {
+          "Uniswap V4": 449
+        }
+      }
+    ],
+    [
+      1742169600,
+      {
+        "Ethereum": {
+          "Uniswap V4": 15933
+        },
+        "Unichain": {
+          "Uniswap V4": 274
+        },
+        "OP Mainnet": {
+          "Uniswap V4": 161
+        },
+        "Base": {
+          "Uniswap V4": 9526
+        },
+        "Arbitrum": {
+          "Uniswap V4": 9909
+        },
+        "Polygon": {
+          "Uniswap V4": 2004
+        },
+        "Blast": {
+          "Uniswap V4": 0
+        },
+        "Zora": {
+          "Uniswap V4": 0
+        },
+        "World Chain": {
+          "Uniswap V4": 0
+        },
+        "Ink": {
+          "Uniswap V4": 0
+        },
+        "Soneium": {
+          "Uniswap V4": 0
+        },
+        "Avalanche": {
+          "Uniswap V4": 53
+        },
+        "BSC": {
+          "Uniswap V4": 903
+        }
+      }
+    ],
+    [
+      1742256000,
+      {
+        "Ethereum": {
+          "Uniswap V4": 15119
+        },
+        "Unichain": {
+          "Uniswap V4": 267
+        },
+        "OP Mainnet": {
+          "Uniswap V4": 139
+        },
+        "Base": {
+          "Uniswap V4": 13998
+        },
+        "Arbitrum": {
+          "Uniswap V4": 11213
+        },
+        "Polygon": {
+          "Uniswap V4": 1779
+        },
+        "Blast": {
+          "Uniswap V4": 0
+        },
+        "Zora": {
+          "Uniswap V4": 0
+        },
+        "World Chain": {
+          "Uniswap V4": 0
+        },
+        "Ink": {
+          "Uniswap V4": 0
+        },
+        "Soneium": {
+          "Uniswap V4": 0
+        },
+        "Avalanche": {
+          "Uniswap V4": 54
+        },
+        "BSC": {
+          "Uniswap V4": 1249
+        }
+      }
+    ],
+    [
+      1742342400,
+      {
+        "Ethereum": {
+          "Uniswap V4": 34193
+        },
+        "Unichain": {
+          "Uniswap V4": 838
+        },
+        "OP Mainnet": {
+          "Uniswap V4": 358
+        },
+        "Base": {
+          "Uniswap V4": 23759
+        },
+        "Arbitrum": {
+          "Uniswap V4": 15281
+        },
+        "Polygon": {
+          "Uniswap V4": 3359
+        },
+        "Blast": {
+          "Uniswap V4": 0
+        },
+        "Zora": {
+          "Uniswap V4": 0
+        },
+        "World Chain": {
+          "Uniswap V4": 4
+        },
+        "Ink": {
+          "Uniswap V4": 0
+        },
+        "Soneium": {
+          "Uniswap V4": 0
+        },
+        "Avalanche": {
+          "Uniswap V4": 38
+        },
+        "BSC": {
+          "Uniswap V4": 1269
+        }
+      }
+    ],
+    [
+      1742428800,
+      {
+        "Ethereum": {
+          "Uniswap V4": 31510
+        },
+        "Unichain": {
+          "Uniswap V4": 417
+        },
+        "OP Mainnet": {
+          "Uniswap V4": 391
+        },
+        "Base": {
+          "Uniswap V4": 15638
+        },
+        "Arbitrum": {
+          "Uniswap V4": 9614
+        },
+        "Polygon": {
+          "Uniswap V4": 2735
+        },
+        "Blast": {
+          "Uniswap V4": 0
+        },
+        "Zora": {
+          "Uniswap V4": 0
+        },
+        "World Chain": {
+          "Uniswap V4": 12
+        },
+        "Ink": {
+          "Uniswap V4": 0
+        },
+        "Soneium": {
+          "Uniswap V4": 0
+        },
+        "Avalanche": {
+          "Uniswap V4": 18
+        },
+        "BSC": {
+          "Uniswap V4": 1609
+        }
+      }
+    ],
+    [
+      1742515200,
+      {
+        "Ethereum": {
+          "Uniswap V4": 16011
+        },
+        "Unichain": {
+          "Uniswap V4": 406
+        },
+        "OP Mainnet": {
+          "Uniswap V4": 263
+        },
+        "Base": {
+          "Uniswap V4": 15496
+        },
+        "Arbitrum": {
+          "Uniswap V4": 9436
+        },
+        "Polygon": {
+          "Uniswap V4": 1529
+        },
+        "Blast": {
+          "Uniswap V4": 0
+        },
+        "Zora": {
+          "Uniswap V4": 0
+        },
+        "World Chain": {
+          "Uniswap V4": 27
+        },
+        "Ink": {
+          "Uniswap V4": 0
+        },
+        "Soneium": {
+          "Uniswap V4": 0
+        },
+        "Avalanche": {
+          "Uniswap V4": 14
+        },
+        "BSC": {
+          "Uniswap V4": 1356
+        }
+      }
+    ],
+    [
+      1742601600,
+      {
+        "Ethereum": {
+          "Uniswap V4": 9513
+        },
+        "Unichain": {
+          "Uniswap V4": 398
+        },
+        "OP Mainnet": {
+          "Uniswap V4": 237
+        },
+        "Base": {
+          "Uniswap V4": 12246
+        },
+        "Arbitrum": {
+          "Uniswap V4": 2850
+        },
+        "Polygon": {
+          "Uniswap V4": 646
+        },
+        "Blast": {
+          "Uniswap V4": 0
+        },
+        "Zora": {
+          "Uniswap V4": 0
+        },
+        "World Chain": {
+          "Uniswap V4": 16
+        },
+        "Ink": {
+          "Uniswap V4": 0
+        },
+        "Soneium": {
+          "Uniswap V4": 0
+        },
+        "Avalanche": {
+          "Uniswap V4": 7
+        },
+        "BSC": {
+          "Uniswap V4": 697
+        }
+      }
+    ],
+    [
+      1742688000,
+      {
+        "Ethereum": {
+          "Uniswap V4": 11261
+        },
+        "Unichain": {
+          "Uniswap V4": 472
+        },
+        "OP Mainnet": {
+          "Uniswap V4": 171
+        },
+        "Base": {
+          "Uniswap V4": 13365
+        },
+        "Arbitrum": {
+          "Uniswap V4": 3825
+        },
+        "Polygon": {
+          "Uniswap V4": 1127
+        },
+        "Blast": {
+          "Uniswap V4": 0
+        },
+        "Zora": {
+          "Uniswap V4": 0
+        },
+        "World Chain": {
+          "Uniswap V4": 10
+        },
+        "Ink": {
+          "Uniswap V4": 0
+        },
+        "Soneium": {
+          "Uniswap V4": 0
+        },
+        "Avalanche": {
+          "Uniswap V4": 11
+        },
+        "BSC": {
+          "Uniswap V4": 578
+        }
+      }
+    ],
+    [
+      1742774400,
+      {
+        "Ethereum": {
+          "Uniswap V4": 34451
+        },
+        "Unichain": {
+          "Uniswap V4": 1227
+        },
+        "OP Mainnet": {
+          "Uniswap V4": 331
+        },
+        "Base": {
+          "Uniswap V4": 13859
+        },
+        "Arbitrum": {
+          "Uniswap V4": 8406
+        },
+        "Polygon": {
+          "Uniswap V4": 2374
+        },
+        "Blast": {
+          "Uniswap V4": 0
+        },
+        "Zora": {
+          "Uniswap V4": 0
+        },
+        "World Chain": {
+          "Uniswap V4": 41
+        },
+        "Ink": {
+          "Uniswap V4": 0
+        },
+        "Soneium": {
+          "Uniswap V4": 0
+        },
+        "Avalanche": {
+          "Uniswap V4": 30
+        },
+        "BSC": {
+          "Uniswap V4": 998
+        }
+      }
+    ],
+    [
+      1742860800,
+      {
+        "Ethereum": {
+          "Uniswap V4": 22906
+        },
+        "Unichain": {
+          "Uniswap V4": 656
+        },
+        "OP Mainnet": {
+          "Uniswap V4": 217
+        },
+        "Base": {
+          "Uniswap V4": 14688
+        },
+        "Arbitrum": {
+          "Uniswap V4": 8157
+        },
+        "Polygon": {
+          "Uniswap V4": 1787
+        },
+        "Blast": {
+          "Uniswap V4": 0
+        },
+        "Zora": {
+          "Uniswap V4": 0
+        },
+        "World Chain": {
+          "Uniswap V4": 43
+        },
+        "Ink": {
+          "Uniswap V4": 0
+        },
+        "Soneium": {
+          "Uniswap V4": 0
+        },
+        "Avalanche": {
+          "Uniswap V4": 27
+        },
+        "BSC": {
+          "Uniswap V4": 2324
+        }
+      }
+    ],
+    [
+      1742947200,
+      {
+        "Ethereum": {
+          "Uniswap V4": 33552
+        },
+        "Unichain": {
+          "Uniswap V4": 483
+        },
+        "OP Mainnet": {
+          "Uniswap V4": 304
+        },
+        "Base": {
+          "Uniswap V4": 16887
+        },
+        "Arbitrum": {
+          "Uniswap V4": 6992
+        },
+        "Polygon": {
+          "Uniswap V4": 2090
+        },
+        "Blast": {
+          "Uniswap V4": 0
+        },
+        "Zora": {
+          "Uniswap V4": 0
+        },
+        "World Chain": {
+          "Uniswap V4": 26
+        },
+        "Ink": {
+          "Uniswap V4": 0
+        },
+        "Soneium": {
+          "Uniswap V4": 0
+        },
+        "Avalanche": {
+          "Uniswap V4": 23
+        },
+        "BSC": {
+          "Uniswap V4": 750
+        }
+      }
+    ],
+    [
+      1743033600,
+      {
+        "Ethereum": {
+          "Uniswap V4": 31388
+        },
+        "Unichain": {
+          "Uniswap V4": 327
+        },
+        "OP Mainnet": {
+          "Uniswap V4": 295
+        },
+        "Base": {
+          "Uniswap V4": 12557
+        },
+        "Arbitrum": {
+          "Uniswap V4": 6040
+        },
+        "Polygon": {
+          "Uniswap V4": 1552
+        },
+        "Blast": {
+          "Uniswap V4": 0
+        },
+        "Zora": {
+          "Uniswap V4": 0
+        },
+        "World Chain": {
+          "Uniswap V4": 20
+        },
+        "Ink": {
+          "Uniswap V4": 0
+        },
+        "Soneium": {
+          "Uniswap V4": 0
+        },
+        "Avalanche": {
+          "Uniswap V4": 17
+        },
+        "BSC": {
+          "Uniswap V4": 1663
+        }
+      }
+    ],
+    [
+      1743120000,
+      {
+        "Ethereum": {
+          "Uniswap V4": 34752
+        },
+        "Unichain": {
+          "Uniswap V4": 728
+        },
+        "OP Mainnet": {
+          "Uniswap V4": 338
+        },
+        "Base": {
+          "Uniswap V4": 14499
+        },
+        "Arbitrum": {
+          "Uniswap V4": 6921
+        },
+        "Polygon": {
+          "Uniswap V4": 2318
+        },
+        "Blast": {
+          "Uniswap V4": 0
+        },
+        "Zora": {
+          "Uniswap V4": 0
+        },
+        "World Chain": {
+          "Uniswap V4": 31
+        },
+        "Ink": {
+          "Uniswap V4": 0
+        },
+        "Soneium": {
+          "Uniswap V4": 0
+        },
+        "Avalanche": {
+          "Uniswap V4": 48
+        },
+        "BSC": {
+          "Uniswap V4": 832
+        }
+      }
+    ],
+    [
+      1743206400,
+      {
+        "Ethereum": {
+          "Uniswap V4": 15188
+        },
+        "Unichain": {
+          "Uniswap V4": 272
+        },
+        "OP Mainnet": {
+          "Uniswap V4": 283
+        },
+        "Base": {
+          "Uniswap V4": 9707
+        },
+        "Arbitrum": {
+          "Uniswap V4": 5245
+        },
+        "Polygon": {
+          "Uniswap V4": 2527
+        },
+        "Blast": {
+          "Uniswap V4": 0
+        },
+        "Zora": {
+          "Uniswap V4": 0
+        },
+        "World Chain": {
+          "Uniswap V4": 39
+        },
+        "Ink": {
+          "Uniswap V4": 0
+        },
+        "Soneium": {
+          "Uniswap V4": 0
+        },
+        "Avalanche": {
+          "Uniswap V4": 28
+        },
+        "BSC": {
+          "Uniswap V4": 546
+        }
+      }
+    ],
+    [
+      1743292800,
+      {
+        "Ethereum": {
+          "Uniswap V4": 12732
+        },
+        "Unichain": {
+          "Uniswap V4": 199
+        },
+        "OP Mainnet": {
+          "Uniswap V4": 331
+        },
+        "Base": {
+          "Uniswap V4": 8251
+        },
+        "Arbitrum": {
+          "Uniswap V4": 5847
+        },
+        "Polygon": {
+          "Uniswap V4": 1369
+        },
+        "Blast": {
+          "Uniswap V4": 0
+        },
+        "Zora": {
+          "Uniswap V4": 0
+        },
+        "World Chain": {
+          "Uniswap V4": 24
+        },
+        "Ink": {
+          "Uniswap V4": 0
+        },
+        "Soneium": {
+          "Uniswap V4": 0
+        },
+        "Avalanche": {
+          "Uniswap V4": 25
+        },
+        "BSC": {
+          "Uniswap V4": 552
+        }
+      }
+    ],
+    [
+      1743379200,
+      {
+        "Ethereum": {
+          "Uniswap V4": 20895
+        },
+        "Unichain": {
+          "Uniswap V4": 257
+        },
+        "OP Mainnet": {
+          "Uniswap V4": 401
+        },
+        "Base": {
+          "Uniswap V4": 31631
+        },
+        "Arbitrum": {
+          "Uniswap V4": 11549
+        },
+        "Polygon": {
+          "Uniswap V4": 3439
+        },
+        "Blast": {
+          "Uniswap V4": 0
+        },
+        "Zora": {
+          "Uniswap V4": 0
+        },
+        "World Chain": {
+          "Uniswap V4": 17
+        },
+        "Ink": {
+          "Uniswap V4": 0
+        },
+        "Soneium": {
+          "Uniswap V4": 0
+        },
+        "Avalanche": {
+          "Uniswap V4": 26
+        },
+        "BSC": {
+          "Uniswap V4": 20139
+        }
+      }
+    ],
+    [
+      1743465600,
+      {
+        "Ethereum": {
+          "Uniswap V4": 23759
+        },
+        "Unichain": {
+          "Uniswap V4": 324
+        },
+        "OP Mainnet": {
+          "Uniswap V4": 380
+        },
+        "Base": {
+          "Uniswap V4": 25265
+        },
+        "Arbitrum": {
+          "Uniswap V4": 8870
+        },
+        "Polygon": {
+          "Uniswap V4": 2431
+        },
+        "Blast": {
+          "Uniswap V4": 0
+        },
+        "Zora": {
+          "Uniswap V4": 0
+        },
+        "World Chain": {
+          "Uniswap V4": 96
+        },
+        "Ink": {
+          "Uniswap V4": 0
+        },
+        "Soneium": {
+          "Uniswap V4": 0
+        },
+        "Avalanche": {
+          "Uniswap V4": 31
+        },
+        "BSC": {
+          "Uniswap V4": 744
+        }
+      }
+    ],
+    [
+      1743552000,
+      {
+        "Ethereum": {
+          "Uniswap V4": 44726
+        },
+        "Unichain": {
+          "Uniswap V4": 655
+        },
+        "OP Mainnet": {
+          "Uniswap V4": 1232
+        },
+        "Base": {
+          "Uniswap V4": 16706
+        },
+        "Arbitrum": {
+          "Uniswap V4": 19633
+        },
+        "Polygon": {
+          "Uniswap V4": 4670
+        },
+        "Blast": {
+          "Uniswap V4": 0
+        },
+        "Zora": {
+          "Uniswap V4": 0
+        },
+        "World Chain": {
+          "Uniswap V4": 209
+        },
+        "Ink": {
+          "Uniswap V4": 0
+        },
+        "Soneium": {
+          "Uniswap V4": 0
+        },
+        "Avalanche": {
+          "Uniswap V4": 43
+        },
+        "BSC": {
+          "Uniswap V4": 1278
+        }
+      }
+    ],
+    [
+      1743638400,
+      {
+        "Ethereum": {
+          "Uniswap V4": 22269
+        },
+        "Unichain": {
+          "Uniswap V4": 322
+        },
+        "OP Mainnet": {
+          "Uniswap V4": 811
+        },
+        "Base": {
+          "Uniswap V4": 12314
+        },
+        "Arbitrum": {
+          "Uniswap V4": 11487
+        },
+        "Polygon": {
+          "Uniswap V4": 2973
+        },
+        "Blast": {
+          "Uniswap V4": 0
+        },
+        "Zora": {
+          "Uniswap V4": 0
+        },
+        "World Chain": {
+          "Uniswap V4": 166
+        },
+        "Ink": {
+          "Uniswap V4": 0
+        },
+        "Soneium": {
+          "Uniswap V4": 0
+        },
+        "Avalanche": {
+          "Uniswap V4": 21
+        },
+        "BSC": {
+          "Uniswap V4": 959
+        }
+      }
+    ],
+    [
+      1743724800,
+      {
+        "Ethereum": {
+          "Uniswap V4": 27247
+        },
+        "Unichain": {
+          "Uniswap V4": 339
+        },
+        "OP Mainnet": {
+          "Uniswap V4": 960
+        },
+        "Base": {
+          "Uniswap V4": 14606
+        },
+        "Arbitrum": {
+          "Uniswap V4": 18907
+        },
+        "Polygon": {
+          "Uniswap V4": 3523
+        },
+        "Blast": {
+          "Uniswap V4": 0
+        },
+        "Zora": {
+          "Uniswap V4": 46
+        },
+        "World Chain": {
+          "Uniswap V4": 73
+        },
+        "Ink": {
+          "Uniswap V4": 0
+        },
+        "Soneium": {
+          "Uniswap V4": 0
+        },
+        "Avalanche": {
+          "Uniswap V4": 25
+        },
+        "BSC": {
+          "Uniswap V4": 1440
+        }
+      }
+    ],
+    [
+      1743811200,
+      {
+        "Ethereum": {
+          "Uniswap V4": 10484
+        },
+        "Unichain": {
+          "Uniswap V4": 106
+        },
+        "OP Mainnet": {
+          "Uniswap V4": 278
+        },
+        "Base": {
+          "Uniswap V4": 5075
+        },
+        "Arbitrum": {
+          "Uniswap V4": 4044
+        },
+        "Polygon": {
+          "Uniswap V4": 1148
+        },
+        "Blast": {
+          "Uniswap V4": 0
+        },
+        "Zora": {
+          "Uniswap V4": 10
+        },
+        "World Chain": {
+          "Uniswap V4": 54
+        },
+        "Ink": {
+          "Uniswap V4": 0
+        },
+        "Soneium": {
+          "Uniswap V4": 0
+        },
+        "Avalanche": {
+          "Uniswap V4": 4
+        },
+        "BSC": {
+          "Uniswap V4": 479
+        }
+      }
+    ],
+    [
+      1743897600,
+      {
+        "Ethereum": {
+          "Uniswap V4": 41061
+        },
+        "Unichain": {
+          "Uniswap V4": 345
+        },
+        "OP Mainnet": {
+          "Uniswap V4": 716
+        },
+        "Base": {
+          "Uniswap V4": 10860
+        },
+        "Arbitrum": {
+          "Uniswap V4": 9842
+        },
+        "Polygon": {
+          "Uniswap V4": 5227
+        },
+        "Blast": {
+          "Uniswap V4": 0
+        },
+        "Zora": {
+          "Uniswap V4": 7
+        },
+        "World Chain": {
+          "Uniswap V4": 35
+        },
+        "Ink": {
+          "Uniswap V4": 0
+        },
+        "Soneium": {
+          "Uniswap V4": 0
+        },
+        "Avalanche": {
+          "Uniswap V4": 32
+        },
+        "BSC": {
+          "Uniswap V4": 676
+        }
+      }
+    ],
+    [
+      1743984000,
+      {
+        "Ethereum": {
+          "Uniswap V4": 91745
+        },
+        "Unichain": {
+          "Uniswap V4": 522
+        },
+        "OP Mainnet": {
+          "Uniswap V4": 996
+        },
+        "Base": {
+          "Uniswap V4": 20851
+        },
+        "Arbitrum": {
+          "Uniswap V4": 22394
+        },
+        "Polygon": {
+          "Uniswap V4": 7559
+        },
+        "Blast": {
+          "Uniswap V4": 0
+        },
+        "Zora": {
+          "Uniswap V4": 16
+        },
+        "World Chain": {
+          "Uniswap V4": 36
+        },
+        "Ink": {
+          "Uniswap V4": 0
+        },
+        "Soneium": {
+          "Uniswap V4": 0
+        },
+        "Avalanche": {
+          "Uniswap V4": 58
+        },
+        "BSC": {
+          "Uniswap V4": 788
+        }
+      }
+    ],
+    [
+      1744070400,
+      {
+        "Ethereum": {
+          "Uniswap V4": 33778
+        },
+        "Unichain": {
+          "Uniswap V4": 266
+        },
+        "OP Mainnet": {
+          "Uniswap V4": 427
+        },
+        "Base": {
+          "Uniswap V4": 9168
+        },
+        "Arbitrum": {
+          "Uniswap V4": 11309
+        },
+        "Polygon": {
+          "Uniswap V4": 3771
+        },
+        "Blast": {
+          "Uniswap V4": 0
+        },
+        "Zora": {
+          "Uniswap V4": 3
+        },
+        "World Chain": {
+          "Uniswap V4": 136
+        },
+        "Ink": {
+          "Uniswap V4": 0
+        },
+        "Soneium": {
+          "Uniswap V4": 0
+        },
+        "Avalanche": {
+          "Uniswap V4": 32
+        },
+        "BSC": {
+          "Uniswap V4": 307
+        }
+      }
+    ],
+    [
+      1744156800,
+      {
+        "Ethereum": {
+          "Uniswap V4": 71698
+        },
+        "Unichain": {
+          "Uniswap V4": 370
+        },
+        "OP Mainnet": {
+          "Uniswap V4": 955
+        },
+        "Base": {
+          "Uniswap V4": 20892
+        },
+        "Arbitrum": {
+          "Uniswap V4": 28563
+        },
+        "Polygon": {
+          "Uniswap V4": 7612
+        },
+        "Blast": {
+          "Uniswap V4": 0
+        },
+        "Zora": {
+          "Uniswap V4": 9
+        },
+        "World Chain": {
+          "Uniswap V4": 60
+        },
+        "Ink": {
+          "Uniswap V4": 0
+        },
+        "Soneium": {
+          "Uniswap V4": 0
+        },
+        "Avalanche": {
+          "Uniswap V4": 44
+        },
+        "BSC": {
+          "Uniswap V4": 1625
+        }
+      }
+    ],
+    [
+      1744243200,
+      {
+        "Ethereum": {
+          "Uniswap V4": 57324
+        },
+        "Unichain": {
+          "Uniswap V4": 242
+        },
+        "OP Mainnet": {
+          "Uniswap V4": 423
+        },
+        "Base": {
+          "Uniswap V4": 12477
+        },
+        "Arbitrum": {
+          "Uniswap V4": 17373
+        },
+        "Polygon": {
+          "Uniswap V4": 3853
+        },
+        "Blast": {
+          "Uniswap V4": 0
+        },
+        "Zora": {
+          "Uniswap V4": 31
+        },
+        "World Chain": {
+          "Uniswap V4": 49
+        },
+        "Ink": {
+          "Uniswap V4": 0
+        },
+        "Soneium": {
+          "Uniswap V4": 0
+        },
+        "Avalanche": {
+          "Uniswap V4": 25
+        },
+        "BSC": {
+          "Uniswap V4": 1688
+        }
+      }
+    ],
+    [
+      1744329600,
+      {
+        "Ethereum": {
+          "Uniswap V4": 80626
+        },
+        "Unichain": {
+          "Uniswap V4": 182
+        },
+        "OP Mainnet": {
+          "Uniswap V4": 362
+        },
+        "Base": {
+          "Uniswap V4": 18952
+        },
+        "Arbitrum": {
+          "Uniswap V4": 17145
+        },
+        "Polygon": {
+          "Uniswap V4": 3291
+        },
+        "Blast": {
+          "Uniswap V4": 0
+        },
+        "Zora": {
+          "Uniswap V4": 30
+        },
+        "World Chain": {
+          "Uniswap V4": 111
+        },
+        "Ink": {
+          "Uniswap V4": 0
+        },
+        "Soneium": {
+          "Uniswap V4": 0
+        },
+        "Avalanche": {
+          "Uniswap V4": 38
+        },
+        "BSC": {
+          "Uniswap V4": 832
+        }
+      }
+    ],
+    [
+      1744416000,
+      {
+        "Ethereum": {
+          "Uniswap V4": 33985
+        },
+        "Unichain": {
+          "Uniswap V4": 219
+        },
+        "OP Mainnet": {
+          "Uniswap V4": 264
+        },
+        "Base": {
+          "Uniswap V4": 12716
+        },
+        "Arbitrum": {
+          "Uniswap V4": 9256
+        },
+        "Polygon": {
+          "Uniswap V4": 2131
+        },
+        "Blast": {
+          "Uniswap V4": 0
+        },
+        "Zora": {
+          "Uniswap V4": 251
+        },
+        "World Chain": {
+          "Uniswap V4": 99
+        },
+        "Ink": {
+          "Uniswap V4": 0
+        },
+        "Soneium": {
+          "Uniswap V4": 0
+        },
+        "Avalanche": {
+          "Uniswap V4": 47
+        },
+        "BSC": {
+          "Uniswap V4": 980
+        }
+      }
+    ],
+    [
+      1744502400,
+      {
+        "Ethereum": {
+          "Uniswap V4": 26991
+        },
+        "Unichain": {
+          "Uniswap V4": 288
+        },
+        "OP Mainnet": {
+          "Uniswap V4": 403
+        },
+        "Base": {
+          "Uniswap V4": 12236
+        },
+        "Arbitrum": {
+          "Uniswap V4": 14532
+        },
+        "Polygon": {
+          "Uniswap V4": 3223
+        },
+        "Blast": {
+          "Uniswap V4": 0
+        },
+        "Zora": {
+          "Uniswap V4": 33
+        },
+        "World Chain": {
+          "Uniswap V4": 77
+        },
+        "Ink": {
+          "Uniswap V4": 0
+        },
+        "Soneium": {
+          "Uniswap V4": 0
+        },
+        "Avalanche": {
+          "Uniswap V4": 38
+        },
+        "BSC": {
+          "Uniswap V4": 950
+        }
+      }
+    ],
+    [
+      1744588800,
+      {
+        "Ethereum": {
+          "Uniswap V4": 33990
+        },
+        "Unichain": {
+          "Uniswap V4": 376
+        },
+        "OP Mainnet": {
+          "Uniswap V4": 666
+        },
+        "Base": {
+          "Uniswap V4": 8990
+        },
+        "Arbitrum": {
+          "Uniswap V4": 15816
+        },
+        "Polygon": {
+          "Uniswap V4": 3126
+        },
+        "Blast": {
+          "Uniswap V4": 0
+        },
+        "Zora": {
+          "Uniswap V4": 40
+        },
+        "World Chain": {
+          "Uniswap V4": 71
+        },
+        "Ink": {
+          "Uniswap V4": 0
+        },
+        "Soneium": {
+          "Uniswap V4": 0
+        },
+        "Avalanche": {
+          "Uniswap V4": 47
+        },
+        "BSC": {
+          "Uniswap V4": 1938
+        }
+      }
+    ],
+    [
+      1744675200,
+      {
+        "Ethereum": {
+          "Uniswap V4": 36145
+        },
+        "Unichain": {
+          "Uniswap V4": 12241
+        },
+        "OP Mainnet": {
+          "Uniswap V4": 4175
+        },
+        "Base": {
+          "Uniswap V4": 5833
+        },
+        "Arbitrum": {
+          "Uniswap V4": 8753
+        },
+        "Polygon": {
+          "Uniswap V4": 2410
+        },
+        "Blast": {
+          "Uniswap V4": 0
+        },
+        "Zora": {
+          "Uniswap V4": 2
+        },
+        "World Chain": {
+          "Uniswap V4": 33
+        },
+        "Ink": {
+          "Uniswap V4": 0
+        },
+        "Soneium": {
+          "Uniswap V4": 0
+        },
+        "Avalanche": {
+          "Uniswap V4": 36
+        },
+        "BSC": {
+          "Uniswap V4": 751
+        }
+      }
+    ],
+    [
+      1744761600,
+      {
+        "Ethereum": {
+          "Uniswap V4": 30669
+        },
+        "Unichain": {
+          "Uniswap V4": 51222
+        },
+        "OP Mainnet": {
+          "Uniswap V4": 517
+        },
+        "Base": {
+          "Uniswap V4": 16249
+        },
+        "Arbitrum": {
+          "Uniswap V4": 12025
+        },
+        "Polygon": {
+          "Uniswap V4": 3268
+        },
+        "Blast": {
+          "Uniswap V4": 0
+        },
+        "Zora": {
+          "Uniswap V4": 0
+        },
+        "World Chain": {
+          "Uniswap V4": 50
+        },
+        "Ink": {
+          "Uniswap V4": 0
+        },
+        "Soneium": {
+          "Uniswap V4": 0
+        },
+        "Avalanche": {
+          "Uniswap V4": 44
+        },
+        "BSC": {
+          "Uniswap V4": 1226
+        }
+      }
+    ],
+    [
+      1744848000,
+      {
+        "Ethereum": {
+          "Uniswap V4": 22944
+        },
+        "Unichain": {
+          "Uniswap V4": 50900
+        },
+        "OP Mainnet": {
+          "Uniswap V4": 240
+        },
+        "Base": {
+          "Uniswap V4": 20948
+        },
+        "Arbitrum": {
+          "Uniswap V4": 6898
+        },
+        "Polygon": {
+          "Uniswap V4": 2055
+        },
+        "Blast": {
+          "Uniswap V4": 0
+        },
+        "Zora": {
+          "Uniswap V4": 7
+        },
+        "World Chain": {
+          "Uniswap V4": 56
+        },
+        "Ink": {
+          "Uniswap V4": 0
+        },
+        "Soneium": {
+          "Uniswap V4": 0
+        },
+        "Avalanche": {
+          "Uniswap V4": 24
+        },
+        "BSC": {
+          "Uniswap V4": 947
+        }
+      }
+    ],
+    [
+      1744934400,
+      {
+        "Ethereum": {
+          "Uniswap V4": 12584
+        },
+        "Unichain": {
+          "Uniswap V4": 21488
+        },
+        "OP Mainnet": {
+          "Uniswap V4": 272
+        },
+        "Base": {
+          "Uniswap V4": 10117
+        },
+        "Arbitrum": {
+          "Uniswap V4": 1482
+        },
+        "Polygon": {
+          "Uniswap V4": 1079
+        },
+        "Blast": {
+          "Uniswap V4": 0
+        },
+        "Zora": {
+          "Uniswap V4": 15
+        },
+        "World Chain": {
+          "Uniswap V4": 117
+        },
+        "Ink": {
+          "Uniswap V4": 0
+        },
+        "Soneium": {
+          "Uniswap V4": 0
+        },
+        "Avalanche": {
+          "Uniswap V4": 15
+        },
+        "BSC": {
+          "Uniswap V4": 4397
+        }
+      }
+    ],
+    [
+      1745020800,
+      {
+        "Ethereum": {
+          "Uniswap V4": 16412
+        },
+        "Unichain": {
+          "Uniswap V4": 29394
+        },
+        "OP Mainnet": {
+          "Uniswap V4": 215
+        },
+        "Base": {
+          "Uniswap V4": 6217
+        },
+        "Arbitrum": {
+          "Uniswap V4": 2414
+        },
+        "Polygon": {
+          "Uniswap V4": 1898
+        },
+        "Blast": {
+          "Uniswap V4": 0
+        },
+        "Zora": {
+          "Uniswap V4": 0
+        },
+        "World Chain": {
+          "Uniswap V4": 51
+        },
+        "Ink": {
+          "Uniswap V4": 0
+        },
+        "Soneium": {
+          "Uniswap V4": 0
+        },
+        "Avalanche": {
+          "Uniswap V4": 16
+        },
+        "BSC": {
+          "Uniswap V4": 471
+        }
+      }
+    ],
+    [
+      1745107200,
+      {
+        "Ethereum": {
+          "Uniswap V4": 20353
+        },
+        "Unichain": {
+          "Uniswap V4": 42292
+        },
+        "OP Mainnet": {
+          "Uniswap V4": 178
+        },
+        "Base": {
+          "Uniswap V4": 5173
+        },
+        "Arbitrum": {
+          "Uniswap V4": 3286
+        },
+        "Polygon": {
+          "Uniswap V4": 3281
+        },
+        "Blast": {
+          "Uniswap V4": 0
+        },
+        "Zora": {
+          "Uniswap V4": 1
+        },
+        "World Chain": {
+          "Uniswap V4": 34
+        },
+        "Ink": {
+          "Uniswap V4": 0
+        },
+        "Soneium": {
+          "Uniswap V4": 0
+        },
+        "Avalanche": {
+          "Uniswap V4": 11
+        },
+        "BSC": {
+          "Uniswap V4": 1004
+        }
+      }
+    ],
+    [
+      1745193600,
+      {
+        "Ethereum": {
+          "Uniswap V4": 48102
+        },
+        "Unichain": {
+          "Uniswap V4": 100780
+        },
+        "OP Mainnet": {
+          "Uniswap V4": 319
+        },
+        "Base": {
+          "Uniswap V4": 11413
+        },
+        "Arbitrum": {
+          "Uniswap V4": 9989
+        },
+        "Polygon": {
+          "Uniswap V4": 3786
+        },
+        "Blast": {
+          "Uniswap V4": 0
+        },
+        "Zora": {
+          "Uniswap V4": 0
+        },
+        "World Chain": {
+          "Uniswap V4": 45
+        },
+        "Ink": {
+          "Uniswap V4": 0
+        },
+        "Soneium": {
+          "Uniswap V4": 0
+        },
+        "Avalanche": {
+          "Uniswap V4": 42
+        },
+        "BSC": {
+          "Uniswap V4": 2326
+        }
+      }
+    ],
+    [
+      1745280000,
+      {
+        "Ethereum": {
+          "Uniswap V4": 63084
+        },
+        "Unichain": {
+          "Uniswap V4": 138591
+        },
+        "OP Mainnet": {
+          "Uniswap V4": 1639
+        },
+        "Base": {
+          "Uniswap V4": 20709
+        },
+        "Arbitrum": {
+          "Uniswap V4": 18378
+        },
+        "Polygon": {
+          "Uniswap V4": 5638
+        },
+        "Blast": {
+          "Uniswap V4": 0
+        },
+        "Zora": {
+          "Uniswap V4": 0
+        },
+        "World Chain": {
+          "Uniswap V4": 57
+        },
+        "Ink": {
+          "Uniswap V4": 0
+        },
+        "Soneium": {
+          "Uniswap V4": 0
+        },
+        "Avalanche": {
+          "Uniswap V4": 49
+        },
+        "BSC": {
+          "Uniswap V4": 20676
+        }
+      }
+    ],
+    [
+      1745366400,
+      {
+        "Ethereum": {
+          "Uniswap V4": 55580
+        },
+        "Unichain": {
+          "Uniswap V4": 146180
+        },
+        "OP Mainnet": {
+          "Uniswap V4": 1016
+        },
+        "Base": {
+          "Uniswap V4": 68919
+        },
+        "Arbitrum": {
+          "Uniswap V4": 14342
+        },
+        "Polygon": {
+          "Uniswap V4": 5049
+        },
+        "Blast": {
+          "Uniswap V4": 0
+        },
+        "Zora": {
+          "Uniswap V4": 0
+        },
+        "World Chain": {
+          "Uniswap V4": 61
+        },
+        "Ink": {
+          "Uniswap V4": 0
+        },
+        "Soneium": {
+          "Uniswap V4": 0
+        },
+        "Avalanche": {
+          "Uniswap V4": 42
+        },
+        "BSC": {
+          "Uniswap V4": 5491
+        }
+      }
+    ],
+    [
+      1745452800,
+      {
+        "Ethereum": {
+          "Uniswap V4": 39431
+        },
+        "Unichain": {
+          "Uniswap V4": 95420
+        },
+        "OP Mainnet": {
+          "Uniswap V4": 448
+        },
+        "Base": {
+          "Uniswap V4": 51109
+        },
+        "Arbitrum": {
+          "Uniswap V4": 8444
+        },
+        "Polygon": {
+          "Uniswap V4": 4040
+        },
+        "Blast": {
+          "Uniswap V4": 0
+        },
+        "Zora": {
+          "Uniswap V4": 5
+        },
+        "World Chain": {
+          "Uniswap V4": 91
+        },
+        "Ink": {
+          "Uniswap V4": 0
+        },
+        "Soneium": {
+          "Uniswap V4": 0
+        },
+        "Avalanche": {
+          "Uniswap V4": 30
+        },
+        "BSC": {
+          "Uniswap V4": 2420
+        }
+      }
+    ],
+    [
+      1745539200,
+      {
+        "Ethereum": {
+          "Uniswap V4": 53769
+        },
+        "Unichain": {
+          "Uniswap V4": 111332
+        },
+        "OP Mainnet": {
+          "Uniswap V4": 463
+        },
+        "Base": {
+          "Uniswap V4": 25073
+        },
+        "Arbitrum": {
+          "Uniswap V4": 10495
+        },
+        "Polygon": {
+          "Uniswap V4": 3840
+        },
+        "Blast": {
+          "Uniswap V4": 0
+        },
+        "Zora": {
+          "Uniswap V4": 6
+        },
+        "World Chain": {
+          "Uniswap V4": 178
+        },
+        "Ink": {
+          "Uniswap V4": 0
+        },
+        "Soneium": {
+          "Uniswap V4": 0
+        },
+        "Avalanche": {
+          "Uniswap V4": 28
+        },
+        "BSC": {
+          "Uniswap V4": 1728
+        }
+      }
+    ],
+    [
+      1745625600,
+      {
+        "Ethereum": {
+          "Uniswap V4": 37961
+        },
+        "Unichain": {
+          "Uniswap V4": 93984
+        },
+        "OP Mainnet": {
+          "Uniswap V4": 424
+        },
+        "Base": {
+          "Uniswap V4": 8282
+        },
+        "Arbitrum": {
+          "Uniswap V4": 5092
+        },
+        "Polygon": {
+          "Uniswap V4": 2261
+        },
+        "Blast": {
+          "Uniswap V4": 0
+        },
+        "Zora": {
+          "Uniswap V4": 7
+        },
+        "World Chain": {
+          "Uniswap V4": 138
+        },
+        "Ink": {
+          "Uniswap V4": 0
+        },
+        "Soneium": {
+          "Uniswap V4": 0
+        },
+        "Avalanche": {
+          "Uniswap V4": 26
+        },
+        "BSC": {
+          "Uniswap V4": 1806
+        }
+      }
+    ],
+    [
+      1745712000,
+      {
+        "Ethereum": {
+          "Uniswap V4": 36401
+        },
+        "Unichain": {
+          "Uniswap V4": 82652
+        },
+        "OP Mainnet": {
+          "Uniswap V4": 304
+        },
+        "Base": {
+          "Uniswap V4": 9616
+        },
+        "Arbitrum": {
+          "Uniswap V4": 5860
+        },
+        "Polygon": {
+          "Uniswap V4": 2872
+        },
+        "Blast": {
+          "Uniswap V4": 0
+        },
+        "Zora": {
+          "Uniswap V4": 5
+        },
+        "World Chain": {
+          "Uniswap V4": 94
+        },
+        "Ink": {
+          "Uniswap V4": 0
+        },
+        "Soneium": {
+          "Uniswap V4": 0
+        },
+        "Avalanche": {
+          "Uniswap V4": 21
+        },
+        "BSC": {
+          "Uniswap V4": 4267
+        }
+      }
+    ],
+    [
+      1745798400,
+      {
+        "Ethereum": {
+          "Uniswap V4": 52089
+        },
+        "Unichain": {
+          "Uniswap V4": 129417
+        },
+        "OP Mainnet": {
+          "Uniswap V4": 514
+        },
+        "Base": {
+          "Uniswap V4": 12606
+        },
+        "Arbitrum": {
+          "Uniswap V4": 12355
+        },
+        "Polygon": {
+          "Uniswap V4": 3690
+        },
+        "Blast": {
+          "Uniswap V4": 0
+        },
+        "Zora": {
+          "Uniswap V4": 6
+        },
+        "World Chain": {
+          "Uniswap V4": 84
+        },
+        "Ink": {
+          "Uniswap V4": 0
+        },
+        "Soneium": {
+          "Uniswap V4": 0
+        },
+        "Avalanche": {
+          "Uniswap V4": 35
+        },
+        "BSC": {
+          "Uniswap V4": 2295
+        }
+      }
+    ],
+    [
+      1745884800,
+      {
+        "Ethereum": {
+          "Uniswap V4": 79371
+        },
+        "Unichain": {
+          "Uniswap V4": 125359
+        },
+        "OP Mainnet": {
+          "Uniswap V4": 380
+        },
+        "Base": {
+          "Uniswap V4": 24475
+        },
+        "Arbitrum": {
+          "Uniswap V4": 9732
+        },
+        "Polygon": {
+          "Uniswap V4": 2493
+        },
+        "Blast": {
+          "Uniswap V4": 0
+        },
+        "Zora": {
+          "Uniswap V4": 3
+        },
+        "World Chain": {
+          "Uniswap V4": 112
+        },
+        "Ink": {
+          "Uniswap V4": 0
+        },
+        "Soneium": {
+          "Uniswap V4": 0
+        },
+        "Avalanche": {
+          "Uniswap V4": 22
+        },
+        "BSC": {
+          "Uniswap V4": 1981
+        }
+      }
+    ],
+    [
+      1745971200,
+      {
+        "Ethereum": {
+          "Uniswap V4": 43783
+        },
+        "Unichain": {
+          "Uniswap V4": 136797
+        },
+        "OP Mainnet": {
+          "Uniswap V4": 418
+        },
+        "Base": {
+          "Uniswap V4": 7421
+        },
+        "Arbitrum": {
+          "Uniswap V4": 14194
+        },
+        "Polygon": {
+          "Uniswap V4": 5717
+        },
+        "Blast": {
+          "Uniswap V4": 0
+        },
+        "Zora": {
+          "Uniswap V4": 1
+        },
+        "World Chain": {
+          "Uniswap V4": 117
+        },
+        "Ink": {
+          "Uniswap V4": 0
+        },
+        "Soneium": {
+          "Uniswap V4": 0
+        },
+        "Avalanche": {
+          "Uniswap V4": 27
+        },
+        "BSC": {
+          "Uniswap V4": 2923
+        }
+      }
+    ],
+    [
+      1746057600,
+      {
+        "Ethereum": {
+          "Uniswap V4": 69167
+        },
+        "Unichain": {
+          "Uniswap V4": 119294
+        },
+        "OP Mainnet": {
+          "Uniswap V4": 400
+        },
+        "Base": {
+          "Uniswap V4": 7956
+        },
+        "Arbitrum": {
+          "Uniswap V4": 9165
+        },
+        "Polygon": {
+          "Uniswap V4": 3184
+        },
+        "Blast": {
+          "Uniswap V4": 0
+        },
+        "Zora": {
+          "Uniswap V4": 0
+        },
+        "World Chain": {
+          "Uniswap V4": 103
+        },
+        "Ink": {
+          "Uniswap V4": 0
+        },
+        "Soneium": {
+          "Uniswap V4": 0
+        },
+        "Avalanche": {
+          "Uniswap V4": 30
+        },
+        "BSC": {
+          "Uniswap V4": 2363
+        }
+      }
+    ],
+    [
+      1746144000,
+      {
+        "Ethereum": {
+          "Uniswap V4": 38451
+        },
+        "Unichain": {
+          "Uniswap V4": 111096
+        },
+        "OP Mainnet": {
+          "Uniswap V4": 416
+        },
+        "Base": {
+          "Uniswap V4": 4879
+        },
+        "Arbitrum": {
+          "Uniswap V4": 13736
+        },
+        "Polygon": {
+          "Uniswap V4": 2458
+        },
+        "Blast": {
+          "Uniswap V4": 0
+        },
+        "Zora": {
+          "Uniswap V4": 1
+        },
+        "World Chain": {
+          "Uniswap V4": 65
+        },
+        "Ink": {
+          "Uniswap V4": 0
+        },
+        "Soneium": {
+          "Uniswap V4": 0
+        },
+        "Avalanche": {
+          "Uniswap V4": 28
+        },
+        "BSC": {
+          "Uniswap V4": 2364
+        }
+      }
+    ],
+    [
+      1746230400,
+      {
+        "Ethereum": {
+          "Uniswap V4": 23485
+        },
+        "Unichain": {
+          "Uniswap V4": 73993
+        },
+        "OP Mainnet": {
+          "Uniswap V4": 306
+        },
+        "Base": {
+          "Uniswap V4": 4324
+        },
+        "Arbitrum": {
+          "Uniswap V4": 6000
+        },
+        "Polygon": {
+          "Uniswap V4": 1902
+        },
+        "Blast": {
+          "Uniswap V4": 0
+        },
+        "Zora": {
+          "Uniswap V4": 1
+        },
+        "World Chain": {
+          "Uniswap V4": 60
+        },
+        "Ink": {
+          "Uniswap V4": 0
+        },
+        "Soneium": {
+          "Uniswap V4": 0
+        },
+        "Avalanche": {
+          "Uniswap V4": 11
+        },
+        "BSC": {
+          "Uniswap V4": 2235
+        }
+      }
+    ],
+    [
+      1746316800,
+      {
+        "Ethereum": {
+          "Uniswap V4": 22914
+        },
+        "Unichain": {
+          "Uniswap V4": 111263
+        },
+        "OP Mainnet": {
+          "Uniswap V4": 306
+        },
+        "Base": {
+          "Uniswap V4": 3170
+        },
+        "Arbitrum": {
+          "Uniswap V4": 7277
+        },
+        "Polygon": {
+          "Uniswap V4": 1835
+        },
+        "Blast": {
+          "Uniswap V4": 0
+        },
+        "Zora": {
+          "Uniswap V4": 0
+        },
+        "World Chain": {
+          "Uniswap V4": 100
+        },
+        "Ink": {
+          "Uniswap V4": 0
+        },
+        "Soneium": {
+          "Uniswap V4": 0
+        },
+        "Avalanche": {
+          "Uniswap V4": 16
+        },
+        "BSC": {
+          "Uniswap V4": 2140
+        }
+      }
+    ],
+    [
+      1746403200,
+      {
+        "Ethereum": {
+          "Uniswap V4": 28899
+        },
+        "Unichain": {
+          "Uniswap V4": 161743
+        },
+        "OP Mainnet": {
+          "Uniswap V4": 452
+        },
+        "Base": {
+          "Uniswap V4": 11777
+        },
+        "Arbitrum": {
+          "Uniswap V4": 14281
+        },
+        "Polygon": {
+          "Uniswap V4": 3201
+        },
+        "Blast": {
+          "Uniswap V4": 1
+        },
+        "Zora": {
+          "Uniswap V4": 1
+        },
+        "World Chain": {
+          "Uniswap V4": 104
+        },
+        "Ink": {
+          "Uniswap V4": 0
+        },
+        "Soneium": {
+          "Uniswap V4": 0
+        },
+        "Avalanche": {
+          "Uniswap V4": 20
+        },
+        "BSC": {
+          "Uniswap V4": 2132
+        }
+      }
+    ],
+    [
+      1746489600,
+      {
+        "Ethereum": {
+          "Uniswap V4": 37099
+        },
+        "Unichain": {
+          "Uniswap V4": 166026
+        },
+        "OP Mainnet": {
+          "Uniswap V4": 423
+        },
+        "Base": {
+          "Uniswap V4": 10016
+        },
+        "Arbitrum": {
+          "Uniswap V4": 13763
+        },
+        "Polygon": {
+          "Uniswap V4": 3153
+        },
+        "Blast": {
+          "Uniswap V4": 0
+        },
+        "Zora": {
+          "Uniswap V4": 1
+        },
+        "World Chain": {
+          "Uniswap V4": 110
+        },
+        "Ink": {
+          "Uniswap V4": 0
+        },
+        "Soneium": {
+          "Uniswap V4": 11
+        },
+        "Avalanche": {
+          "Uniswap V4": 22
+        },
+        "BSC": {
+          "Uniswap V4": 2428
+        }
+      }
+    ],
+    [
+      1746576000,
+      {
+        "Ethereum": {
+          "Uniswap V4": 32000
+        },
+        "Unichain": {
+          "Uniswap V4": 174681
+        },
+        "OP Mainnet": {
+          "Uniswap V4": 463
+        },
+        "Base": {
+          "Uniswap V4": 6746
+        },
+        "Arbitrum": {
+          "Uniswap V4": 19685
+        },
+        "Polygon": {
+          "Uniswap V4": 2702
+        },
+        "Blast": {
+          "Uniswap V4": 0
+        },
+        "Zora": {
+          "Uniswap V4": 1
+        },
+        "World Chain": {
+          "Uniswap V4": 123
+        },
+        "Ink": {
+          "Uniswap V4": 0
+        },
+        "Soneium": {
+          "Uniswap V4": 9
+        },
+        "Avalanche": {
+          "Uniswap V4": 21
+        },
+        "BSC": {
+          "Uniswap V4": 2648
+        }
+      }
+    ],
+    [
+      1746662400,
+      {
+        "Ethereum": {
+          "Uniswap V4": 98805
+        },
+        "Unichain": {
+          "Uniswap V4": 371311
+        },
+        "OP Mainnet": {
+          "Uniswap V4": 1278
+        },
+        "Base": {
+          "Uniswap V4": 14128
+        },
+        "Arbitrum": {
+          "Uniswap V4": 32744
+        },
+        "Polygon": {
+          "Uniswap V4": 6346
+        },
+        "Blast": {
+          "Uniswap V4": 0
+        },
+        "Zora": {
+          "Uniswap V4": 0
+        },
+        "World Chain": {
+          "Uniswap V4": 140
+        },
+        "Ink": {
+          "Uniswap V4": 0
+        },
+        "Soneium": {
+          "Uniswap V4": 29
+        },
+        "Avalanche": {
+          "Uniswap V4": 40
+        },
+        "BSC": {
+          "Uniswap V4": 7360
+        }
+      }
+    ],
+    [
+      1746748800,
+      {
+        "Ethereum": {
+          "Uniswap V4": 108227
+        },
+        "Unichain": {
+          "Uniswap V4": 279772
+        },
+        "OP Mainnet": {
+          "Uniswap V4": 1702
+        },
+        "Base": {
+          "Uniswap V4": 12421
+        },
+        "Arbitrum": {
+          "Uniswap V4": 25532
+        },
+        "Polygon": {
+          "Uniswap V4": 6632
+        },
+        "Blast": {
+          "Uniswap V4": 0
+        },
+        "Zora": {
+          "Uniswap V4": 0
+        },
+        "World Chain": {
+          "Uniswap V4": 102
+        },
+        "Ink": {
+          "Uniswap V4": 0
+        },
+        "Soneium": {
+          "Uniswap V4": 61
+        },
+        "Avalanche": {
+          "Uniswap V4": 77
+        },
+        "BSC": {
+          "Uniswap V4": 5015
+        }
+      }
+    ],
+    [
+      1746835200,
+      {
+        "Ethereum": {
+          "Uniswap V4": 73008
+        },
+        "Unichain": {
+          "Uniswap V4": 237939
+        },
+        "OP Mainnet": {
+          "Uniswap V4": 1103
+        },
+        "Base": {
+          "Uniswap V4": 13495
+        },
+        "Arbitrum": {
+          "Uniswap V4": 25521
+        },
+        "Polygon": {
+          "Uniswap V4": 5835
+        },
+        "Blast": {
+          "Uniswap V4": 0
+        },
+        "Zora": {
+          "Uniswap V4": 1
+        },
+        "World Chain": {
+          "Uniswap V4": 147
+        },
+        "Ink": {
+          "Uniswap V4": 0
+        },
+        "Soneium": {
+          "Uniswap V4": 39
+        },
+        "Avalanche": {
+          "Uniswap V4": 78
+        },
+        "BSC": {
+          "Uniswap V4": 5473
+        }
+      }
+    ],
+    [
+      1746921600,
+      {
+        "Ethereum": {
+          "Uniswap V4": 69993
+        },
+        "Unichain": {
+          "Uniswap V4": 207214
+        },
+        "OP Mainnet": {
+          "Uniswap V4": 1043
+        },
+        "Base": {
+          "Uniswap V4": 11983
+        },
+        "Arbitrum": {
+          "Uniswap V4": 27656
+        },
+        "Polygon": {
+          "Uniswap V4": 4729
+        },
+        "Blast": {
+          "Uniswap V4": 0
+        },
+        "Zora": {
+          "Uniswap V4": 1
+        },
+        "World Chain": {
+          "Uniswap V4": 240
+        },
+        "Ink": {
+          "Uniswap V4": 0
+        },
+        "Soneium": {
+          "Uniswap V4": 32
+        },
+        "Avalanche": {
+          "Uniswap V4": 63
+        },
+        "BSC": {
+          "Uniswap V4": 3716
+        }
+      }
+    ],
+    [
+      1747008000,
+      {
+        "Ethereum": {
+          "Uniswap V4": 69530
+        },
+        "Unichain": {
+          "Uniswap V4": 321989
+        },
+        "OP Mainnet": {
+          "Uniswap V4": 1385
+        },
+        "Base": {
+          "Uniswap V4": 15840
+        },
+        "Arbitrum": {
+          "Uniswap V4": 47652
+        },
+        "Polygon": {
+          "Uniswap V4": 6078
+        },
+        "Blast": {
+          "Uniswap V4": 0
+        },
+        "Zora": {
+          "Uniswap V4": 0
+        },
+        "World Chain": {
+          "Uniswap V4": 169
+        },
+        "Ink": {
+          "Uniswap V4": 0
+        },
+        "Soneium": {
+          "Uniswap V4": 66
+        },
+        "Avalanche": {
+          "Uniswap V4": 103
+        },
+        "BSC": {
+          "Uniswap V4": 5400
+        }
+      }
+    ],
+    [
+      1747094400,
+      {
+        "Ethereum": {
+          "Uniswap V4": 75426
+        },
+        "Unichain": {
+          "Uniswap V4": 313406
+        },
+        "OP Mainnet": {
+          "Uniswap V4": 1707
+        },
+        "Base": {
+          "Uniswap V4": 18229
+        },
+        "Arbitrum": {
+          "Uniswap V4": 35977
+        },
+        "Polygon": {
+          "Uniswap V4": 4372
+        },
+        "Blast": {
+          "Uniswap V4": 0
+        },
+        "Zora": {
+          "Uniswap V4": 1
+        },
+        "World Chain": {
+          "Uniswap V4": 121
+        },
+        "Ink": {
+          "Uniswap V4": 0
+        },
+        "Soneium": {
+          "Uniswap V4": 45
+        },
+        "Avalanche": {
+          "Uniswap V4": 93
+        },
+        "BSC": {
+          "Uniswap V4": 5022
+        }
+      }
+    ],
+    [
+      1747180800,
+      {
+        "Ethereum": {
+          "Uniswap V4": 64197
+        },
+        "Unichain": {
+          "Uniswap V4": 223599
+        },
+        "OP Mainnet": {
+          "Uniswap V4": 1187
+        },
+        "Base": {
+          "Uniswap V4": 10731
+        },
+        "Arbitrum": {
+          "Uniswap V4": 28960
+        },
+        "Polygon": {
+          "Uniswap V4": 5034
+        },
+        "Blast": {
+          "Uniswap V4": 0
+        },
+        "Zora": {
+          "Uniswap V4": 3
+        },
+        "World Chain": {
+          "Uniswap V4": 124
+        },
+        "Ink": {
+          "Uniswap V4": 0
+        },
+        "Soneium": {
+          "Uniswap V4": 37
+        },
+        "Avalanche": {
+          "Uniswap V4": 82
+        },
+        "BSC": {
+          "Uniswap V4": 4419
+        }
+      }
+    ],
+    [
+      1747267200,
+      {
+        "Ethereum": {
+          "Uniswap V4": 85086
+        },
+        "Unichain": {
+          "Uniswap V4": 332213
+        },
+        "OP Mainnet": {
+          "Uniswap V4": 1794
+        },
+        "Base": {
+          "Uniswap V4": 13324
+        },
+        "Arbitrum": {
+          "Uniswap V4": 44679
+        },
+        "Polygon": {
+          "Uniswap V4": 5579
+        },
+        "Blast": {
+          "Uniswap V4": 0
+        },
+        "Zora": {
+          "Uniswap V4": 1
+        },
+        "World Chain": {
+          "Uniswap V4": 155
+        },
+        "Ink": {
+          "Uniswap V4": 0
+        },
+        "Soneium": {
+          "Uniswap V4": 38
+        },
+        "Avalanche": {
+          "Uniswap V4": 94
+        },
+        "BSC": {
+          "Uniswap V4": 10430
+        }
+      }
+    ],
+    [
+      1747353600,
+      {
+        "Ethereum": {
+          "Uniswap V4": 149870
+        },
+        "Unichain": {
+          "Uniswap V4": 201609
+        },
+        "OP Mainnet": {
+          "Uniswap V4": 1006
+        },
+        "Base": {
+          "Uniswap V4": 10144
+        },
+        "Arbitrum": {
+          "Uniswap V4": 26421
+        },
+        "Polygon": {
+          "Uniswap V4": 4426
+        },
+        "Blast": {
+          "Uniswap V4": 0
+        },
+        "Zora": {
+          "Uniswap V4": 0
+        },
+        "World Chain": {
+          "Uniswap V4": 395
+        },
+        "Ink": {
+          "Uniswap V4": 0
+        },
+        "Soneium": {
+          "Uniswap V4": 53
+        },
+        "Avalanche": {
+          "Uniswap V4": 60
+        },
+        "BSC": {
+          "Uniswap V4": 4669
+        }
+      }
+    ],
+    [
+      1747440000,
+      {
+        "Ethereum": {
+          "Uniswap V4": 44618
+        },
+        "Unichain": {
+          "Uniswap V4": 151637
+        },
+        "OP Mainnet": {
+          "Uniswap V4": 655
+        },
+        "Base": {
+          "Uniswap V4": 10389
+        },
+        "Arbitrum": {
+          "Uniswap V4": 22102
+        },
+        "Polygon": {
+          "Uniswap V4": 3426
+        },
+        "Blast": {
+          "Uniswap V4": 0
+        },
+        "Zora": {
+          "Uniswap V4": 0
+        },
+        "World Chain": {
+          "Uniswap V4": 208
+        },
+        "Ink": {
+          "Uniswap V4": 0
+        },
+        "Soneium": {
+          "Uniswap V4": 89
+        },
+        "Avalanche": {
+          "Uniswap V4": 44
+        },
+        "BSC": {
+          "Uniswap V4": 3480
+        }
+      }
+    ],
+    [
+      1747526400,
+      {
+        "Ethereum": {
+          "Uniswap V4": 67172
+        },
+        "Unichain": {
+          "Uniswap V4": 233128
+        },
+        "OP Mainnet": {
+          "Uniswap V4": 1249
+        },
+        "Base": {
+          "Uniswap V4": 14165
+        },
+        "Arbitrum": {
+          "Uniswap V4": 28403
+        },
+        "Polygon": {
+          "Uniswap V4": 5114
+        },
+        "Blast": {
+          "Uniswap V4": 0
+        },
+        "Zora": {
+          "Uniswap V4": 1
+        },
+        "World Chain": {
+          "Uniswap V4": 232
+        },
+        "Ink": {
+          "Uniswap V4": 0
+        },
+        "Soneium": {
+          "Uniswap V4": 78
+        },
+        "Avalanche": {
+          "Uniswap V4": 72
+        },
+        "BSC": {
+          "Uniswap V4": 3554
+        }
+      }
+    ],
+    [
+      1747612800,
+      {
+        "Ethereum": {
+          "Uniswap V4": 78961
+        },
+        "Unichain": {
+          "Uniswap V4": 331963
+        },
+        "OP Mainnet": {
+          "Uniswap V4": 1194
+        },
+        "Base": {
+          "Uniswap V4": 22173
+        },
+        "Arbitrum": {
+          "Uniswap V4": 30526
+        },
+        "Polygon": {
+          "Uniswap V4": 6247
+        },
+        "Blast": {
+          "Uniswap V4": 0
+        },
+        "Zora": {
+          "Uniswap V4": 0
+        },
+        "World Chain": {
+          "Uniswap V4": 179
+        },
+        "Ink": {
+          "Uniswap V4": 0
+        },
+        "Soneium": {
+          "Uniswap V4": 85
+        },
+        "Avalanche": {
+          "Uniswap V4": 65
+        },
+        "BSC": {
+          "Uniswap V4": 5337
+        }
+      }
+    ],
+    [
+      1747699200,
+      {
+        "Ethereum": {
+          "Uniswap V4": 71280
+        },
+        "Unichain": {
+          "Uniswap V4": 242788
+        },
+        "OP Mainnet": {
+          "Uniswap V4": 800
+        },
+        "Base": {
+          "Uniswap V4": 14988
+        },
+        "Arbitrum": {
+          "Uniswap V4": 23602
+        },
+        "Polygon": {
+          "Uniswap V4": 5870
+        },
+        "Blast": {
+          "Uniswap V4": 0
+        },
+        "Zora": {
+          "Uniswap V4": 0
+        },
+        "World Chain": {
+          "Uniswap V4": 118
+        },
+        "Ink": {
+          "Uniswap V4": 0
+        },
+        "Soneium": {
+          "Uniswap V4": 36
+        },
+        "Avalanche": {
+          "Uniswap V4": 80
+        },
+        "BSC": {
+          "Uniswap V4": 24728
+        }
+      }
+    ],
+    [
+      1747872000,
+      {
+        "Ethereum": {
+          "Uniswap V4": 183998
+        },
+        "Unichain": {
+          "Uniswap V4": 197836
+        },
+        "OP Mainnet": {
+          "Uniswap V4": 1157
+        },
+        "Base": {
+          "Uniswap V4": 12847
+        },
+        "Arbitrum": {
+          "Uniswap V4": 63566
+        },
+        "Polygon": {
+          "Uniswap V4": 4870
+        },
+        "Blast": {
+          "Uniswap V4": 0
+        },
+        "Zora": {
+          "Uniswap V4": 1
+        },
+        "World Chain": {
+          "Uniswap V4": 444
+        },
+        "Ink": {
+          "Uniswap V4": 0
+        },
+        "Soneium": {
+          "Uniswap V4": 30
+        },
+        "Avalanche": {
+          "Uniswap V4": 112
+        },
+        "BSC": {
+          "Uniswap V4": 52074
+        }
+      }
+    ],
+    [
+      1747958400,
+      {
+        "Ethereum": {
+          "Uniswap V4": 182863
+        },
+        "Unichain": {
+          "Uniswap V4": 241986
+        },
+        "OP Mainnet": {
+          "Uniswap V4": 1450
+        },
+        "Base": {
+          "Uniswap V4": 19048
+        },
+        "Arbitrum": {
+          "Uniswap V4": 31238
+        },
+        "Polygon": {
+          "Uniswap V4": 6038
+        },
+        "Blast": {
+          "Uniswap V4": 0
+        },
+        "Zora": {
+          "Uniswap V4": 1
+        },
+        "World Chain": {
+          "Uniswap V4": 386
+        },
+        "Ink": {
+          "Uniswap V4": 0
+        },
+        "Soneium": {
+          "Uniswap V4": 56
+        },
+        "Avalanche": {
+          "Uniswap V4": 243
+        },
+        "BSC": {
+          "Uniswap V4": 46638
+        }
+      }
+    ],
+    [
+      1748044800,
+      {
+        "Ethereum": {
+          "Uniswap V4": 88737
+        },
+        "Unichain": {
+          "Uniswap V4": 91132
+        },
+        "OP Mainnet": {
+          "Uniswap V4": 636
+        },
+        "Base": {
+          "Uniswap V4": 8119
+        },
+        "Arbitrum": {
+          "Uniswap V4": 11883
+        },
+        "Polygon": {
+          "Uniswap V4": 3264
+        },
+        "Blast": {
+          "Uniswap V4": 0
+        },
+        "Zora": {
+          "Uniswap V4": 0
+        },
+        "World Chain": {
+          "Uniswap V4": 217
+        },
+        "Ink": {
+          "Uniswap V4": 0
+        },
+        "Soneium": {
+          "Uniswap V4": 15
+        },
+        "Avalanche": {
+          "Uniswap V4": 62
+        },
+        "BSC": {
+          "Uniswap V4": 13019
+        }
+      }
+    ],
+    [
+      1748131200,
+      {
+        "Ethereum": {
+          "Uniswap V4": 90731
+        },
+        "Unichain": {
+          "Uniswap V4": 119755
+        },
+        "OP Mainnet": {
+          "Uniswap V4": 813
+        },
+        "Base": {
+          "Uniswap V4": 10303
+        },
+        "Arbitrum": {
+          "Uniswap V4": 14894
+        },
+        "Polygon": {
+          "Uniswap V4": 3643
+        },
+        "Blast": {
+          "Uniswap V4": 0
+        },
+        "Zora": {
+          "Uniswap V4": 0
+        },
+        "World Chain": {
+          "Uniswap V4": 165
+        },
+        "Ink": {
+          "Uniswap V4": 0
+        },
+        "Soneium": {
+          "Uniswap V4": 24
+        },
+        "Avalanche": {
+          "Uniswap V4": 78
+        },
+        "BSC": {
+          "Uniswap V4": 10585
+        }
+      }
+    ],
+    [
+      1748217600,
+      {
+        "Ethereum": {
+          "Uniswap V4": 96585
+        },
+        "Unichain": {
+          "Uniswap V4": 115546
+        },
+        "OP Mainnet": {
+          "Uniswap V4": 537
+        },
+        "Base": {
+          "Uniswap V4": 23482
+        },
+        "Arbitrum": {
+          "Uniswap V4": 11976
+        },
+        "Polygon": {
+          "Uniswap V4": 3169
+        },
+        "Blast": {
+          "Uniswap V4": 0
+        },
+        "Zora": {
+          "Uniswap V4": 0
+        },
+        "World Chain": {
+          "Uniswap V4": 202
+        },
+        "Ink": {
+          "Uniswap V4": 0
+        },
+        "Soneium": {
+          "Uniswap V4": 21
+        },
+        "Avalanche": {
+          "Uniswap V4": 75
+        },
+        "BSC": {
+          "Uniswap V4": 50250
+        }
+      }
+    ],
+    [
+      1748304000,
+      {
+        "Ethereum": {
+          "Uniswap V4": 138600
+        },
+        "Unichain": {
+          "Uniswap V4": 190060
+        },
+        "OP Mainnet": {
+          "Uniswap V4": 964
+        },
+        "Base": {
+          "Uniswap V4": 13955
+        },
+        "Arbitrum": {
+          "Uniswap V4": 25996
+        },
+        "Polygon": {
+          "Uniswap V4": 4922
+        },
+        "Blast": {
+          "Uniswap V4": 0
+        },
+        "Zora": {
+          "Uniswap V4": 1
+        },
+        "World Chain": {
+          "Uniswap V4": 180
+        },
+        "Ink": {
+          "Uniswap V4": 0
+        },
+        "Soneium": {
+          "Uniswap V4": 27
+        },
+        "Avalanche": {
+          "Uniswap V4": 97
+        },
+        "BSC": {
+          "Uniswap V4": 14937
+        }
+      }
+    ],
+    [
+      1748390400,
+      {
+        "Ethereum": {
+          "Uniswap V4": 117898
+        },
+        "Unichain": {
+          "Uniswap V4": 155513
+        },
+        "OP Mainnet": {
+          "Uniswap V4": 1070
+        },
+        "Base": {
+          "Uniswap V4": 12799
+        },
+        "Arbitrum": {
+          "Uniswap V4": 19280
+        },
+        "Polygon": {
+          "Uniswap V4": 3443
+        },
+        "Blast": {
+          "Uniswap V4": 0
+        },
+        "Zora": {
+          "Uniswap V4": 0
+        },
+        "World Chain": {
+          "Uniswap V4": 170
+        },
+        "Ink": {
+          "Uniswap V4": 0
+        },
+        "Soneium": {
+          "Uniswap V4": 26
+        },
+        "Avalanche": {
+          "Uniswap V4": 92
+        },
+        "BSC": {
+          "Uniswap V4": 16100
+        }
+      }
+    ],
+    [
+      1748476800,
+      {
+        "Ethereum": {
+          "Uniswap V4": 162173
+        },
+        "Unichain": {
+          "Uniswap V4": 193786
+        },
+        "OP Mainnet": {
+          "Uniswap V4": 1267
+        },
+        "Base": {
+          "Uniswap V4": 109518
+        },
+        "Arbitrum": {
+          "Uniswap V4": 27504
+        },
+        "Polygon": {
+          "Uniswap V4": 4196
+        },
+        "Blast": {
+          "Uniswap V4": 0
+        },
+        "Zora": {
+          "Uniswap V4": 0
+        },
+        "World Chain": {
+          "Uniswap V4": 166
+        },
+        "Ink": {
+          "Uniswap V4": 0
+        },
+        "Soneium": {
+          "Uniswap V4": 29
+        },
+        "Avalanche": {
+          "Uniswap V4": 125
+        },
+        "BSC": {
+          "Uniswap V4": 16922
+        }
+      }
+    ],
+    [
+      1748563200,
+      {
+        "Ethereum": {
+          "Uniswap V4": 134272
+        },
+        "Unichain": {
+          "Uniswap V4": 227244
+        },
+        "OP Mainnet": {
+          "Uniswap V4": 1400
+        },
+        "Base": {
+          "Uniswap V4": 23450
+        },
+        "Arbitrum": {
+          "Uniswap V4": 32123
+        },
+        "Polygon": {
+          "Uniswap V4": 4433
+        },
+        "Blast": {
+          "Uniswap V4": 0
+        },
+        "Zora": {
+          "Uniswap V4": 0
+        },
+        "World Chain": {
+          "Uniswap V4": 109
+        },
+        "Ink": {
+          "Uniswap V4": 0
+        },
+        "Soneium": {
+          "Uniswap V4": 29
+        },
+        "Avalanche": {
+          "Uniswap V4": 138
+        },
+        "BSC": {
+          "Uniswap V4": 17918
+        }
+      }
+    ],
+    [
+      1748649600,
+      {
+        "Ethereum": {
+          "Uniswap V4": 63528
+        },
+        "Unichain": {
+          "Uniswap V4": 104145
+        },
+        "OP Mainnet": {
+          "Uniswap V4": 844
+        },
+        "Base": {
+          "Uniswap V4": 11635
+        },
+        "Arbitrum": {
+          "Uniswap V4": 13786
+        },
+        "Polygon": {
+          "Uniswap V4": 3164
+        },
+        "Blast": {
+          "Uniswap V4": 0
+        },
+        "Zora": {
+          "Uniswap V4": 1
+        },
+        "World Chain": {
+          "Uniswap V4": 99
+        },
+        "Ink": {
+          "Uniswap V4": 0
+        },
+        "Soneium": {
+          "Uniswap V4": 24
+        },
+        "Avalanche": {
+          "Uniswap V4": 101
+        },
+        "BSC": {
+          "Uniswap V4": 19004
+        }
+      }
+    ],
+    [
+      1748736000,
+      {
+        "Ethereum": {
+          "Uniswap V4": 58756
+        },
+        "Unichain": {
+          "Uniswap V4": 91291
+        },
+        "OP Mainnet": {
+          "Uniswap V4": 712
+        },
+        "Base": {
+          "Uniswap V4": 14288
+        },
+        "Arbitrum": {
+          "Uniswap V4": 12525
+        },
+        "Polygon": {
+          "Uniswap V4": 2511
+        },
+        "Blast": {
+          "Uniswap V4": 0
+        },
+        "Zora": {
+          "Uniswap V4": 0
+        },
+        "World Chain": {
+          "Uniswap V4": 55
+        },
+        "Ink": {
+          "Uniswap V4": 0
+        },
+        "Soneium": {
+          "Uniswap V4": 12
+        },
+        "Avalanche": {
+          "Uniswap V4": 57
+        },
+        "BSC": {
+          "Uniswap V4": 25873
+        }
+      }
+    ],
+    [
+      1748822400,
+      {
+        "Ethereum": {
+          "Uniswap V4": 76411
+        },
+        "Unichain": {
+          "Uniswap V4": 132986
+        },
+        "OP Mainnet": {
+          "Uniswap V4": 859
+        },
+        "Base": {
+          "Uniswap V4": 14542
+        },
+        "Arbitrum": {
+          "Uniswap V4": 18644
+        },
+        "Polygon": {
+          "Uniswap V4": 3267
+        },
+        "Blast": {
+          "Uniswap V4": 0
+        },
+        "Zora": {
+          "Uniswap V4": 1
+        },
+        "World Chain": {
+          "Uniswap V4": 66
+        },
+        "Ink": {
+          "Uniswap V4": 0
+        },
+        "Soneium": {
+          "Uniswap V4": 22
+        },
+        "Avalanche": {
+          "Uniswap V4": 77
+        },
+        "BSC": {
+          "Uniswap V4": 20324
+        }
+      }
+    ],
+    [
+      1748908800,
+      {
+        "Ethereum": {
+          "Uniswap V4": 75271
+        },
+        "Unichain": {
+          "Uniswap V4": 114090
+        },
+        "OP Mainnet": {
+          "Uniswap V4": 1038
+        },
+        "Base": {
+          "Uniswap V4": 18133
+        },
+        "Arbitrum": {
+          "Uniswap V4": 17401
+        },
+        "Polygon": {
+          "Uniswap V4": 2961
+        },
+        "Blast": {
+          "Uniswap V4": 0
+        },
+        "Zora": {
+          "Uniswap V4": 0
+        },
+        "World Chain": {
+          "Uniswap V4": 82
+        },
+        "Ink": {
+          "Uniswap V4": 0
+        },
+        "Soneium": {
+          "Uniswap V4": 30
+        },
+        "Avalanche": {
+          "Uniswap V4": 77
+        },
+        "BSC": {
+          "Uniswap V4": 24096
+        }
+      }
+    ],
+    [
+      1748995200,
+      {
+        "Ethereum": {
+          "Uniswap V4": 79379
+        },
+        "Unichain": {
+          "Uniswap V4": 119389
+        },
+        "OP Mainnet": {
+          "Uniswap V4": 836
+        },
+        "Base": {
+          "Uniswap V4": 19111
+        },
+        "Arbitrum": {
+          "Uniswap V4": 15072
+        },
+        "Polygon": {
+          "Uniswap V4": 2711
+        },
+        "Blast": {
+          "Uniswap V4": 0
+        },
+        "Zora": {
+          "Uniswap V4": 0
+        },
+        "World Chain": {
+          "Uniswap V4": 106
+        },
+        "Ink": {
+          "Uniswap V4": 0
+        },
+        "Soneium": {
+          "Uniswap V4": 32
+        },
+        "Avalanche": {
+          "Uniswap V4": 71
+        },
+        "BSC": {
+          "Uniswap V4": 29592
+        }
+      }
+    ],
+    [
+      1749081600,
+      {
+        "Ethereum": {
+          "Uniswap V4": 102192
+        },
+        "Unichain": {
+          "Uniswap V4": 195577
+        },
+        "OP Mainnet": {
+          "Uniswap V4": 1577
+        },
+        "Base": {
+          "Uniswap V4": 37123
+        },
+        "Arbitrum": {
+          "Uniswap V4": 28318
+        },
+        "Polygon": {
+          "Uniswap V4": 4517
+        },
+        "Blast": {
+          "Uniswap V4": 0
+        },
+        "Zora": {
+          "Uniswap V4": 0
+        },
+        "World Chain": {
+          "Uniswap V4": 188
+        },
+        "Ink": {
+          "Uniswap V4": 0
+        },
+        "Soneium": {
+          "Uniswap V4": 54
+        },
+        "Avalanche": {
+          "Uniswap V4": 306
+        },
+        "BSC": {
+          "Uniswap V4": 58583
+        }
+      }
+    ],
+    [
+      1749168000,
+      {
+        "Ethereum": {
+          "Uniswap V4": 73332
+        },
+        "Unichain": {
+          "Uniswap V4": 117182
+        },
+        "OP Mainnet": {
+          "Uniswap V4": 753
+        },
+        "Base": {
+          "Uniswap V4": 13048
+        },
+        "Arbitrum": {
+          "Uniswap V4": 16409
+        },
+        "Polygon": {
+          "Uniswap V4": 3117
+        },
+        "Blast": {
+          "Uniswap V4": 0
+        },
+        "Zora": {
+          "Uniswap V4": 1
+        },
+        "World Chain": {
+          "Uniswap V4": 120
+        },
+        "Ink": {
+          "Uniswap V4": 0
+        },
+        "Soneium": {
+          "Uniswap V4": 31
+        },
+        "Avalanche": {
+          "Uniswap V4": 326
+        },
+        "BSC": {
+          "Uniswap V4": 47378
+        }
+      }
+    ],
+    [
+      1749254400,
+      {
+        "Ethereum": {
+          "Uniswap V4": 47547
+        },
+        "Unichain": {
+          "Uniswap V4": 70725
+        },
+        "OP Mainnet": {
+          "Uniswap V4": 407
+        },
+        "Base": {
+          "Uniswap V4": 15295
+        },
+        "Arbitrum": {
+          "Uniswap V4": 8494
+        },
+        "Polygon": {
+          "Uniswap V4": 1668
+        },
+        "Blast": {
+          "Uniswap V4": 0
+        },
+        "Zora": {
+          "Uniswap V4": 0
+        },
+        "World Chain": {
+          "Uniswap V4": 138
+        },
+        "Ink": {
+          "Uniswap V4": 0
+        },
+        "Soneium": {
+          "Uniswap V4": 12
+        },
+        "Avalanche": {
+          "Uniswap V4": 80
+        },
+        "BSC": {
+          "Uniswap V4": 50754
+        }
+      }
+    ],
+    [
+      1749340800,
+      {
+        "Ethereum": {
+          "Uniswap V4": 53982
+        },
+        "Unichain": {
+          "Uniswap V4": 71957
+        },
+        "OP Mainnet": {
+          "Uniswap V4": 325
+        },
+        "Base": {
+          "Uniswap V4": 35427
+        },
+        "Arbitrum": {
+          "Uniswap V4": 6541
+        },
+        "Polygon": {
+          "Uniswap V4": 1340
+        },
+        "Blast": {
+          "Uniswap V4": 0
+        },
+        "Zora": {
+          "Uniswap V4": 0
+        },
+        "World Chain": {
+          "Uniswap V4": 200
+        },
+        "Ink": {
+          "Uniswap V4": 0
+        },
+        "Soneium": {
+          "Uniswap V4": 12
+        },
+        "Avalanche": {
+          "Uniswap V4": 73
+        },
+        "BSC": {
+          "Uniswap V4": 71211
+        }
+      }
+    ],
+    [
+      1749427200,
+      {
+        "Ethereum": {
+          "Uniswap V4": 92814
+        },
+        "Unichain": {
+          "Uniswap V4": 153154
+        },
+        "OP Mainnet": {
+          "Uniswap V4": 866
+        },
+        "Base": {
+          "Uniswap V4": 48573
+        },
+        "Arbitrum": {
+          "Uniswap V4": 18429
+        },
+        "Polygon": {
+          "Uniswap V4": 3638
+        },
+        "Blast": {
+          "Uniswap V4": 0
+        },
+        "Zora": {
+          "Uniswap V4": 0
+        },
+        "World Chain": {
+          "Uniswap V4": 179
+        },
+        "Ink": {
+          "Uniswap V4": 0
+        },
+        "Soneium": {
+          "Uniswap V4": 28
+        },
+        "Avalanche": {
+          "Uniswap V4": 126
+        },
+        "BSC": {
+          "Uniswap V4": 27720
+        }
+      }
+    ],
+    [
+      1749513600,
+      {
+        "Ethereum": {
+          "Uniswap V4": 198042
+        },
+        "Unichain": {
+          "Uniswap V4": 252728
+        },
+        "OP Mainnet": {
+          "Uniswap V4": 1857
+        },
+        "Base": {
+          "Uniswap V4": 49469
+        },
+        "Arbitrum": {
+          "Uniswap V4": 27692
+        },
+        "Polygon": {
+          "Uniswap V4": 4503
+        },
+        "Blast": {
+          "Uniswap V4": 0
+        },
+        "Zora": {
+          "Uniswap V4": 0
+        },
+        "World Chain": {
+          "Uniswap V4": 233
+        },
+        "Ink": {
+          "Uniswap V4": 0
+        },
+        "Soneium": {
+          "Uniswap V4": 50
+        },
+        "Avalanche": {
+          "Uniswap V4": 168
+        },
+        "BSC": {
+          "Uniswap V4": 27056
+        }
+      }
+    ],
+    [
+      1749600000,
+      {
+        "Ethereum": {
+          "Uniswap V4": 294588
+        },
+        "Unichain": {
+          "Uniswap V4": 212842
+        },
+        "OP Mainnet": {
+          "Uniswap V4": 1855
+        },
+        "Base": {
+          "Uniswap V4": 35237
+        },
+        "Arbitrum": {
+          "Uniswap V4": 20523
+        },
+        "Polygon": {
+          "Uniswap V4": 4415
+        },
+        "Blast": {
+          "Uniswap V4": 0
+        },
+        "Zora": {
+          "Uniswap V4": 0
+        },
+        "World Chain": {
+          "Uniswap V4": 323
+        },
+        "Ink": {
+          "Uniswap V4": 0
+        },
+        "Soneium": {
+          "Uniswap V4": 27
+        },
+        "Avalanche": {
+          "Uniswap V4": 167
+        },
+        "BSC": {
+          "Uniswap V4": 15980
+        }
+      }
+    ],
+    [
+      1749686400,
+      {
+        "Ethereum": {
+          "Uniswap V4": 284899
+        },
+        "Unichain": {
+          "Uniswap V4": 193377
+        },
+        "OP Mainnet": {
+          "Uniswap V4": 1552
+        },
+        "Base": {
+          "Uniswap V4": 37759
+        },
+        "Arbitrum": {
+          "Uniswap V4": 23158
+        },
+        "Polygon": {
+          "Uniswap V4": 4241
+        },
+        "Blast": {
+          "Uniswap V4": 0
+        },
+        "Zora": {
+          "Uniswap V4": 0
+        },
+        "World Chain": {
+          "Uniswap V4": 460
+        },
+        "Ink": {
+          "Uniswap V4": 0
+        },
+        "Soneium": {
+          "Uniswap V4": 28
+        },
+        "Avalanche": {
+          "Uniswap V4": 152
+        },
+        "BSC": {
+          "Uniswap V4": 15399
+        }
+      }
+    ],
+    [
+      1749772800,
+      {
+        "Ethereum": {
+          "Uniswap V4": 192709
+        },
+        "Unichain": {
+          "Uniswap V4": 277595
+        },
+        "OP Mainnet": {
+          "Uniswap V4": 2077
+        },
+        "Base": {
+          "Uniswap V4": 57817
+        },
+        "Arbitrum": {
+          "Uniswap V4": 36065
+        },
+        "Polygon": {
+          "Uniswap V4": 6361
+        },
+        "Blast": {
+          "Uniswap V4": 0
+        },
+        "Zora": {
+          "Uniswap V4": 0
+        },
+        "World Chain": {
+          "Uniswap V4": 452
+        },
+        "Ink": {
+          "Uniswap V4": 0
+        },
+        "Soneium": {
+          "Uniswap V4": 42
+        },
+        "Avalanche": {
+          "Uniswap V4": 156
+        },
+        "BSC": {
+          "Uniswap V4": 16772
+        }
+      }
+    ],
+    [
+      1749859200,
+      {
+        "Ethereum": {
+          "Uniswap V4": 83324
+        },
+        "Unichain": {
+          "Uniswap V4": 98515
+        },
+        "OP Mainnet": {
+          "Uniswap V4": 721
+        },
+        "Base": {
+          "Uniswap V4": 10246
+        },
+        "Arbitrum": {
+          "Uniswap V4": 8876
+        },
+        "Polygon": {
+          "Uniswap V4": 2175
+        },
+        "Blast": {
+          "Uniswap V4": 0
+        },
+        "Zora": {
+          "Uniswap V4": 0
+        },
+        "World Chain": {
+          "Uniswap V4": 348
+        },
+        "Ink": {
+          "Uniswap V4": 0
+        },
+        "Soneium": {
+          "Uniswap V4": 11
+        },
+        "Avalanche": {
+          "Uniswap V4": 40
+        },
+        "BSC": {
+          "Uniswap V4": 7478
+        }
+      }
+    ],
+    [
+      1749945600,
+      {
+        "Ethereum": {
+          "Uniswap V4": 85850
+        },
+        "Unichain": {
+          "Uniswap V4": 98121
+        },
+        "OP Mainnet": {
+          "Uniswap V4": 778
+        },
+        "Base": {
+          "Uniswap V4": 9934
+        },
+        "Arbitrum": {
+          "Uniswap V4": 8773
+        },
+        "Polygon": {
+          "Uniswap V4": 1825
+        },
+        "Blast": {
+          "Uniswap V4": 0
+        },
+        "Zora": {
+          "Uniswap V4": 0
+        },
+        "World Chain": {
+          "Uniswap V4": 403
+        },
+        "Ink": {
+          "Uniswap V4": 0
+        },
+        "Soneium": {
+          "Uniswap V4": 19
+        },
+        "Avalanche": {
+          "Uniswap V4": 44
+        },
+        "BSC": {
+          "Uniswap V4": 34573
+        }
+      }
+    ],
+    [
+      1750032000,
+      {
+        "Ethereum": {
+          "Uniswap V4": 119043
+        },
+        "Unichain": {
+          "Uniswap V4": 164558
+        },
+        "OP Mainnet": {
+          "Uniswap V4": 1172
+        },
+        "Base": {
+          "Uniswap V4": 20783
+        },
+        "Arbitrum": {
+          "Uniswap V4": 23146
+        },
+        "Polygon": {
+          "Uniswap V4": 4455
+        },
+        "Blast": {
+          "Uniswap V4": 1
+        },
+        "Zora": {
+          "Uniswap V4": 1
+        },
+        "World Chain": {
+          "Uniswap V4": 245
+        },
+        "Ink": {
+          "Uniswap V4": 0
+        },
+        "Soneium": {
+          "Uniswap V4": 32
+        },
+        "Avalanche": {
+          "Uniswap V4": 158
+        },
+        "BSC": {
+          "Uniswap V4": 13663
+        }
+      }
+    ],
+    [
+      1750118400,
+      {
+        "Ethereum": {
+          "Uniswap V4": 173409
+        },
+        "Unichain": {
+          "Uniswap V4": 195329
+        },
+        "OP Mainnet": {
+          "Uniswap V4": 1146
+        },
+        "Base": {
+          "Uniswap V4": 104584
+        },
+        "Arbitrum": {
+          "Uniswap V4": 25137
+        },
+        "Polygon": {
+          "Uniswap V4": 4783
+        },
+        "Blast": {
+          "Uniswap V4": 0
+        },
+        "Zora": {
+          "Uniswap V4": 1
+        },
+        "World Chain": {
+          "Uniswap V4": 231
+        },
+        "Ink": {
+          "Uniswap V4": 0
+        },
+        "Soneium": {
+          "Uniswap V4": 27
+        },
+        "Avalanche": {
+          "Uniswap V4": 413
+        },
+        "BSC": {
+          "Uniswap V4": 12182
+        }
+      }
+    ],
+    [
+      1750204800,
+      {
+        "Ethereum": {
+          "Uniswap V4": 136243
+        },
+        "Unichain": {
+          "Uniswap V4": 257522
+        },
+        "OP Mainnet": {
+          "Uniswap V4": 1302
+        },
+        "Base": {
+          "Uniswap V4": 26602
+        },
+        "Arbitrum": {
+          "Uniswap V4": 21302
+        },
+        "Polygon": {
+          "Uniswap V4": 4471
+        },
+        "Blast": {
+          "Uniswap V4": 0
+        },
+        "Zora": {
+          "Uniswap V4": 2
+        },
+        "World Chain": {
+          "Uniswap V4": 325
+        },
+        "Ink": {
+          "Uniswap V4": 0
+        },
+        "Soneium": {
+          "Uniswap V4": 21
+        },
+        "Avalanche": {
+          "Uniswap V4": 70
+        },
+        "BSC": {
+          "Uniswap V4": 9450
+        }
+      }
+    ],
+    [
+      1750291200,
+      {
+        "Ethereum": {
+          "Uniswap V4": 80343
+        },
+        "Unichain": {
+          "Uniswap V4": 114777
+        },
+        "OP Mainnet": {
+          "Uniswap V4": 694
+        },
+        "Base": {
+          "Uniswap V4": 16832
+        },
+        "Arbitrum": {
+          "Uniswap V4": 9284
+        },
+        "Polygon": {
+          "Uniswap V4": 2962
+        },
+        "Blast": {
+          "Uniswap V4": 0
+        },
+        "Zora": {
+          "Uniswap V4": 1
+        },
+        "World Chain": {
+          "Uniswap V4": 196
+        },
+        "Ink": {
+          "Uniswap V4": 0
+        },
+        "Soneium": {
+          "Uniswap V4": 15
+        },
+        "Avalanche": {
+          "Uniswap V4": 32
+        },
+        "BSC": {
+          "Uniswap V4": 13251
+        }
+      }
+    ],
+    [
+      1750377600,
+      {
+        "Ethereum": {
+          "Uniswap V4": 120109
+        },
+        "Unichain": {
+          "Uniswap V4": 178963
+        },
+        "OP Mainnet": {
+          "Uniswap V4": 1114
+        },
+        "Base": {
+          "Uniswap V4": 19958
+        },
+        "Arbitrum": {
+          "Uniswap V4": 21154
+        },
+        "Polygon": {
+          "Uniswap V4": 3351
+        },
+        "Blast": {
+          "Uniswap V4": 0
+        },
+        "Zora": {
+          "Uniswap V4": 1
+        },
+        "World Chain": {
+          "Uniswap V4": 252
+        },
+        "Ink": {
+          "Uniswap V4": 0
+        },
+        "Soneium": {
+          "Uniswap V4": 34
+        },
+        "Avalanche": {
+          "Uniswap V4": 52
+        },
+        "BSC": {
+          "Uniswap V4": 29233
+        }
+      }
+    ],
+    [
+      1750464000,
+      {
+        "Ethereum": {
+          "Uniswap V4": 93440
+        },
+        "Unichain": {
+          "Uniswap V4": 133903
+        },
+        "OP Mainnet": {
+          "Uniswap V4": 1104
+        },
+        "Base": {
+          "Uniswap V4": 16657
+        },
+        "Arbitrum": {
+          "Uniswap V4": 18673
+        },
+        "Polygon": {
+          "Uniswap V4": 2851
+        },
+        "Blast": {
+          "Uniswap V4": 0
+        },
+        "Zora": {
+          "Uniswap V4": 0
+        },
+        "World Chain": {
+          "Uniswap V4": 133
+        },
+        "Ink": {
+          "Uniswap V4": 0
+        },
+        "Soneium": {
+          "Uniswap V4": 49
+        },
+        "Avalanche": {
+          "Uniswap V4": 38
+        },
+        "BSC": {
+          "Uniswap V4": 9908
+        }
+      }
+    ],
+    [
+      1750550400,
+      {
+        "Ethereum": {
+          "Uniswap V4": 141491
+        },
+        "Unichain": {
+          "Uniswap V4": 251698
+        },
+        "OP Mainnet": {
+          "Uniswap V4": 1133
+        },
+        "Base": {
+          "Uniswap V4": 25221
+        },
+        "Arbitrum": {
+          "Uniswap V4": 34012
+        },
+        "Polygon": {
+          "Uniswap V4": 5045
+        },
+        "Blast": {
+          "Uniswap V4": 0
+        },
+        "Zora": {
+          "Uniswap V4": 0
+        },
+        "World Chain": {
+          "Uniswap V4": 103
+        },
+        "Ink": {
+          "Uniswap V4": 0
+        },
+        "Soneium": {
+          "Uniswap V4": 38
+        },
+        "Avalanche": {
+          "Uniswap V4": 50
+        },
+        "BSC": {
+          "Uniswap V4": 10245
+        }
+      }
+    ],
+    [
+      1750636800,
+      {
+        "Ethereum": {
+          "Uniswap V4": 173707
+        },
+        "Unichain": {
+          "Uniswap V4": 240558
+        },
+        "OP Mainnet": {
+          "Uniswap V4": 1782
+        },
+        "Base": {
+          "Uniswap V4": 28550
+        },
+        "Arbitrum": {
+          "Uniswap V4": 32386
+        },
+        "Polygon": {
+          "Uniswap V4": 5339
+        },
+        "Blast": {
+          "Uniswap V4": 0
+        },
+        "Zora": {
+          "Uniswap V4": 0
+        },
+        "World Chain": {
+          "Uniswap V4": 199
+        },
+        "Ink": {
+          "Uniswap V4": 0
+        },
+        "Soneium": {
+          "Uniswap V4": 36
+        },
+        "Avalanche": {
+          "Uniswap V4": 69
+        },
+        "BSC": {
+          "Uniswap V4": 30189
+        }
+      }
+    ],
+    [
+      1750723200,
+      {
+        "Ethereum": {
+          "Uniswap V4": 198050
+        },
+        "Unichain": {
+          "Uniswap V4": 209306
+        },
+        "OP Mainnet": {
+          "Uniswap V4": 918
+        },
+        "Base": {
+          "Uniswap V4": 20618
+        },
+        "Arbitrum": {
+          "Uniswap V4": 19198
+        },
+        "Polygon": {
+          "Uniswap V4": 3592
+        },
+        "Blast": {
+          "Uniswap V4": 1
+        },
+        "Zora": {
+          "Uniswap V4": 0
+        },
+        "World Chain": {
+          "Uniswap V4": 106
+        },
+        "Ink": {
+          "Uniswap V4": 0
+        },
+        "Soneium": {
+          "Uniswap V4": 25
+        },
+        "Avalanche": {
+          "Uniswap V4": 61
+        },
+        "BSC": {
+          "Uniswap V4": 5265
+        }
+      }
+    ],
+    [
+      1750809600,
+      {
+        "Ethereum": {
+          "Uniswap V4": 108666
+        },
+        "Unichain": {
+          "Uniswap V4": 187446
+        },
+        "OP Mainnet": {
+          "Uniswap V4": 981
+        },
+        "Base": {
+          "Uniswap V4": 16082
+        },
+        "Arbitrum": {
+          "Uniswap V4": 15815
+        },
+        "Polygon": {
+          "Uniswap V4": 3448
+        },
+        "Blast": {
+          "Uniswap V4": 0
+        },
+        "Zora": {
+          "Uniswap V4": 1
+        },
+        "World Chain": {
+          "Uniswap V4": 162
+        },
+        "Ink": {
+          "Uniswap V4": 0
+        },
+        "Soneium": {
+          "Uniswap V4": 18
+        },
+        "Avalanche": {
+          "Uniswap V4": 56
+        },
+        "BSC": {
+          "Uniswap V4": 6239
+        }
+      }
+    ],
+    [
+      1750896000,
+      {
+        "Ethereum": {
+          "Uniswap V4": 111961
+        },
+        "Unichain": {
+          "Uniswap V4": 177285
+        },
+        "OP Mainnet": {
+          "Uniswap V4": 1079
+        },
+        "Base": {
+          "Uniswap V4": 21259
+        },
+        "Arbitrum": {
+          "Uniswap V4": 19728
+        },
+        "Polygon": {
+          "Uniswap V4": 3089
+        },
+        "Blast": {
+          "Uniswap V4": 0
+        },
+        "Zora": {
+          "Uniswap V4": 1
+        },
+        "World Chain": {
+          "Uniswap V4": 156
+        },
+        "Ink": {
+          "Uniswap V4": 0
+        },
+        "Soneium": {
+          "Uniswap V4": 20
+        },
+        "Avalanche": {
+          "Uniswap V4": 82
+        },
+        "BSC": {
+          "Uniswap V4": 18491
+        }
+      }
+    ],
+    [
+      1750982400,
+      {
+        "Ethereum": {
+          "Uniswap V4": 97385
+        },
+        "Unichain": {
+          "Uniswap V4": 131274
+        },
+        "OP Mainnet": {
+          "Uniswap V4": 775
+        },
+        "Base": {
+          "Uniswap V4": 14208
+        },
+        "Arbitrum": {
+          "Uniswap V4": 14488
+        },
+        "Polygon": {
+          "Uniswap V4": 2627
+        },
+        "Blast": {
+          "Uniswap V4": 0
+        },
+        "Zora": {
+          "Uniswap V4": 1
+        },
+        "World Chain": {
+          "Uniswap V4": 126
+        },
+        "Ink": {
+          "Uniswap V4": 0
+        },
+        "Soneium": {
+          "Uniswap V4": 21
+        },
+        "Avalanche": {
+          "Uniswap V4": 45
+        },
+        "BSC": {
+          "Uniswap V4": 4696
+        }
+      }
+    ],
+    [
+      1751068800,
+      {
+        "Ethereum": {
+          "Uniswap V4": 50239
+        },
+        "Unichain": {
+          "Uniswap V4": 37795
+        },
+        "OP Mainnet": {
+          "Uniswap V4": 283
+        },
+        "Base": {
+          "Uniswap V4": 11892
+        },
+        "Arbitrum": {
+          "Uniswap V4": 6880
+        },
+        "Polygon": {
+          "Uniswap V4": 1519
+        },
+        "Blast": {
+          "Uniswap V4": 0
+        },
+        "Zora": {
+          "Uniswap V4": 0
+        },
+        "World Chain": {
+          "Uniswap V4": 101
+        },
+        "Ink": {
+          "Uniswap V4": 0
+        },
+        "Soneium": {
+          "Uniswap V4": 6
+        },
+        "Avalanche": {
+          "Uniswap V4": 19
+        },
+        "BSC": {
+          "Uniswap V4": 2349
+        }
+      }
+    ],
+    [
+      1751155200,
+      {
+        "Ethereum": {
+          "Uniswap V4": 113343
+        },
+        "Unichain": {
+          "Uniswap V4": 78116
+        },
+        "OP Mainnet": {
+          "Uniswap V4": 940
+        },
+        "Base": {
+          "Uniswap V4": 7807
+        },
+        "Arbitrum": {
+          "Uniswap V4": 10100
+        },
+        "Polygon": {
+          "Uniswap V4": 2276
+        },
+        "Blast": {
+          "Uniswap V4": 0
+        },
+        "Zora": {
+          "Uniswap V4": 0
+        },
+        "World Chain": {
+          "Uniswap V4": 142
+        },
+        "Ink": {
+          "Uniswap V4": 0
+        },
+        "Soneium": {
+          "Uniswap V4": 18
+        },
+        "Avalanche": {
+          "Uniswap V4": 48
+        },
+        "BSC": {
+          "Uniswap V4": 2144
+        }
+      }
+    ],
+    [
+      1751241600,
+      {
+        "Ethereum": {
+          "Uniswap V4": 126562
+        },
+        "Unichain": {
+          "Uniswap V4": 143792
+        },
+        "OP Mainnet": {
+          "Uniswap V4": 1069
+        },
+        "Base": {
+          "Uniswap V4": 9962
+        },
+        "Arbitrum": {
+          "Uniswap V4": 14576
+        },
+        "Polygon": {
+          "Uniswap V4": 2853
+        },
+        "Blast": {
+          "Uniswap V4": 0
+        },
+        "Zora": {
+          "Uniswap V4": 0
+        },
+        "World Chain": {
+          "Uniswap V4": 100
+        },
+        "Ink": {
+          "Uniswap V4": 0
+        },
+        "Soneium": {
+          "Uniswap V4": 21
+        },
+        "Avalanche": {
+          "Uniswap V4": 128
+        },
+        "BSC": {
+          "Uniswap V4": 3303
+        }
+      }
+    ],
+    [
+      1751328000,
+      {
+        "Ethereum": {
+          "Uniswap V4": 111043
+        },
+        "Unichain": {
+          "Uniswap V4": 119968
+        },
+        "OP Mainnet": {
+          "Uniswap V4": 730
+        },
+        "Base": {
+          "Uniswap V4": 8196
+        },
+        "Arbitrum": {
+          "Uniswap V4": 16651
+        },
+        "Polygon": {
+          "Uniswap V4": 2933
+        },
+        "Blast": {
+          "Uniswap V4": 0
+        },
+        "Zora": {
+          "Uniswap V4": 0
+        },
+        "World Chain": {
+          "Uniswap V4": 246
+        },
+        "Ink": {
+          "Uniswap V4": 0
+        },
+        "Soneium": {
+          "Uniswap V4": 19
+        },
+        "Avalanche": {
+          "Uniswap V4": 62
+        },
+        "BSC": {
+          "Uniswap V4": 4000
+        }
+      }
+    ],
+    [
+      1751414400,
+      {
+        "Ethereum": {
+          "Uniswap V4": 174730
+        },
+        "Unichain": {
+          "Uniswap V4": 168109
+        },
+        "OP Mainnet": {
+          "Uniswap V4": 1039
+        },
+        "Base": {
+          "Uniswap V4": 13017
+        },
+        "Arbitrum": {
+          "Uniswap V4": 18337
+        },
+        "Polygon": {
+          "Uniswap V4": 3402
+        },
+        "Blast": {
+          "Uniswap V4": 0
+        },
+        "Zora": {
+          "Uniswap V4": 0
+        },
+        "World Chain": {
+          "Uniswap V4": 152
+        },
+        "Ink": {
+          "Uniswap V4": 0
+        },
+        "Soneium": {
+          "Uniswap V4": 23
+        },
+        "Avalanche": {
+          "Uniswap V4": 104
+        },
+        "BSC": {
+          "Uniswap V4": 3790
+        }
+      }
+    ],
+    [
+      1751500800,
+      {
+        "Ethereum": {
+          "Uniswap V4": 155369
+        },
+        "Unichain": {
+          "Uniswap V4": 189511
+        },
+        "OP Mainnet": {
+          "Uniswap V4": 958
+        },
+        "Base": {
+          "Uniswap V4": 15883
+        },
+        "Arbitrum": {
+          "Uniswap V4": 16483
+        },
+        "Polygon": {
+          "Uniswap V4": 3249
+        },
+        "Blast": {
+          "Uniswap V4": 0
+        },
+        "Zora": {
+          "Uniswap V4": 1
+        },
+        "World Chain": {
+          "Uniswap V4": 167
+        },
+        "Ink": {
+          "Uniswap V4": 0
+        },
+        "Soneium": {
+          "Uniswap V4": 36
+        },
+        "Avalanche": {
+          "Uniswap V4": 172
+        },
+        "BSC": {
+          "Uniswap V4": 3515
+        }
+      }
+    ],
+    [
+      1751587200,
+      {
+        "Ethereum": {
+          "Uniswap V4": 106212
+        },
+        "Unichain": {
+          "Uniswap V4": 111741
+        },
+        "OP Mainnet": {
+          "Uniswap V4": 818
+        },
+        "Base": {
+          "Uniswap V4": 13659
+        },
+        "Arbitrum": {
+          "Uniswap V4": 14325
+        },
+        "Polygon": {
+          "Uniswap V4": 2531
+        },
+        "Blast": {
+          "Uniswap V4": 0
+        },
+        "Zora": {
+          "Uniswap V4": 0
+        },
+        "World Chain": {
+          "Uniswap V4": 154
+        },
+        "Ink": {
+          "Uniswap V4": 0
+        },
+        "Soneium": {
+          "Uniswap V4": 10
+        },
+        "Avalanche": {
+          "Uniswap V4": 67
+        },
+        "BSC": {
+          "Uniswap V4": 4070
+        }
+      }
+    ],
+    [
+      1751673600,
+      {
+        "Ethereum": {
+          "Uniswap V4": 76997
+        },
+        "Unichain": {
+          "Uniswap V4": 44043
+        },
+        "OP Mainnet": {
+          "Uniswap V4": 321
+        },
+        "Base": {
+          "Uniswap V4": 6170
+        },
+        "Arbitrum": {
+          "Uniswap V4": 6750
+        },
+        "Polygon": {
+          "Uniswap V4": 1399
+        },
+        "Blast": {
+          "Uniswap V4": 0
+        },
+        "Zora": {
+          "Uniswap V4": 0
+        },
+        "World Chain": {
+          "Uniswap V4": 180
+        },
+        "Ink": {
+          "Uniswap V4": 0
+        },
+        "Soneium": {
+          "Uniswap V4": 614
+        },
+        "Avalanche": {
+          "Uniswap V4": 54
+        },
+        "BSC": {
+          "Uniswap V4": 3454
+        }
+      }
+    ],
+    [
+      1751760000,
+      {
+        "Ethereum": {
+          "Uniswap V4": 90027
+        },
+        "Unichain": {
+          "Uniswap V4": 95655
+        },
+        "OP Mainnet": {
+          "Uniswap V4": 448
+        },
+        "Base": {
+          "Uniswap V4": 12282
+        },
+        "Arbitrum": {
+          "Uniswap V4": 22468
+        },
+        "Polygon": {
+          "Uniswap V4": 2189
+        },
+        "Blast": {
+          "Uniswap V4": 0
+        },
+        "Zora": {
+          "Uniswap V4": 0
+        },
+        "World Chain": {
+          "Uniswap V4": 192
+        },
+        "Ink": {
+          "Uniswap V4": 0
+        },
+        "Soneium": {
+          "Uniswap V4": 471
+        },
+        "Avalanche": {
+          "Uniswap V4": 76
+        },
+        "BSC": {
+          "Uniswap V4": 2165
+        }
+      }
+    ],
+    [
+      1751846400,
+      {
+        "Ethereum": {
+          "Uniswap V4": 110424
+        },
+        "Unichain": {
+          "Uniswap V4": 152493
+        },
+        "OP Mainnet": {
+          "Uniswap V4": 446
+        },
+        "Base": {
+          "Uniswap V4": 12219
+        },
+        "Arbitrum": {
+          "Uniswap V4": 16357
+        },
+        "Polygon": {
+          "Uniswap V4": 2649
+        },
+        "Blast": {
+          "Uniswap V4": 0
+        },
+        "Zora": {
+          "Uniswap V4": 0
+        },
+        "World Chain": {
+          "Uniswap V4": 144
+        },
+        "Ink": {
+          "Uniswap V4": 0
+        },
+        "Soneium": {
+          "Uniswap V4": 9
+        },
+        "Avalanche": {
+          "Uniswap V4": 81
+        },
+        "BSC": {
+          "Uniswap V4": 9513
+        }
+      }
+    ],
+    [
+      1751932800,
+      {
+        "Ethereum": {
+          "Uniswap V4": 144756
+        },
+        "Unichain": {
+          "Uniswap V4": 127265
+        },
+        "OP Mainnet": {
+          "Uniswap V4": 544
+        },
+        "Base": {
+          "Uniswap V4": 15749
+        },
+        "Arbitrum": {
+          "Uniswap V4": 13636
+        },
+        "Polygon": {
+          "Uniswap V4": 2871
+        },
+        "Blast": {
+          "Uniswap V4": 0
+        },
+        "Zora": {
+          "Uniswap V4": 0
+        },
+        "World Chain": {
+          "Uniswap V4": 287
+        },
+        "Ink": {
+          "Uniswap V4": 0
+        },
+        "Soneium": {
+          "Uniswap V4": 79
+        },
+        "Avalanche": {
+          "Uniswap V4": 193
+        },
+        "BSC": {
+          "Uniswap V4": 6288
+        }
+      }
+    ],
+    [
+      1752019200,
+      {
+        "Ethereum": {
+          "Uniswap V4": 318482
+        },
+        "Unichain": {
+          "Uniswap V4": 213082
+        },
+        "OP Mainnet": {
+          "Uniswap V4": 871
+        },
+        "Base": {
+          "Uniswap V4": 21834
+        },
+        "Arbitrum": {
+          "Uniswap V4": 28072
+        },
+        "Polygon": {
+          "Uniswap V4": 3841
+        },
+        "Blast": {
+          "Uniswap V4": 0
+        },
+        "Zora": {
+          "Uniswap V4": 0
+        },
+        "World Chain": {
+          "Uniswap V4": 250
+        },
+        "Ink": {
+          "Uniswap V4": 0
+        },
+        "Soneium": {
+          "Uniswap V4": 26
+        },
+        "Avalanche": {
+          "Uniswap V4": 227
+        },
+        "BSC": {
+          "Uniswap V4": 3329
+        }
+      }
+    ],
+    [
+      1752105600,
+      {
+        "Ethereum": {
+          "Uniswap V4": 296620
+        },
+        "Unichain": {
+          "Uniswap V4": 231641
+        },
+        "OP Mainnet": {
+          "Uniswap V4": 1614
+        },
+        "Base": {
+          "Uniswap V4": 26509
+        },
+        "Arbitrum": {
+          "Uniswap V4": 39896
+        },
+        "Polygon": {
+          "Uniswap V4": 4344
+        },
+        "Blast": {
+          "Uniswap V4": 0
+        },
+        "Zora": {
+          "Uniswap V4": 0
+        },
+        "World Chain": {
+          "Uniswap V4": 442
+        },
+        "Ink": {
+          "Uniswap V4": 0
+        },
+        "Soneium": {
+          "Uniswap V4": 47
+        },
+        "Avalanche": {
+          "Uniswap V4": 250
+        },
+        "BSC": {
+          "Uniswap V4": 8237
+        }
+      }
+    ],
+    [
+      1752192000,
+      {
+        "Ethereum": {
+          "Uniswap V4": 254111
+        },
+        "Unichain": {
+          "Uniswap V4": 239136
+        },
+        "OP Mainnet": {
+          "Uniswap V4": 2458
+        },
+        "Base": {
+          "Uniswap V4": 36342
+        },
+        "Arbitrum": {
+          "Uniswap V4": 28547
+        },
+        "Polygon": {
+          "Uniswap V4": 5017
+        },
+        "Blast": {
+          "Uniswap V4": 0
+        },
+        "Zora": {
+          "Uniswap V4": 0
+        },
+        "World Chain": {
+          "Uniswap V4": 325
+        },
+        "Ink": {
+          "Uniswap V4": 0
+        },
+        "Soneium": {
+          "Uniswap V4": 30
+        },
+        "Avalanche": {
+          "Uniswap V4": 240
+        },
+        "BSC": {
+          "Uniswap V4": 5440
+        }
+      }
+    ],
+    [
+      1752278400,
+      {
+        "Ethereum": {
+          "Uniswap V4": 110673
+        },
+        "Unichain": {
+          "Uniswap V4": 90078
+        },
+        "OP Mainnet": {
+          "Uniswap V4": 1006
+        },
+        "Base": {
+          "Uniswap V4": 27299
+        },
+        "Arbitrum": {
+          "Uniswap V4": 9290
+        },
+        "Polygon": {
+          "Uniswap V4": 4465
+        },
+        "Blast": {
+          "Uniswap V4": 14
+        },
+        "Zora": {
+          "Uniswap V4": 0
+        },
+        "World Chain": {
+          "Uniswap V4": 237
+        },
+        "Ink": {
+          "Uniswap V4": 0
+        },
+        "Soneium": {
+          "Uniswap V4": 24
+        },
+        "Avalanche": {
+          "Uniswap V4": 238
+        },
+        "BSC": {
+          "Uniswap V4": 2115
+        }
+      }
+    ],
+    [
+      1752364800,
+      {
+        "Ethereum": {
+          "Uniswap V4": 115827
+        },
+        "Unichain": {
+          "Uniswap V4": 108195
+        },
+        "OP Mainnet": {
+          "Uniswap V4": 1062
+        },
+        "Base": {
+          "Uniswap V4": 25273
+        },
+        "Arbitrum": {
+          "Uniswap V4": 10827
+        },
+        "Polygon": {
+          "Uniswap V4": 3428
+        },
+        "Blast": {
+          "Uniswap V4": 0
+        },
+        "Zora": {
+          "Uniswap V4": 0
+        },
+        "World Chain": {
+          "Uniswap V4": 256
+        },
+        "Ink": {
+          "Uniswap V4": 0
+        },
+        "Soneium": {
+          "Uniswap V4": 19
+        },
+        "Avalanche": {
+          "Uniswap V4": 129
+        },
+        "BSC": {
+          "Uniswap V4": 2633
+        }
+      }
+    ],
+    [
+      1752451200,
+      {
+        "Ethereum": {
+          "Uniswap V4": 213571
+        },
+        "Unichain": {
+          "Uniswap V4": 227308
+        },
+        "OP Mainnet": {
+          "Uniswap V4": 1335
+        },
+        "Base": {
+          "Uniswap V4": 34305
+        },
+        "Arbitrum": {
+          "Uniswap V4": 20249
+        },
+        "Polygon": {
+          "Uniswap V4": 5726
+        },
+        "Blast": {
+          "Uniswap V4": 0
+        },
+        "Zora": {
+          "Uniswap V4": 0
+        },
+        "World Chain": {
+          "Uniswap V4": 777
+        },
+        "Ink": {
+          "Uniswap V4": 0
+        },
+        "Soneium": {
+          "Uniswap V4": 24
+        },
+        "Avalanche": {
+          "Uniswap V4": 274
+        },
+        "BSC": {
+          "Uniswap V4": 3215
+        }
+      }
+    ],
+    [
+      1752537600,
+      {
+        "Ethereum": {
+          "Uniswap V4": 273957
+        },
+        "Unichain": {
+          "Uniswap V4": 336808
+        },
+        "OP Mainnet": {
+          "Uniswap V4": 1623
+        },
+        "Base": {
+          "Uniswap V4": 41916
+        },
+        "Arbitrum": {
+          "Uniswap V4": 44373
+        },
+        "Polygon": {
+          "Uniswap V4": 7751
+        },
+        "Blast": {
+          "Uniswap V4": 0
+        },
+        "Zora": {
+          "Uniswap V4": 0
+        },
+        "World Chain": {
+          "Uniswap V4": 449
+        },
+        "Ink": {
+          "Uniswap V4": 0
+        },
+        "Soneium": {
+          "Uniswap V4": 43
+        },
+        "Avalanche": {
+          "Uniswap V4": 229
+        },
+        "BSC": {
+          "Uniswap V4": 6900
+        }
+      }
+    ],
+    [
+      1752624000,
+      {
+        "Ethereum": {
+          "Uniswap V4": 277918
+        },
+        "Unichain": {
+          "Uniswap V4": 248261
+        },
+        "OP Mainnet": {
+          "Uniswap V4": 1963
+        },
+        "Base": {
+          "Uniswap V4": 32089
+        },
+        "Arbitrum": {
+          "Uniswap V4": 29265
+        },
+        "Polygon": {
+          "Uniswap V4": 5761
+        },
+        "Blast": {
+          "Uniswap V4": 0
+        },
+        "Zora": {
+          "Uniswap V4": 1
+        },
+        "World Chain": {
+          "Uniswap V4": 264
+        },
+        "Ink": {
+          "Uniswap V4": 0
+        },
+        "Soneium": {
+          "Uniswap V4": 34
+        },
+        "Avalanche": {
+          "Uniswap V4": 208
+        },
+        "BSC": {
+          "Uniswap V4": 9140
+        }
+      }
+    ],
+    [
+      1752710400,
+      {
+        "Ethereum": {
+          "Uniswap V4": 261970
+        },
+        "Unichain": {
+          "Uniswap V4": 324594
+        },
+        "OP Mainnet": {
+          "Uniswap V4": 1412
+        },
+        "Base": {
+          "Uniswap V4": 30407
+        },
+        "Arbitrum": {
+          "Uniswap V4": 40577
+        },
+        "Polygon": {
+          "Uniswap V4": 6634
+        },
+        "Blast": {
+          "Uniswap V4": 0
+        },
+        "Zora": {
+          "Uniswap V4": 0
+        },
+        "World Chain": {
+          "Uniswap V4": 109
+        },
+        "Ink": {
+          "Uniswap V4": 0
+        },
+        "Soneium": {
+          "Uniswap V4": 47
+        },
+        "Avalanche": {
+          "Uniswap V4": 254
+        },
+        "BSC": {
+          "Uniswap V4": 89143
+        }
+      }
+    ],
+    [
+      1752796800,
+      {
+        "Ethereum": {
+          "Uniswap V4": 279303
+        },
+        "Unichain": {
+          "Uniswap V4": 345525
+        },
+        "OP Mainnet": {
+          "Uniswap V4": 2263
+        },
+        "Base": {
+          "Uniswap V4": 63094
+        },
+        "Arbitrum": {
+          "Uniswap V4": 42797
+        },
+        "Polygon": {
+          "Uniswap V4": 7065
+        },
+        "Blast": {
+          "Uniswap V4": 0
+        },
+        "Zora": {
+          "Uniswap V4": 0
+        },
+        "World Chain": {
+          "Uniswap V4": 191
+        },
+        "Ink": {
+          "Uniswap V4": 0
+        },
+        "Soneium": {
+          "Uniswap V4": 54
+        },
+        "Avalanche": {
+          "Uniswap V4": 247
+        },
+        "BSC": {
+          "Uniswap V4": 11670
+        }
+      }
+    ],
+    [
+      1752883200,
+      {
+        "Ethereum": {
+          "Uniswap V4": 96086
+        },
+        "Unichain": {
+          "Uniswap V4": 142441
+        },
+        "OP Mainnet": {
+          "Uniswap V4": 970
+        },
+        "Base": {
+          "Uniswap V4": 47236
+        },
+        "Arbitrum": {
+          "Uniswap V4": 15090
+        },
+        "Polygon": {
+          "Uniswap V4": 2448
+        },
+        "Blast": {
+          "Uniswap V4": 0
+        },
+        "Zora": {
+          "Uniswap V4": 0
+        },
+        "World Chain": {
+          "Uniswap V4": 309
+        },
+        "Ink": {
+          "Uniswap V4": 0
+        },
+        "Soneium": {
+          "Uniswap V4": 29
+        },
+        "Avalanche": {
+          "Uniswap V4": 126
+        },
+        "BSC": {
+          "Uniswap V4": 3345
+        }
+      }
+    ],
+    [
+      1752969600,
+      {
+        "Ethereum": {
+          "Uniswap V4": 176954
+        },
+        "Unichain": {
+          "Uniswap V4": 228687
+        },
+        "OP Mainnet": {
+          "Uniswap V4": 1396
+        },
+        "Base": {
+          "Uniswap V4": 35942
+        },
+        "Arbitrum": {
+          "Uniswap V4": 27932
+        },
+        "Polygon": {
+          "Uniswap V4": 4059
+        },
+        "Blast": {
+          "Uniswap V4": 0
+        },
+        "Zora": {
+          "Uniswap V4": 0
+        },
+        "World Chain": {
+          "Uniswap V4": 291
+        },
+        "Ink": {
+          "Uniswap V4": 0
+        },
+        "Soneium": {
+          "Uniswap V4": 51
+        },
+        "Avalanche": {
+          "Uniswap V4": 185
+        },
+        "BSC": {
+          "Uniswap V4": 4667
+        }
+      }
+    ],
+    [
+      1753056000,
+      {
+        "Ethereum": {
+          "Uniswap V4": 239063
+        },
+        "Unichain": {
+          "Uniswap V4": 260447
+        },
+        "OP Mainnet": {
+          "Uniswap V4": 1471
+        },
+        "Base": {
+          "Uniswap V4": 32009
+        },
+        "Arbitrum": {
+          "Uniswap V4": 38268
+        },
+        "Polygon": {
+          "Uniswap V4": 4606
+        },
+        "Blast": {
+          "Uniswap V4": 0
+        },
+        "Zora": {
+          "Uniswap V4": 0
+        },
+        "World Chain": {
+          "Uniswap V4": 162
+        },
+        "Ink": {
+          "Uniswap V4": 0
+        },
+        "Soneium": {
+          "Uniswap V4": 37
+        },
+        "Avalanche": {
+          "Uniswap V4": 259
+        },
+        "BSC": {
+          "Uniswap V4": 14135
+        }
+      }
+    ],
+    [
+      1753142400,
+      {
+        "Ethereum": {
+          "Uniswap V4": 266453
+        },
+        "Unichain": {
+          "Uniswap V4": 315082
+        },
+        "OP Mainnet": {
+          "Uniswap V4": 1688
+        },
+        "Base": {
+          "Uniswap V4": 38331
+        },
+        "Arbitrum": {
+          "Uniswap V4": 44611
+        },
+        "Polygon": {
+          "Uniswap V4": 5953
+        },
+        "Blast": {
+          "Uniswap V4": 0
+        },
+        "Zora": {
+          "Uniswap V4": 0
+        },
+        "World Chain": {
+          "Uniswap V4": 226
+        },
+        "Ink": {
+          "Uniswap V4": 0
+        },
+        "Soneium": {
+          "Uniswap V4": 36
+        },
+        "Avalanche": {
+          "Uniswap V4": 382
+        },
+        "BSC": {
+          "Uniswap V4": 20027
+        }
+      }
+    ],
     [
       1753228800,
       {
@@ -462,46 +8624,574 @@
       1753920000,
       {
         "Ethereum": {
-          "Uniswap V4": 212932
+          "Uniswap V4": 195901
         },
         "Unichain": {
-          "Uniswap V4": 185378
+          "Uniswap V4": 172951
         },
         "OP Mainnet": {
-          "Uniswap V4": 1265
+          "Uniswap V4": 980
         },
         "Base": {
-          "Uniswap V4": 233350
+          "Uniswap V4": 62185
         },
         "Arbitrum": {
-          "Uniswap V4": 27649
+          "Uniswap V4": 29786
         },
         "Polygon": {
-          "Uniswap V4": 3024
+          "Uniswap V4": 2827
         },
         "Blast": {
           "Uniswap V4": 0
         },
         "Zora": {
-          "Uniswap V4": 11
+          "Uniswap V4": 12
         },
         "World Chain": {
-          "Uniswap V4": 127
+          "Uniswap V4": 175
         },
         "Ink": {
           "Uniswap V4": 0
         },
         "Soneium": {
-          "Uniswap V4": 32
+          "Uniswap V4": 21
         },
         "Avalanche": {
-          "Uniswap V4": 227
+          "Uniswap V4": 195
         },
         "BSC": {
-          "Uniswap V4": 7386
+          "Uniswap V4": 11649
+        }
+      }
+    ],
+    [
+      1754006400,
+      {
+        "Ethereum": {
+          "Uniswap V4": 278061
+        },
+        "Unichain": {
+          "Uniswap V4": 325836
+        },
+        "OP Mainnet": {
+          "Uniswap V4": 1464
+        },
+        "Base": {
+          "Uniswap V4": 77833
+        },
+        "Arbitrum": {
+          "Uniswap V4": 49513
+        },
+        "Polygon": {
+          "Uniswap V4": 4810
+        },
+        "Blast": {
+          "Uniswap V4": 99
+        },
+        "Zora": {
+          "Uniswap V4": 17
+        },
+        "World Chain": {
+          "Uniswap V4": 488
+        },
+        "Ink": {
+          "Uniswap V4": 0
+        },
+        "Soneium": {
+          "Uniswap V4": 36
+        },
+        "Avalanche": {
+          "Uniswap V4": 194
+        },
+        "BSC": {
+          "Uniswap V4": 9450
+        }
+      }
+    ],
+    [
+      1754092800,
+      {
+        "Ethereum": {
+          "Uniswap V4": 183623
+        },
+        "Unichain": {
+          "Uniswap V4": 171542
+        },
+        "OP Mainnet": {
+          "Uniswap V4": 1007
+        },
+        "Base": {
+          "Uniswap V4": 26007
+        },
+        "Arbitrum": {
+          "Uniswap V4": 23394
+        },
+        "Polygon": {
+          "Uniswap V4": 3744
+        },
+        "Blast": {
+          "Uniswap V4": 15
+        },
+        "Zora": {
+          "Uniswap V4": 1
+        },
+        "World Chain": {
+          "Uniswap V4": 500
+        },
+        "Ink": {
+          "Uniswap V4": 0
+        },
+        "Soneium": {
+          "Uniswap V4": 28
+        },
+        "Avalanche": {
+          "Uniswap V4": 129
+        },
+        "BSC": {
+          "Uniswap V4": 5203
+        }
+      }
+    ],
+    [
+      1754179200,
+      {
+        "Ethereum": {
+          "Uniswap V4": 96692
+        },
+        "Unichain": {
+          "Uniswap V4": 100889
+        },
+        "OP Mainnet": {
+          "Uniswap V4": 474
+        },
+        "Base": {
+          "Uniswap V4": 26827
+        },
+        "Arbitrum": {
+          "Uniswap V4": 20619
+        },
+        "Polygon": {
+          "Uniswap V4": 2090
+        },
+        "Blast": {
+          "Uniswap V4": 1
+        },
+        "Zora": {
+          "Uniswap V4": 3
+        },
+        "World Chain": {
+          "Uniswap V4": 354
+        },
+        "Ink": {
+          "Uniswap V4": 0
+        },
+        "Soneium": {
+          "Uniswap V4": 19
+        },
+        "Avalanche": {
+          "Uniswap V4": 82
+        },
+        "BSC": {
+          "Uniswap V4": 5204
+        }
+      }
+    ],
+    [
+      1754265600,
+      {
+        "Ethereum": {
+          "Uniswap V4": 167594
+        },
+        "Unichain": {
+          "Uniswap V4": 135155
+        },
+        "OP Mainnet": {
+          "Uniswap V4": 713
+        },
+        "Base": {
+          "Uniswap V4": 48307
+        },
+        "Arbitrum": {
+          "Uniswap V4": 32298
+        },
+        "Polygon": {
+          "Uniswap V4": 3194
+        },
+        "Blast": {
+          "Uniswap V4": 16
+        },
+        "Zora": {
+          "Uniswap V4": 5
+        },
+        "World Chain": {
+          "Uniswap V4": 324
+        },
+        "Ink": {
+          "Uniswap V4": 0
+        },
+        "Soneium": {
+          "Uniswap V4": 29
+        },
+        "Avalanche": {
+          "Uniswap V4": 640
+        },
+        "BSC": {
+          "Uniswap V4": 5035
+        }
+      }
+    ],
+    [
+      1754352000,
+      {
+        "Ethereum": {
+          "Uniswap V4": 164427
+        },
+        "Unichain": {
+          "Uniswap V4": 165904
+        },
+        "OP Mainnet": {
+          "Uniswap V4": 693
+        },
+        "Base": {
+          "Uniswap V4": 52446
+        },
+        "Arbitrum": {
+          "Uniswap V4": 31631
+        },
+        "Polygon": {
+          "Uniswap V4": 3964
+        },
+        "Blast": {
+          "Uniswap V4": 16
+        },
+        "Zora": {
+          "Uniswap V4": 0
+        },
+        "World Chain": {
+          "Uniswap V4": 312
+        },
+        "Ink": {
+          "Uniswap V4": 0
+        },
+        "Soneium": {
+          "Uniswap V4": 27
+        },
+        "Avalanche": {
+          "Uniswap V4": 141
+        },
+        "BSC": {
+          "Uniswap V4": 41038
+        }
+      }
+    ],
+    [
+      1754438400,
+      {
+        "Ethereum": {
+          "Uniswap V4": 142577
+        },
+        "Unichain": {
+          "Uniswap V4": 144509
+        },
+        "OP Mainnet": {
+          "Uniswap V4": 684
+        },
+        "Base": {
+          "Uniswap V4": 40571
+        },
+        "Arbitrum": {
+          "Uniswap V4": 44368
+        },
+        "Polygon": {
+          "Uniswap V4": 3393
+        },
+        "Blast": {
+          "Uniswap V4": 0
+        },
+        "Zora": {
+          "Uniswap V4": 0
+        },
+        "World Chain": {
+          "Uniswap V4": 243
+        },
+        "Ink": {
+          "Uniswap V4": 0
+        },
+        "Soneium": {
+          "Uniswap V4": 29
+        },
+        "Avalanche": {
+          "Uniswap V4": 324
+        },
+        "BSC": {
+          "Uniswap V4": 21756
+        }
+      }
+    ],
+    [
+      1754524800,
+      {
+        "Ink": {
+          "Uniswap V4": 0
+        },
+        "Zora": {
+          "Uniswap V4": 3
+        },
+        "Soneium": {
+          "Uniswap V4": 23
+        },
+        "Blast": {
+          "Uniswap V4": 0
+        },
+        "Avalanche": {
+          "Uniswap V4": 3858
+        },
+        "World Chain": {
+          "Uniswap V4": 269
+        },
+        "Ethereum": {
+          "Uniswap V4": 181704
+        },
+        "OP Mainnet": {
+          "Uniswap V4": 846
+        },
+        "Arbitrum": {
+          "Uniswap V4": 36303
+        },
+        "BSC": {
+          "Uniswap V4": 8789
+        },
+        "Polygon": {
+          "Uniswap V4": 4318
+        },
+        "Unichain": {
+          "Uniswap V4": 161761
+        },
+        "Base": {
+          "Uniswap V4": 140993
+        }
+      }
+    ],
+    [
+      1754611200,
+      {
+        "Ink": {
+          "Uniswap V4": 0
+        },
+        "Zora": {
+          "Uniswap V4": 0
+        },
+        "Blast": {
+          "Uniswap V4": 0
+        },
+        "Soneium": {
+          "Uniswap V4": 31
+        },
+        "Avalanche": {
+          "Uniswap V4": 4963
+        },
+        "World Chain": {
+          "Uniswap V4": 462
+        },
+        "Ethereum": {
+          "Uniswap V4": 183202
+        },
+        "OP Mainnet": {
+          "Uniswap V4": 1506
+        },
+        "Arbitrum": {
+          "Uniswap V4": 29030
+        },
+        "BSC": {
+          "Uniswap V4": 19453
+        },
+        "Polygon": {
+          "Uniswap V4": 5169
+        },
+        "Unichain": {
+          "Uniswap V4": 193664
+        },
+        "Base": {
+          "Uniswap V4": 123891
+        }
+      }
+    ],
+    [
+      1754697600,
+      {
+        "Ink": {
+          "Uniswap V4": 0
+        },
+        "Zora": {
+          "Uniswap V4": 1
+        },
+        "Blast": {
+          "Uniswap V4": 20
+        },
+        "Soneium": {
+          "Uniswap V4": 29
+        },
+        "Avalanche": {
+          "Uniswap V4": 384
+        },
+        "World Chain": {
+          "Uniswap V4": 268
+        },
+        "OP Mainnet": {
+          "Uniswap V4": 1220
+        },
+        "Ethereum": {
+          "Uniswap V4": 203094
+        },
+        "BSC": {
+          "Uniswap V4": 7846
+        },
+        "Arbitrum": {
+          "Uniswap V4": 27158
+        },
+        "Polygon": {
+          "Uniswap V4": 3488
+        },
+        "Unichain": {
+          "Uniswap V4": 149087
+        },
+        "Base": {
+          "Uniswap V4": 55218
+        }
+      }
+    ],
+    [
+      1754784000,
+      {
+        "Ink": {
+          "Uniswap V4": 0
+        },
+        "Zora": {
+          "Uniswap V4": 0
+        },
+        "Ethereum": {
+          "Uniswap V4": 203733
+        },
+        "Blast": {
+          "Uniswap V4": 2
+        },
+        "Avalanche": {
+          "Uniswap V4": 180
+        },
+        "Soneium": {
+          "Uniswap V4": 33
+        },
+        "World Chain": {
+          "Uniswap V4": 159
+        },
+        "OP Mainnet": {
+          "Uniswap V4": 1301
+        },
+        "BSC": {
+          "Uniswap V4": 5926
+        },
+        "Polygon": {
+          "Uniswap V4": 3808
+        },
+        "Arbitrum": {
+          "Uniswap V4": 34268
+        },
+        "Unichain": {
+          "Uniswap V4": 157059
+        },
+        "Base": {
+          "Uniswap V4": 59627
+        }
+      }
+    ],
+    [
+      1754870400,
+      {
+        "Ink": {
+          "Uniswap V4": 0
+        },
+        "Zora": {
+          "Uniswap V4": 0
+        },
+        "Blast": {
+          "Uniswap V4": 0
+        },
+        "Soneium": {
+          "Uniswap V4": 26
+        },
+        "Avalanche": {
+          "Uniswap V4": 1022
+        },
+        "World Chain": {
+          "Uniswap V4": 149
+        },
+        "Ethereum": {
+          "Uniswap V4": 229976
+        },
+        "OP Mainnet": {
+          "Uniswap V4": 1369
+        },
+        "BSC": {
+          "Uniswap V4": 17916
+        },
+        "Arbitrum": {
+          "Uniswap V4": 30782
+        },
+        "Polygon": {
+          "Uniswap V4": 4443
+        },
+        "Unichain": {
+          "Uniswap V4": 161196
+        },
+        "Base": {
+          "Uniswap V4": 162725
+        }
+      }
+    ],
+    [
+      1754956800,
+      {
+        "Ink": {
+          "Uniswap V4": 0
+        },
+        "Zora": {
+          "Uniswap V4": 2
+        },
+        "Blast": {
+          "Uniswap V4": 3
+        },
+        "Ethereum": {
+          "Uniswap V4": 296822
+        },
+        "Avalanche": {
+          "Uniswap V4": 3197
+        },
+        "Soneium": {
+          "Uniswap V4": 44
+        },
+        "World Chain": {
+          "Uniswap V4": 190
+        },
+        "OP Mainnet": {
+          "Uniswap V4": 1955
+        },
+        "BSC": {
+          "Uniswap V4": 15109
+        },
+        "Arbitrum": {
+          "Uniswap V4": 35654
+        },
+        "Polygon": {
+          "Uniswap V4": 4748
+        },
+        "Unichain": {
+          "Uniswap V4": 205816
+        },
+        "Base": {
+          "Uniswap V4": 166734
         }
       }
     ]
   ],
-  "change_1d": -28.87
+  "change_1d": 19.79
 }

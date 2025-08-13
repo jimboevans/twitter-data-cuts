@@ -22,14 +22,15 @@
   "module": "maestro",
   "twitter": "MaestroBots",
   "forkedFrom": [],
-  "defillamaId": "3019",
-  "displayName": "Maestro",
-  "methodologyURL": "https://github.com/DefiLlama/dimension-adapters/blob/master/fees/maestro.ts",
   "methodology": {
     "Fees": "All trading fees paid by users while using Maestro bot.",
     "Revenue": "Trading fees are collected by Maestro protocol.",
     "ProtocolRevenue": "Trading fees are collected by Maestro protocol."
   },
+  "misrepresentedTokens": false,
+  "defillamaId": "3019",
+  "displayName": "Maestro",
+  "methodologyURL": "https://github.com/DefiLlama/dimension-adapters/blob/master/fees/maestro.ts",
   "audit_links": null,
   "versionKey": null,
   "github": null,
@@ -37,14 +38,15 @@
   "treasury": null,
   "parentProtocol": null,
   "previousNames": null,
-  "latestFetchIsOk": true,
+  "hallmarks": null,
+  "defaultChartView": null,
   "slug": "maestro",
   "protocolType": "protocol",
-  "total24h": 83368,
-  "total48hto24h": 72633,
-  "total7d": 587478,
-  "total30d": 3006178,
-  "totalAllTime": 120157075,
+  "total24h": 80374,
+  "total48hto24h": 84392,
+  "total7d": 489523,
+  "total30d": 2528491,
+  "totalAllTime": 121113412,
   "totalDataChart": [
     [
       1656633600,
@@ -4439,6 +4441,10 @@
       155474
     ],
     [
+      1752019200,
+      147541
+    ],
+    [
       1752105600,
       94591
     ],
@@ -4521,6 +4527,58 @@
     [
       1753833600,
       83368
+    ],
+    [
+      1753920000,
+      60965
+    ],
+    [
+      1754006400,
+      62888
+    ],
+    [
+      1754092800,
+      19711
+    ],
+    [
+      1754179200,
+      42619
+    ],
+    [
+      1754265600,
+      67734
+    ],
+    [
+      1754352000,
+      65356
+    ],
+    [
+      1754438400,
+      60714
+    ],
+    [
+      1754524800,
+      80543
+    ],
+    [
+      1754611200,
+      64592
+    ],
+    [
+      1754697600,
+      59181
+    ],
+    [
+      1754784000,
+      59727
+    ],
+    [
+      1754870400,
+      84392
+    ],
+    [
+      1754956800,
+      80374
     ]
   ],
   "totalDataChartBreakdown": [
@@ -22159,6 +22217,26 @@
       }
     ],
     [
+      1752019200,
+      {
+        "Ethereum": {
+          "Maestro": 108752
+        },
+        "BSC": {
+          "Maestro": 3058
+        },
+        "Arbitrum": {
+          "Maestro": 0
+        },
+        "Solana": {
+          "Maestro": 35731
+        },
+        "Base": {
+          "Maestro": 0
+        }
+      }
+    ],
+    [
       1752105600,
       {
         "Ethereum": {
@@ -22577,7 +22655,267 @@
           "Maestro": 0
         }
       }
+    ],
+    [
+      1753920000,
+      {
+        "Ethereum": {
+          "Maestro": 23275
+        },
+        "BSC": {
+          "Maestro": 1153
+        },
+        "Arbitrum": {
+          "Maestro": 0
+        },
+        "Solana": {
+          "Maestro": 36537
+        },
+        "Base": {
+          "Maestro": 0
+        }
+      }
+    ],
+    [
+      1754006400,
+      {
+        "Ethereum": {
+          "Maestro": 33597
+        },
+        "BSC": {
+          "Maestro": 6597
+        },
+        "Arbitrum": {
+          "Maestro": 0
+        },
+        "Solana": {
+          "Maestro": 22694
+        },
+        "Base": {
+          "Maestro": 0
+        }
+      }
+    ],
+    [
+      1754092800,
+      {
+        "Ethereum": {
+          "Maestro": 0
+        },
+        "BSC": {
+          "Maestro": 0
+        },
+        "Arbitrum": {
+          "Maestro": 0
+        },
+        "Solana": {
+          "Maestro": 19711
+        },
+        "Base": {
+          "Maestro": 0
+        }
+      }
+    ],
+    [
+      1754179200,
+      {
+        "Ethereum": {
+          "Maestro": 14699
+        },
+        "BSC": {
+          "Maestro": 1936
+        },
+        "Arbitrum": {
+          "Maestro": 0
+        },
+        "Solana": {
+          "Maestro": 25984
+        },
+        "Base": {
+          "Maestro": 0
+        }
+      }
+    ],
+    [
+      1754265600,
+      {
+        "Ethereum": {
+          "Maestro": 25242
+        },
+        "BSC": {
+          "Maestro": 2883
+        },
+        "Arbitrum": {
+          "Maestro": 0
+        },
+        "Solana": {
+          "Maestro": 39609
+        },
+        "Base": {
+          "Maestro": 0
+        }
+      }
+    ],
+    [
+      1754352000,
+      {
+        "Ethereum": {
+          "Maestro": 9815
+        },
+        "BSC": {
+          "Maestro": 5969
+        },
+        "Arbitrum": {
+          "Maestro": 0
+        },
+        "Solana": {
+          "Maestro": 49572
+        },
+        "Base": {
+          "Maestro": 0
+        }
+      }
+    ],
+    [
+      1754438400,
+      {
+        "Ethereum": {
+          "Maestro": 18048
+        },
+        "BSC": {
+          "Maestro": 0
+        },
+        "Arbitrum": {
+          "Maestro": 0
+        },
+        "Solana": {
+          "Maestro": 42666
+        },
+        "Base": {
+          "Maestro": 0
+        }
+      }
+    ],
+    [
+      1754524800,
+      {
+        "Arbitrum": {
+          "Maestro": 0
+        },
+        "Ethereum": {
+          "Maestro": 20080
+        },
+        "BSC": {
+          "Maestro": 4806
+        },
+        "Base": {
+          "Maestro": 0
+        },
+        "Solana": {
+          "Maestro": 55657
+        }
+      }
+    ],
+    [
+      1754611200,
+      {
+        "Arbitrum": {
+          "Maestro": 0
+        },
+        "Solana": {
+          "Maestro": 42893
+        },
+        "Ethereum": {
+          "Maestro": 16762
+        },
+        "Base": {
+          "Maestro": 0
+        },
+        "BSC": {
+          "Maestro": 4937
+        }
+      }
+    ],
+    [
+      1754697600,
+      {
+        "Solana": {
+          "Maestro": 37852
+        },
+        "Arbitrum": {
+          "Maestro": 0
+        },
+        "Base": {
+          "Maestro": 0
+        },
+        "Ethereum": {
+          "Maestro": 17415
+        },
+        "BSC": {
+          "Maestro": 3914
+        }
+      }
+    ],
+    [
+      1754784000,
+      {
+        "Arbitrum": {
+          "Maestro": 0
+        },
+        "Ethereum": {
+          "Maestro": 17214
+        },
+        "Base": {
+          "Maestro": 0
+        },
+        "BSC": {
+          "Maestro": 2317
+        },
+        "Solana": {
+          "Maestro": 40196
+        }
+      }
+    ],
+    [
+      1754870400,
+      {
+        "Solana": {
+          "Maestro": 46006
+        },
+        "Arbitrum": {
+          "Maestro": 0
+        },
+        "Base": {
+          "Maestro": 0
+        },
+        "Ethereum": {
+          "Maestro": 35855
+        },
+        "BSC": {
+          "Maestro": 2531
+        }
+      }
+    ],
+    [
+      1754956800,
+      {
+        "Solana": {
+          "Maestro": 59809
+        },
+        "Arbitrum": {
+          "Maestro": 0
+        },
+        "Base": {
+          "Maestro": 0
+        },
+        "Ethereum": {
+          "Maestro": 19050
+        },
+        "BSC": {
+          "Maestro": 1515
+        }
+      }
     ]
   ],
-  "change_1d": 14.78
+  "change_1d": -4.76
 }

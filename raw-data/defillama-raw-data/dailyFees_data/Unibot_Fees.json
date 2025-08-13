@@ -17,15 +17,16 @@
   ],
   "module": "unibot",
   "twitter": "TeamUnibot",
-  "defillamaId": "3106",
-  "displayName": "Unibot",
-  "methodologyURL": "https://github.com/DefiLlama/dimension-adapters/blob/master/fees/unibot.ts",
   "methodology": {
     "Fees": "All trading fees paid by users.",
     "Revenue": "All trading fees paid by users.",
     "HoldersRevenue": "Fees distributed to token holders",
     "ProtocolRevenue": "All trading fees paid by users."
   },
+  "misrepresentedTokens": false,
+  "defillamaId": "3106",
+  "displayName": "Unibot",
+  "methodologyURL": "https://github.com/DefiLlama/dimension-adapters/blob/master/fees/unibot.ts",
   "forkedFrom": null,
   "audit_links": null,
   "versionKey": null,
@@ -34,14 +35,15 @@
   "treasury": null,
   "parentProtocol": null,
   "previousNames": null,
-  "latestFetchIsOk": true,
+  "hallmarks": null,
+  "defaultChartView": null,
   "slug": "unibot",
   "protocolType": "protocol",
-  "total24h": 1555,
-  "total48hto24h": 3566,
-  "total7d": 8042,
-  "total30d": 35606,
-  "totalAllTime": 7394714,
+  "total24h": 924,
+  "total48hto24h": 1148,
+  "total7d": 6608,
+  "total30d": 31266,
+  "totalAllTime": 7406573,
   "totalDataChart": [
     [
       1685059200,
@@ -3230,6 +3232,58 @@
     [
       1753833600,
       1555
+    ],
+    [
+      1753920000,
+      1457
+    ],
+    [
+      1754006400,
+      832
+    ],
+    [
+      1754092800,
+      455
+    ],
+    [
+      1754179200,
+      963
+    ],
+    [
+      1754265600,
+      726
+    ],
+    [
+      1754352000,
+      818
+    ],
+    [
+      1754438400,
+      652
+    ],
+    [
+      1754524800,
+      691
+    ],
+    [
+      1754611200,
+      641
+    ],
+    [
+      1754697600,
+      1204
+    ],
+    [
+      1754784000,
+      1348
+    ],
+    [
+      1754870400,
+      1148
+    ],
+    [
+      1754956800,
+      924
     ]
   ],
   "totalDataChartBreakdown": [
@@ -9608,7 +9662,111 @@
           "Unibot": 1555
         }
       }
+    ],
+    [
+      1753920000,
+      {
+        "Ethereum": {
+          "Unibot": 1457
+        }
+      }
+    ],
+    [
+      1754006400,
+      {
+        "Ethereum": {
+          "Unibot": 832
+        }
+      }
+    ],
+    [
+      1754092800,
+      {
+        "Ethereum": {
+          "Unibot": 455
+        }
+      }
+    ],
+    [
+      1754179200,
+      {
+        "Ethereum": {
+          "Unibot": 963
+        }
+      }
+    ],
+    [
+      1754265600,
+      {
+        "Ethereum": {
+          "Unibot": 726
+        }
+      }
+    ],
+    [
+      1754352000,
+      {
+        "Ethereum": {
+          "Unibot": 818
+        }
+      }
+    ],
+    [
+      1754438400,
+      {
+        "Ethereum": {
+          "Unibot": 652
+        }
+      }
+    ],
+    [
+      1754524800,
+      {
+        "Ethereum": {
+          "Unibot": 691
+        }
+      }
+    ],
+    [
+      1754611200,
+      {
+        "Ethereum": {
+          "Unibot": 641
+        }
+      }
+    ],
+    [
+      1754697600,
+      {
+        "Ethereum": {
+          "Unibot": 1204
+        }
+      }
+    ],
+    [
+      1754784000,
+      {
+        "Ethereum": {
+          "Unibot": 1348
+        }
+      }
+    ],
+    [
+      1754870400,
+      {
+        "Ethereum": {
+          "Unibot": 1148
+        }
+      }
+    ],
+    [
+      1754956800,
+      {
+        "Ethereum": {
+          "Unibot": 924
+        }
+      }
     ]
   ],
-  "change_1d": -56.39
+  "change_1d": -19.51
 }

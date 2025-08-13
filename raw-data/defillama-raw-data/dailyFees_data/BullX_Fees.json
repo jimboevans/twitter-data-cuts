@@ -18,13 +18,14 @@
   "module": "bullx",
   "twitter": "bullx_io",
   "forkedFrom": [],
-  "defillamaId": "5407",
-  "displayName": "BullX",
-  "methodologyURL": "https://github.com/DefiLlama/dimension-adapters/blob/master/fees/bullx.ts",
   "methodology": {
     "Fees": "All trading fees paid by users while using BullX bot.",
     "Revenue": "Trading fees are collected by BullX protocol."
   },
+  "misrepresentedTokens": false,
+  "defillamaId": "5407",
+  "displayName": "BullX",
+  "methodologyURL": "https://github.com/DefiLlama/dimension-adapters/blob/master/fees/bullx.ts",
   "audit_links": null,
   "versionKey": null,
   "github": null,
@@ -32,14 +33,15 @@
   "treasury": null,
   "parentProtocol": null,
   "previousNames": null,
-  "latestFetchIsOk": true,
+  "hallmarks": null,
+  "defaultChartView": null,
   "slug": "bullx",
   "protocolType": "protocol",
-  "total24h": 44505,
-  "total48hto24h": 53273,
-  "total7d": 263860,
-  "total30d": 1562068,
-  "totalAllTime": 199216084,
+  "total24h": 75159,
+  "total48hto24h": 45953,
+  "total7d": 357857,
+  "total30d": 1450551,
+  "totalAllTime": 199782700,
   "totalDataChart": [
     [
       1712188800,
@@ -1872,6 +1874,58 @@
     [
       1753833600,
       44505
+    ],
+    [
+      1753920000,
+      42713
+    ],
+    [
+      1754006400,
+      32940
+    ],
+    [
+      1754092800,
+      25107
+    ],
+    [
+      1754179200,
+      32369
+    ],
+    [
+      1754265600,
+      26467
+    ],
+    [
+      1754352000,
+      49163
+    ],
+    [
+      1754438400,
+      54727
+    ],
+    [
+      1754524800,
+      56598
+    ],
+    [
+      1754611200,
+      41627
+    ],
+    [
+      1754697600,
+      46298
+    ],
+    [
+      1754784000,
+      37495
+    ],
+    [
+      1754870400,
+      45953
+    ],
+    [
+      1754956800,
+      75159
     ]
   ],
   "totalDataChartBreakdown": [
@@ -5538,7 +5592,111 @@
           "BullX": 44505
         }
       }
+    ],
+    [
+      1753920000,
+      {
+        "Solana": {
+          "BullX": 42713
+        }
+      }
+    ],
+    [
+      1754006400,
+      {
+        "Solana": {
+          "BullX": 32940
+        }
+      }
+    ],
+    [
+      1754092800,
+      {
+        "Solana": {
+          "BullX": 25107
+        }
+      }
+    ],
+    [
+      1754179200,
+      {
+        "Solana": {
+          "BullX": 32369
+        }
+      }
+    ],
+    [
+      1754265600,
+      {
+        "Solana": {
+          "BullX": 26467
+        }
+      }
+    ],
+    [
+      1754352000,
+      {
+        "Solana": {
+          "BullX": 49163
+        }
+      }
+    ],
+    [
+      1754438400,
+      {
+        "Solana": {
+          "BullX": 54727
+        }
+      }
+    ],
+    [
+      1754524800,
+      {
+        "Solana": {
+          "BullX": 56598
+        }
+      }
+    ],
+    [
+      1754611200,
+      {
+        "Solana": {
+          "BullX": 41627
+        }
+      }
+    ],
+    [
+      1754697600,
+      {
+        "Solana": {
+          "BullX": 46298
+        }
+      }
+    ],
+    [
+      1754784000,
+      {
+        "Solana": {
+          "BullX": 37495
+        }
+      }
+    ],
+    [
+      1754870400,
+      {
+        "Solana": {
+          "BullX": 45953
+        }
+      }
+    ],
+    [
+      1754956800,
+      {
+        "Solana": {
+          "BullX": 75159
+        }
+      }
     ]
   ],
-  "change_1d": -16.46
+  "change_1d": 63.56
 }

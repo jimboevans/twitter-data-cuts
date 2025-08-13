@@ -20,28 +20,30 @@
   "forkedFrom": [],
   "audit_links": [],
   "listedAt": 1709494263,
-  "defillamaId": "4227",
-  "displayName": "BONKbot",
-  "methodologyURL": "https://github.com/DefiLlama/dimension-adapters/blob/master/fees/bonk-bot",
   "methodology": {
     "Fees": "All trading fees paid by users while using bot.",
     "Revenue": "Trading fees are collected by Bonk Bot protocol.",
     "ProtocolRevenue": "Trading fees are collected by Bonk Bot protocol."
   },
+  "misrepresentedTokens": false,
+  "defillamaId": "4227",
+  "displayName": "BONKbot",
+  "methodologyURL": "https://github.com/DefiLlama/dimension-adapters/blob/master/fees/bonk-bot",
   "versionKey": null,
   "github": null,
   "governanceID": null,
   "treasury": null,
   "parentProtocol": null,
   "previousNames": null,
-  "latestFetchIsOk": true,
+  "hallmarks": null,
+  "defaultChartView": null,
   "slug": "bonkbot",
   "protocolType": "protocol",
-  "total24h": 26756,
-  "total48hto24h": 32032,
-  "total7d": 335646,
-  "total30d": 1187792,
-  "totalAllTime": 89261265,
+  "total24h": 29714,
+  "total48hto24h": 30758,
+  "total7d": 164384,
+  "total30d": 1011096,
+  "totalAllTime": 89494574,
   "totalDataChart": [
     [
       1692748800,
@@ -2544,10 +2546,6 @@
       52410
     ],
     [
-      1746748800,
-      44305
-    ],
-    [
       1746835200,
       45270
     ],
@@ -2874,6 +2872,58 @@
     [
       1753833600,
       26756
+    ],
+    [
+      1753920000,
+      18100
+    ],
+    [
+      1754006400,
+      19474
+    ],
+    [
+      1754092800,
+      15761
+    ],
+    [
+      1754179200,
+      13211
+    ],
+    [
+      1754265600,
+      14453
+    ],
+    [
+      1754352000,
+      32231
+    ],
+    [
+      1754438400,
+      15992
+    ],
+    [
+      1754524800,
+      21876
+    ],
+    [
+      1754611200,
+      26249
+    ],
+    [
+      1754697600,
+      17047
+    ],
+    [
+      1754784000,
+      22748
+    ],
+    [
+      1754870400,
+      30758
+    ],
+    [
+      1754956800,
+      29714
     ]
   ],
   "totalDataChartBreakdown": [
@@ -7878,14 +7928,6 @@
       }
     ],
     [
-      1746748800,
-      {
-        "Solana": {
-          "BONKbot": 44305
-        }
-      }
-    ],
-    [
       1746835200,
       {
         "Solana": {
@@ -8540,7 +8582,111 @@
           "BONKbot": 26756
         }
       }
+    ],
+    [
+      1753920000,
+      {
+        "Solana": {
+          "BONKbot": 18100
+        }
+      }
+    ],
+    [
+      1754006400,
+      {
+        "Solana": {
+          "BONKbot": 19474
+        }
+      }
+    ],
+    [
+      1754092800,
+      {
+        "Solana": {
+          "BONKbot": 15761
+        }
+      }
+    ],
+    [
+      1754179200,
+      {
+        "Solana": {
+          "BONKbot": 13211
+        }
+      }
+    ],
+    [
+      1754265600,
+      {
+        "Solana": {
+          "BONKbot": 14453
+        }
+      }
+    ],
+    [
+      1754352000,
+      {
+        "Solana": {
+          "BONKbot": 32231
+        }
+      }
+    ],
+    [
+      1754438400,
+      {
+        "Solana": {
+          "BONKbot": 15992
+        }
+      }
+    ],
+    [
+      1754524800,
+      {
+        "Solana": {
+          "BONKbot": 21876
+        }
+      }
+    ],
+    [
+      1754611200,
+      {
+        "Solana": {
+          "BONKbot": 26249
+        }
+      }
+    ],
+    [
+      1754697600,
+      {
+        "Solana": {
+          "BONKbot": 17047
+        }
+      }
+    ],
+    [
+      1754784000,
+      {
+        "Solana": {
+          "BONKbot": 22748
+        }
+      }
+    ],
+    [
+      1754870400,
+      {
+        "Solana": {
+          "BONKbot": 30758
+        }
+      }
+    ],
+    [
+      1754956800,
+      {
+        "Solana": {
+          "BONKbot": 29714
+        }
+      }
     ]
   ],
-  "change_1d": -16.47
+  "change_1d": -3.39
 }

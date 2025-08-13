@@ -22,9 +22,6 @@
   "twitter": "HyperSwapX",
   "parentProtocol": "parent#hyperswap",
   "listedAt": 1740357237,
-  "defillamaId": "5837",
-  "displayName": "HyperSwap V3",
-  "methodologyURL": "https://github.com/DefiLlama/dimension-adapters/blob/master/fees/hyperswap-v3.ts",
   "methodology": {
     "UserFees": "Total swap fees paid by users.",
     "Fees": "Total swap fees paid by users.",
@@ -33,6 +30,10 @@
     "HoldersRevenue": "32% of fees used for buy-back and burn.",
     "SupplySideRevenue": "60% of fees distributed to LPs."
   },
+  "misrepresentedTokens": false,
+  "defillamaId": "5837",
+  "displayName": "HyperSwap V3",
+  "methodologyURL": "https://github.com/DefiLlama/dimension-adapters/blob/master/fees/hyperswap-v3.ts",
   "forkedFrom": null,
   "audit_links": null,
   "versionKey": null,
@@ -40,7 +41,8 @@
   "governanceID": null,
   "treasury": null,
   "previousNames": null,
-  "latestFetchIsOk": true,
+  "hallmarks": null,
+  "defaultChartView": null,
   "slug": "hyperswap-v3",
   "protocolType": "protocol",
   "linkedProtocols": [
@@ -48,11 +50,11 @@
     "HyperSwap V2",
     "HyperSwap V3"
   ],
-  "total24h": 109487,
-  "total48hto24h": 218512,
-  "total7d": 1079711,
-  "total30d": 4289356,
-  "totalAllTime": 15652029,
+  "total24h": 38571,
+  "total48hto24h": 80812,
+  "total7d": 707562,
+  "total30d": 4369700,
+  "totalAllTime": 17168601,
   "totalDataChart": [
     [
       1739836800,
@@ -708,7 +710,59 @@
     ],
     [
       1753920000,
-      109487
+      159780
+    ],
+    [
+      1754006400,
+      231354
+    ],
+    [
+      1754092800,
+      116307
+    ],
+    [
+      1754179200,
+      90324
+    ],
+    [
+      1754265600,
+      124130
+    ],
+    [
+      1754352000,
+      158031
+    ],
+    [
+      1754438400,
+      96642
+    ],
+    [
+      1754524800,
+      75767
+    ],
+    [
+      1754611200,
+      108439
+    ],
+    [
+      1754697600,
+      123863
+    ],
+    [
+      1754784000,
+      73472
+    ],
+    [
+      1754870400,
+      80812
+    ],
+    [
+      1754956800,
+      148567
+    ],
+    [
+      1755043200,
+      38571
     ]
   ],
   "totalDataChartBreakdown": [
@@ -2020,10 +2074,114 @@
       1753920000,
       {
         "Hyperliquid L1": {
-          "HyperSwap V3": 109487
+          "HyperSwap V3": 159780
+        }
+      }
+    ],
+    [
+      1754006400,
+      {
+        "Hyperliquid L1": {
+          "HyperSwap V3": 231354
+        }
+      }
+    ],
+    [
+      1754092800,
+      {
+        "Hyperliquid L1": {
+          "HyperSwap V3": 116307
+        }
+      }
+    ],
+    [
+      1754179200,
+      {
+        "Hyperliquid L1": {
+          "HyperSwap V3": 90324
+        }
+      }
+    ],
+    [
+      1754265600,
+      {
+        "Hyperliquid L1": {
+          "HyperSwap V3": 124130
+        }
+      }
+    ],
+    [
+      1754352000,
+      {
+        "Hyperliquid L1": {
+          "HyperSwap V3": 158031
+        }
+      }
+    ],
+    [
+      1754438400,
+      {
+        "Hyperliquid L1": {
+          "HyperSwap V3": 96642
+        }
+      }
+    ],
+    [
+      1754524800,
+      {
+        "Hyperliquid L1": {
+          "HyperSwap V3": 75767
+        }
+      }
+    ],
+    [
+      1754611200,
+      {
+        "Hyperliquid L1": {
+          "HyperSwap V3": 108439
+        }
+      }
+    ],
+    [
+      1754697600,
+      {
+        "Hyperliquid L1": {
+          "HyperSwap V3": 123863
+        }
+      }
+    ],
+    [
+      1754784000,
+      {
+        "Hyperliquid L1": {
+          "HyperSwap V3": 73472
+        }
+      }
+    ],
+    [
+      1754870400,
+      {
+        "Hyperliquid L1": {
+          "HyperSwap V3": 80812
+        }
+      }
+    ],
+    [
+      1754956800,
+      {
+        "Hyperliquid L1": {
+          "HyperSwap V3": 148567
+        }
+      }
+    ],
+    [
+      1755043200,
+      {
+        "Hyperliquid L1": {
+          "HyperSwap V3": 38571
         }
       }
     ]
   ],
-  "change_1d": -49.89
+  "change_1d": -52.27
 }

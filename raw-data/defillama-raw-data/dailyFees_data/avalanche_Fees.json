@@ -37,11 +37,11 @@
   "defaultChartView": null,
   "slug": "avalanche",
   "protocolType": "chain",
-  "total24h": 18739,
-  "total48hto24h": 14684,
-  "total7d": 120328,
-  "total30d": 710778,
-  "totalAllTime": 85960214,
+  "total24h": 25827,
+  "total48hto24h": 19643,
+  "total7d": 128726,
+  "total30d": 727006,
+  "totalAllTime": 85991315,
   "totalDataChart": [
     [
       1667865600,
@@ -4077,7 +4077,11 @@
     ],
     [
       1754956800,
-      18739
+      24013
+    ],
+    [
+      1755043200,
+      25827
     ]
   ],
   "totalDataChartBreakdown": [
@@ -12149,10 +12153,18 @@
       1754956800,
       {
         "Avalanche": {
-          "Avalanche": 18739
+          "Avalanche": 24013
+        }
+      }
+    ],
+    [
+      1755043200,
+      {
+        "Avalanche": {
+          "Avalanche": 25827
         }
       }
     ]
   ],
-  "change_1d": 27.62
+  "change_1d": 31.48
 }

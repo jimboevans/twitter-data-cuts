@@ -32,14 +32,15 @@
   "treasury": null,
   "parentProtocol": null,
   "previousNames": null,
-  "latestFetchIsOk": true,
+  "hallmarks": null,
+  "defaultChartView": null,
   "slug": "bitlayer",
   "protocolType": "chain",
-  "total24h": 35811,
-  "total48hto24h": 36165,
-  "total7d": 280976,
-  "total30d": 1588289,
-  "totalAllTime": 21368504,
+  "total24h": 32894,
+  "total48hto24h": 32131,
+  "total7d": 223321,
+  "total30d": 1325008,
+  "totalAllTime": 21812329,
   "totalDataChart": [
     [
       1713225600,
@@ -1924,6 +1925,58 @@
     [
       1753833600,
       35811
+    ],
+    [
+      1753920000,
+      45111
+    ],
+    [
+      1754006400,
+      44662
+    ],
+    [
+      1754092800,
+      35158
+    ],
+    [
+      1754179200,
+      31797
+    ],
+    [
+      1754265600,
+      32572
+    ],
+    [
+      1754352000,
+      31204
+    ],
+    [
+      1754438400,
+      31804
+    ],
+    [
+      1754524800,
+      31942
+    ],
+    [
+      1754611200,
+      32432
+    ],
+    [
+      1754697600,
+      30723
+    ],
+    [
+      1754784000,
+      31395
+    ],
+    [
+      1754870400,
+      32131
+    ],
+    [
+      1754956800,
+      32894
     ]
   ],
   "totalDataChartBreakdown": [
@@ -5694,7 +5747,111 @@
           "Bitlayer": 35811
         }
       }
+    ],
+    [
+      1753920000,
+      {
+        "Bitlayer": {
+          "Bitlayer": 45111
+        }
+      }
+    ],
+    [
+      1754006400,
+      {
+        "Bitlayer": {
+          "Bitlayer": 44662
+        }
+      }
+    ],
+    [
+      1754092800,
+      {
+        "Bitlayer": {
+          "Bitlayer": 35158
+        }
+      }
+    ],
+    [
+      1754179200,
+      {
+        "Bitlayer": {
+          "Bitlayer": 31797
+        }
+      }
+    ],
+    [
+      1754265600,
+      {
+        "Bitlayer": {
+          "Bitlayer": 32572
+        }
+      }
+    ],
+    [
+      1754352000,
+      {
+        "Bitlayer": {
+          "Bitlayer": 31204
+        }
+      }
+    ],
+    [
+      1754438400,
+      {
+        "Bitlayer": {
+          "Bitlayer": 31804
+        }
+      }
+    ],
+    [
+      1754524800,
+      {
+        "Bitlayer": {
+          "Bitlayer": 31942
+        }
+      }
+    ],
+    [
+      1754611200,
+      {
+        "Bitlayer": {
+          "Bitlayer": 32432
+        }
+      }
+    ],
+    [
+      1754697600,
+      {
+        "Bitlayer": {
+          "Bitlayer": 30723
+        }
+      }
+    ],
+    [
+      1754784000,
+      {
+        "Bitlayer": {
+          "Bitlayer": 31395
+        }
+      }
+    ],
+    [
+      1754870400,
+      {
+        "Bitlayer": {
+          "Bitlayer": 32131
+        }
+      }
+    ],
+    [
+      1754956800,
+      {
+        "Bitlayer": {
+          "Bitlayer": 32894
+        }
+      }
     ]
   ],
-  "change_1d": -0.98
+  "change_1d": 2.37
 }

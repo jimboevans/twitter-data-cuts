@@ -33,14 +33,15 @@
   "treasury": null,
   "parentProtocol": null,
   "previousNames": null,
-  "latestFetchIsOk": true,
+  "hallmarks": null,
+  "defaultChartView": null,
   "slug": "avalanche",
   "protocolType": "chain",
-  "total24h": 23100,
-  "total48hto24h": 20773,
-  "total7d": 134819,
-  "total30d": 591652,
-  "totalAllTime": 85725769,
+  "total24h": 25827,
+  "total48hto24h": 19643,
+  "total7d": 128726,
+  "total30d": 727006,
+  "totalAllTime": 85991315,
   "totalDataChart": [
     [
       1667865600,
@@ -3707,6 +3708,10 @@
       23218
     ],
     [
+      1747008000,
+      25844
+    ],
+    [
       1747094400,
       12009
     ],
@@ -4024,7 +4029,59 @@
     ],
     [
       1753920000,
-      23100
+      19124
+    ],
+    [
+      1754006400,
+      31948
+    ],
+    [
+      1754092800,
+      14369
+    ],
+    [
+      1754179200,
+      9122
+    ],
+    [
+      1754265600,
+      18071
+    ],
+    [
+      1754352000,
+      15615
+    ],
+    [
+      1754438400,
+      15180
+    ],
+    [
+      1754524800,
+      13933
+    ],
+    [
+      1754611200,
+      24420
+    ],
+    [
+      1754697600,
+      16853
+    ],
+    [
+      1754784000,
+      14684
+    ],
+    [
+      1754870400,
+      19643
+    ],
+    [
+      1754956800,
+      24013
+    ],
+    [
+      1755043200,
+      25827
     ]
   ],
   "totalDataChartBreakdown": [
@@ -11357,6 +11414,14 @@
       }
     ],
     [
+      1747008000,
+      {
+        "Avalanche": {
+          "Avalanche": 25844
+        }
+      }
+    ],
+    [
       1747094400,
       {
         "Avalanche": {
@@ -11992,10 +12057,114 @@
       1753920000,
       {
         "Avalanche": {
-          "Avalanche": 23100
+          "Avalanche": 19124
+        }
+      }
+    ],
+    [
+      1754006400,
+      {
+        "Avalanche": {
+          "Avalanche": 31948
+        }
+      }
+    ],
+    [
+      1754092800,
+      {
+        "Avalanche": {
+          "Avalanche": 14369
+        }
+      }
+    ],
+    [
+      1754179200,
+      {
+        "Avalanche": {
+          "Avalanche": 9122
+        }
+      }
+    ],
+    [
+      1754265600,
+      {
+        "Avalanche": {
+          "Avalanche": 18071
+        }
+      }
+    ],
+    [
+      1754352000,
+      {
+        "Avalanche": {
+          "Avalanche": 15615
+        }
+      }
+    ],
+    [
+      1754438400,
+      {
+        "Avalanche": {
+          "Avalanche": 15180
+        }
+      }
+    ],
+    [
+      1754524800,
+      {
+        "Avalanche": {
+          "Avalanche": 13933
+        }
+      }
+    ],
+    [
+      1754611200,
+      {
+        "Avalanche": {
+          "Avalanche": 24420
+        }
+      }
+    ],
+    [
+      1754697600,
+      {
+        "Avalanche": {
+          "Avalanche": 16853
+        }
+      }
+    ],
+    [
+      1754784000,
+      {
+        "Avalanche": {
+          "Avalanche": 14684
+        }
+      }
+    ],
+    [
+      1754870400,
+      {
+        "Avalanche": {
+          "Avalanche": 19643
+        }
+      }
+    ],
+    [
+      1754956800,
+      {
+        "Avalanche": {
+          "Avalanche": 24013
+        }
+      }
+    ],
+    [
+      1755043200,
+      {
+        "Avalanche": {
+          "Avalanche": 25827
         }
       }
     ]
   ],
-  "change_1d": 11.2
+  "change_1d": 31.48
 }

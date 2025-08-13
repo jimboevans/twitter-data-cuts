@@ -56,11 +56,11 @@
     "Yearn Ether",
     "Yearn Curating"
   ],
-  "total24h": 89486,
-  "total48hto24h": 89082,
-  "total7d": 664648,
-  "total30d": 12425021,
-  "totalAllTime": 27561944,
+  "total24h": 92215,
+  "total48hto24h": 84365,
+  "total7d": 561478,
+  "total30d": 12470804,
+  "totalAllTime": 27713782,
   "totalDataChart": [
     [
       1737590400,
@@ -373,6 +373,10 @@
     [
       1744243200,
       34773
+    ],
+    [
+      1744329600,
+      54921
     ],
     [
       1744416000,
@@ -864,7 +868,11 @@
     ],
     [
       1754956800,
-      89486
+      94188
+    ],
+    [
+      1755043200,
+      92215
     ]
   ],
   "totalDataChartBreakdown": [
@@ -2425,6 +2433,26 @@
         },
         "Base": {
           "Yearn Finance": 296
+        }
+      }
+    ],
+    [
+      1744329600,
+      {
+        "Ethereum": {
+          "Yearn Finance": 54476
+        },
+        "Polygon": {
+          "Yearn Finance": 125
+        },
+        "OP Mainnet": {
+          "Yearn Finance": 1
+        },
+        "Arbitrum": {
+          "Yearn Finance": 0
+        },
+        "Base": {
+          "Yearn Finance": 319
         }
       }
     ],
@@ -4872,10 +4900,7 @@
       1754956800,
       {
         "Polygon": {
-          "Yearn Finance": 58
-        },
-        "Ethereum": {
-          "Yearn Finance": 88751
+          "Yearn Finance": 71
         },
         "OP Mainnet": {
           "Yearn Finance": 0
@@ -4883,11 +4908,34 @@
         "Arbitrum": {
           "Yearn Finance": 0
         },
+        "Ethereum": {
+          "Yearn Finance": 93359
+        },
         "Base": {
-          "Yearn Finance": 677
+          "Yearn Finance": 758
+        }
+      }
+    ],
+    [
+      1755043200,
+      {
+        "Polygon": {
+          "Yearn Finance": 85
+        },
+        "OP Mainnet": {
+          "Yearn Finance": 0
+        },
+        "Ethereum": {
+          "Yearn Finance": 91416
+        },
+        "Arbitrum": {
+          "Yearn Finance": 0
+        },
+        "Base": {
+          "Yearn Finance": 714
         }
       }
     ]
   ],
-  "change_1d": 0.45
+  "change_1d": 9.3
 }

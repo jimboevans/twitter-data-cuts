@@ -20,9 +20,6 @@
   "forkedFrom": [],
   "parentProtocol": "parent#bluefin",
   "listedAt": 1732722519,
-  "defillamaId": "5427",
-  "displayName": "Bluefin Spot",
-  "methodologyURL": "https://github.com/DefiLlama/dimension-adapters/blob/master/fees/bluefin-amm.ts",
   "methodology": {
     "UserFees": "Swap fees paid by users",
     "Fees": "Swap fees paid by users",
@@ -31,13 +28,27 @@
     "HoldersRevenue": "Money going to governance token holders",
     "SupplySideRevenue": "Liquidity providers revenue"
   },
+  "misrepresentedTokens": false,
+  "hallmarks": [
+    [
+      1731974400,
+      "Spot Launch"
+    ],
+    [
+      1733875200,
+      "BLUE Token"
+    ]
+  ],
+  "defillamaId": "5427",
+  "displayName": "Bluefin Spot",
+  "methodologyURL": "https://github.com/DefiLlama/dimension-adapters/blob/master/fees/bluefin-amm.ts",
   "audit_links": null,
   "versionKey": null,
   "github": null,
   "governanceID": null,
   "treasury": null,
   "previousNames": null,
-  "latestFetchIsOk": true,
+  "defaultChartView": null,
   "slug": "bluefin-spot",
   "protocolType": "protocol",
   "linkedProtocols": [
@@ -47,11 +58,11 @@
     "AlphaLend",
     "Bluefin Pro"
   ],
-  "total24h": 80519,
-  "total48hto24h": 138010,
-  "total7d": 984612,
-  "total30d": 3180262,
-  "totalAllTime": 17953120,
+  "total24h": 108730,
+  "total48hto24h": 86634,
+  "total7d": 549031,
+  "total30d": 3404636,
+  "totalAllTime": 19100902,
   "totalDataChart": [
     [
       1732665600,
@@ -1039,7 +1050,59 @@
     ],
     [
       1753920000,
-      80519
+      92684
+    ],
+    [
+      1754006400,
+      155365
+    ],
+    [
+      1754092800,
+      99740
+    ],
+    [
+      1754179200,
+      50496
+    ],
+    [
+      1754265600,
+      91483
+    ],
+    [
+      1754352000,
+      80772
+    ],
+    [
+      1754438400,
+      73506
+    ],
+    [
+      1754524800,
+      74259
+    ],
+    [
+      1754611200,
+      74708
+    ],
+    [
+      1754697600,
+      69371
+    ],
+    [
+      1754784000,
+      80158
+    ],
+    [
+      1754870400,
+      86634
+    ],
+    [
+      1754956800,
+      90395
+    ],
+    [
+      1755043200,
+      108730
     ]
   ],
   "totalDataChartBreakdown": [
@@ -3015,10 +3078,114 @@
       1753920000,
       {
         "Sui": {
-          "Bluefin Spot": 80519
+          "Bluefin Spot": 92684
+        }
+      }
+    ],
+    [
+      1754006400,
+      {
+        "Sui": {
+          "Bluefin Spot": 155365
+        }
+      }
+    ],
+    [
+      1754092800,
+      {
+        "Sui": {
+          "Bluefin Spot": 99740
+        }
+      }
+    ],
+    [
+      1754179200,
+      {
+        "Sui": {
+          "Bluefin Spot": 50496
+        }
+      }
+    ],
+    [
+      1754265600,
+      {
+        "Sui": {
+          "Bluefin Spot": 91483
+        }
+      }
+    ],
+    [
+      1754352000,
+      {
+        "Sui": {
+          "Bluefin Spot": 80772
+        }
+      }
+    ],
+    [
+      1754438400,
+      {
+        "Sui": {
+          "Bluefin Spot": 73506
+        }
+      }
+    ],
+    [
+      1754524800,
+      {
+        "Sui": {
+          "Bluefin Spot": 74259
+        }
+      }
+    ],
+    [
+      1754611200,
+      {
+        "Sui": {
+          "Bluefin Spot": 74708
+        }
+      }
+    ],
+    [
+      1754697600,
+      {
+        "Sui": {
+          "Bluefin Spot": 69371
+        }
+      }
+    ],
+    [
+      1754784000,
+      {
+        "Sui": {
+          "Bluefin Spot": 80158
+        }
+      }
+    ],
+    [
+      1754870400,
+      {
+        "Sui": {
+          "Bluefin Spot": 86634
+        }
+      }
+    ],
+    [
+      1754956800,
+      {
+        "Sui": {
+          "Bluefin Spot": 90395
+        }
+      }
+    ],
+    [
+      1755043200,
+      {
+        "Sui": {
+          "Bluefin Spot": 108730
         }
       }
     ]
   ],
-  "change_1d": -41.66
+  "change_1d": 25.5
 }

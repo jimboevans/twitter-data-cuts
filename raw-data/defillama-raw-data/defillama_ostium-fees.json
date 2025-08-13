@@ -29,9 +29,6 @@
     "0xOstium"
   ],
   "listedAt": 1722042021,
-  "defillamaId": "4932",
-  "displayName": "Ostium",
-  "methodologyURL": "https://github.com/DefiLlama/dimension-adapters/blob/master/fees/ostium",
   "methodology": {
     "UserFees": "Fees paid by users",
     "Fees": "All fees collected from trading, including opening fees, liquidation fees, oracle fees, dev fees, rollover fees",
@@ -40,19 +37,24 @@
     "HoldersRevenue": "Fees going to governance token holders",
     "SupplySideRevenue": "Supply side (MMV) revenue consists of 50% of opening fees, 100% of liquidation fees, rollover fees"
   },
+  "misrepresentedTokens": false,
+  "defillamaId": "4932",
+  "displayName": "Ostium",
+  "methodologyURL": "https://github.com/DefiLlama/dimension-adapters/blob/master/fees/ostium",
   "versionKey": null,
   "governanceID": null,
   "treasury": null,
   "parentProtocol": null,
   "previousNames": null,
-  "latestFetchIsOk": true,
+  "hallmarks": null,
+  "defaultChartView": null,
   "slug": "ostium",
   "protocolType": "protocol",
-  "total24h": 19077,
-  "total48hto24h": 90767,
-  "total7d": 600946,
-  "total30d": 1658111,
-  "totalAllTime": 6118506,
+  "total24h": 142975,
+  "total48hto24h": 97275,
+  "total7d": 500817,
+  "total30d": 1744633,
+  "totalAllTime": 6839102,
   "totalDataChart": [
     [
       1724716800,
@@ -1407,8 +1409,56 @@
       13255
     ],
     [
-      1753920000,
-      19077
+      1754006400,
+      27069
+    ],
+    [
+      1754092800,
+      7926
+    ],
+    [
+      1754179200,
+      8682
+    ],
+    [
+      1754265600,
+      12106
+    ],
+    [
+      1754352000,
+      40098
+    ],
+    [
+      1754438400,
+      78006
+    ],
+    [
+      1754524800,
+      59522
+    ],
+    [
+      1754611200,
+      40086
+    ],
+    [
+      1754697600,
+      51349
+    ],
+    [
+      1754784000,
+      71973
+    ],
+    [
+      1754870400,
+      97275
+    ],
+    [
+      1754956800,
+      102606
+    ],
+    [
+      1755043200,
+      142975
     ]
   ],
   "totalDataChartBreakdown": [
@@ -4117,13 +4167,109 @@
       }
     ],
     [
-      1753920000,
+      1754006400,
       {
         "Arbitrum": {
-          "Ostium": 19077
+          "Ostium": 27069
+        }
+      }
+    ],
+    [
+      1754092800,
+      {
+        "Arbitrum": {
+          "Ostium": 7926
+        }
+      }
+    ],
+    [
+      1754179200,
+      {
+        "Arbitrum": {
+          "Ostium": 8682
+        }
+      }
+    ],
+    [
+      1754265600,
+      {
+        "Arbitrum": {
+          "Ostium": 12106
+        }
+      }
+    ],
+    [
+      1754352000,
+      {
+        "Arbitrum": {
+          "Ostium": 40098
+        }
+      }
+    ],
+    [
+      1754438400,
+      {
+        "Arbitrum": {
+          "Ostium": 78006
+        }
+      }
+    ],
+    [
+      1754524800,
+      {
+        "Arbitrum": {
+          "Ostium": 59522
+        }
+      }
+    ],
+    [
+      1754611200,
+      {
+        "Arbitrum": {
+          "Ostium": 40086
+        }
+      }
+    ],
+    [
+      1754697600,
+      {
+        "Arbitrum": {
+          "Ostium": 51349
+        }
+      }
+    ],
+    [
+      1754784000,
+      {
+        "Arbitrum": {
+          "Ostium": 71973
+        }
+      }
+    ],
+    [
+      1754870400,
+      {
+        "Arbitrum": {
+          "Ostium": 97275
+        }
+      }
+    ],
+    [
+      1754956800,
+      {
+        "Arbitrum": {
+          "Ostium": 102606
+        }
+      }
+    ],
+    [
+      1755043200,
+      {
+        "Arbitrum": {
+          "Ostium": 142975
         }
       }
     ]
   ],
-  "change_1d": -78.98
+  "change_1d": 46.98
 }

@@ -18,14 +18,15 @@
   "forkedFrom": [],
   "module": "trade-wiz",
   "twitter": "TradeWiz_Bot",
-  "defillamaId": "5886",
-  "displayName": "TradeWiz",
-  "methodologyURL": "https://github.com/DefiLlama/dimension-adapters/blob/master/fees/trade-wiz.ts",
   "methodology": {
     "Fees": "All trading fees paid by users while using TradeWiz bot.",
     "Revenue": "Trading fees are collected by TradeWiz protocol.",
     "ProtocolRevenue": "Trading fees are collected by TradeWiz protocol."
   },
+  "misrepresentedTokens": false,
+  "defillamaId": "5886",
+  "displayName": "TradeWiz",
+  "methodologyURL": "https://github.com/DefiLlama/dimension-adapters/blob/master/fees/trade-wiz.ts",
   "audit_links": null,
   "versionKey": null,
   "github": null,
@@ -33,14 +34,15 @@
   "treasury": null,
   "parentProtocol": null,
   "previousNames": null,
-  "latestFetchIsOk": true,
+  "hallmarks": null,
+  "defaultChartView": null,
   "slug": "tradewiz",
   "protocolType": "protocol",
-  "total24h": 11300,
-  "total48hto24h": 11304,
-  "total7d": 74897,
-  "total30d": 509439,
-  "totalAllTime": 3895801,
+  "total24h": 203697,
+  "total48hto24h": 12121,
+  "total7d": 69836,
+  "total30d": 399465,
+  "totalAllTime": 4219337,
   "totalDataChart": [
     [
       1734480000,
@@ -944,7 +946,59 @@
     ],
     [
       1753920000,
-      11300
+      12007
+    ],
+    [
+      1754006400,
+      8648
+    ],
+    [
+      1754092800,
+      7260
+    ],
+    [
+      1754179200,
+      8541
+    ],
+    [
+      1754265600,
+      12425
+    ],
+    [
+      1754352000,
+      12422
+    ],
+    [
+      1754438400,
+      11387
+    ],
+    [
+      1754524800,
+      11192
+    ],
+    [
+      1754611200,
+      12043
+    ],
+    [
+      1754697600,
+      10935
+    ],
+    [
+      1754784000,
+      9599
+    ],
+    [
+      1754870400,
+      12121
+    ],
+    [
+      1754956800,
+      2559
+    ],
+    [
+      1755043200,
+      203697
     ]
   ],
   "totalDataChartBreakdown": [
@@ -2752,10 +2806,114 @@
       1753920000,
       {
         "Solana": {
-          "TradeWiz": 11300
+          "TradeWiz": 12007
+        }
+      }
+    ],
+    [
+      1754006400,
+      {
+        "Solana": {
+          "TradeWiz": 8648
+        }
+      }
+    ],
+    [
+      1754092800,
+      {
+        "Solana": {
+          "TradeWiz": 7260
+        }
+      }
+    ],
+    [
+      1754179200,
+      {
+        "Solana": {
+          "TradeWiz": 8541
+        }
+      }
+    ],
+    [
+      1754265600,
+      {
+        "Solana": {
+          "TradeWiz": 12425
+        }
+      }
+    ],
+    [
+      1754352000,
+      {
+        "Solana": {
+          "TradeWiz": 12422
+        }
+      }
+    ],
+    [
+      1754438400,
+      {
+        "Solana": {
+          "TradeWiz": 11387
+        }
+      }
+    ],
+    [
+      1754524800,
+      {
+        "Solana": {
+          "TradeWiz": 11192
+        }
+      }
+    ],
+    [
+      1754611200,
+      {
+        "Solana": {
+          "TradeWiz": 12043
+        }
+      }
+    ],
+    [
+      1754697600,
+      {
+        "Solana": {
+          "TradeWiz": 10935
+        }
+      }
+    ],
+    [
+      1754784000,
+      {
+        "Solana": {
+          "TradeWiz": 9599
+        }
+      }
+    ],
+    [
+      1754870400,
+      {
+        "Solana": {
+          "TradeWiz": 12121
+        }
+      }
+    ],
+    [
+      1754956800,
+      {
+        "Solana": {
+          "TradeWiz": 2559
+        }
+      }
+    ],
+    [
+      1755043200,
+      {
+        "Solana": {
+          "TradeWiz": 203697
         }
       }
     ]
   ],
-  "change_1d": -0.04
+  "change_1d": 1580.53
 }

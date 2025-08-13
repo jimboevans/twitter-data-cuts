@@ -19,9 +19,6 @@
   "twitter": "RaydiumProtocol",
   "openSource": false,
   "parentProtocol": "parent#raydium",
-  "defillamaId": "214",
-  "displayName": "Raydium AMM",
-  "methodologyURL": "https://github.com/DefiLlama/dimension-adapters/blob/master/fees/raydium.ts",
   "methodology": {
     "UserFees": "Total fees paid by users. Varies by pool: 0.25% for AMM, variable tiers for CLMM/CPMM.",
     "Fees": "Total trading fees collected from users across all pool types.",
@@ -30,6 +27,16 @@
     "HoldersRevenue": "Fees allocated to RAY token buybacks (12% across all pool types).",
     "SupplySideRevenue": "Fees allocated to liquidity providers (88% for AMM, 84% for CLMM/CPMM)."
   },
+  "misrepresentedTokens": true,
+  "hallmarks": [
+    [
+      1667865600,
+      "FTX collapse"
+    ]
+  ],
+  "defillamaId": "214",
+  "displayName": "Raydium AMM",
+  "methodologyURL": "https://github.com/DefiLlama/dimension-adapters/blob/master/fees/raydium.ts",
   "forkedFrom": null,
   "audit_links": null,
   "versionKey": null,
@@ -37,7 +44,7 @@
   "governanceID": null,
   "treasury": null,
   "previousNames": null,
-  "latestFetchIsOk": true,
+  "defaultChartView": null,
   "slug": "raydium-amm",
   "protocolType": "protocol",
   "linkedProtocols": [
@@ -45,11 +52,11 @@
     "Raydium AMM",
     "LaunchLab"
   ],
-  "total24h": 1542609,
-  "total48hto24h": 1740142,
-  "total7d": 11921384,
-  "total30d": 50911171,
-  "totalAllTime": 1257483640,
+  "total24h": 1042882,
+  "total48hto24h": 1030150,
+  "total7d": 7266997,
+  "total30d": 44565477,
+  "totalAllTime": 1271525457,
   "totalDataChart": [
     [
       1665964800,
@@ -4125,7 +4132,59 @@
     ],
     [
       1753920000,
-      1542609
+      1524858
+    ],
+    [
+      1754006400,
+      1174894
+    ],
+    [
+      1754092800,
+      898344
+    ],
+    [
+      1754179200,
+      1053408
+    ],
+    [
+      1754265600,
+      1253925
+    ],
+    [
+      1754352000,
+      1369118
+    ],
+    [
+      1754438400,
+      1052874
+    ],
+    [
+      1754524800,
+      1312436
+    ],
+    [
+      1754611200,
+      1016257
+    ],
+    [
+      1754697600,
+      885975
+    ],
+    [
+      1754784000,
+      850995
+    ],
+    [
+      1754870400,
+      1030150
+    ],
+    [
+      1754956800,
+      1118310
+    ],
+    [
+      1755043200,
+      1042882
     ]
   ],
   "totalDataChartBreakdown": [
@@ -12277,10 +12336,114 @@
       1753920000,
       {
         "Solana": {
-          "Raydium AMM": 1542609
+          "Raydium AMM": 1524858
+        }
+      }
+    ],
+    [
+      1754006400,
+      {
+        "Solana": {
+          "Raydium AMM": 1174894
+        }
+      }
+    ],
+    [
+      1754092800,
+      {
+        "Solana": {
+          "Raydium AMM": 898344
+        }
+      }
+    ],
+    [
+      1754179200,
+      {
+        "Solana": {
+          "Raydium AMM": 1053408
+        }
+      }
+    ],
+    [
+      1754265600,
+      {
+        "Solana": {
+          "Raydium AMM": 1253925
+        }
+      }
+    ],
+    [
+      1754352000,
+      {
+        "Solana": {
+          "Raydium AMM": 1369118
+        }
+      }
+    ],
+    [
+      1754438400,
+      {
+        "Solana": {
+          "Raydium AMM": 1052874
+        }
+      }
+    ],
+    [
+      1754524800,
+      {
+        "Solana": {
+          "Raydium AMM": 1312436
+        }
+      }
+    ],
+    [
+      1754611200,
+      {
+        "Solana": {
+          "Raydium AMM": 1016257
+        }
+      }
+    ],
+    [
+      1754697600,
+      {
+        "Solana": {
+          "Raydium AMM": 885975
+        }
+      }
+    ],
+    [
+      1754784000,
+      {
+        "Solana": {
+          "Raydium AMM": 850995
+        }
+      }
+    ],
+    [
+      1754870400,
+      {
+        "Solana": {
+          "Raydium AMM": 1030150
+        }
+      }
+    ],
+    [
+      1754956800,
+      {
+        "Solana": {
+          "Raydium AMM": 1118310
+        }
+      }
+    ],
+    [
+      1755043200,
+      {
+        "Solana": {
+          "Raydium AMM": 1042882
         }
       }
     ]
   ],
-  "change_1d": -11.35
+  "change_1d": 1.24
 }

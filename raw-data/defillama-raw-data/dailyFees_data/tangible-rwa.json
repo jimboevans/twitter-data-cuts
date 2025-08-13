@@ -29,20 +29,27 @@
   "parentProtocol": "parent#tangible",
   "listedAt": 1666883108,
   "category": "RWA",
-  "defillamaId": "2231",
-  "displayName": "Tangible RWA",
-  "methodologyURL": "https://github.com/DefiLlama/dimension-adapters/blob/master/fees/tangible-rwa.ts",
   "methodology": {
     "Fees": "Total yields from RWA backing assets.",
     "Revenue": "Total yields from RWA backing assets.",
     "HoldersRevenue": "No holders revenue"
   },
+  "misrepresentedTokens": true,
+  "hallmarks": [
+    [
+      1697032800,
+      "USDR Depeg"
+    ]
+  ],
+  "defillamaId": "2231",
+  "displayName": "Tangible RWA",
+  "methodologyURL": "https://github.com/DefiLlama/dimension-adapters/blob/master/fees/tangible-rwa.ts",
   "versionKey": null,
   "github": null,
   "governanceID": null,
   "treasury": null,
   "previousNames": null,
-  "latestFetchIsOk": true,
+  "defaultChartView": null,
   "slug": "tangible-rwa",
   "protocolType": "protocol",
   "linkedProtocols": [
@@ -3338,6 +3345,58 @@
     ],
     [
       1753920000,
+      0
+    ],
+    [
+      1754006400,
+      0
+    ],
+    [
+      1754092800,
+      0
+    ],
+    [
+      1754179200,
+      0
+    ],
+    [
+      1754265600,
+      0
+    ],
+    [
+      1754352000,
+      0
+    ],
+    [
+      1754438400,
+      0
+    ],
+    [
+      1754524800,
+      0
+    ],
+    [
+      1754611200,
+      0
+    ],
+    [
+      1754697600,
+      0
+    ],
+    [
+      1754784000,
+      0
+    ],
+    [
+      1754870400,
+      0
+    ],
+    [
+      1754956800,
+      0
+    ],
+    [
+      1755043200,
       0
     ]
   ],
@@ -9904,6 +9963,110 @@
     ],
     [
       1753920000,
+      {
+        "Polygon": {
+          "Tangible RWA": 0
+        }
+      }
+    ],
+    [
+      1754006400,
+      {
+        "Polygon": {
+          "Tangible RWA": 0
+        }
+      }
+    ],
+    [
+      1754092800,
+      {
+        "Polygon": {
+          "Tangible RWA": 0
+        }
+      }
+    ],
+    [
+      1754179200,
+      {
+        "Polygon": {
+          "Tangible RWA": 0
+        }
+      }
+    ],
+    [
+      1754265600,
+      {
+        "Polygon": {
+          "Tangible RWA": 0
+        }
+      }
+    ],
+    [
+      1754352000,
+      {
+        "Polygon": {
+          "Tangible RWA": 0
+        }
+      }
+    ],
+    [
+      1754438400,
+      {
+        "Polygon": {
+          "Tangible RWA": 0
+        }
+      }
+    ],
+    [
+      1754524800,
+      {
+        "Polygon": {
+          "Tangible RWA": 0
+        }
+      }
+    ],
+    [
+      1754611200,
+      {
+        "Polygon": {
+          "Tangible RWA": 0
+        }
+      }
+    ],
+    [
+      1754697600,
+      {
+        "Polygon": {
+          "Tangible RWA": 0
+        }
+      }
+    ],
+    [
+      1754784000,
+      {
+        "Polygon": {
+          "Tangible RWA": 0
+        }
+      }
+    ],
+    [
+      1754870400,
+      {
+        "Polygon": {
+          "Tangible RWA": 0
+        }
+      }
+    ],
+    [
+      1754956800,
+      {
+        "Polygon": {
+          "Tangible RWA": 0
+        }
+      }
+    ],
+    [
+      1755043200,
       {
         "Polygon": {
           "Tangible RWA": 0

@@ -18,13 +18,14 @@
   "module": "pepeboost",
   "twitter": "PepeBoost888",
   "forkedFromIds": [],
-  "defillamaId": "6327",
-  "displayName": "Pepeboost",
-  "methodologyURL": "https://github.com/DefiLlama/dimension-adapters/blob/master/fees/pepeboost",
   "methodology": {
     "Fees": "Trading fees paid by users while using PepeBoost bot.",
     "Revenue": "All fees are collected by PepeBoost protocol."
   },
+  "misrepresentedTokens": false,
+  "defillamaId": "6327",
+  "displayName": "Pepeboost",
+  "methodologyURL": "https://github.com/DefiLlama/dimension-adapters/blob/master/fees/pepeboost",
   "forkedFrom": null,
   "audit_links": null,
   "versionKey": null,
@@ -33,14 +34,15 @@
   "treasury": null,
   "parentProtocol": null,
   "previousNames": null,
-  "latestFetchIsOk": true,
+  "hallmarks": null,
+  "defaultChartView": null,
   "slug": "pepeboost",
   "protocolType": "protocol",
-  "total24h": 3814,
-  "total48hto24h": 5174,
-  "total7d": 21653,
-  "total30d": 128452,
-  "totalAllTime": 7898273,
+  "total24h": 4789,
+  "total48hto24h": 4445,
+  "total7d": 26976,
+  "total30d": 120052,
+  "totalAllTime": 7943082,
   "totalDataChart": [
     [
       1704585600,
@@ -2325,6 +2327,58 @@
     [
       1753833600,
       3814
+    ],
+    [
+      1753920000,
+      3539
+    ],
+    [
+      1754006400,
+      2127
+    ],
+    [
+      1754092800,
+      1348
+    ],
+    [
+      1754179200,
+      3288
+    ],
+    [
+      1754265600,
+      3459
+    ],
+    [
+      1754352000,
+      4072
+    ],
+    [
+      1754438400,
+      3700
+    ],
+    [
+      1754524800,
+      3951
+    ],
+    [
+      1754611200,
+      3561
+    ],
+    [
+      1754697600,
+      3313
+    ],
+    [
+      1754784000,
+      3217
+    ],
+    [
+      1754870400,
+      4445
+    ],
+    [
+      1754956800,
+      4789
     ]
   ],
   "totalDataChartBreakdown": [
@@ -6895,7 +6949,111 @@
           "Pepeboost": 3814
         }
       }
+    ],
+    [
+      1753920000,
+      {
+        "Solana": {
+          "Pepeboost": 3539
+        }
+      }
+    ],
+    [
+      1754006400,
+      {
+        "Solana": {
+          "Pepeboost": 2127
+        }
+      }
+    ],
+    [
+      1754092800,
+      {
+        "Solana": {
+          "Pepeboost": 1348
+        }
+      }
+    ],
+    [
+      1754179200,
+      {
+        "Solana": {
+          "Pepeboost": 3288
+        }
+      }
+    ],
+    [
+      1754265600,
+      {
+        "Solana": {
+          "Pepeboost": 3459
+        }
+      }
+    ],
+    [
+      1754352000,
+      {
+        "Solana": {
+          "Pepeboost": 4072
+        }
+      }
+    ],
+    [
+      1754438400,
+      {
+        "Solana": {
+          "Pepeboost": 3700
+        }
+      }
+    ],
+    [
+      1754524800,
+      {
+        "Solana": {
+          "Pepeboost": 3951
+        }
+      }
+    ],
+    [
+      1754611200,
+      {
+        "Solana": {
+          "Pepeboost": 3561
+        }
+      }
+    ],
+    [
+      1754697600,
+      {
+        "Solana": {
+          "Pepeboost": 3313
+        }
+      }
+    ],
+    [
+      1754784000,
+      {
+        "Solana": {
+          "Pepeboost": 3217
+        }
+      }
+    ],
+    [
+      1754870400,
+      {
+        "Solana": {
+          "Pepeboost": 4445
+        }
+      }
+    ],
+    [
+      1754956800,
+      {
+        "Solana": {
+          "Pepeboost": 4789
+        }
+      }
     ]
   ],
-  "change_1d": -26.29
+  "change_1d": 7.74
 }

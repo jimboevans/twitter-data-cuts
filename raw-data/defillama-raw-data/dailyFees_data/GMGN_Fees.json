@@ -18,13 +18,14 @@
   "module": "gmgnai",
   "twitter": "gmgnai",
   "forkedFrom": [],
-  "defillamaId": "5408",
-  "displayName": "GMGN",
-  "methodologyURL": "https://github.com/DefiLlama/dimension-adapters/blob/master/fees/gmgnai.ts",
   "methodology": {
     "Fees": "All trading fees paid by users while using GMGN AI bot.",
     "Revenue": "Trading fees are collected by GMGN AI protocol."
   },
+  "misrepresentedTokens": false,
+  "defillamaId": "5408",
+  "displayName": "GMGN",
+  "methodologyURL": "https://github.com/DefiLlama/dimension-adapters/blob/master/fees/gmgnai.ts",
   "audit_links": null,
   "versionKey": null,
   "github": null,
@@ -32,14 +33,15 @@
   "treasury": null,
   "parentProtocol": null,
   "previousNames": null,
-  "latestFetchIsOk": true,
+  "hallmarks": null,
+  "defaultChartView": null,
   "slug": "gmgn",
   "protocolType": "protocol",
-  "total24h": 124124,
-  "total48hto24h": 145121,
-  "total7d": 672065,
-  "total30d": 3980535,
-  "totalAllTime": 82555600,
+  "total24h": 145173,
+  "total48hto24h": 134166,
+  "total7d": 867781,
+  "total30d": 3769231,
+  "totalAllTime": 83992739,
   "totalDataChart": [
     [
       1710979200,
@@ -2028,6 +2030,58 @@
     [
       1753833600,
       124124
+    ],
+    [
+      1753920000,
+      126045
+    ],
+    [
+      1754006400,
+      80145
+    ],
+    [
+      1754092800,
+      73626
+    ],
+    [
+      1754179200,
+      89284
+    ],
+    [
+      1754265600,
+      67824
+    ],
+    [
+      1754352000,
+      132434
+    ],
+    [
+      1754438400,
+      122531
+    ],
+    [
+      1754524800,
+      141134
+    ],
+    [
+      1754611200,
+      111092
+    ],
+    [
+      1754697600,
+      105550
+    ],
+    [
+      1754784000,
+      108135
+    ],
+    [
+      1754870400,
+      134166
+    ],
+    [
+      1754956800,
+      145173
     ]
   ],
   "totalDataChartBreakdown": [
@@ -6006,7 +6060,111 @@
           "GMGN": 124124
         }
       }
+    ],
+    [
+      1753920000,
+      {
+        "Solana": {
+          "GMGN": 126045
+        }
+      }
+    ],
+    [
+      1754006400,
+      {
+        "Solana": {
+          "GMGN": 80145
+        }
+      }
+    ],
+    [
+      1754092800,
+      {
+        "Solana": {
+          "GMGN": 73626
+        }
+      }
+    ],
+    [
+      1754179200,
+      {
+        "Solana": {
+          "GMGN": 89284
+        }
+      }
+    ],
+    [
+      1754265600,
+      {
+        "Solana": {
+          "GMGN": 67824
+        }
+      }
+    ],
+    [
+      1754352000,
+      {
+        "Solana": {
+          "GMGN": 132434
+        }
+      }
+    ],
+    [
+      1754438400,
+      {
+        "Solana": {
+          "GMGN": 122531
+        }
+      }
+    ],
+    [
+      1754524800,
+      {
+        "Solana": {
+          "GMGN": 141134
+        }
+      }
+    ],
+    [
+      1754611200,
+      {
+        "Solana": {
+          "GMGN": 111092
+        }
+      }
+    ],
+    [
+      1754697600,
+      {
+        "Solana": {
+          "GMGN": 105550
+        }
+      }
+    ],
+    [
+      1754784000,
+      {
+        "Solana": {
+          "GMGN": 108135
+        }
+      }
+    ],
+    [
+      1754870400,
+      {
+        "Solana": {
+          "GMGN": 134166
+        }
+      }
+    ],
+    [
+      1754956800,
+      {
+        "Solana": {
+          "GMGN": 145173
+        }
+      }
     ]
   ],
-  "change_1d": -14.47
+  "change_1d": 8.2
 }

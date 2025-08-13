@@ -18,10 +18,11 @@
   "forkedFrom": [],
   "module": "sol-trading-bot",
   "twitter": "SolTradingBot",
+  "methodology": {},
+  "misrepresentedTokens": false,
   "defillamaId": "4909",
   "displayName": "SolTradingBot",
   "methodologyURL": "https://github.com/DefiLlama/dimension-adapters/blob/master/fees/sol-trading-bot",
-  "methodology": {},
   "audit_links": null,
   "versionKey": null,
   "github": null,
@@ -29,14 +30,15 @@
   "treasury": null,
   "parentProtocol": null,
   "previousNames": null,
-  "latestFetchIsOk": true,
+  "hallmarks": null,
+  "defaultChartView": null,
   "slug": "soltradingbot",
   "protocolType": "protocol",
-  "total24h": 11952,
-  "total48hto24h": 13611,
-  "total7d": 68026,
-  "total30d": 454197,
-  "totalAllTime": 51560206,
+  "total24h": 20599,
+  "total48hto24h": 16998,
+  "total7d": 115645,
+  "total30d": 425502,
+  "totalAllTime": 51734848,
   "totalDataChart": [
     [
       1701388800,
@@ -2469,6 +2471,58 @@
     [
       1753833600,
       11952
+    ],
+    [
+      1753920000,
+      12830
+    ],
+    [
+      1754006400,
+      9551
+    ],
+    [
+      1754092800,
+      6827
+    ],
+    [
+      1754179200,
+      9605
+    ],
+    [
+      1754265600,
+      7247
+    ],
+    [
+      1754352000,
+      12937
+    ],
+    [
+      1754438400,
+      15818
+    ],
+    [
+      1754524800,
+      17297
+    ],
+    [
+      1754611200,
+      15598
+    ],
+    [
+      1754697600,
+      14170
+    ],
+    [
+      1754784000,
+      15165
+    ],
+    [
+      1754870400,
+      16998
+    ],
+    [
+      1754956800,
+      20599
     ]
   ],
   "totalDataChartBreakdown": [
@@ -7335,7 +7389,111 @@
           "SolTradingBot": 11952
         }
       }
+    ],
+    [
+      1753920000,
+      {
+        "Solana": {
+          "SolTradingBot": 12830
+        }
+      }
+    ],
+    [
+      1754006400,
+      {
+        "Solana": {
+          "SolTradingBot": 9551
+        }
+      }
+    ],
+    [
+      1754092800,
+      {
+        "Solana": {
+          "SolTradingBot": 6827
+        }
+      }
+    ],
+    [
+      1754179200,
+      {
+        "Solana": {
+          "SolTradingBot": 9605
+        }
+      }
+    ],
+    [
+      1754265600,
+      {
+        "Solana": {
+          "SolTradingBot": 7247
+        }
+      }
+    ],
+    [
+      1754352000,
+      {
+        "Solana": {
+          "SolTradingBot": 12937
+        }
+      }
+    ],
+    [
+      1754438400,
+      {
+        "Solana": {
+          "SolTradingBot": 15818
+        }
+      }
+    ],
+    [
+      1754524800,
+      {
+        "Solana": {
+          "SolTradingBot": 17297
+        }
+      }
+    ],
+    [
+      1754611200,
+      {
+        "Solana": {
+          "SolTradingBot": 15598
+        }
+      }
+    ],
+    [
+      1754697600,
+      {
+        "Solana": {
+          "SolTradingBot": 14170
+        }
+      }
+    ],
+    [
+      1754784000,
+      {
+        "Solana": {
+          "SolTradingBot": 15165
+        }
+      }
+    ],
+    [
+      1754870400,
+      {
+        "Solana": {
+          "SolTradingBot": 16998
+        }
+      }
+    ],
+    [
+      1754956800,
+      {
+        "Solana": {
+          "SolTradingBot": 20599
+        }
+      }
     ]
   ],
-  "change_1d": -12.19
+  "change_1d": 21.18
 }

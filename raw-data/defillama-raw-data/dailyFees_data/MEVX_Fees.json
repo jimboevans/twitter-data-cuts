@@ -19,14 +19,15 @@
   "module": "mevx",
   "twitter": "MevX_Official",
   "listedAt": 1722870424,
-  "defillamaId": "4945",
-  "displayName": "MEVX",
-  "methodologyURL": "https://github.com/DefiLlama/dimension-adapters/blob/master/fees/mevx.ts",
   "methodology": {
     "Fees": "All trading fees paid by users while using Mevx bot.",
     "Revenue": "Trading fees are collected by Mevx protocol.",
     "ProtocolRevenue": "Trading fees are collected by Mevx protocol."
   },
+  "misrepresentedTokens": false,
+  "defillamaId": "4945",
+  "displayName": "MEVX",
+  "methodologyURL": "https://github.com/DefiLlama/dimension-adapters/blob/master/fees/mevx.ts",
   "audit_links": null,
   "versionKey": null,
   "github": null,
@@ -34,14 +35,15 @@
   "treasury": null,
   "parentProtocol": null,
   "previousNames": null,
-  "latestFetchIsOk": true,
+  "hallmarks": null,
+  "defaultChartView": null,
   "slug": "mevx",
   "protocolType": "protocol",
-  "total24h": 8620,
-  "total48hto24h": 9716,
-  "total7d": 66817,
-  "total30d": 370229,
-  "totalAllTime": 7281305,
+  "total24h": 17065,
+  "total48hto24h": 13547,
+  "total7d": 87346,
+  "total30d": 379127,
+  "totalAllTime": 7426594,
   "totalDataChart": [
     [
       1722124800,
@@ -1517,7 +1519,59 @@
     ],
     [
       1753920000,
-      8620
+      8734
+    ],
+    [
+      1754006400,
+      6819
+    ],
+    [
+      1754092800,
+      6251
+    ],
+    [
+      1754179200,
+      6909
+    ],
+    [
+      1754265600,
+      9726
+    ],
+    [
+      1754352000,
+      11059
+    ],
+    [
+      1754438400,
+      10174
+    ],
+    [
+      1754524800,
+      13526
+    ],
+    [
+      1754611200,
+      10956
+    ],
+    [
+      1754697600,
+      12292
+    ],
+    [
+      1754784000,
+      10309
+    ],
+    [
+      1754870400,
+      13547
+    ],
+    [
+      1754956800,
+      16542
+    ],
+    [
+      1755043200,
+      17065
     ]
   ],
   "totalDataChartBreakdown": [
@@ -4469,10 +4523,114 @@
       1753920000,
       {
         "Solana": {
-          "MEVX": 8620
+          "MEVX": 8734
+        }
+      }
+    ],
+    [
+      1754006400,
+      {
+        "Solana": {
+          "MEVX": 6819
+        }
+      }
+    ],
+    [
+      1754092800,
+      {
+        "Solana": {
+          "MEVX": 6251
+        }
+      }
+    ],
+    [
+      1754179200,
+      {
+        "Solana": {
+          "MEVX": 6909
+        }
+      }
+    ],
+    [
+      1754265600,
+      {
+        "Solana": {
+          "MEVX": 9726
+        }
+      }
+    ],
+    [
+      1754352000,
+      {
+        "Solana": {
+          "MEVX": 11059
+        }
+      }
+    ],
+    [
+      1754438400,
+      {
+        "Solana": {
+          "MEVX": 10174
+        }
+      }
+    ],
+    [
+      1754524800,
+      {
+        "Solana": {
+          "MEVX": 13526
+        }
+      }
+    ],
+    [
+      1754611200,
+      {
+        "Solana": {
+          "MEVX": 10956
+        }
+      }
+    ],
+    [
+      1754697600,
+      {
+        "Solana": {
+          "MEVX": 12292
+        }
+      }
+    ],
+    [
+      1754784000,
+      {
+        "Solana": {
+          "MEVX": 10309
+        }
+      }
+    ],
+    [
+      1754870400,
+      {
+        "Solana": {
+          "MEVX": 13547
+        }
+      }
+    ],
+    [
+      1754956800,
+      {
+        "Solana": {
+          "MEVX": 16542
+        }
+      }
+    ],
+    [
+      1755043200,
+      {
+        "Solana": {
+          "MEVX": 17065
         }
       }
     ]
   ],
-  "change_1d": -11.28
+  "change_1d": 25.97
 }

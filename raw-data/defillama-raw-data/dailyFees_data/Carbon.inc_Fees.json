@@ -18,13 +18,14 @@
   "module": "carbon",
   "forkedFrom": [],
   "twitter": "CarbonTerminal",
-  "defillamaId": "6409",
-  "displayName": "Carbon.inc",
-  "methodologyURL": "https://github.com/DefiLlama/dimension-adapters/blob/master/fees/carbon",
   "methodology": {
     "Fees": "Trading fee paid by the user.",
     "Revenue": "Trading fees collected from the users."
   },
+  "misrepresentedTokens": false,
+  "defillamaId": "6409",
+  "displayName": "Carbon.inc",
+  "methodologyURL": "https://github.com/DefiLlama/dimension-adapters/blob/master/fees/carbon",
   "audit_links": null,
   "versionKey": null,
   "github": null,
@@ -32,14 +33,15 @@
   "treasury": null,
   "parentProtocol": null,
   "previousNames": null,
-  "latestFetchIsOk": true,
+  "hallmarks": null,
+  "defaultChartView": null,
   "slug": "carbon.inc",
   "protocolType": "protocol",
-  "total24h": 795,
-  "total48hto24h": 122,
-  "total7d": 1226,
-  "total30d": 3484,
-  "totalAllTime": 10761,
+  "total24h": 444,
+  "total48hto24h": 180,
+  "total7d": 2582,
+  "total30d": 6030,
+  "totalAllTime": 13806,
   "totalDataChart": [
     [
       1744243200,
@@ -488,6 +490,58 @@
     [
       1753833600,
       795
+    ],
+    [
+      1753920000,
+      35
+    ],
+    [
+      1754006400,
+      59
+    ],
+    [
+      1754092800,
+      324
+    ],
+    [
+      1754179200,
+      9
+    ],
+    [
+      1754265600,
+      14
+    ],
+    [
+      1754352000,
+      22
+    ],
+    [
+      1754438400,
+      10
+    ],
+    [
+      1754524800,
+      25
+    ],
+    [
+      1754611200,
+      346
+    ],
+    [
+      1754697600,
+      1350
+    ],
+    [
+      1754784000,
+      227
+    ],
+    [
+      1754870400,
+      180
+    ],
+    [
+      1754956800,
+      444
     ]
   ],
   "totalDataChartBreakdown": [
@@ -1386,7 +1440,111 @@
           "Carbon.inc": 795
         }
       }
+    ],
+    [
+      1753920000,
+      {
+        "Base": {
+          "Carbon.inc": 35
+        }
+      }
+    ],
+    [
+      1754006400,
+      {
+        "Base": {
+          "Carbon.inc": 59
+        }
+      }
+    ],
+    [
+      1754092800,
+      {
+        "Base": {
+          "Carbon.inc": 324
+        }
+      }
+    ],
+    [
+      1754179200,
+      {
+        "Base": {
+          "Carbon.inc": 9
+        }
+      }
+    ],
+    [
+      1754265600,
+      {
+        "Base": {
+          "Carbon.inc": 14
+        }
+      }
+    ],
+    [
+      1754352000,
+      {
+        "Base": {
+          "Carbon.inc": 22
+        }
+      }
+    ],
+    [
+      1754438400,
+      {
+        "Base": {
+          "Carbon.inc": 10
+        }
+      }
+    ],
+    [
+      1754524800,
+      {
+        "Base": {
+          "Carbon.inc": 25
+        }
+      }
+    ],
+    [
+      1754611200,
+      {
+        "Base": {
+          "Carbon.inc": 346
+        }
+      }
+    ],
+    [
+      1754697600,
+      {
+        "Base": {
+          "Carbon.inc": 1350
+        }
+      }
+    ],
+    [
+      1754784000,
+      {
+        "Base": {
+          "Carbon.inc": 227
+        }
+      }
+    ],
+    [
+      1754870400,
+      {
+        "Base": {
+          "Carbon.inc": 180
+        }
+      }
+    ],
+    [
+      1754956800,
+      {
+        "Base": {
+          "Carbon.inc": 444
+        }
+      }
     ]
   ],
-  "change_1d": 551.64
+  "change_1d": 146.67
 }

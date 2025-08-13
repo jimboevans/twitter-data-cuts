@@ -56,11 +56,11 @@
     "Yearn Ether",
     "Yearn Curating"
   ],
-  "total24h": 9279,
-  "total48hto24h": 9224,
-  "total7d": 45219,
-  "total30d": 219079,
-  "totalAllTime": 357432,
+  "total24h": 9764,
+  "total48hto24h": 8637,
+  "total7d": 49441,
+  "total30d": 225271,
+  "totalAllTime": 367860,
   "totalDataChart": [
     [
       1749686400,
@@ -308,7 +308,11 @@
     ],
     [
       1754956800,
-      9279
+      9943
+    ],
+    [
+      1755043200,
+      9764
     ]
   ],
   "totalDataChartBreakdown": [
@@ -1538,20 +1542,40 @@
         "Polygon": {
           "Yearn Finance": 2
         },
-        "Ethereum": {
-          "Yearn Finance": 9209
-        },
         "OP Mainnet": {
           "Yearn Finance": 0
         },
         "Arbitrum": {
           "Yearn Finance": 0
         },
+        "Ethereum": {
+          "Yearn Finance": 9865
+        },
         "Base": {
-          "Yearn Finance": 68
+          "Yearn Finance": 76
+        }
+      }
+    ],
+    [
+      1755043200,
+      {
+        "Polygon": {
+          "Yearn Finance": 2
+        },
+        "OP Mainnet": {
+          "Yearn Finance": 0
+        },
+        "Ethereum": {
+          "Yearn Finance": 9691
+        },
+        "Arbitrum": {
+          "Yearn Finance": 0
+        },
+        "Base": {
+          "Yearn Finance": 71
         }
       }
     ]
   ],
-  "change_1d": 0.6
+  "change_1d": 13.05
 }
