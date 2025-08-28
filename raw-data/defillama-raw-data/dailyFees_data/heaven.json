@@ -1,0 +1,200 @@
+{
+  "id": "6592",
+  "name": "Heaven",
+  "address": "solana:LiGHtkg3uTa9836RaNkKLLriqTNRcMdRAhqjGWNv777",
+  "symbol": "LIGHT",
+  "url": "https://heaven.xyz/",
+  "description": "Heaven is an AMM and launchpad on Solana",
+  "chain": "Solana",
+  "logo": "https://icons.llamao.fi/icons/protocols/heaven.jpg",
+  "audits": "2",
+  "audit_note": null,
+  "gecko_id": "heaven",
+  "cmcId": "37986",
+  "category": "Dexs",
+  "chains": [
+    "Solana"
+  ],
+  "module": "heaven-dex",
+  "audit_links": [
+    "https://docs.heaven.xyz/certora"
+  ],
+  "twitter": "heavendex",
+  "methodology": {
+    "UserFees": "User pays 0.25%-1% fee on each trade based on marketcap to protocol",
+    "Fees": "User pays 0.25%-1% fee on each trade based on marketcap to protocol",
+    "Revenue": "100% Protocol fees are used for buybacks",
+    "ProtocolRevenue": "Protocol doesnt earn anything",
+    "HoldersRevenue": "100% of the fees are used for buybacks",
+    "SupplySideRevenue": "Liquidity providers revenue"
+  },
+  "misrepresentedTokens": false,
+  "defillamaId": "6592",
+  "displayName": "Heaven",
+  "methodologyURL": "https://github.com/DefiLlama/dimension-adapters/blob/master/fees/heaven-dex",
+  "forkedFrom": null,
+  "versionKey": null,
+  "github": null,
+  "governanceID": null,
+  "treasury": null,
+  "parentProtocol": null,
+  "previousNames": null,
+  "hallmarks": null,
+  "defaultChartView": null,
+  "slug": "heaven",
+  "protocolType": "protocol",
+  "total24h": 122413,
+  "total48hto24h": 169968,
+  "total7d": 2888141,
+  "total30d": 3975052,
+  "totalAllTime": 3975052,
+  "totalDataChart": [
+    [
+      1755129600,
+      146089
+    ],
+    [
+      1755216000,
+      286645
+    ],
+    [
+      1755302400,
+      264704
+    ],
+    [
+      1755388800,
+      264083
+    ],
+    [
+      1755475200,
+      125390
+    ],
+    [
+      1755561600,
+      432748
+    ],
+    [
+      1755648000,
+      1019030
+    ],
+    [
+      1755734400,
+      500263
+    ],
+    [
+      1755820800,
+      429737
+    ],
+    [
+      1755907200,
+      213982
+    ],
+    [
+      1755993600,
+      169968
+    ],
+    [
+      1756080000,
+      122413
+    ]
+  ],
+  "totalDataChartBreakdown": [
+    [
+      1755129600,
+      {
+        "Solana": {
+          "Heaven": 146089
+        }
+      }
+    ],
+    [
+      1755216000,
+      {
+        "Solana": {
+          "Heaven": 286645
+        }
+      }
+    ],
+    [
+      1755302400,
+      {
+        "Solana": {
+          "Heaven": 264704
+        }
+      }
+    ],
+    [
+      1755388800,
+      {
+        "Solana": {
+          "Heaven": 264083
+        }
+      }
+    ],
+    [
+      1755475200,
+      {
+        "Solana": {
+          "Heaven": 125390
+        }
+      }
+    ],
+    [
+      1755561600,
+      {
+        "Solana": {
+          "Heaven": 432748
+        }
+      }
+    ],
+    [
+      1755648000,
+      {
+        "Solana": {
+          "Heaven": 1019030
+        }
+      }
+    ],
+    [
+      1755734400,
+      {
+        "Solana": {
+          "Heaven": 500263
+        }
+      }
+    ],
+    [
+      1755820800,
+      {
+        "Solana": {
+          "Heaven": 429737
+        }
+      }
+    ],
+    [
+      1755907200,
+      {
+        "Solana": {
+          "Heaven": 213982
+        }
+      }
+    ],
+    [
+      1755993600,
+      {
+        "Solana": {
+          "Heaven": 169968
+        }
+      }
+    ],
+    [
+      1756080000,
+      {
+        "Solana": {
+          "Heaven": 122413
+        }
+      }
+    ]
+  ],
+  "change_1d": -27.98
+}

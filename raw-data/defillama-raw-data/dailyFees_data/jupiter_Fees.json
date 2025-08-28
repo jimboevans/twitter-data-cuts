@@ -22,7 +22,7 @@
       "displayName": "Jupiter Aggregator",
       "module": "jupiter",
       "category": "DEX Aggregator",
-      "logo": "https://icons.llamao.fi/icons/protocols/jupiter-aggregator.png",
+      "logo": "https://icons.llamao.fi/icons/protocols/jupiter-aggregator.jpg",
       "chains": [
         "solana"
       ],
@@ -190,6 +190,24 @@
       "cmcId": null,
       "id": "6398",
       "parentProtocol": "parent#jupiter"
+    },
+    {
+      "name": "Jupiter Lend",
+      "module": "jupiter-lend/index.js",
+      "category": "Lending",
+      "logo": "https://icons.llama.fi/jupiter-lend.jpg",
+      "chains": [
+        "Solana"
+      ],
+      "gecko_id": null,
+      "twitter": "JupiterExchange",
+      "audits": "0",
+      "description": "Jupiter Lend is Jupiter's DeFi platform for lending and borrowing crypto",
+      "address": "solana:JUPyiwrYJFskUPiHa7hkeR8VUtAeFoSYbKedZNsDvCN",
+      "url": "https://jup.ag/lend",
+      "cmcId": null,
+      "id": "6600",
+      "parentProtocol": "parent#jupiter"
     }
   ],
   "linkedProtocols": [
@@ -219,11 +237,11 @@
   "defaultChartView": null,
   "slug": "jupiter",
   "protocolType": "protocol",
-  "total24h": 3507631,
-  "total48hto24h": 4259927,
-  "total7d": 20530973,
-  "total30d": 103905560,
-  "totalAllTime": 1042899603,
+  "total24h": 5850060,
+  "total48hto24h": 4906269,
+  "total7d": 30516423,
+  "total30d": 110025225,
+  "totalAllTime": 1098802378,
   "totalDataChart": [
     [
       1695945600,
@@ -2679,7 +2697,7 @@
     ],
     [
       1749168000,
-      1738222
+      1747875
     ],
     [
       1749254400,
@@ -2951,7 +2969,59 @@
     ],
     [
       1755043200,
-      14332
+      2933639
+    ],
+    [
+      1755129600,
+      8336671
+    ],
+    [
+      1755216000,
+      5071221
+    ],
+    [
+      1755302400,
+      1283749
+    ],
+    [
+      1755388800,
+      2416812
+    ],
+    [
+      1755475200,
+      5335605
+    ],
+    [
+      1755561600,
+      5480607
+    ],
+    [
+      1755648000,
+      2564272
+    ],
+    [
+      1755734400,
+      3679414
+    ],
+    [
+      1755820800,
+      5177666
+    ],
+    [
+      1755907200,
+      2858135
+    ],
+    [
+      1755993600,
+      4906269
+    ],
+    [
+      1756080000,
+      5850060
+    ],
+    [
+      1756166400,
+      13334
     ]
   ],
   "totalDataChartBreakdown": [
@@ -9027,7 +9097,8 @@
           "Jupiter Aggregator": 359604,
           "Jupiter Perpetual Exchange": 1378064,
           "Ape Jupiter": 554,
-          "Jupiter Staked SOL": 0
+          "Jupiter Staked SOL": 0,
+          "Jupiter DCA": 9653
         }
       }
     ],
@@ -9880,10 +9951,179 @@
       1755043200,
       {
         "Solana": {
-          "Jupiter DCA": 14332
+          "Jupiter Aggregator": 600250,
+          "Jupiter Perpetual Exchange": 1862735,
+          "Ape Jupiter": 673,
+          "Jupiter Staked SOL": 435350,
+          "Jupiter DCA": 13153,
+          "Jupiter Studio": 21478
+        }
+      }
+    ],
+    [
+      1755129600,
+      {
+        "Solana": {
+          "Jupiter Aggregator": 526776,
+          "Jupiter Perpetual Exchange": 7788553,
+          "Ape Jupiter": 595,
+          "Jupiter Staked SOL": 0,
+          "Jupiter DCA": 10665,
+          "Jupiter Studio": 10082
+        }
+      }
+    ],
+    [
+      1755216000,
+      {
+        "Solana": {
+          "Jupiter Aggregator": 385059,
+          "Jupiter Perpetual Exchange": 4260505,
+          "Ape Jupiter": 337,
+          "Jupiter Staked SOL": 400271,
+          "Jupiter DCA": 9299,
+          "Jupiter Studio": 15750
+        }
+      }
+    ],
+    [
+      1755302400,
+      {
+        "Solana": {
+          "Jupiter Aggregator": 299971,
+          "Jupiter Perpetual Exchange": 972682,
+          "Ape Jupiter": 140,
+          "Jupiter Staked SOL": 0,
+          "Jupiter DCA": 5119,
+          "Jupiter Studio": 5837
+        }
+      }
+    ],
+    [
+      1755388800,
+      {
+        "Solana": {
+          "Jupiter Aggregator": 289605,
+          "Jupiter Perpetual Exchange": 1717304,
+          "Ape Jupiter": 145,
+          "Jupiter Staked SOL": 401684,
+          "Jupiter DCA": 6031,
+          "Jupiter Studio": 2043
+        }
+      }
+    ],
+    [
+      1755475200,
+      {
+        "Solana": {
+          "Jupiter Aggregator": 359321,
+          "Jupiter Perpetual Exchange": 4956324,
+          "Ape Jupiter": 306,
+          "Jupiter Staked SOL": 0,
+          "Jupiter DCA": 8560,
+          "Jupiter Studio": 11094
+        }
+      }
+    ],
+    [
+      1755561600,
+      {
+        "Solana": {
+          "Jupiter Aggregator": 362147,
+          "Jupiter Perpetual Exchange": 4630899,
+          "Ape Jupiter": 110,
+          "Jupiter Staked SOL": 372383,
+          "Jupiter DCA": 7673,
+          "Jupiter Studio": 107395
+        }
+      }
+    ],
+    [
+      1755648000,
+      {
+        "Solana": {
+          "Jupiter Aggregator": 309676,
+          "Jupiter Perpetual Exchange": 2230376,
+          "Ape Jupiter": 87,
+          "Jupiter Staked SOL": 0,
+          "Jupiter DCA": 7655,
+          "Jupiter Studio": 16478
+        }
+      }
+    ],
+    [
+      1755734400,
+      {
+        "Solana": {
+          "Jupiter Aggregator": 675800,
+          "Jupiter Perpetual Exchange": 2590182,
+          "Ape Jupiter": 281,
+          "Jupiter Staked SOL": 377753,
+          "Jupiter DCA": 13717,
+          "Jupiter Studio": 21681
+        }
+      }
+    ],
+    [
+      1755820800,
+      {
+        "Solana": {
+          "Jupiter Aggregator": 473676,
+          "Jupiter Perpetual Exchange": 4675429,
+          "Ape Jupiter": 310,
+          "Jupiter Staked SOL": 0,
+          "Jupiter DCA": 10463,
+          "Jupiter Studio": 17788
+        }
+      }
+    ],
+    [
+      1755907200,
+      {
+        "Solana": {
+          "Jupiter Aggregator": 342537,
+          "Jupiter Perpetual Exchange": 2074107,
+          "Ape Jupiter": 115,
+          "Jupiter Staked SOL": 425728,
+          "Jupiter DCA": 11299,
+          "Jupiter Studio": 4349
+        }
+      }
+    ],
+    [
+      1755993600,
+      {
+        "Solana": {
+          "Jupiter Aggregator": 375578,
+          "Jupiter Perpetual Exchange": 4516682,
+          "Ape Jupiter": 69,
+          "Jupiter Staked SOL": 0,
+          "Jupiter DCA": 8154,
+          "Jupiter Studio": 5786
+        }
+      }
+    ],
+    [
+      1756080000,
+      {
+        "Solana": {
+          "Jupiter Aggregator": 393137,
+          "Jupiter Perpetual Exchange": 5047591,
+          "Ape Jupiter": 138,
+          "Jupiter Staked SOL": 391909,
+          "Jupiter DCA": 11621,
+          "Jupiter Studio": 5664
+        }
+      }
+    ],
+    [
+      1756166400,
+      {
+        "Solana": {
+          "Jupiter DCA": 13334
         }
       }
     ]
   ],
-  "change_1d": -17.66
+  "change_1d": 19.24
 }

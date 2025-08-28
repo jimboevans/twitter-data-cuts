@@ -64,11 +64,11 @@
   "defaultChartView": null,
   "slug": "pendle",
   "protocolType": "protocol",
-  "total24h": 99318,
-  "total48hto24h": 95920,
-  "total7d": 875306,
-  "total30d": 4510966,
-  "totalAllTime": 43355962,
+  "total24h": 32512,
+  "total48hto24h": 50210,
+  "total7d": 3334962,
+  "total30d": 6295466,
+  "totalAllTime": 47464850,
   "totalDataChart": [
     [
       1688688000,
@@ -2743,10 +2743,6 @@
       9088
     ],
     [
-      1746576000,
-      12652
-    ],
-    [
       1746662400,
       107407
     ],
@@ -3129,6 +3125,58 @@
     [
       1754956800,
       99318
+    ],
+    [
+      1755043200,
+      99724
+    ],
+    [
+      1755129600,
+      117045
+    ],
+    [
+      1755216000,
+      416176
+    ],
+    [
+      1755302400,
+      45213
+    ],
+    [
+      1755388800,
+      42680
+    ],
+    [
+      1755475200,
+      65740
+    ],
+    [
+      1755561600,
+      62541
+    ],
+    [
+      1755648000,
+      46567
+    ],
+    [
+      1755734400,
+      2033015
+    ],
+    [
+      1755820800,
+      1061966
+    ],
+    [
+      1755907200,
+      48151
+    ],
+    [
+      1755993600,
+      50210
+    ],
+    [
+      1756080000,
+      32512
     ]
   ],
   "totalDataChartBreakdown": [
@@ -16505,35 +16553,6 @@
       }
     ],
     [
-      1746576000,
-      {
-        "Ethereum": {
-          "Pendle": 12166
-        },
-        "Arbitrum": {
-          "Pendle": 88
-        },
-        "BSC": {
-          "Pendle": 265
-        },
-        "OP Mainnet": {
-          "Pendle": 0
-        },
-        "Mantle": {
-          "Pendle": 1
-        },
-        "Base": {
-          "Pendle": 132
-        },
-        "Sonic": {
-          "Pendle": 0
-        },
-        "Berachain": {
-          "Pendle": 0
-        }
-      }
-    ],
-    [
       1746662400,
       {
         "Ethereum": {
@@ -19316,7 +19335,384 @@
           "Pendle": 98404
         }
       }
+    ],
+    [
+      1755043200,
+      {
+        "Mantle": {
+          "Pendle": 0
+        },
+        "Sonic": {
+          "Pendle": 0
+        },
+        "Berachain": {
+          "Pendle": 0
+        },
+        "OP Mainnet": {
+          "Pendle": 0
+        },
+        "Ethereum": {
+          "Pendle": 99054
+        },
+        "Arbitrum": {
+          "Pendle": 359
+        },
+        "Base": {
+          "Pendle": 171
+        },
+        "BSC": {
+          "Pendle": 140
+        }
+      }
+    ],
+    [
+      1755129600,
+      {
+        "OP Mainnet": {
+          "Pendle": 0
+        },
+        "Berachain": {
+          "Pendle": 0
+        },
+        "Sonic": {
+          "Pendle": 0
+        },
+        "Mantle": {
+          "Pendle": 1
+        },
+        "Arbitrum": {
+          "Pendle": 690
+        },
+        "Base": {
+          "Pendle": 256
+        },
+        "BSC": {
+          "Pendle": 56
+        },
+        "Ethereum": {
+          "Pendle": 116042
+        }
+      }
+    ],
+    [
+      1755216000,
+      {
+        "Mantle": {
+          "Pendle": 0
+        },
+        "Berachain": {
+          "Pendle": 0
+        },
+        "OP Mainnet": {
+          "Pendle": 0
+        },
+        "Sonic": {
+          "Pendle": 0
+        },
+        "Arbitrum": {
+          "Pendle": 365
+        },
+        "Base": {
+          "Pendle": 292
+        },
+        "Ethereum": {
+          "Pendle": 415428
+        },
+        "BSC": {
+          "Pendle": 91
+        }
+      }
+    ],
+    [
+      1755302400,
+      {
+        "Mantle": {
+          "Pendle": 0
+        },
+        "OP Mainnet": {
+          "Pendle": 0
+        },
+        "Berachain": {
+          "Pendle": 0
+        },
+        "Sonic": {
+          "Pendle": 0
+        },
+        "Base": {
+          "Pendle": 173
+        },
+        "Arbitrum": {
+          "Pendle": 105
+        },
+        "Ethereum": {
+          "Pendle": 44887
+        },
+        "BSC": {
+          "Pendle": 48
+        }
+      }
+    ],
+    [
+      1755388800,
+      {
+        "Mantle": {
+          "Pendle": 9
+        },
+        "Berachain": {
+          "Pendle": 0
+        },
+        "OP Mainnet": {
+          "Pendle": 1267
+        },
+        "Sonic": {
+          "Pendle": 0
+        },
+        "Arbitrum": {
+          "Pendle": 422
+        },
+        "Base": {
+          "Pendle": 773
+        },
+        "Ethereum": {
+          "Pendle": 40146
+        },
+        "BSC": {
+          "Pendle": 63
+        }
+      }
+    ],
+    [
+      1755475200,
+      {
+        "Mantle": {
+          "Pendle": 0
+        },
+        "Sonic": {
+          "Pendle": 0
+        },
+        "Berachain": {
+          "Pendle": 0
+        },
+        "OP Mainnet": {
+          "Pendle": 1
+        },
+        "Arbitrum": {
+          "Pendle": 563
+        },
+        "Ethereum": {
+          "Pendle": 64979
+        },
+        "BSC": {
+          "Pendle": 138
+        },
+        "Base": {
+          "Pendle": 59
+        }
+      }
+    ],
+    [
+      1755561600,
+      {
+        "Berachain": {
+          "Pendle": 0
+        },
+        "Mantle": {
+          "Pendle": 36
+        },
+        "OP Mainnet": {
+          "Pendle": 0
+        },
+        "Sonic": {
+          "Pendle": 0
+        },
+        "Arbitrum": {
+          "Pendle": 5655
+        },
+        "Base": {
+          "Pendle": 144
+        },
+        "BSC": {
+          "Pendle": 57
+        },
+        "Ethereum": {
+          "Pendle": 56649
+        }
+      }
+    ],
+    [
+      1755648000,
+      {
+        "Mantle": {
+          "Pendle": 0
+        },
+        "OP Mainnet": {
+          "Pendle": 0
+        },
+        "Berachain": {
+          "Pendle": 0
+        },
+        "Ethereum": {
+          "Pendle": 44495
+        },
+        "Base": {
+          "Pendle": 485
+        },
+        "Sonic": {
+          "Pendle": 0
+        },
+        "BSC": {
+          "Pendle": 1084
+        },
+        "Arbitrum": {
+          "Pendle": 503
+        }
+      }
+    ],
+    [
+      1755734400,
+      {
+        "Mantle": {
+          "Pendle": 22
+        },
+        "Berachain": {
+          "Pendle": 0
+        },
+        "Sonic": {
+          "Pendle": 0
+        },
+        "OP Mainnet": {
+          "Pendle": 0
+        },
+        "Arbitrum": {
+          "Pendle": 278
+        },
+        "Base": {
+          "Pendle": 301
+        },
+        "Ethereum": {
+          "Pendle": 2032306
+        },
+        "BSC": {
+          "Pendle": 108
+        }
+      }
+    ],
+    [
+      1755820800,
+      {
+        "Berachain": {
+          "Pendle": 0
+        },
+        "Mantle": {
+          "Pendle": 1
+        },
+        "Sonic": {
+          "Pendle": 0
+        },
+        "OP Mainnet": {
+          "Pendle": 0
+        },
+        "Arbitrum": {
+          "Pendle": 922
+        },
+        "Base": {
+          "Pendle": 1231
+        },
+        "BSC": {
+          "Pendle": 15
+        },
+        "Ethereum": {
+          "Pendle": 1059797
+        }
+      }
+    ],
+    [
+      1755907200,
+      {
+        "Mantle": {
+          "Pendle": 2
+        },
+        "Sonic": {
+          "Pendle": 0
+        },
+        "Berachain": {
+          "Pendle": 0
+        },
+        "OP Mainnet": {
+          "Pendle": 1
+        },
+        "Base": {
+          "Pendle": 169
+        },
+        "Arbitrum": {
+          "Pendle": 552
+        },
+        "Ethereum": {
+          "Pendle": 47349
+        },
+        "BSC": {
+          "Pendle": 78
+        }
+      }
+    ],
+    [
+      1755993600,
+      {
+        "Mantle": {
+          "Pendle": 0
+        },
+        "Berachain": {
+          "Pendle": 0
+        },
+        "OP Mainnet": {
+          "Pendle": 0
+        },
+        "Sonic": {
+          "Pendle": 0
+        },
+        "Base": {
+          "Pendle": 306
+        },
+        "Ethereum": {
+          "Pendle": 42332
+        },
+        "BSC": {
+          "Pendle": 83
+        },
+        "Arbitrum": {
+          "Pendle": 7489
+        }
+      }
+    ],
+    [
+      1756080000,
+      {
+        "Mantle": {
+          "Pendle": 0
+        },
+        "OP Mainnet": {
+          "Pendle": 0
+        },
+        "Berachain": {
+          "Pendle": 0
+        },
+        "Sonic": {
+          "Pendle": 0
+        },
+        "Arbitrum": {
+          "Pendle": 511
+        },
+        "Base": {
+          "Pendle": 160
+        },
+        "Ethereum": {
+          "Pendle": 31355
+        },
+        "BSC": {
+          "Pendle": 486
+        }
+      }
     ]
   ],
-  "change_1d": 3.54
+  "change_1d": -35.25
 }

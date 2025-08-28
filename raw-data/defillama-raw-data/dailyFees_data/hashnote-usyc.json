@@ -40,11 +40,11 @@
   "defaultChartView": null,
   "slug": "hashnote-usyc",
   "protocolType": "protocol",
-  "total24h": 5238,
-  "total48hto24h": 15737,
-  "total7d": 34933,
-  "total30d": 110074,
-  "totalAllTime": 2408879,
+  "total24h": 5198,
+  "total48hto24h": 5220,
+  "total7d": 36292,
+  "total30d": 107976,
+  "totalAllTime": 2419297,
   "totalDataChart": [
     [
       1695945600,
@@ -2781,6 +2781,14 @@
     [
       1754956800,
       5238
+    ],
+    [
+      1755043200,
+      5220
+    ],
+    [
+      1755129600,
+      5198
     ]
   ],
   "totalDataChartBreakdown": [
@@ -8255,7 +8263,23 @@
           "Hashnote USYC": 5238
         }
       }
+    ],
+    [
+      1755043200,
+      {
+        "Ethereum": {
+          "Hashnote USYC": 5220
+        }
+      }
+    ],
+    [
+      1755129600,
+      {
+        "Ethereum": {
+          "Hashnote USYC": 5198
+        }
+      }
     ]
   ],
-  "change_1d": -66.72
+  "change_1d": -0.42
 }

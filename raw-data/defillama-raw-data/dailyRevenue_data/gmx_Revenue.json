@@ -1,7 +1,8 @@
 {
   "id": "parent#gmx",
   "name": "GMX",
-  "url": "https://gmx.io",
+  "url": "https://gmx.io/#/?ref=defillama",
+  "referralUrl": "https://gmx.io/#/?ref=defillama",
   "description": "GMX is a leading onchain exchange for perpetual and spot trading, offering deep liquidity, low fees, multi-chain support, and seamless one-click trading. Powered by isolated and multi-asset pools, the permissionless DEX enables anybody to provide liquidity and integrates with 80+ DeFi projects across Arbitrum, Avalanche, and Solana.",
   "logo": "https://icons.llama.fi/gmx.png",
   "gecko_id": "gmx",
@@ -162,11 +163,11 @@
   "defaultChartView": null,
   "slug": "gmx",
   "protocolType": "protocol",
-  "total24h": 130333,
-  "total48hto24h": 116697,
-  "total7d": 739633,
-  "total30d": 3850413,
-  "totalAllTime": 143951105,
+  "total24h": 139355,
+  "total48hto24h": 100127,
+  "total7d": 651526,
+  "total30d": 3639106,
+  "totalAllTime": 145300072,
   "totalDataChart": [
     [
       1630627200,
@@ -5930,7 +5931,59 @@
     ],
     [
       1755043200,
-      44
+      125030
+    ],
+    [
+      1755129600,
+      199557
+    ],
+    [
+      1755216000,
+      93053
+    ],
+    [
+      1755302400,
+      60787
+    ],
+    [
+      1755388800,
+      82874
+    ],
+    [
+      1755475200,
+      136176
+    ],
+    [
+      1755561600,
+      100225
+    ],
+    [
+      1755648000,
+      79729
+    ],
+    [
+      1755734400,
+      55354
+    ],
+    [
+      1755820800,
+      118521
+    ],
+    [
+      1755907200,
+      58215
+    ],
+    [
+      1755993600,
+      100127
+    ],
+    [
+      1756080000,
+      139355
+    ],
+    [
+      1756166400,
+      8
     ]
   ],
   "totalDataChartBreakdown": [
@@ -22934,13 +22987,209 @@
       1755043200,
       {
         "Avalanche": {
-          "GMX V1 Perps": 3
+          "GMX V1 Perps": 259,
+          "GMX V2 Perps": 3700
         },
         "Arbitrum": {
-          "GMX V1 Perps": 41
+          "GMX V1 Perps": 41,
+          "GMX V2 Perps": 120704
+        },
+        "Solana": {
+          "GMX V2 Perps": 326
+        }
+      }
+    ],
+    [
+      1755129600,
+      {
+        "Solana": {
+          "GMX V2 Perps": 755
+        },
+        "Arbitrum": {
+          "GMX V2 Perps": 191802
+        },
+        "Avalanche": {
+          "GMX V2 Perps": 7000
+        }
+      }
+    ],
+    [
+      1755216000,
+      {
+        "Solana": {
+          "GMX V2 Perps": 213
+        },
+        "Arbitrum": {
+          "GMX V2 Perps": 89443
+        },
+        "Avalanche": {
+          "GMX V2 Perps": 3397
+        }
+      }
+    ],
+    [
+      1755302400,
+      {
+        "Solana": {
+          "GMX V2 Perps": 128
+        },
+        "Avalanche": {
+          "GMX V2 Perps": 2141
+        },
+        "Arbitrum": {
+          "GMX V2 Perps": 58518
+        }
+      }
+    ],
+    [
+      1755388800,
+      {
+        "Solana": {
+          "GMX V2 Perps": 48
+        },
+        "Avalanche": {
+          "GMX V2 Perps": 4843
+        },
+        "Arbitrum": {
+          "GMX V2 Perps": 77983
+        }
+      }
+    ],
+    [
+      1755475200,
+      {
+        "Arbitrum": {
+          "GMX V1 Perps": 0,
+          "GMX V2 Perps": 131804
+        },
+        "Avalanche": {
+          "GMX V1 Perps": 75,
+          "GMX V2 Perps": 4159
+        },
+        "Solana": {
+          "GMX V2 Perps": 138
+        }
+      }
+    ],
+    [
+      1755561600,
+      {
+        "Solana": {
+          "GMX V2 Perps": 48
+        },
+        "Avalanche": {
+          "GMX V2 Perps": 4149
+        },
+        "Arbitrum": {
+          "GMX V2 Perps": 96028
+        }
+      }
+    ],
+    [
+      1755648000,
+      {
+        "Solana": {
+          "GMX V2 Perps": 64
+        },
+        "Avalanche": {
+          "GMX V2 Perps": 4009
+        },
+        "Arbitrum": {
+          "GMX V2 Perps": 75656
+        }
+      }
+    ],
+    [
+      1755734400,
+      {
+        "Avalanche": {
+          "GMX V1 Perps": 6,
+          "GMX V2 Perps": 2367
+        },
+        "Arbitrum": {
+          "GMX V1 Perps": 280,
+          "GMX V2 Perps": 52291
+        },
+        "Solana": {
+          "GMX V2 Perps": 410
+        }
+      }
+    ],
+    [
+      1755820800,
+      {
+        "Arbitrum": {
+          "GMX V1 Perps": 614,
+          "GMX V2 Perps": 112536
+        },
+        "Avalanche": {
+          "GMX V1 Perps": 92,
+          "GMX V2 Perps": 5079
+        },
+        "Solana": {
+          "GMX V2 Perps": 200
+        }
+      }
+    ],
+    [
+      1755907200,
+      {
+        "Avalanche": {
+          "GMX V1 Perps": 50,
+          "GMX V2 Perps": 6641
+        },
+        "Arbitrum": {
+          "GMX V1 Perps": 67,
+          "GMX V2 Perps": 51350
+        },
+        "Solana": {
+          "GMX V2 Perps": 107
+        }
+      }
+    ],
+    [
+      1755993600,
+      {
+        "Avalanche": {
+          "GMX V1 Perps": 12,
+          "GMX V2 Perps": 4572
+        },
+        "Arbitrum": {
+          "GMX V1 Perps": 60,
+          "GMX V2 Perps": 94940
+        },
+        "Solana": {
+          "GMX V2 Perps": 543
+        }
+      }
+    ],
+    [
+      1756080000,
+      {
+        "Avalanche": {
+          "GMX V1 Perps": 21,
+          "GMX V2 Perps": 8058
+        },
+        "Arbitrum": {
+          "GMX V1 Perps": 40,
+          "GMX V2 Perps": 131120
+        },
+        "Solana": {
+          "GMX V2 Perps": 116
+        }
+      }
+    ],
+    [
+      1756166400,
+      {
+        "Avalanche": {
+          "GMX V1 Perps": 0
+        },
+        "Arbitrum": {
+          "GMX V1 Perps": 8
         }
       }
     ]
   ],
-  "change_1d": 11.68
+  "change_1d": 39.18
 }

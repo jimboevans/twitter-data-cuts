@@ -2,6 +2,7 @@
   "id": "parent#dydx",
   "name": "dYdX",
   "url": "https://dydx.exchange",
+  "referralUrl": "https://dydx.exchange/r/NZPYBPNN",
   "description": "The most powerful open trading platform for crypto assets. Margin trade, borrow, and lend cryptocurrency.",
   "logo": "https://icons.llama.fi/dydx.jpg",
   "gecko_id": "dydx-chain",
@@ -118,11 +119,11 @@
   "defaultChartView": null,
   "slug": "dydx",
   "protocolType": "protocol",
-  "total24h": 77997,
-  "total48hto24h": 82815,
-  "total7d": 433233,
-  "total30d": 1923043,
-  "totalAllTime": 90508175,
+  "total24h": 68743,
+  "total48hto24h": 67990,
+  "total7d": 454208,
+  "total30d": 1810558,
+  "totalAllTime": 91367136,
   "totalDataChart": [
     [
       1699833600,
@@ -2663,6 +2664,58 @@
     [
       1754956800,
       77997
+    ],
+    [
+      1755043200,
+      83867
+    ],
+    [
+      1755129600,
+      111003
+    ],
+    [
+      1755216000,
+      54546
+    ],
+    [
+      1755302400,
+      33530
+    ],
+    [
+      1755388800,
+      39926
+    ],
+    [
+      1755475200,
+      81881
+    ],
+    [
+      1755561600,
+      62647
+    ],
+    [
+      1755648000,
+      76410
+    ],
+    [
+      1755734400,
+      42484
+    ],
+    [
+      1755820800,
+      88298
+    ],
+    [
+      1755907200,
+      47636
+    ],
+    [
+      1755993600,
+      67990
+    ],
+    [
+      1756080000,
+      68743
     ]
   ],
   "totalDataChartBreakdown": [
@@ -8765,7 +8818,111 @@
           "dYdX V4": 77997
         }
       }
+    ],
+    [
+      1755043200,
+      {
+        "dYdX": {
+          "dYdX V4": 83867
+        }
+      }
+    ],
+    [
+      1755129600,
+      {
+        "dYdX": {
+          "dYdX V4": 111003
+        }
+      }
+    ],
+    [
+      1755216000,
+      {
+        "dYdX": {
+          "dYdX V4": 54546
+        }
+      }
+    ],
+    [
+      1755302400,
+      {
+        "dYdX": {
+          "dYdX V4": 33530
+        }
+      }
+    ],
+    [
+      1755388800,
+      {
+        "dYdX": {
+          "dYdX V4": 39926
+        }
+      }
+    ],
+    [
+      1755475200,
+      {
+        "dYdX": {
+          "dYdX V4": 81881
+        }
+      }
+    ],
+    [
+      1755561600,
+      {
+        "dYdX": {
+          "dYdX V4": 62647
+        }
+      }
+    ],
+    [
+      1755648000,
+      {
+        "dYdX": {
+          "dYdX V4": 76410
+        }
+      }
+    ],
+    [
+      1755734400,
+      {
+        "dYdX": {
+          "dYdX V4": 42484
+        }
+      }
+    ],
+    [
+      1755820800,
+      {
+        "dYdX": {
+          "dYdX V4": 88298
+        }
+      }
+    ],
+    [
+      1755907200,
+      {
+        "dYdX": {
+          "dYdX V4": 47636
+        }
+      }
+    ],
+    [
+      1755993600,
+      {
+        "dYdX": {
+          "dYdX V4": 67990
+        }
+      }
+    ],
+    [
+      1756080000,
+      {
+        "dYdX": {
+          "dYdX V4": 68743
+        }
+      }
     ]
   ],
-  "change_1d": -5.82
+  "change_1d": 1.11
 }

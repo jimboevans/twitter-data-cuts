@@ -25,10 +25,10 @@
   "methodology": {
     "UserFees": "Total swap fees paid by users.",
     "Fees": "Total swap fees paid by users.",
-    "Revenue": "8% protocol revenue share and 32% holders revenue share.",
-    "ProtocolRevenue": "8% of fees collected by the protocol.",
-    "HoldersRevenue": "32% of fees used for buy-back and burn.",
-    "SupplySideRevenue": "60% of fees distributed to LPs."
+    "Revenue": "4% protocol revenue share and 12% holders revenue share.",
+    "ProtocolRevenue": "4% of fees collected by the protocol.",
+    "HoldersRevenue": "12% of fees used for buy-back and burn.",
+    "SupplySideRevenue": "84% of fees distributed to LPs."
   },
   "misrepresentedTokens": false,
   "defillamaId": "5837",
@@ -50,11 +50,11 @@
     "HyperSwap V2",
     "HyperSwap V3"
   ],
-  "total24h": 38571,
-  "total48hto24h": 80812,
-  "total7d": 707562,
-  "total30d": 4369700,
-  "totalAllTime": 17168601,
+  "total24h": 203562,
+  "total48hto24h": 119557,
+  "total7d": 983706,
+  "total30d": 4389107,
+  "totalAllTime": 19245171,
   "totalDataChart": [
     [
       1739836800,
@@ -702,15 +702,15 @@
     ],
     [
       1753747200,
-      218512
+      218839
     ],
     [
       1753833600,
-      143609
+      143878
     ],
     [
       1753920000,
-      159780
+      162976
     ],
     [
       1754006400,
@@ -722,15 +722,15 @@
     ],
     [
       1754179200,
-      90324
+      90788
     ],
     [
       1754265600,
-      124130
+      124837
     ],
     [
       1754352000,
-      158031
+      159193
     ],
     [
       1754438400,
@@ -738,31 +738,79 @@
     ],
     [
       1754524800,
-      75767
+      100622
     ],
     [
       1754611200,
-      108439
+      113756
     ],
     [
       1754697600,
-      123863
+      124394
     ],
     [
       1754784000,
-      73472
+      88860
     ],
     [
       1754870400,
-      80812
+      132887
     ],
     [
       1754956800,
-      148567
+      156239
     ],
     [
       1755043200,
-      38571
+      218967
+    ],
+    [
+      1755129600,
+      275043
+    ],
+    [
+      1755216000,
+      251419
+    ],
+    [
+      1755302400,
+      78681
+    ],
+    [
+      1755388800,
+      72688
+    ],
+    [
+      1755475200,
+      122674
+    ],
+    [
+      1755561600,
+      163715
+    ],
+    [
+      1755648000,
+      137126
+    ],
+    [
+      1755734400,
+      115130
+    ],
+    [
+      1755820800,
+      165998
+    ],
+    [
+      1755907200,
+      78618
+    ],
+    [
+      1755993600,
+      119557
+    ],
+    [
+      1756080000,
+      203562
     ]
   ],
   "totalDataChartBreakdown": [
@@ -2058,7 +2106,7 @@
       1753747200,
       {
         "Hyperliquid L1": {
-          "HyperSwap V3": 218512
+          "HyperSwap V3": 218839
         }
       }
     ],
@@ -2066,7 +2114,7 @@
       1753833600,
       {
         "Hyperliquid L1": {
-          "HyperSwap V3": 143609
+          "HyperSwap V3": 143878
         }
       }
     ],
@@ -2074,7 +2122,7 @@
       1753920000,
       {
         "Hyperliquid L1": {
-          "HyperSwap V3": 159780
+          "HyperSwap V3": 162976
         }
       }
     ],
@@ -2098,7 +2146,7 @@
       1754179200,
       {
         "Hyperliquid L1": {
-          "HyperSwap V3": 90324
+          "HyperSwap V3": 90788
         }
       }
     ],
@@ -2106,7 +2154,7 @@
       1754265600,
       {
         "Hyperliquid L1": {
-          "HyperSwap V3": 124130
+          "HyperSwap V3": 124837
         }
       }
     ],
@@ -2114,7 +2162,7 @@
       1754352000,
       {
         "Hyperliquid L1": {
-          "HyperSwap V3": 158031
+          "HyperSwap V3": 159193
         }
       }
     ],
@@ -2130,7 +2178,7 @@
       1754524800,
       {
         "Hyperliquid L1": {
-          "HyperSwap V3": 75767
+          "HyperSwap V3": 100622
         }
       }
     ],
@@ -2138,7 +2186,7 @@
       1754611200,
       {
         "Hyperliquid L1": {
-          "HyperSwap V3": 108439
+          "HyperSwap V3": 113756
         }
       }
     ],
@@ -2146,7 +2194,7 @@
       1754697600,
       {
         "Hyperliquid L1": {
-          "HyperSwap V3": 123863
+          "HyperSwap V3": 124394
         }
       }
     ],
@@ -2154,7 +2202,7 @@
       1754784000,
       {
         "Hyperliquid L1": {
-          "HyperSwap V3": 73472
+          "HyperSwap V3": 88860
         }
       }
     ],
@@ -2162,7 +2210,7 @@
       1754870400,
       {
         "Hyperliquid L1": {
-          "HyperSwap V3": 80812
+          "HyperSwap V3": 132887
         }
       }
     ],
@@ -2170,7 +2218,7 @@
       1754956800,
       {
         "Hyperliquid L1": {
-          "HyperSwap V3": 148567
+          "HyperSwap V3": 156239
         }
       }
     ],
@@ -2178,10 +2226,106 @@
       1755043200,
       {
         "Hyperliquid L1": {
-          "HyperSwap V3": 38571
+          "HyperSwap V3": 218967
+        }
+      }
+    ],
+    [
+      1755129600,
+      {
+        "Hyperliquid L1": {
+          "HyperSwap V3": 275043
+        }
+      }
+    ],
+    [
+      1755216000,
+      {
+        "Hyperliquid L1": {
+          "HyperSwap V3": 251419
+        }
+      }
+    ],
+    [
+      1755302400,
+      {
+        "Hyperliquid L1": {
+          "HyperSwap V3": 78681
+        }
+      }
+    ],
+    [
+      1755388800,
+      {
+        "Hyperliquid L1": {
+          "HyperSwap V3": 72688
+        }
+      }
+    ],
+    [
+      1755475200,
+      {
+        "Hyperliquid L1": {
+          "HyperSwap V3": 122674
+        }
+      }
+    ],
+    [
+      1755561600,
+      {
+        "Hyperliquid L1": {
+          "HyperSwap V3": 163715
+        }
+      }
+    ],
+    [
+      1755648000,
+      {
+        "Hyperliquid L1": {
+          "HyperSwap V3": 137126
+        }
+      }
+    ],
+    [
+      1755734400,
+      {
+        "Hyperliquid L1": {
+          "HyperSwap V3": 115130
+        }
+      }
+    ],
+    [
+      1755820800,
+      {
+        "Hyperliquid L1": {
+          "HyperSwap V3": 165998
+        }
+      }
+    ],
+    [
+      1755907200,
+      {
+        "Hyperliquid L1": {
+          "HyperSwap V3": 78618
+        }
+      }
+    ],
+    [
+      1755993600,
+      {
+        "Hyperliquid L1": {
+          "HyperSwap V3": 119557
+        }
+      }
+    ],
+    [
+      1756080000,
+      {
+        "Hyperliquid L1": {
+          "HyperSwap V3": 203562
         }
       }
     ]
   ],
-  "change_1d": -52.27
+  "change_1d": 70.26
 }

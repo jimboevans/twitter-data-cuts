@@ -15,7 +15,8 @@
     "Treasury Bills"
   ],
   "chains": [
-    "Ethereum"
+    "Ethereum",
+    "Plume Mainnet"
   ],
   "module": "superstate",
   "twitter": "superstatefunds",
@@ -24,7 +25,8 @@
   "listedAt": 1709914041,
   "category": "RWA",
   "methodology": {
-    "Fees": "Yield from management and investment assets."
+    "Fees": "Total Yields from RWA Yields",
+    "Revenue": "0.15% Annual Management fee collected by superstate"
   },
   "misrepresentedTokens": false,
   "defillamaId": "4265",
@@ -42,13 +44,14 @@
   "protocolType": "protocol",
   "linkedProtocols": [
     "Superstate",
-    "Superstate USTB"
+    "Superstate USTB",
+    "Superstate USCC"
   ],
-  "total24h": 0,
-  "total48hto24h": 0,
-  "total7d": 0,
-  "total30d": 0,
-  "totalAllTime": 141947,
+  "total24h": 26000,
+  "total48hto24h": 29507,
+  "total7d": 210408,
+  "total30d": 372005,
+  "totalAllTime": 539952,
   "totalDataChart": [
     [
       1722297600,
@@ -1565,6 +1568,62 @@
     [
       1754956800,
       0
+    ],
+    [
+      1755043200,
+      0
+    ],
+    [
+      1755129600,
+      31130
+    ],
+    [
+      1755216000,
+      32081
+    ],
+    [
+      1755302400,
+      31421
+    ],
+    [
+      1755388800,
+      31668
+    ],
+    [
+      1755475200,
+      35297
+    ],
+    [
+      1755561600,
+      30900
+    ],
+    [
+      1755648000,
+      33127
+    ],
+    [
+      1755734400,
+      32355
+    ],
+    [
+      1755820800,
+      28962
+    ],
+    [
+      1755907200,
+      29520
+    ],
+    [
+      1755993600,
+      29507
+    ],
+    [
+      1756080000,
+      26037
+    ],
+    [
+      1756166400,
+      26000
     ]
   ],
   "totalDataChartBreakdown": [
@@ -4599,6 +4658,158 @@
           "Superstate USTB": 0
         }
       }
+    ],
+    [
+      1755043200,
+      {
+        "Ethereum": {
+          "Superstate USTB": 0
+        }
+      }
+    ],
+    [
+      1755129600,
+      {
+        "Ethereum": {
+          "Superstate USTB": 26276
+        },
+        "Plume Mainnet": {
+          "Superstate USTB": 4854
+        }
+      }
+    ],
+    [
+      1755216000,
+      {
+        "Ethereum": {
+          "Superstate USTB": 26975
+        },
+        "Plume Mainnet": {
+          "Superstate USTB": 5106
+        }
+      }
+    ],
+    [
+      1755302400,
+      {
+        "Ethereum": {
+          "Superstate USTB": 26423
+        },
+        "Plume Mainnet": {
+          "Superstate USTB": 4998
+        }
+      }
+    ],
+    [
+      1755388800,
+      {
+        "Ethereum": {
+          "Superstate USTB": 26670
+        },
+        "Plume Mainnet": {
+          "Superstate USTB": 4998
+        }
+      }
+    ],
+    [
+      1755475200,
+      {
+        "Ethereum": {
+          "Superstate USTB": 29912
+        },
+        "Plume Mainnet": {
+          "Superstate USTB": 5385
+        }
+      }
+    ],
+    [
+      1755561600,
+      {
+        "Ethereum": {
+          "Superstate USTB": 26189
+        },
+        "Plume Mainnet": {
+          "Superstate USTB": 4711
+        }
+      }
+    ],
+    [
+      1755648000,
+      {
+        "Ethereum": {
+          "Superstate USTB": 28017
+        },
+        "Plume Mainnet": {
+          "Superstate USTB": 5110
+        }
+      }
+    ],
+    [
+      1755734400,
+      {
+        "Ethereum": {
+          "Superstate USTB": 27373
+        },
+        "Plume Mainnet": {
+          "Superstate USTB": 4982
+        }
+      }
+    ],
+    [
+      1755820800,
+      {
+        "Ethereum": {
+          "Superstate USTB": 25848
+        },
+        "Plume Mainnet": {
+          "Superstate USTB": 3114
+        }
+      }
+    ],
+    [
+      1755907200,
+      {
+        "Ethereum": {
+          "Superstate USTB": 26333
+        },
+        "Plume Mainnet": {
+          "Superstate USTB": 3187
+        }
+      }
+    ],
+    [
+      1755993600,
+      {
+        "Ethereum": {
+          "Superstate USTB": 26320
+        },
+        "Plume Mainnet": {
+          "Superstate USTB": 3187
+        }
+      }
+    ],
+    [
+      1756080000,
+      {
+        "Ethereum": {
+          "Superstate USTB": 23225
+        },
+        "Plume Mainnet": {
+          "Superstate USTB": 2812
+        }
+      }
+    ],
+    [
+      1756166400,
+      {
+        "Ethereum": {
+          "Superstate USTB": 23224
+        },
+        "Plume Mainnet": {
+          "Superstate USTB": 2776
+        }
+      }
     ]
-  ]
+  ],
+  "change_1d": -11.89
 }

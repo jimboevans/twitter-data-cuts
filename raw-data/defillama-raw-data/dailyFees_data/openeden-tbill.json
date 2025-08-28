@@ -50,11 +50,11 @@
     "OpenEden",
     "OpenEden TBILL"
   ],
-  "total24h": 2287,
-  "total48hto24h": 2222,
-  "total7d": 15470,
-  "total30d": 53648,
-  "totalAllTime": 506894,
+  "total24h": 2299,
+  "total48hto24h": 2298,
+  "total7d": 16141,
+  "total30d": 63603,
+  "totalAllTime": 538368,
   "totalDataChart": [
     [
       1717372800,
@@ -1529,6 +1529,10 @@
       1545
     ],
     [
+      1749168000,
+      1546
+    ],
+    [
       1749254400,
       1547
     ],
@@ -1799,6 +1803,58 @@
     [
       1755043200,
       2287
+    ],
+    [
+      1755129600,
+      2288
+    ],
+    [
+      1755216000,
+      2299
+    ],
+    [
+      1755302400,
+      2299
+    ],
+    [
+      1755388800,
+      2299
+    ],
+    [
+      1755475200,
+      2303
+    ],
+    [
+      1755561600,
+      2310
+    ],
+    [
+      1755648000,
+      2309
+    ],
+    [
+      1755734400,
+      2310
+    ],
+    [
+      1755820800,
+      2317
+    ],
+    [
+      1755907200,
+      2298
+    ],
+    [
+      1755993600,
+      2298
+    ],
+    [
+      1756080000,
+      2299
+    ],
+    [
+      1756166400,
+      2299
     ]
   ],
   "totalDataChartBreakdown": [
@@ -6151,6 +6207,23 @@
       }
     ],
     [
+      1749168000,
+      {
+        "Ethereum": {
+          "OpenEden TBILL": 1358
+        },
+        "Arbitrum": {
+          "OpenEden TBILL": 47
+        },
+        "XRPL": {
+          "OpenEden TBILL": 38
+        },
+        "Solana": {
+          "OpenEden TBILL": 103
+        }
+      }
+    ],
+    [
       1749254400,
       {
         "Ethereum": {
@@ -7295,6 +7368,40 @@
         "Solana": {
           "OpenEden TBILL": 75
         },
+        "Arbitrum": {
+          "OpenEden TBILL": 48
+        },
+        "Ethereum": {
+          "OpenEden TBILL": 1607
+        },
+        "XRPL": {
+          "OpenEden TBILL": 557
+        }
+      }
+    ],
+    [
+      1755129600,
+      {
+        "XRPL": {
+          "OpenEden TBILL": 557
+        },
+        "Solana": {
+          "OpenEden TBILL": 72
+        },
+        "Ethereum": {
+          "OpenEden TBILL": 1611
+        },
+        "Arbitrum": {
+          "OpenEden TBILL": 48
+        }
+      }
+    ],
+    [
+      1755216000,
+      {
+        "Solana": {
+          "OpenEden TBILL": 72
+        },
         "XRPL": {
           "OpenEden TBILL": 557
         },
@@ -7302,10 +7409,197 @@
           "OpenEden TBILL": 48
         },
         "Ethereum": {
-          "OpenEden TBILL": 1607
+          "OpenEden TBILL": 1622
+        }
+      }
+    ],
+    [
+      1755302400,
+      {
+        "Solana": {
+          "OpenEden TBILL": 72
+        },
+        "XRPL": {
+          "OpenEden TBILL": 557
+        },
+        "Arbitrum": {
+          "OpenEden TBILL": 48
+        },
+        "Ethereum": {
+          "OpenEden TBILL": 1622
+        }
+      }
+    ],
+    [
+      1755388800,
+      {
+        "Solana": {
+          "OpenEden TBILL": 72
+        },
+        "XRPL": {
+          "OpenEden TBILL": 557
+        },
+        "Ethereum": {
+          "OpenEden TBILL": 1622
+        },
+        "Arbitrum": {
+          "OpenEden TBILL": 48
+        }
+      }
+    ],
+    [
+      1755475200,
+      {
+        "Solana": {
+          "OpenEden TBILL": 71
+        },
+        "XRPL": {
+          "OpenEden TBILL": 557
+        },
+        "Arbitrum": {
+          "OpenEden TBILL": 48
+        },
+        "Ethereum": {
+          "OpenEden TBILL": 1627
+        }
+      }
+    ],
+    [
+      1755561600,
+      {
+        "Solana": {
+          "OpenEden TBILL": 71
+        },
+        "XRPL": {
+          "OpenEden TBILL": 557
+        },
+        "Arbitrum": {
+          "OpenEden TBILL": 48
+        },
+        "Ethereum": {
+          "OpenEden TBILL": 1634
+        }
+      }
+    ],
+    [
+      1755648000,
+      {
+        "Solana": {
+          "OpenEden TBILL": 71
+        },
+        "XRPL": {
+          "OpenEden TBILL": 557
+        },
+        "Arbitrum": {
+          "OpenEden TBILL": 48
+        },
+        "Ethereum": {
+          "OpenEden TBILL": 1633
+        }
+      }
+    ],
+    [
+      1755734400,
+      {
+        "Solana": {
+          "OpenEden TBILL": 71
+        },
+        "XRPL": {
+          "OpenEden TBILL": 557
+        },
+        "Arbitrum": {
+          "OpenEden TBILL": 48
+        },
+        "Ethereum": {
+          "OpenEden TBILL": 1634
+        }
+      }
+    ],
+    [
+      1755820800,
+      {
+        "Solana": {
+          "OpenEden TBILL": 71
+        },
+        "XRPL": {
+          "OpenEden TBILL": 563
+        },
+        "Arbitrum": {
+          "OpenEden TBILL": 48
+        },
+        "Ethereum": {
+          "OpenEden TBILL": 1635
+        }
+      }
+    ],
+    [
+      1755907200,
+      {
+        "Solana": {
+          "OpenEden TBILL": 71
+        },
+        "XRPL": {
+          "OpenEden TBILL": 563
+        },
+        "Arbitrum": {
+          "OpenEden TBILL": 48
+        },
+        "Ethereum": {
+          "OpenEden TBILL": 1616
+        }
+      }
+    ],
+    [
+      1755993600,
+      {
+        "Solana": {
+          "OpenEden TBILL": 71
+        },
+        "XRPL": {
+          "OpenEden TBILL": 563
+        },
+        "Arbitrum": {
+          "OpenEden TBILL": 48
+        },
+        "Ethereum": {
+          "OpenEden TBILL": 1616
+        }
+      }
+    ],
+    [
+      1756080000,
+      {
+        "Solana": {
+          "OpenEden TBILL": 71
+        },
+        "XRPL": {
+          "OpenEden TBILL": 563
+        },
+        "Arbitrum": {
+          "OpenEden TBILL": 48
+        },
+        "Ethereum": {
+          "OpenEden TBILL": 1617
+        }
+      }
+    ],
+    [
+      1756166400,
+      {
+        "Solana": {
+          "OpenEden TBILL": 71
+        },
+        "XRPL": {
+          "OpenEden TBILL": 563
+        },
+        "Arbitrum": {
+          "OpenEden TBILL": 48
+        },
+        "Ethereum": {
+          "OpenEden TBILL": 1617
         }
       }
     ]
   ],
-  "change_1d": 2.93
+  "change_1d": 0.04
 }
