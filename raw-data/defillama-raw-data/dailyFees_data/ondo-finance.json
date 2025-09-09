@@ -54,11 +54,11 @@
   "defaultChartView": null,
   "slug": "ondo-finance",
   "protocolType": "protocol",
-  "total24h": 233925,
-  "total48hto24h": 0,
-  "total7d": 1006219,
-  "total30d": 4454018,
-  "totalAllTime": 19653344,
+  "total24h": 156690,
+  "total48hto24h": 77587,
+  "total7d": 934168,
+  "total30d": 4382520,
+  "totalAllTime": 19964921,
   "totalDataChart": [
     [
       1744329600,
@@ -610,7 +610,19 @@
     ],
     [
       1756166400,
-      233925
+      154535
+    ],
+    [
+      1756252800,
+      77587
+    ],
+    [
+      1756339200,
+      156690
+    ],
+    [
+      1756425600,
+      156690
     ]
   ],
   "totalDataChartBreakdown": [
@@ -4591,30 +4603,118 @@
       1756166400,
       {
         "Ethereum": {
-          "Ondo Finance": 189812
+          "Ondo Finance": 118420
+        },
+        "Solana": {
+          "Ondo Finance": 28170
         },
         "Polygon": {
           "Ondo Finance": 0
         },
+        "Noble": {
+          "Ondo Finance": 1752
+        },
         "Arbitrum": {
           "Ondo Finance": 638
-        },
-        "Mantle": {
-          "Ondo Finance": 3279
         },
         "Sui": {
           "Ondo Finance": 2042
         },
-        "Solana": {
-          "Ondo Finance": 36168
-        },
-        "Noble": {
-          "Ondo Finance": 1752
+        "Mantle": {
+          "Ondo Finance": 3279
         },
         "Aptos": {
           "Ondo Finance": 234
         }
       }
+    ],
+    [
+      1756252800,
+      {
+        "Ethereum": {
+          "Ondo Finance": 69778
+        },
+        "Mantle": {
+          "Ondo Finance": 0
+        },
+        "Polygon": {
+          "Ondo Finance": 0
+        },
+        "Solana": {
+          "Ondo Finance": 7809
+        },
+        "Aptos": {
+          "Ondo Finance": 0
+        },
+        "Arbitrum": {
+          "Ondo Finance": 0
+        },
+        "Sui": {
+          "Ondo Finance": 0
+        },
+        "Noble": {
+          "Ondo Finance": 0
+        }
+      }
+    ],
+    [
+      1756339200,
+      {
+        "Ethereum": {
+          "Ondo Finance": 120353
+        },
+        "Sui": {
+          "Ondo Finance": 2042
+        },
+        "Solana": {
+          "Ondo Finance": 28390
+        },
+        "Mantle": {
+          "Ondo Finance": 3281
+        },
+        "Noble": {
+          "Ondo Finance": 1752
+        },
+        "Polygon": {
+          "Ondo Finance": 0
+        },
+        "Aptos": {
+          "Ondo Finance": 235
+        },
+        "Arbitrum": {
+          "Ondo Finance": 637
+        }
+      }
+    ],
+    [
+      1756425600,
+      {
+        "Ethereum": {
+          "Ondo Finance": 120353
+        },
+        "Sui": {
+          "Ondo Finance": 2042
+        },
+        "Aptos": {
+          "Ondo Finance": 235
+        },
+        "Polygon": {
+          "Ondo Finance": 0
+        },
+        "Solana": {
+          "Ondo Finance": 28390
+        },
+        "Noble": {
+          "Ondo Finance": 1752
+        },
+        "Arbitrum": {
+          "Ondo Finance": 637
+        },
+        "Mantle": {
+          "Ondo Finance": 3281
+        }
+      }
     ]
-  ]
+  ],
+  "change_1d": 101.95
 }

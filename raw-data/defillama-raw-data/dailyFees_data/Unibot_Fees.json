@@ -39,11 +39,11 @@
   "defaultChartView": null,
   "slug": "unibot",
   "protocolType": "protocol",
-  "total24h": 375,
-  "total48hto24h": 450,
-  "total7d": 3300,
-  "total30d": 23723,
-  "totalAllTime": 7412287,
+  "total24h": 946,
+  "total48hto24h": 332,
+  "total7d": 3959,
+  "total30d": 20846,
+  "totalAllTime": 7414005,
   "totalDataChart": [
     [
       1685059200,
@@ -3336,6 +3336,18 @@
     [
       1756080000,
       375
+    ],
+    [
+      1756166400,
+      440
+    ],
+    [
+      1756252800,
+      332
+    ],
+    [
+      1756339200,
+      946
     ]
   ],
   "totalDataChartBreakdown": [
@@ -9922,7 +9934,31 @@
           "Unibot": 375
         }
       }
+    ],
+    [
+      1756166400,
+      {
+        "Ethereum": {
+          "Unibot": 440
+        }
+      }
+    ],
+    [
+      1756252800,
+      {
+        "Ethereum": {
+          "Unibot": 332
+        }
+      }
+    ],
+    [
+      1756339200,
+      {
+        "Ethereum": {
+          "Unibot": 946
+        }
+      }
     ]
   ],
-  "change_1d": -16.67
+  "change_1d": 184.94
 }

@@ -50,11 +50,11 @@
     "Aerodrome V1",
     "Aerodrome Slipstream"
   ],
-  "total24h": 561414,
-  "total48hto24h": 514400,
-  "total7d": 3545539,
-  "total30d": 14086121,
-  "totalAllTime": 159071390,
+  "total24h": 371405,
+  "total48hto24h": 458024,
+  "total7d": 3517543,
+  "total30d": 14134380,
+  "totalAllTime": 160103353,
   "totalDataChart": [
     [
       1714780800,
@@ -1745,10 +1745,6 @@
       190827
     ],
     [
-      1751241600,
-      292817
-    ],
-    [
       1751328000,
       236403
     ],
@@ -1971,6 +1967,18 @@
     [
       1756080000,
       561414
+    ],
+    [
+      1756166400,
+      495351
+    ],
+    [
+      1756252800,
+      458024
+    ],
+    [
+      1756339200,
+      371405
     ]
   ],
   "totalDataChartBreakdown": [
@@ -5351,14 +5359,6 @@
       }
     ],
     [
-      1751241600,
-      {
-        "Base": {
-          "Aerodrome Slipstream": 292817
-        }
-      }
-    ],
-    [
       1751328000,
       {
         "Base": {
@@ -5805,7 +5805,31 @@
           "Aerodrome Slipstream": 561414
         }
       }
+    ],
+    [
+      1756166400,
+      {
+        "Base": {
+          "Aerodrome Slipstream": 495351
+        }
+      }
+    ],
+    [
+      1756252800,
+      {
+        "Base": {
+          "Aerodrome Slipstream": 458024
+        }
+      }
+    ],
+    [
+      1756339200,
+      {
+        "Base": {
+          "Aerodrome Slipstream": 371405
+        }
+      }
     ]
   ],
-  "change_1d": 9.14
+  "change_1d": -18.91
 }

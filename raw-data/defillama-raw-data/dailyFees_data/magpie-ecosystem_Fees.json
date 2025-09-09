@@ -9,7 +9,8 @@
   "chains": [
     "BSC",
     "Arbitrum",
-    "Ethereum"
+    "Ethereum",
+    "Hyperliquid L1"
   ],
   "twitter": "magpiexyz_io",
   "treasury": "magpie.js",
@@ -220,6 +221,62 @@
       "cmcId": null,
       "id": "5960",
       "parentProtocol": "parent#magpie-ecosystem"
+    },
+    {
+      "name": "Hyperpie Launchpad",
+      "defillamaId": "6671",
+      "displayName": "Hyperpie Launchpad",
+      "module": "hyperpie-launchpad",
+      "category": "Launchpad",
+      "logo": "https://icons.llamao.fi/icons/protocols/hyperpie-launchpad.jpg",
+      "chains": [
+        "hyperliquid"
+      ],
+      "methodologyURL": "https://github.com/DefiLlama/dimension-adapters/blob/master/dexs/hyperpie-launchpad.ts",
+      "methodology": {
+        "SupplySideRevenue": "20% of trading fees go to the coin creators",
+        "Volume": "Tokens trading volume.",
+        "Fees": "1% trading fees on all trades.",
+        "Revenue": "80% of Tokens trading fees goes to the protocol."
+      },
+      "gecko_id": null,
+      "twitter": "Hyperpiexyz_io",
+      "audits": "0",
+      "description": "One-Click MEME Launch",
+      "address": null,
+      "url": "https://www.hyperliquid.magpiexyz.io/meme",
+      "cmcId": null,
+      "id": "6671",
+      "parentProtocol": "parent#magpie-ecosystem"
+    },
+    {
+      "name": "Hyperpie DEX",
+      "defillamaId": "6672",
+      "displayName": "Hyperpie DEX",
+      "module": "hyperpie-v2-dex",
+      "category": "Dexs",
+      "logo": "https://icons.llamao.fi/icons/protocols/hyperpie-dex.jpg",
+      "chains": [
+        "hyperliquid"
+      ],
+      "methodologyURL": "https://github.com/DefiLlama/dimension-adapters/blob/master/dexs/hyperpie-v2-dex.ts",
+      "methodology": {
+        "UserFees": "Swap fees paid by users",
+        "Fees": "Swap fees paid by users",
+        "Revenue": "Percentage of swap fees going to treasury and/or token holders",
+        "ProtocolRevenue": "Percentage of swap fees going to treasury",
+        "HoldersRevenue": "Money going to governance token holders",
+        "SupplySideRevenue": "Liquidity providers revenue"
+      },
+      "gecko_id": null,
+      "twitter": "Hyperpiexyz_io",
+      "audits": "0",
+      "description": "Hyperpie DEX is a MEME DEX built on Hyperliquid designed around a ve(3,3) tokenomics model",
+      "address": null,
+      "url": "https://www.hyperliquid.magpiexyz.io/dex/swap",
+      "cmcId": null,
+      "id": "6672",
+      "parentProtocol": "parent#magpie-ecosystem"
     }
   ],
   "linkedProtocols": [
@@ -227,7 +284,9 @@
     "Wompie",
     "Penpie",
     "Radpie",
-    "Cakepie"
+    "Cakepie",
+    "Hyperpie Launchpad",
+    "Hyperpie DEX"
   ],
   "defillamaId": "parent#magpie-ecosystem",
   "displayName": "Magpie Ecosystem",
@@ -246,11 +305,11 @@
   "defaultChartView": null,
   "slug": "magpie-ecosystem",
   "protocolType": "protocol",
-  "total24h": 14726,
-  "total48hto24h": 22014,
-  "total7d": 147996,
-  "total30d": 775277,
-  "totalAllTime": 17333820,
+  "total24h": 15699,
+  "total48hto24h": 19407,
+  "total7d": 145861,
+  "total30d": 614542,
+  "totalAllTime": 17630490,
   "totalDataChart": [
     [
       1708732800,
@@ -2330,7 +2389,7 @@
     ],
     [
       1753574400,
-      4
+      17459
     ],
     [
       1753660800,
@@ -2430,27 +2489,79 @@
     ],
     [
       1755734400,
-      31025
+      31199
     ],
     [
       1755820800,
-      27024
+      27398
     ],
     [
       1755907200,
-      23998
+      24211
     ],
     [
       1755993600,
-      22014
+      22262
     ],
     [
       1756080000,
-      14726
+      15243
     ],
     [
       1756166400,
-      16789
+      18328
+    ],
+    [
+      1756252800,
+      17002
+    ],
+    [
+      1756339200,
+      40351
+    ],
+    [
+      1756425600,
+      20741
+    ],
+    [
+      1756512000,
+      17915
+    ],
+    [
+      1756598400,
+      16269
+    ],
+    [
+      1756684800,
+      12789
+    ],
+    [
+      1756771200,
+      32521
+    ],
+    [
+      1756857600,
+      14224
+    ],
+    [
+      1756944000,
+      34805
+    ],
+    [
+      1757030400,
+      16416
+    ],
+    [
+      1757116800,
+      19407
+    ],
+    [
+      1757203200,
+      15699
+    ],
+    [
+      1757289600,
+      18011
     ]
   ],
   "totalDataChartBreakdown": [
@@ -12762,13 +12873,19 @@
       {
         "BSC": {
           "Wompie": 4,
+          "Penpie": 104,
+          "Radpie": 0,
           "Cakepie": 0
         },
         "Arbitrum": {
           "Wompie": 0,
+          "Penpie": 3029,
+          "Radpie": 0,
           "Cakepie": 0
         },
         "Ethereum": {
+          "Penpie": 14322,
+          "Radpie": 0,
           "Cakepie": 0
         }
       }
@@ -13254,6 +13371,9 @@
           "Penpie": 11470,
           "Radpie": 0,
           "Cakepie": 0
+        },
+        "Hyperliquid L1": {
+          "Hyperpie DEX": 0
         }
       }
     ],
@@ -13276,6 +13396,9 @@
           "Penpie": 9641,
           "Radpie": 0,
           "Cakepie": 0
+        },
+        "Hyperliquid L1": {
+          "Hyperpie DEX": 0
         }
       }
     ],
@@ -13298,6 +13421,9 @@
           "Penpie": 10885,
           "Radpie": 0,
           "Cakepie": 0
+        },
+        "Hyperliquid L1": {
+          "Hyperpie DEX": 0
         }
       }
     ],
@@ -13320,6 +13446,9 @@
           "Penpie": 12607,
           "Radpie": 0,
           "Cakepie": 0
+        },
+        "Hyperliquid L1": {
+          "Hyperpie DEX": 174
         }
       }
     ],
@@ -13342,6 +13471,10 @@
           "Penpie": 13891,
           "Radpie": 0,
           "Cakepie": 0
+        },
+        "Hyperliquid L1": {
+          "Hyperpie Launchpad": 47,
+          "Hyperpie DEX": 327
         }
       }
     ],
@@ -13364,6 +13497,10 @@
           "Penpie": 17102,
           "Radpie": 0,
           "Cakepie": 0
+        },
+        "Hyperliquid L1": {
+          "Hyperpie Launchpad": 46,
+          "Hyperpie DEX": 167
         }
       }
     ],
@@ -13386,6 +13523,10 @@
           "Penpie": 14440,
           "Radpie": 0,
           "Cakepie": 0
+        },
+        "Hyperliquid L1": {
+          "Hyperpie Launchpad": 109,
+          "Hyperpie DEX": 139
         }
       }
     ],
@@ -13408,6 +13549,10 @@
           "Penpie": 11802,
           "Radpie": 0,
           "Cakepie": 0
+        },
+        "Hyperliquid L1": {
+          "Hyperpie Launchpad": 308,
+          "Hyperpie DEX": 209
         }
       }
     ],
@@ -13416,23 +13561,365 @@
       {
         "Arbitrum": {
           "Wompie": 0,
-          "Penpie": 3253,
+          "Penpie": 5209,
+          "Radpie": 0,
+          "Cakepie": 0
+        },
+        "BSC": {
+          "Wompie": 1,
+          "Penpie": 64,
+          "Radpie": 0,
+          "Cakepie": 0
+        },
+        "Ethereum": {
+          "Penpie": 12784,
+          "Radpie": 0,
+          "Cakepie": 0
+        },
+        "Hyperliquid L1": {
+          "Hyperpie Launchpad": 106,
+          "Hyperpie DEX": 164
+        }
+      }
+    ],
+    [
+      1756252800,
+      {
+        "Arbitrum": {
+          "Wompie": 0,
+          "Penpie": 3701,
+          "Radpie": 0,
+          "Cakepie": 0
+        },
+        "BSC": {
+          "Wompie": 22,
+          "Penpie": 529,
+          "Radpie": 0,
+          "Cakepie": 0
+        },
+        "Ethereum": {
+          "Penpie": 11340,
+          "Radpie": 0,
+          "Cakepie": 0
+        },
+        "Hyperliquid L1": {
+          "Hyperpie Launchpad": 838,
+          "Hyperpie DEX": 572
+        }
+      }
+    ],
+    [
+      1756339200,
+      {
+        "Arbitrum": {
+          "Wompie": 0,
+          "Penpie": 25550,
+          "Radpie": 0,
+          "Cakepie": 0
+        },
+        "BSC": {
+          "Wompie": 2,
+          "Penpie": 2157,
+          "Radpie": 0,
+          "Cakepie": 0
+        },
+        "Ethereum": {
+          "Penpie": 11639,
+          "Radpie": 0,
+          "Cakepie": 0
+        },
+        "Hyperliquid L1": {
+          "Hyperpie Launchpad": 719,
+          "Hyperpie DEX": 284
+        }
+      }
+    ],
+    [
+      1756425600,
+      {
+        "Arbitrum": {
+          "Wompie": 0,
+          "Penpie": 7019,
           "Radpie": 0,
           "Cakepie": 0
         },
         "BSC": {
           "Wompie": 25,
-          "Penpie": 510,
+          "Penpie": 1475,
           "Radpie": 0,
           "Cakepie": 0
         },
         "Ethereum": {
-          "Penpie": 13001,
+          "Penpie": 10436,
           "Radpie": 0,
           "Cakepie": 0
+        },
+        "Hyperliquid L1": {
+          "Hyperpie Launchpad": 920,
+          "Hyperpie DEX": 866
+        }
+      }
+    ],
+    [
+      1756512000,
+      {
+        "Arbitrum": {
+          "Wompie": 0,
+          "Penpie": 6804,
+          "Radpie": 0,
+          "Cakepie": 0
+        },
+        "BSC": {
+          "Wompie": 1,
+          "Penpie": 245,
+          "Radpie": 0,
+          "Cakepie": 0
+        },
+        "Ethereum": {
+          "Penpie": 10290,
+          "Radpie": 0,
+          "Cakepie": 0
+        },
+        "Hyperliquid L1": {
+          "Hyperpie Launchpad": 340,
+          "Hyperpie DEX": 235
+        }
+      }
+    ],
+    [
+      1756598400,
+      {
+        "Arbitrum": {
+          "Wompie": 0,
+          "Penpie": 6458,
+          "Radpie": 0,
+          "Cakepie": 0
+        },
+        "BSC": {
+          "Wompie": 7,
+          "Penpie": 333,
+          "Radpie": 0,
+          "Cakepie": 0
+        },
+        "Ethereum": {
+          "Penpie": 9205,
+          "Radpie": 0,
+          "Cakepie": 0
+        },
+        "Hyperliquid L1": {
+          "Hyperpie Launchpad": 175,
+          "Hyperpie DEX": 91
+        }
+      }
+    ],
+    [
+      1756684800,
+      {
+        "Arbitrum": {
+          "Wompie": 0,
+          "Penpie": 3607,
+          "Radpie": 0,
+          "Cakepie": 0
+        },
+        "BSC": {
+          "Wompie": 3,
+          "Penpie": 682,
+          "Radpie": 0,
+          "Cakepie": 0
+        },
+        "Ethereum": {
+          "Penpie": 8066,
+          "Radpie": 0,
+          "Cakepie": 0
+        },
+        "Hyperliquid L1": {
+          "Hyperpie Launchpad": 354,
+          "Hyperpie DEX": 77
+        }
+      }
+    ],
+    [
+      1756771200,
+      {
+        "BSC": {
+          "Wompie": 0,
+          "Penpie": 2472,
+          "Radpie": 0,
+          "Cakepie": 0
+        },
+        "Arbitrum": {
+          "Wompie": 0,
+          "Penpie": 19429,
+          "Radpie": 0,
+          "Cakepie": 0
+        },
+        "Ethereum": {
+          "Penpie": 10441,
+          "Radpie": 0,
+          "Cakepie": 0
+        },
+        "Hyperliquid L1": {
+          "Hyperpie Launchpad": 105,
+          "Hyperpie DEX": 74
+        }
+      }
+    ],
+    [
+      1756857600,
+      {
+        "Arbitrum": {
+          "Wompie": 0,
+          "Penpie": 4823,
+          "Radpie": 0,
+          "Cakepie": 0
+        },
+        "BSC": {
+          "Wompie": 18,
+          "Penpie": 33,
+          "Radpie": 0,
+          "Cakepie": 0
+        },
+        "Ethereum": {
+          "Penpie": 9020,
+          "Radpie": 0,
+          "Cakepie": 0
+        },
+        "Hyperliquid L1": {
+          "Hyperpie Launchpad": 246,
+          "Hyperpie DEX": 84
+        }
+      }
+    ],
+    [
+      1756944000,
+      {
+        "Arbitrum": {
+          "Wompie": 0,
+          "Penpie": 19588,
+          "Radpie": 0,
+          "Cakepie": 0
+        },
+        "BSC": {
+          "Wompie": 3,
+          "Penpie": 1803,
+          "Radpie": 0,
+          "Cakepie": 0
+        },
+        "Ethereum": {
+          "Penpie": 13028,
+          "Radpie": 0,
+          "Cakepie": 0
+        },
+        "Hyperliquid L1": {
+          "Hyperpie Launchpad": 229,
+          "Hyperpie DEX": 154
+        }
+      }
+    ],
+    [
+      1757030400,
+      {
+        "Arbitrum": {
+          "Wompie": 0,
+          "Penpie": 3848,
+          "Radpie": 0,
+          "Cakepie": 0
+        },
+        "BSC": {
+          "Wompie": 24,
+          "Penpie": 173,
+          "Radpie": 0,
+          "Cakepie": 0
+        },
+        "Ethereum": {
+          "Penpie": 12071,
+          "Radpie": 0,
+          "Cakepie": 0
+        },
+        "Hyperliquid L1": {
+          "Hyperpie Launchpad": 223,
+          "Hyperpie DEX": 77
+        }
+      }
+    ],
+    [
+      1757116800,
+      {
+        "Arbitrum": {
+          "Wompie": 0,
+          "Penpie": 5393,
+          "Radpie": 0,
+          "Cakepie": 0
+        },
+        "BSC": {
+          "Wompie": 43,
+          "Penpie": 1656,
+          "Radpie": 0,
+          "Cakepie": 0
+        },
+        "Ethereum": {
+          "Penpie": 12092,
+          "Radpie": 0,
+          "Cakepie": 0
+        },
+        "Hyperliquid L1": {
+          "Hyperpie Launchpad": 166,
+          "Hyperpie DEX": 57
+        }
+      }
+    ],
+    [
+      1757203200,
+      {
+        "Arbitrum": {
+          "Wompie": 0,
+          "Penpie": 3234,
+          "Radpie": 0,
+          "Cakepie": 0
+        },
+        "BSC": {
+          "Wompie": 1,
+          "Penpie": 415,
+          "Radpie": 0,
+          "Cakepie": 0
+        },
+        "Ethereum": {
+          "Penpie": 11601,
+          "Radpie": 0,
+          "Cakepie": 0
+        },
+        "Hyperliquid L1": {
+          "Hyperpie Launchpad": 354,
+          "Hyperpie DEX": 94
+        }
+      }
+    ],
+    [
+      1757289600,
+      {
+        "Arbitrum": {
+          "Wompie": 0,
+          "Penpie": 4130,
+          "Radpie": 0,
+          "Cakepie": 0
+        },
+        "BSC": {
+          "Wompie": 33,
+          "Penpie": 1135,
+          "Radpie": 0,
+          "Cakepie": 0
+        },
+        "Ethereum": {
+          "Penpie": 12393,
+          "Radpie": 0,
+          "Cakepie": 0
+        },
+        "Hyperliquid L1": {
+          "Hyperpie Launchpad": 95,
+          "Hyperpie DEX": 225
         }
       }
     ]
   ],
-  "change_1d": -33.11
+  "change_1d": -19.11
 }

@@ -36,11 +36,11 @@
   "defaultChartView": null,
   "slug": "bitlayer",
   "protocolType": "chain",
-  "total24h": 29793,
-  "total48hto24h": 29082,
-  "total7d": 211054,
-  "total30d": 1002694,
-  "totalAllTime": 22221904,
+  "total24h": 50639,
+  "total48hto24h": 73131,
+  "total7d": 346024,
+  "total30d": 1115213,
+  "totalAllTime": 22447906,
   "totalDataChart": [
     [
       1713225600,
@@ -2029,6 +2029,18 @@
     [
       1756080000,
       29793
+    ],
+    [
+      1756166400,
+      102232
+    ],
+    [
+      1756252800,
+      73131
+    ],
+    [
+      1756339200,
+      50639
     ]
   ],
   "totalDataChartBreakdown": [
@@ -6007,7 +6019,31 @@
           "Bitlayer": 29793
         }
       }
+    ],
+    [
+      1756166400,
+      {
+        "Bitlayer": {
+          "Bitlayer": 102232
+        }
+      }
+    ],
+    [
+      1756252800,
+      {
+        "Bitlayer": {
+          "Bitlayer": 73131
+        }
+      }
+    ],
+    [
+      1756339200,
+      {
+        "Bitlayer": {
+          "Bitlayer": 50639
+        }
+      }
     ]
   ],
-  "change_1d": 2.44
+  "change_1d": -30.76
 }

@@ -42,11 +42,11 @@
   "defaultChartView": null,
   "slug": "circle-usyc",
   "protocolType": "protocol",
-  "total24h": 18606,
-  "total48hto24h": 0,
-  "total7d": 40563,
-  "total30d": 141755,
-  "totalAllTime": 2476067,
+  "total24h": 6310,
+  "total48hto24h": 6387,
+  "total7d": 43259,
+  "total30d": 149774,
+  "totalAllTime": 2499624,
   "totalDataChart": [
     [
       1695945600,
@@ -2393,6 +2393,10 @@
       4672
     ],
     [
+      1746576000,
+      4672
+    ],
+    [
       1746662400,
       4644
     ],
@@ -2831,6 +2835,18 @@
     [
       1756080000,
       18606
+    ],
+    [
+      1756166400,
+      6188
+    ],
+    [
+      1756252800,
+      6387
+    ],
+    [
+      1756339200,
+      6310
     ]
   ],
   "totalDataChartBreakdown": [
@@ -7523,6 +7539,14 @@
       }
     ],
     [
+      1746576000,
+      {
+        "Ethereum": {
+          "Circle USYC": 4672
+        }
+      }
+    ],
+    [
       1746662400,
       {
         "Ethereum": {
@@ -8401,6 +8425,31 @@
           "Circle USYC": 18606
         }
       }
+    ],
+    [
+      1756166400,
+      {
+        "Ethereum": {
+          "Circle USYC": 6188
+        }
+      }
+    ],
+    [
+      1756252800,
+      {
+        "Ethereum": {
+          "Circle USYC": 6387
+        }
+      }
+    ],
+    [
+      1756339200,
+      {
+        "Ethereum": {
+          "Circle USYC": 6310
+        }
+      }
     ]
-  ]
+  ],
+  "change_1d": -1.21
 }

@@ -43,11 +43,11 @@
       ],
       "methodologyURL": "https://github.com/DefiLlama/dimension-adapters/blob/master/fees/compound.ts",
       "methodology": {
-        "UserFees": "Interest paid by borrowers",
-        "Fees": "Interest paid by borrowers",
-        "Revenue": "Percentage of interest going to treasury",
-        "ProtocolRevenue": "Percentage of interest going to treasury",
-        "SupplySideRevenue": "Interest paid to lenders"
+        "UserFees": "Total borrow interest paid by borrowers.",
+        "Fees": "Total borrow interest paid by borrowers.",
+        "Revenue": "Share of borrow interest to Compound treasury.",
+        "ProtocolRevenue": "Share of borrow interest to Compound treasury.",
+        "SupplySideRevenue": "Total borrow interest paid to lenders."
       },
       "gecko_id": null,
       "twitter": "compoundfinance",
@@ -89,10 +89,10 @@
       "methodologyURL": "https://github.com/DefiLlama/dimension-adapters/blob/master/fees/compound-v3.ts",
       "methodology": {
         "UserFees": "Interest paid by borrowers",
-        "Fees": "Interest paid by borrowers",
-        "Revenue": "Percentage of interest going to treasury",
-        "ProtocolRevenue": "Percentage of interest going to treasury",
-        "SupplySideRevenue": "Interest paid to lenders"
+        "Fees": "Total borrow interest paid by borrowers.",
+        "Revenue": "No borrow interest to Compound treasury.",
+        "ProtocolRevenue": "No borrow interest to Compound treasury.",
+        "SupplySideRevenue": "All borrow interest paid to lenders."
       },
       "gecko_id": null,
       "forkedFrom": [],
@@ -151,11 +151,11 @@
   "defaultChartView": null,
   "slug": "compound-finance",
   "protocolType": "protocol",
-  "total24h": 4870,
-  "total48hto24h": 6329,
-  "total7d": 47916,
-  "total30d": 180016,
-  "totalAllTime": 63234208,
+  "total24h": 2592,
+  "total48hto24h": 2046,
+  "total7d": 15664,
+  "total30d": 140556,
+  "totalAllTime": 63260847,
   "totalDataChart": [
     [
       1557273600,
@@ -9282,10 +9282,6 @@
       6901
     ],
     [
-      1755388800,
-      6665
-    ],
-    [
       1755475200,
       6660
     ],
@@ -9316,6 +9312,62 @@
     [
       1756080000,
       4870
+    ],
+    [
+      1756166400,
+      4249
+    ],
+    [
+      1756252800,
+      4328
+    ],
+    [
+      1756339200,
+      3027
+    ],
+    [
+      1756425600,
+      2112
+    ],
+    [
+      1756512000,
+      2178
+    ],
+    [
+      1756598400,
+      1746
+    ],
+    [
+      1756684800,
+      2508
+    ],
+    [
+      1756771200,
+      1903
+    ],
+    [
+      1756857600,
+      2265
+    ],
+    [
+      1756944000,
+      2001
+    ],
+    [
+      1757030400,
+      2349
+    ],
+    [
+      1757116800,
+      2046
+    ],
+    [
+      1757203200,
+      2592
+    ],
+    [
+      1757289600,
+      0
     ]
   ],
   "totalDataChartBreakdown": [
@@ -27568,14 +27620,6 @@
       }
     ],
     [
-      1755388800,
-      {
-        "Ethereum": {
-          "Compound V2": 6665
-        }
-      }
-    ],
-    [
       1755475200,
       {
         "Ethereum": {
@@ -27638,7 +27682,193 @@
           "Compound V2": 4870
         }
       }
+    ],
+    [
+      1756166400,
+      {
+        "Ethereum": {
+          "Compound V2": 4249
+        }
+      }
+    ],
+    [
+      1756252800,
+      {
+        "Ethereum": {
+          "Compound V2": 4328
+        }
+      }
+    ],
+    [
+      1756339200,
+      {
+        "Ethereum": {
+          "Compound V2": 3027
+        }
+      }
+    ],
+    [
+      1756425600,
+      {
+        "Ethereum": {
+          "Compound V2": 2112
+        }
+      }
+    ],
+    [
+      1756512000,
+      {
+        "Ethereum": {
+          "Compound V2": 2178
+        }
+      }
+    ],
+    [
+      1756598400,
+      {
+        "Ethereum": {
+          "Compound V2": 1746
+        }
+      }
+    ],
+    [
+      1756684800,
+      {
+        "Ethereum": {
+          "Compound V2": 2508
+        }
+      }
+    ],
+    [
+      1756771200,
+      {
+        "Ethereum": {
+          "Compound V2": 1903
+        }
+      }
+    ],
+    [
+      1756857600,
+      {
+        "Ethereum": {
+          "Compound V2": 2265
+        }
+      }
+    ],
+    [
+      1756944000,
+      {
+        "Ethereum": {
+          "Compound V2": 2001
+        }
+      }
+    ],
+    [
+      1757030400,
+      {
+        "Ethereum": {
+          "Compound V2": 2349
+        }
+      }
+    ],
+    [
+      1757116800,
+      {
+        "Ethereum": {
+          "Compound V2": 2046,
+          "Compound V3": 0
+        },
+        "OP Mainnet": {
+          "Compound V3": 0
+        },
+        "Scroll": {
+          "Compound V3": 0
+        },
+        "Polygon": {
+          "Compound V3": 0
+        },
+        "Mantle": {
+          "Compound V3": 0
+        },
+        "Unichain": {
+          "Compound V3": 0
+        },
+        "Linea": {
+          "Compound V3": 0
+        },
+        "Base": {
+          "Compound V3": 0
+        },
+        "Arbitrum": {
+          "Compound V3": 0
+        }
+      }
+    ],
+    [
+      1757203200,
+      {
+        "Ethereum": {
+          "Compound V2": 2592,
+          "Compound V3": 0
+        },
+        "OP Mainnet": {
+          "Compound V3": 0
+        },
+        "Unichain": {
+          "Compound V3": 0
+        },
+        "Polygon": {
+          "Compound V3": 0
+        },
+        "Linea": {
+          "Compound V3": 0
+        },
+        "Scroll": {
+          "Compound V3": 0
+        },
+        "Mantle": {
+          "Compound V3": 0
+        },
+        "Arbitrum": {
+          "Compound V3": 0
+        },
+        "Base": {
+          "Compound V3": 0
+        }
+      }
+    ],
+    [
+      1757289600,
+      {
+        "Unichain": {
+          "Compound V3": 0
+        },
+        "OP Mainnet": {
+          "Compound V3": 0
+        },
+        "Polygon": {
+          "Compound V3": 0
+        },
+        "Linea": {
+          "Compound V3": 0
+        },
+        "Mantle": {
+          "Compound V3": 0
+        },
+        "Scroll": {
+          "Compound V3": 0
+        },
+        "Base": {
+          "Compound V3": 0
+        },
+        "Arbitrum": {
+          "Compound V3": 0
+        },
+        "Ethereum": {
+          "Compound V3": 0
+        }
+      }
     ]
   ],
-  "change_1d": -23.05
+  "change_1d": 26.69
 }

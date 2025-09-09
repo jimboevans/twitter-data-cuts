@@ -50,11 +50,11 @@
     "OpenEden",
     "OpenEden TBILL"
   ],
-  "total24h": 2299,
-  "total48hto24h": 2298,
-  "total7d": 16141,
-  "total30d": 63603,
-  "totalAllTime": 538368,
+  "total24h": 2268,
+  "total48hto24h": 2267,
+  "total7d": 16045,
+  "total30d": 65866,
+  "totalAllTime": 543646,
   "totalDataChart": [
     [
       1717372800,
@@ -1729,10 +1729,6 @@
       1524
     ],
     [
-      1753488000,
-      1524
-    ],
-    [
       1753574400,
       1524
     ],
@@ -1855,6 +1851,18 @@
     [
       1756166400,
       2299
+    ],
+    [
+      1756252800,
+      2267
+    ],
+    [
+      1756339200,
+      2267
+    ],
+    [
+      1756425600,
+      2268
     ]
   ],
   "totalDataChartBreakdown": [
@@ -7057,23 +7065,6 @@
       }
     ],
     [
-      1753488000,
-      {
-        "Ethereum": {
-          "OpenEden TBILL": 1249
-        },
-        "Arbitrum": {
-          "OpenEden TBILL": 48
-        },
-        "XRPL": {
-          "OpenEden TBILL": 149
-        },
-        "Solana": {
-          "OpenEden TBILL": 78
-        }
-      }
-    ],
-    [
       1753574400,
       {
         "Ethereum": {
@@ -7597,6 +7588,57 @@
         },
         "Ethereum": {
           "OpenEden TBILL": 1617
+        }
+      }
+    ],
+    [
+      1756252800,
+      {
+        "Ethereum": {
+          "OpenEden TBILL": 1585
+        },
+        "Solana": {
+          "OpenEden TBILL": 71
+        },
+        "Arbitrum": {
+          "OpenEden TBILL": 48
+        },
+        "XRPL": {
+          "OpenEden TBILL": 563
+        }
+      }
+    ],
+    [
+      1756339200,
+      {
+        "Ethereum": {
+          "OpenEden TBILL": 1585
+        },
+        "Solana": {
+          "OpenEden TBILL": 71
+        },
+        "XRPL": {
+          "OpenEden TBILL": 563
+        },
+        "Arbitrum": {
+          "OpenEden TBILL": 48
+        }
+      }
+    ],
+    [
+      1756425600,
+      {
+        "Solana": {
+          "OpenEden TBILL": 71
+        },
+        "Arbitrum": {
+          "OpenEden TBILL": 48
+        },
+        "Ethereum": {
+          "OpenEden TBILL": 1586
+        },
+        "XRPL": {
+          "OpenEden TBILL": 563
         }
       }
     ]

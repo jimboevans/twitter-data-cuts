@@ -38,11 +38,11 @@
   "defaultChartView": null,
   "slug": "dsx",
   "protocolType": "protocol",
-  "total24h": 91,
-  "total48hto24h": 71,
-  "total7d": 243,
-  "total30d": 916,
-  "totalAllTime": 916,
+  "total24h": 245,
+  "total48hto24h": 1,
+  "total7d": 431,
+  "total30d": 1162,
+  "totalAllTime": 1162,
   "totalDataChart": [
     [
       1754092800,
@@ -139,6 +139,18 @@
     [
       1756080000,
       91
+    ],
+    [
+      1756166400,
+      0
+    ],
+    [
+      1756252800,
+      1
+    ],
+    [
+      1756339200,
+      245
     ]
   ],
   "totalDataChartBreakdown": [
@@ -333,7 +345,31 @@
           "DSX": 91
         }
       }
+    ],
+    [
+      1756166400,
+      {
+        "Solana": {
+          "DSX": 0
+        }
+      }
+    ],
+    [
+      1756252800,
+      {
+        "Solana": {
+          "DSX": 1
+        }
+      }
+    ],
+    [
+      1756339200,
+      {
+        "Solana": {
+          "DSX": 245
+        }
+      }
     ]
   ],
-  "change_1d": 28.17
+  "change_1d": 24400
 }

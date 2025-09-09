@@ -38,11 +38,11 @@
   "defaultChartView": null,
   "slug": "pepeboost",
   "protocolType": "protocol",
-  "total24h": 1652,
-  "total48hto24h": 2772,
-  "total7d": 21312,
-  "total30d": 99455,
-  "totalAllTime": 7982881,
+  "total24h": 3473,
+  "total48hto24h": 2981,
+  "total7d": 18397,
+  "total30d": 97697,
+  "totalAllTime": 7992156,
   "totalDataChart": [
     [
       1704585600,
@@ -2431,6 +2431,18 @@
     [
       1756080000,
       1652
+    ],
+    [
+      1756166400,
+      2821
+    ],
+    [
+      1756252800,
+      2981
+    ],
+    [
+      1756339200,
+      3473
     ]
   ],
   "totalDataChartBreakdown": [
@@ -7209,7 +7221,31 @@
           "Pepeboost": 1652
         }
       }
+    ],
+    [
+      1756166400,
+      {
+        "Solana": {
+          "Pepeboost": 2821
+        }
+      }
+    ],
+    [
+      1756252800,
+      {
+        "Solana": {
+          "Pepeboost": 2981
+        }
+      }
+    ],
+    [
+      1756339200,
+      {
+        "Solana": {
+          "Pepeboost": 3473
+        }
+      }
     ]
   ],
-  "change_1d": -40.4
+  "change_1d": 16.5
 }

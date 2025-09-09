@@ -34,11 +34,11 @@
   "defaultChartView": null,
   "slug": "soltradingbot",
   "protocolType": "protocol",
-  "total24h": 18411,
-  "total48hto24h": 14629,
-  "total7d": 112894,
-  "total30d": 432030,
-  "totalAllTime": 51928136,
+  "total24h": 14604,
+  "total48hto24h": 17252,
+  "total7d": 106781,
+  "total30d": 444744,
+  "totalAllTime": 51992998,
   "totalDataChart": [
     [
       1701388800,
@@ -2353,6 +2353,10 @@
       17752
     ],
     [
+      1751328000,
+      16987
+    ],
+    [
       1751414400,
       15709
     ],
@@ -2571,6 +2575,18 @@
     [
       1756080000,
       18411
+    ],
+    [
+      1756166400,
+      16019
+    ],
+    [
+      1756252800,
+      17252
+    ],
+    [
+      1756339200,
+      14604
     ]
   ],
   "totalDataChartBreakdown": [
@@ -7199,6 +7215,14 @@
       }
     ],
     [
+      1751328000,
+      {
+        "Solana": {
+          "SolTradingBot": 16987
+        }
+      }
+    ],
+    [
       1751414400,
       {
         "Solana": {
@@ -7637,7 +7661,31 @@
           "SolTradingBot": 18411
         }
       }
+    ],
+    [
+      1756166400,
+      {
+        "Solana": {
+          "SolTradingBot": 16019
+        }
+      }
+    ],
+    [
+      1756252800,
+      {
+        "Solana": {
+          "SolTradingBot": 17252
+        }
+      }
+    ],
+    [
+      1756339200,
+      {
+        "Solana": {
+          "SolTradingBot": 14604
+        }
+      }
     ]
   ],
-  "change_1d": 25.85
+  "change_1d": -15.35
 }

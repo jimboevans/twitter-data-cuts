@@ -38,11 +38,11 @@
   "defaultChartView": null,
   "slug": "falcon-bot",
   "protocolType": "protocol",
-  "total24h": 1,
-  "total48hto24h": 0,
-  "total7d": 4,
-  "total30d": 20,
-  "totalAllTime": 2945,
+  "total24h": 3,
+  "total48hto24h": 4,
+  "total7d": 10,
+  "total30d": 28,
+  "totalAllTime": 2955,
   "totalDataChart": [
     [
       1728172800,
@@ -1209,10 +1209,6 @@
       0
     ],
     [
-      1753488000,
-      0
-    ],
-    [
       1753574400,
       0
     ],
@@ -1334,7 +1330,19 @@
     ],
     [
       1756166400,
-      1
+      0
+    ],
+    [
+      1756252800,
+      4
+    ],
+    [
+      1756339200,
+      4
+    ],
+    [
+      1756425600,
+      3
     ]
   ],
   "totalDataChartBreakdown": [
@@ -3667,14 +3675,6 @@
       }
     ],
     [
-      1753488000,
-      {
-        "Solana": {
-          "Falcon Bot": 0
-        }
-      }
-    ],
-    [
       1753574400,
       {
         "Solana": {
@@ -3918,9 +3918,34 @@
       1756166400,
       {
         "Solana": {
-          "Falcon Bot": 1
+          "Falcon Bot": 0
+        }
+      }
+    ],
+    [
+      1756252800,
+      {
+        "Solana": {
+          "Falcon Bot": 4
+        }
+      }
+    ],
+    [
+      1756339200,
+      {
+        "Solana": {
+          "Falcon Bot": 4
+        }
+      }
+    ],
+    [
+      1756425600,
+      {
+        "Solana": {
+          "Falcon Bot": 3
         }
       }
     ]
-  ]
+  ],
+  "change_1d": -25
 }

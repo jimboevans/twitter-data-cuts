@@ -47,11 +47,11 @@
     "Superstate USTB",
     "Superstate USCC"
   ],
-  "total24h": 26000,
-  "total48hto24h": 29507,
-  "total7d": 210408,
-  "total30d": 372005,
-  "totalAllTime": 539952,
+  "total24h": 29976,
+  "total48hto24h": 33694,
+  "total7d": 208893,
+  "total30d": 466872,
+  "totalAllTime": 638795,
   "totalDataChart": [
     [
       1722297600,
@@ -1623,7 +1623,19 @@
     ],
     [
       1756166400,
-      26000
+      32802
+    ],
+    [
+      1756252800,
+      33694
+    ],
+    [
+      1756339200,
+      28371
+    ],
+    [
+      1756425600,
+      29976
     ]
   ],
   "totalDataChartBreakdown": [
@@ -4803,13 +4815,46 @@
       1756166400,
       {
         "Ethereum": {
-          "Superstate USTB": 23224
+          "Superstate USTB": 29242
         },
         "Plume Mainnet": {
-          "Superstate USTB": 2776
+          "Superstate USTB": 3560
+        }
+      }
+    ],
+    [
+      1756252800,
+      {
+        "Ethereum": {
+          "Superstate USTB": 29918
+        },
+        "Plume Mainnet": {
+          "Superstate USTB": 3776
+        }
+      }
+    ],
+    [
+      1756339200,
+      {
+        "Ethereum": {
+          "Superstate USTB": 24960
+        },
+        "Plume Mainnet": {
+          "Superstate USTB": 3411
+        }
+      }
+    ],
+    [
+      1756425600,
+      {
+        "Ethereum": {
+          "Superstate USTB": 26415
+        },
+        "Plume Mainnet": {
+          "Superstate USTB": 3561
         }
       }
     ]
   ],
-  "change_1d": -11.89
+  "change_1d": -11.03
 }

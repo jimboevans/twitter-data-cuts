@@ -40,11 +40,11 @@
   "defaultChartView": null,
   "slug": "aqua",
   "protocolType": "protocol",
-  "total24h": 4201,
-  "total48hto24h": 4032,
-  "total7d": 28761,
-  "total30d": 105161,
-  "totalAllTime": 105161,
+  "total24h": 2771,
+  "total48hto24h": 7454,
+  "total7d": 25928,
+  "total30d": 117220,
+  "totalAllTime": 117220,
   "totalDataChart": [
     [
       1754956800,
@@ -101,6 +101,18 @@
     [
       1756080000,
       4201
+    ],
+    [
+      1756166400,
+      1834
+    ],
+    [
+      1756252800,
+      7454
+    ],
+    [
+      1756339200,
+      2771
     ]
   ],
   "totalDataChartBreakdown": [
@@ -215,7 +227,31 @@
           "Aqua": 4201
         }
       }
+    ],
+    [
+      1756166400,
+      {
+        "Solana": {
+          "Aqua": 1834
+        }
+      }
+    ],
+    [
+      1756252800,
+      {
+        "Solana": {
+          "Aqua": 7454
+        }
+      }
+    ],
+    [
+      1756339200,
+      {
+        "Solana": {
+          "Aqua": 2771
+        }
+      }
     ]
   ],
-  "change_1d": 4.19
+  "change_1d": -62.83
 }

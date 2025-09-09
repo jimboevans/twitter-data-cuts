@@ -56,11 +56,11 @@
     "Orca",
     "Orca DEX"
   ],
-  "total24h": 480433,
-  "total48hto24h": 477185,
-  "total7d": 3228343,
-  "total30d": 11997280,
-  "totalAllTime": 154570866,
+  "total24h": 475465,
+  "total48hto24h": 536375,
+  "total7d": 3478938,
+  "total30d": 11762452,
+  "totalAllTime": 155894538,
   "totalDataChart": [
     [
       1731369600,
@@ -1208,7 +1208,19 @@
     ],
     [
       1756166400,
-      480433
+      328885
+    ],
+    [
+      1756252800,
+      536375
+    ],
+    [
+      1756339200,
+      463380
+    ],
+    [
+      1756425600,
+      475465
     ]
   ],
   "totalDataChartBreakdown": [
@@ -4362,13 +4374,46 @@
       1756166400,
       {
         "Eclipse": {
-          "Orca DEX": 1912
+          "Orca DEX": 1108
         },
         "Solana": {
-          "Orca DEX": 478521
+          "Orca DEX": 327777
+        }
+      }
+    ],
+    [
+      1756252800,
+      {
+        "Eclipse": {
+          "Orca DEX": 671
+        },
+        "Solana": {
+          "Orca DEX": 535704
+        }
+      }
+    ],
+    [
+      1756339200,
+      {
+        "Eclipse": {
+          "Orca DEX": 555
+        },
+        "Solana": {
+          "Orca DEX": 462825
+        }
+      }
+    ],
+    [
+      1756425600,
+      {
+        "Eclipse": {
+          "Orca DEX": 562
+        },
+        "Solana": {
+          "Orca DEX": 474903
         }
       }
     ]
   ],
-  "change_1d": 0.68
+  "change_1d": -11.36
 }

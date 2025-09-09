@@ -38,11 +38,11 @@
   "defaultChartView": null,
   "slug": "tradewiz",
   "protocolType": "protocol",
-  "total24h": 2,
+  "total24h": 1,
   "total48hto24h": 2,
-  "total7d": 12,
-  "total30d": 376505,
-  "totalAllTime": 4219370,
+  "total7d": 11,
+  "total30d": 345417,
+  "totalAllTime": 4219373,
   "totalDataChart": [
     [
       1734480000,
@@ -1050,7 +1050,19 @@
     ],
     [
       1756166400,
+      1
+    ],
+    [
+      1756252800,
       2
+    ],
+    [
+      1756339200,
+      1
+    ],
+    [
+      1756425600,
+      1
     ]
   ],
   "totalDataChartBreakdown": [
@@ -3066,10 +3078,34 @@
       1756166400,
       {
         "Solana": {
+          "TradeWiz": 1
+        }
+      }
+    ],
+    [
+      1756252800,
+      {
+        "Solana": {
           "TradeWiz": 2
+        }
+      }
+    ],
+    [
+      1756339200,
+      {
+        "Solana": {
+          "TradeWiz": 1
+        }
+      }
+    ],
+    [
+      1756425600,
+      {
+        "Solana": {
+          "TradeWiz": 1
         }
       }
     ]
   ],
-  "change_1d": 0
+  "change_1d": -50
 }

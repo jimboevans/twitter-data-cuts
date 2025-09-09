@@ -41,11 +41,11 @@
   "defaultChartView": null,
   "slug": "franklin-templeton",
   "protocolType": "protocol",
-  "total24h": 3799,
-  "total48hto24h": 3799,
-  "total7d": 25874,
-  "total30d": 54837,
-  "totalAllTime": 849417,
+  "total24h": 3765,
+  "total48hto24h": 3765,
+  "total7d": 26488,
+  "total30d": 60951,
+  "totalAllTime": 860679,
   "totalDataChart": [
     [
       1723766400,
@@ -1485,7 +1485,19 @@
     ],
     [
       1756166400,
-      3799
+      3766
+    ],
+    [
+      1756252800,
+      3765
+    ],
+    [
+      1756339200,
+      3765
+    ],
+    [
+      1756425600,
+      3765
     ]
   ],
   "totalDataChartBreakdown": [
@@ -5441,8 +5453,41 @@
     [
       1756166400,
       {
+        "Polygon": {
+          "Franklin Templeton": 221
+        },
         "Stellar": {
-          "Franklin Templeton": 3578
+          "Franklin Templeton": 3545
+        }
+      }
+    ],
+    [
+      1756252800,
+      {
+        "Polygon": {
+          "Franklin Templeton": 221
+        },
+        "Stellar": {
+          "Franklin Templeton": 3544
+        }
+      }
+    ],
+    [
+      1756339200,
+      {
+        "Polygon": {
+          "Franklin Templeton": 221
+        },
+        "Stellar": {
+          "Franklin Templeton": 3544
+        }
+      }
+    ],
+    [
+      1756425600,
+      {
+        "Stellar": {
+          "Franklin Templeton": 3544
         },
         "Polygon": {
           "Franklin Templeton": 221

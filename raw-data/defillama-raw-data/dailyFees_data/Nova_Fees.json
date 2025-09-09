@@ -38,11 +38,11 @@
   "defaultChartView": null,
   "slug": "nova",
   "protocolType": "protocol",
-  "total24h": 0,
+  "total24h": 2,
   "total48hto24h": 0,
-  "total7d": 1377,
-  "total30d": 21185,
-  "totalAllTime": 319574,
+  "total7d": 278,
+  "total30d": 15726,
+  "totalAllTime": 319576,
   "totalDataChart": [
     [
       1747872000,
@@ -427,6 +427,18 @@
     [
       1756080000,
       0
+    ],
+    [
+      1756166400,
+      0
+    ],
+    [
+      1756252800,
+      0
+    ],
+    [
+      1756339200,
+      2
     ]
   ],
   "totalDataChartBreakdown": [
@@ -1195,6 +1207,30 @@
       {
         "Solana": {
           "Nova": 0
+        }
+      }
+    ],
+    [
+      1756166400,
+      {
+        "Solana": {
+          "Nova": 0
+        }
+      }
+    ],
+    [
+      1756252800,
+      {
+        "Solana": {
+          "Nova": 0
+        }
+      }
+    ],
+    [
+      1756339200,
+      {
+        "Solana": {
+          "Nova": 2
         }
       }
     ]

@@ -38,11 +38,11 @@
   "defaultChartView": null,
   "slug": "padre",
   "protocolType": "protocol",
-  "total24h": 22623,
-  "total48hto24h": 32913,
-  "total7d": 210937,
-  "total30d": 885707,
-  "totalAllTime": 2876343,
+  "total24h": 57870,
+  "total48hto24h": 41575,
+  "total7d": 265547,
+  "total30d": 942345,
+  "totalAllTime": 3021707,
   "totalDataChart": [
     [
       1722211200,
@@ -1579,6 +1579,18 @@
     [
       1756080000,
       22623
+    ],
+    [
+      1756166400,
+      45919
+    ],
+    [
+      1756252800,
+      41575
+    ],
+    [
+      1756339200,
+      57870
     ]
   ],
   "totalDataChartBreakdown": [
@@ -4653,7 +4665,31 @@
           "Padre": 22623
         }
       }
+    ],
+    [
+      1756166400,
+      {
+        "Solana": {
+          "Padre": 45919
+        }
+      }
+    ],
+    [
+      1756252800,
+      {
+        "Solana": {
+          "Padre": 41575
+        }
+      }
+    ],
+    [
+      1756339200,
+      {
+        "Solana": {
+          "Padre": 57870
+        }
+      }
     ]
   ],
-  "change_1d": -31.26
+  "change_1d": 39.19
 }

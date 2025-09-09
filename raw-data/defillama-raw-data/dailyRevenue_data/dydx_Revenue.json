@@ -1,8 +1,8 @@
 {
   "id": "parent#dydx",
   "name": "dYdX",
-  "url": "https://dydx.exchange",
-  "referralUrl": "https://dydx.exchange/r/NZPYBPNN",
+  "url": "https://dydx.trade/?ref=DefiLlama",
+  "referralUrl": "https://dydx.trade/?ref=DefiLlama",
   "description": "The most powerful open trading platform for crypto assets. Margin trade, borrow, and lend cryptocurrency.",
   "logo": "https://icons.llama.fi/dydx.jpg",
   "gecko_id": "dydx-chain",
@@ -47,7 +47,7 @@
       "audits": null,
       "description": "The most powerful open trading platform for crypto assets. Margin trade, borrow, and lend cryptocurrency.",
       "address": "0x92d6c1e31e14520e676a687f0a93788b716beff5",
-      "url": "https://dydx.exchange/",
+      "url": "https://dydx.trade/?ref=DefiLlama",
       "audit_links": [
         "https://docs.dydx.exchange/#independent-audits"
       ],
@@ -86,7 +86,7 @@
       "audits": "0",
       "description": " dYdX Chain Mainnet, a robust blockchain built with the CosmosSDK. This documentation is diligently maintained by the dYdX Operations subDAO to provide a comprehensive resource for validators, developers, and the dYdX community at large.",
       "address": "dydx:ibc/831F0B1BBB1D08A2B75311892876D71565478C532967545476DF4C2D7492E48C",
-      "url": "https://dydx.trade",
+      "url": "https://dydx.trade/?ref=DefiLlama",
       "cmcId": null,
       "id": "4067",
       "parentProtocol": "parent#dydx",
@@ -119,11 +119,11 @@
   "defaultChartView": null,
   "slug": "dydx",
   "protocolType": "protocol",
-  "total24h": 68743,
-  "total48hto24h": 67990,
-  "total7d": 454208,
-  "total30d": 1810558,
-  "totalAllTime": 91367136,
+  "total24h": 18101,
+  "total48hto24h": 0,
+  "total7d": 259744,
+  "total30d": 1674332,
+  "totalAllTime": 91903575,
   "totalDataChart": [
     [
       1699833600,
@@ -2716,6 +2716,54 @@
     [
       1756080000,
       68743
+    ],
+    [
+      1756166400,
+      97730
+    ],
+    [
+      1756252800,
+      52889
+    ],
+    [
+      1756339200,
+      45416
+    ],
+    [
+      1756425600,
+      47865
+    ],
+    [
+      1756512000,
+      21294
+    ],
+    [
+      1756598400,
+      11501
+    ],
+    [
+      1756684800,
+      42647
+    ],
+    [
+      1756771200,
+      55805
+    ],
+    [
+      1756857600,
+      49988
+    ],
+    [
+      1756944000,
+      42217
+    ],
+    [
+      1757030400,
+      50986
+    ],
+    [
+      1757203200,
+      18101
     ]
   ],
   "totalDataChartBreakdown": [
@@ -8922,7 +8970,102 @@
           "dYdX V4": 68743
         }
       }
+    ],
+    [
+      1756166400,
+      {
+        "dYdX": {
+          "dYdX V4": 97730
+        }
+      }
+    ],
+    [
+      1756252800,
+      {
+        "dYdX": {
+          "dYdX V4": 52889
+        }
+      }
+    ],
+    [
+      1756339200,
+      {
+        "dYdX": {
+          "dYdX V4": 45416
+        }
+      }
+    ],
+    [
+      1756425600,
+      {
+        "dYdX": {
+          "dYdX V4": 47865
+        }
+      }
+    ],
+    [
+      1756512000,
+      {
+        "dYdX": {
+          "dYdX V4": 21294
+        }
+      }
+    ],
+    [
+      1756598400,
+      {
+        "dYdX": {
+          "dYdX V4": 11501
+        }
+      }
+    ],
+    [
+      1756684800,
+      {
+        "dYdX": {
+          "dYdX V4": 42647
+        }
+      }
+    ],
+    [
+      1756771200,
+      {
+        "dYdX": {
+          "dYdX V4": 55805
+        }
+      }
+    ],
+    [
+      1756857600,
+      {
+        "dYdX": {
+          "dYdX V4": 49988
+        }
+      }
+    ],
+    [
+      1756944000,
+      {
+        "dYdX": {
+          "dYdX V4": 42217
+        }
+      }
+    ],
+    [
+      1757030400,
+      {
+        "dYdX": {
+          "dYdX V4": 50986
+        }
+      }
+    ],
+    [
+      1757203200,
+      {
+        "dYdX": {
+          "dYdX V4": 18101
+        }
+      }
     ]
-  ],
-  "change_1d": 1.11
+  ]
 }

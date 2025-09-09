@@ -30,9 +30,9 @@
     "lidofinance"
   ],
   "methodology": {
-    "UserFees": "Lido takes 10% fee on users staking rewards",
+    "UserFees": "Lido takes no fees from users.",
     "Fees": "Staking rewards earned by all staked ETH",
-    "Revenue": "Staking rewards earned by all staked ETH",
+    "Revenue": "Lido applies a 10% fee on staking rewards that are split between node operators and the DAO Treasury",
     "ProtocolRevenue": "Lido applies a 10% fee on staking rewards that are split between node operators and the DAO Treasury",
     "SupplySideRevenue": "Staking rewards earned by stETH holders",
     "HoldersRevenue": "No revenue distributed to LDO holders"
@@ -70,11 +70,11 @@
   "defaultChartView": null,
   "slug": "lido",
   "protocolType": "protocol",
-  "total24h": 328347,
-  "total48hto24h": 326636,
-  "total7d": 2201628,
-  "total30d": 8876519,
-  "totalAllTime": 262335905,
+  "total24h": 307127,
+  "total48hto24h": 307127,
+  "total7d": 2142398,
+  "total30d": 9452291,
+  "totalAllTime": 265743902,
   "totalDataChart": [
     [
       1609977600,
@@ -6843,6 +6843,50 @@
     [
       1756080000,
       328347
+    ],
+    [
+      1756166400,
+      325368
+    ],
+    [
+      1756252800,
+      317931
+    ],
+    [
+      1756339200,
+      323633
+    ],
+    [
+      1756425600,
+      302695
+    ],
+    [
+      1756512000,
+      306471
+    ],
+    [
+      1756598400,
+      303755
+    ],
+    [
+      1756684800,
+      300685
+    ],
+    [
+      1756771200,
+      314267
+    ],
+    [
+      1756857600,
+      304705
+    ],
+    [
+      1756944000,
+      301360
+    ],
+    [
+      1757030400,
+      307127
     ]
   ],
   "totalDataChartBreakdown": [
@@ -20381,7 +20425,95 @@
           "Lido": 328347
         }
       }
+    ],
+    [
+      1756166400,
+      {
+        "Ethereum": {
+          "Lido": 325368
+        }
+      }
+    ],
+    [
+      1756252800,
+      {
+        "Ethereum": {
+          "Lido": 317931
+        }
+      }
+    ],
+    [
+      1756339200,
+      {
+        "Ethereum": {
+          "Lido": 323633
+        }
+      }
+    ],
+    [
+      1756425600,
+      {
+        "Ethereum": {
+          "Lido": 302695
+        }
+      }
+    ],
+    [
+      1756512000,
+      {
+        "Ethereum": {
+          "Lido": 306471
+        }
+      }
+    ],
+    [
+      1756598400,
+      {
+        "Ethereum": {
+          "Lido": 303755
+        }
+      }
+    ],
+    [
+      1756684800,
+      {
+        "Ethereum": {
+          "Lido": 300685
+        }
+      }
+    ],
+    [
+      1756771200,
+      {
+        "Ethereum": {
+          "Lido": 314267
+        }
+      }
+    ],
+    [
+      1756857600,
+      {
+        "Ethereum": {
+          "Lido": 304705
+        }
+      }
+    ],
+    [
+      1756944000,
+      {
+        "Ethereum": {
+          "Lido": 301360
+        }
+      }
+    ],
+    [
+      1757030400,
+      {
+        "Ethereum": {
+          "Lido": 307127
+        }
+      }
     ]
   ],
-  "change_1d": 0.52
+  "change_1d": 0
 }

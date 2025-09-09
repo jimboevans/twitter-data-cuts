@@ -22366,9 +22366,97 @@
         1756252800,
         null,
         null,
-        22,
+        25,
         60,
+        25
+      ],
+      [
+        1756339200,
+        null,
+        null,
+        22,
+        58,
         22
+      ],
+      [
+        1756425600,
+        null,
+        null,
+        31,
+        58,
+        31
+      ],
+      [
+        1756512000,
+        null,
+        null,
+        1,
+        58,
+        1
+      ],
+      [
+        1756598400,
+        null,
+        null,
+        2,
+        57,
+        2
+      ],
+      [
+        1756684800,
+        null,
+        null,
+        13,
+        57,
+        13
+      ],
+      [
+        1756771200,
+        null,
+        null,
+        27,
+        57,
+        27
+      ],
+      [
+        1756857600,
+        null,
+        null,
+        46,
+        59,
+        46
+      ],
+      [
+        1756944000,
+        null,
+        null,
+        40,
+        61,
+        40
+      ],
+      [
+        1757030400,
+        null,
+        null,
+        40,
+        62,
+        40
+      ],
+      [
+        1757116800,
+        null,
+        null,
+        1,
+        61,
+        1
+      ],
+      [
+        1757203200,
+        null,
+        null,
+        1,
+        60,
+        1
       ]
     ]
   },
@@ -22381,14 +22469,14 @@
         "is_timestamp": true
       },
       {
-        "name": "TVL USD",
-        "slug": "tvl-usd",
+        "name": "TVL 24 Hour USD",
+        "slug": "tvl24HourUsd",
         "description": "Total Value Locked in the network in USD.",
         "is_timestamp": false
       },
       {
         "name": "Ecosystem DEX Volume (USD)",
-        "slug": "ecosystem-dex-volume-usd",
+        "slug": "dexVolume24HourUsd",
         "description": "USD value of all tokens swapped across supported decentralized exchanges (DEXs) on a network.",
         "is_timestamp": false
       },

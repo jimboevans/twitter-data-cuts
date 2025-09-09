@@ -45,11 +45,11 @@
   "defaultChartView": null,
   "slug": "project-x",
   "protocolType": "protocol",
-  "total24h": 266618,
-  "total48hto24h": 138771,
-  "total7d": 1138509,
-  "total30d": 4030291,
-  "totalAllTime": 5116058,
+  "total24h": 175475,
+  "total48hto24h": 254937,
+  "total7d": 1461118,
+  "total30d": 4468357,
+  "totalAllTime": 5760519,
   "totalDataChart": [
     [
       1744934400,
@@ -125,6 +125,10 @@
     ],
     [
       1746489600,
+      0
+    ],
+    [
+      1746576000,
       0
     ],
     [
@@ -569,7 +573,19 @@
     ],
     [
       1756166400,
-      266618
+      287193
+    ],
+    [
+      1756252800,
+      254937
+    ],
+    [
+      1756339200,
+      193474
+    ],
+    [
+      1756425600,
+      175475
     ]
   ],
   "totalDataChartBreakdown": [
@@ -719,6 +735,14 @@
     ],
     [
       1746489600,
+      {
+        "Hyperliquid L1": {
+          "Project X": 0
+        }
+      }
+    ],
+    [
+      1746576000,
       {
         "Hyperliquid L1": {
           "Project X": 0
@@ -1609,10 +1633,34 @@
       1756166400,
       {
         "Hyperliquid L1": {
-          "Project X": 266618
+          "Project X": 287193
+        }
+      }
+    ],
+    [
+      1756252800,
+      {
+        "Hyperliquid L1": {
+          "Project X": 254937
+        }
+      }
+    ],
+    [
+      1756339200,
+      {
+        "Hyperliquid L1": {
+          "Project X": 193474
+        }
+      }
+    ],
+    [
+      1756425600,
+      {
+        "Hyperliquid L1": {
+          "Project X": 175475
         }
       }
     ]
   ],
-  "change_1d": 92.13
+  "change_1d": -31.17
 }

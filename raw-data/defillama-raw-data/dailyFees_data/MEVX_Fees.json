@@ -39,11 +39,11 @@
   "defaultChartView": null,
   "slug": "mevx",
   "protocolType": "protocol",
-  "total24h": 10402,
-  "total48hto24h": 12386,
-  "total7d": 62749,
-  "total30d": 297265,
-  "totalAllTime": 7542373,
+  "total24h": 11702,
+  "total48hto24h": 12587,
+  "total7d": 71535,
+  "total30d": 303200,
+  "totalAllTime": 7577588,
   "totalDataChart": [
     [
       1722124800,
@@ -1623,7 +1623,19 @@
     ],
     [
       1756166400,
-      10402
+      9308
+    ],
+    [
+      1756252800,
+      12587
+    ],
+    [
+      1756339200,
+      12020
+    ],
+    [
+      1756425600,
+      11702
     ]
   ],
   "totalDataChartBreakdown": [
@@ -4783,10 +4795,34 @@
       1756166400,
       {
         "Solana": {
-          "MEVX": 10402
+          "MEVX": 9308
+        }
+      }
+    ],
+    [
+      1756252800,
+      {
+        "Solana": {
+          "MEVX": 12587
+        }
+      }
+    ],
+    [
+      1756339200,
+      {
+        "Solana": {
+          "MEVX": 12020
+        }
+      }
+    ],
+    [
+      1756425600,
+      {
+        "Solana": {
+          "MEVX": 11702
         }
       }
     ]
   ],
-  "change_1d": -16.02
+  "change_1d": -7.03
 }

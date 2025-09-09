@@ -37,11 +37,11 @@
   "defaultChartView": null,
   "slug": "carbon.inc",
   "protocolType": "protocol",
-  "total24h": 824,
-  "total48hto24h": 206,
-  "total7d": 2968,
-  "total30d": 9187,
-  "totalAllTime": 18732,
+  "total24h": 493,
+  "total48hto24h": 353,
+  "total7d": 3186,
+  "total30d": 10429,
+  "totalAllTime": 20359,
   "totalDataChart": [
     [
       1744243200,
@@ -368,8 +368,8 @@
       10
     ],
     [
-      1751241600,
-      36
+      1751328000,
+      146
     ],
     [
       1751414400,
@@ -590,6 +590,18 @@
     [
       1756080000,
       824
+    ],
+    [
+      1756166400,
+      671
+    ],
+    [
+      1756252800,
+      353
+    ],
+    [
+      1756339200,
+      493
     ]
   ],
   "totalDataChartBreakdown": [
@@ -1242,10 +1254,10 @@
       }
     ],
     [
-      1751241600,
+      1751328000,
       {
         "Base": {
-          "Carbon.inc": 36
+          "Carbon.inc": 146
         }
       }
     ],
@@ -1688,7 +1700,31 @@
           "Carbon.inc": 824
         }
       }
+    ],
+    [
+      1756166400,
+      {
+        "Base": {
+          "Carbon.inc": 671
+        }
+      }
+    ],
+    [
+      1756252800,
+      {
+        "Base": {
+          "Carbon.inc": 353
+        }
+      }
+    ],
+    [
+      1756339200,
+      {
+        "Base": {
+          "Carbon.inc": 493
+        }
+      }
     ]
   ],
-  "change_1d": 300
+  "change_1d": 39.66
 }

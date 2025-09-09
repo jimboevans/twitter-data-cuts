@@ -38,11 +38,11 @@
   "defaultChartView": null,
   "slug": "trojan",
   "protocolType": "protocol",
-  "total24h": 49135,
-  "total48hto24h": 81960,
-  "total7d": 551044,
-  "total30d": 3005721,
-  "totalAllTime": 195523024,
+  "total24h": 81121,
+  "total48hto24h": 118897,
+  "total7d": 604040,
+  "total30d": 2902911,
+  "totalAllTime": 195811396,
   "totalDataChart": [
     [
       1704412800,
@@ -2439,6 +2439,18 @@
     [
       1756080000,
       49135
+    ],
+    [
+      1756166400,
+      88354
+    ],
+    [
+      1756252800,
+      118897
+    ],
+    [
+      1756339200,
+      81121
     ]
   ],
   "totalDataChartBreakdown": [
@@ -7233,7 +7245,31 @@
           "Trojan": 49135
         }
       }
+    ],
+    [
+      1756166400,
+      {
+        "Solana": {
+          "Trojan": 88354
+        }
+      }
+    ],
+    [
+      1756252800,
+      {
+        "Solana": {
+          "Trojan": 118897
+        }
+      }
+    ],
+    [
+      1756339200,
+      {
+        "Solana": {
+          "Trojan": 81121
+        }
+      }
     ]
   ],
-  "change_1d": -40.05
+  "change_1d": -31.77
 }

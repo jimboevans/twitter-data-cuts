@@ -237,11 +237,11 @@
   "defaultChartView": null,
   "slug": "jupiter",
   "protocolType": "protocol",
-  "total24h": 5850060,
-  "total48hto24h": 4906269,
-  "total7d": 30516423,
-  "total30d": 110025225,
-  "totalAllTime": 1098802378,
+  "total24h": 736533,
+  "total48hto24h": 2411026,
+  "total7d": 20789498,
+  "total30d": 111372573,
+  "totalAllTime": 1138022900,
   "totalDataChart": [
     [
       1695945600,
@@ -2445,7 +2445,7 @@
     ],
     [
       1743724800,
-      3130814
+      27964
     ],
     [
       1743811200,
@@ -2985,7 +2985,7 @@
     ],
     [
       1755388800,
-      2416812
+      2414769
     ],
     [
       1755475200,
@@ -3021,7 +3021,59 @@
     ],
     [
       1756166400,
-      13334
+      2653462
+    ],
+    [
+      1756252800,
+      3568118
+    ],
+    [
+      1756339200,
+      3713904
+    ],
+    [
+      1756425600,
+      7876212
+    ],
+    [
+      1756512000,
+      2142213
+    ],
+    [
+      1756598400,
+      1584725
+    ],
+    [
+      1756684800,
+      4729600
+    ],
+    [
+      1756771200,
+      3673628
+    ],
+    [
+      1756857600,
+      2143991
+    ],
+    [
+      1756944000,
+      3730342
+    ],
+    [
+      1757030400,
+      3364378
+    ],
+    [
+      1757116800,
+      2411026
+    ],
+    [
+      1757203200,
+      736533
+    ],
+    [
+      1757289600,
+      10617
     ]
   ],
   "totalDataChartBreakdown": [
@@ -8357,8 +8409,6 @@
       1743724800,
       {
         "Solana": {
-          "Jupiter Aggregator": 662995,
-          "Jupiter Perpetual Exchange": 2439855,
           "Ape Jupiter": 0,
           "Jupiter DCA": 27964
         }
@@ -10007,8 +10057,7 @@
           "Jupiter Perpetual Exchange": 1717304,
           "Ape Jupiter": 145,
           "Jupiter Staked SOL": 401684,
-          "Jupiter DCA": 6031,
-          "Jupiter Studio": 2043
+          "Jupiter DCA": 6031
         }
       }
     ],
@@ -10120,10 +10169,179 @@
       1756166400,
       {
         "Solana": {
-          "Jupiter DCA": 13334
+          "Jupiter Aggregator": 209963,
+          "Jupiter Perpetual Exchange": 2422597,
+          "Ape Jupiter": 146,
+          "Jupiter Staked SOL": 0,
+          "Jupiter DCA": 11366,
+          "Jupiter Studio": 9390
+        }
+      }
+    ],
+    [
+      1756252800,
+      {
+        "Solana": {
+          "Jupiter Aggregator": 187716,
+          "Jupiter Perpetual Exchange": 2929763,
+          "Ape Jupiter": 340,
+          "Jupiter Staked SOL": 423751,
+          "Jupiter DCA": 20418,
+          "Jupiter Studio": 6130
+        }
+      }
+    ],
+    [
+      1756339200,
+      {
+        "Solana": {
+          "Jupiter Aggregator": 173778,
+          "Jupiter Perpetual Exchange": 3510387,
+          "Ape Jupiter": 271,
+          "Jupiter Staked SOL": 0,
+          "Jupiter DCA": 20430,
+          "Jupiter Studio": 9038
+        }
+      }
+    ],
+    [
+      1756425600,
+      {
+        "Solana": {
+          "Jupiter Aggregator": 213427,
+          "Jupiter Perpetual Exchange": 7202544,
+          "Ape Jupiter": 364,
+          "Jupiter Staked SOL": 418842,
+          "Jupiter DCA": 35163,
+          "Jupiter Studio": 5872
+        }
+      }
+    ],
+    [
+      1756512000,
+      {
+        "Solana": {
+          "Jupiter Aggregator": 134786,
+          "Jupiter Perpetual Exchange": 1981470,
+          "Ape Jupiter": 128,
+          "Jupiter Staked SOL": 0,
+          "Jupiter DCA": 7537,
+          "Jupiter Studio": 18292
+        }
+      }
+    ],
+    [
+      1756598400,
+      {
+        "Solana": {
+          "Jupiter Aggregator": 107260,
+          "Jupiter Perpetual Exchange": 1057907,
+          "Ape Jupiter": 139,
+          "Jupiter Staked SOL": 406954,
+          "Jupiter DCA": 6429,
+          "Jupiter Studio": 6036
+        }
+      }
+    ],
+    [
+      1756684800,
+      {
+        "Solana": {
+          "Jupiter Aggregator": 160231,
+          "Jupiter Perpetual Exchange": 4549786,
+          "Ape Jupiter": 165,
+          "Jupiter Staked SOL": 0,
+          "Jupiter DCA": 9801,
+          "Jupiter Studio": 9617
+        }
+      }
+    ],
+    [
+      1756771200,
+      {
+        "Solana": {
+          "Jupiter Aggregator": 134227,
+          "Jupiter Perpetual Exchange": 3093470,
+          "Ape Jupiter": 242,
+          "Jupiter Staked SOL": 431112,
+          "Jupiter DCA": 13815,
+          "Jupiter Studio": 762
+        }
+      }
+    ],
+    [
+      1756857600,
+      {
+        "Solana": {
+          "Jupiter Aggregator": 183199,
+          "Jupiter Perpetual Exchange": 1922336,
+          "Ape Jupiter": 171,
+          "Jupiter Staked SOL": 0,
+          "Jupiter DCA": 18343,
+          "Jupiter Studio": 19942
+        }
+      }
+    ],
+    [
+      1756944000,
+      {
+        "Solana": {
+          "Jupiter Aggregator": 149266,
+          "Jupiter Perpetual Exchange": 3141238,
+          "Ape Jupiter": 257,
+          "Jupiter Staked SOL": 417454,
+          "Jupiter DCA": 14998,
+          "Jupiter Studio": 7129
+        }
+      }
+    ],
+    [
+      1757030400,
+      {
+        "Solana": {
+          "Jupiter Aggregator": 131935,
+          "Jupiter Perpetual Exchange": 3210029,
+          "Ape Jupiter": 158,
+          "Jupiter Staked SOL": 0,
+          "Jupiter DCA": 17768,
+          "Jupiter Studio": 4488
+        }
+      }
+    ],
+    [
+      1757116800,
+      {
+        "Solana": {
+          "Jupiter Aggregator": 91445,
+          "Jupiter Perpetual Exchange": 1885791,
+          "Ape Jupiter": 232,
+          "Jupiter Staked SOL": 418389,
+          "Jupiter DCA": 7922,
+          "Jupiter Studio": 7247
+        }
+      }
+    ],
+    [
+      1757203200,
+      {
+        "Solana": {
+          "Jupiter Aggregator": 93981,
+          "Jupiter Perpetual Exchange": 627653,
+          "Ape Jupiter": 177,
+          "Jupiter Staked SOL": 0,
+          "Jupiter DCA": 4853,
+          "Jupiter Studio": 9869
+        }
+      }
+    ],
+    [
+      1757289600,
+      {
+        "Solana": {
+          "Jupiter DCA": 10617
         }
       }
     ]
   ],
-  "change_1d": 19.24
+  "change_1d": -69.45
 }

@@ -22358,16 +22358,104 @@
         1756166400,
         1388383566.5054758,
         null,
-        0,
+        1,
         20,
-        0
+        1
       ],
       [
         1756252800,
         1373795183.3778355,
         null,
-        0,
+        1,
         20,
+        1
+      ],
+      [
+        1756339200,
+        1396734844.424343,
+        null,
+        6,
+        20,
+        6
+      ],
+      [
+        1756425600,
+        1314088981.5865817,
+        null,
+        0,
+        18,
+        0
+      ],
+      [
+        1756512000,
+        1319297574.455343,
+        null,
+        0,
+        18,
+        0
+      ],
+      [
+        1756598400,
+        1313416785.3841913,
+        null,
+        0,
+        18,
+        0
+      ],
+      [
+        1756684800,
+        1311735911.810986,
+        null,
+        0,
+        18,
+        0
+      ],
+      [
+        1756771200,
+        1338947223.0490203,
+        null,
+        4,
+        17,
+        4
+      ],
+      [
+        1756857600,
+        1329625884.919685,
+        null,
+        5,
+        17,
+        5
+      ],
+      [
+        1756944000,
+        1315835130.07494,
+        null,
+        9,
+        20,
+        9
+      ],
+      [
+        1757030400,
+        1313955621.7416587,
+        null,
+        5,
+        20,
+        5
+      ],
+      [
+        1757116800,
+        1306614878.1731455,
+        null,
+        0,
+        19,
+        0
+      ],
+      [
+        1757203200,
+        1317578195.3527286,
+        null,
+        0,
+        19,
         0
       ]
     ]
@@ -22381,14 +22469,14 @@
         "is_timestamp": true
       },
       {
-        "name": "TVL USD",
-        "slug": "tvl-usd",
+        "name": "TVL 24 Hour USD",
+        "slug": "tvl24HourUsd",
         "description": "Total Value Locked in the network in USD.",
         "is_timestamp": false
       },
       {
         "name": "Ecosystem DEX Volume (USD)",
-        "slug": "ecosystem-dex-volume-usd",
+        "slug": "dexVolume24HourUsd",
         "description": "USD value of all tokens swapped across supported decentralized exchanges (DEXs) on a network.",
         "is_timestamp": false
       },

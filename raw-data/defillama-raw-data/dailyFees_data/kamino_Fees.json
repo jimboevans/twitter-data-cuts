@@ -101,11 +101,11 @@
   "defaultChartView": null,
   "slug": "kamino",
   "protocolType": "protocol",
-  "total24h": 336444,
-  "total48hto24h": 334112,
-  "total7d": 2278834,
-  "total30d": 9464988,
-  "totalAllTime": 167122932,
+  "total24h": 308114,
+  "total48hto24h": 315058,
+  "total7d": 2124454,
+  "total30d": 9617742,
+  "totalAllTime": 171214274,
   "totalDataChart": [
     [
       1697068800,
@@ -2621,7 +2621,7 @@
     ],
     [
       1751328000,
-      282623
+      289961
     ],
     [
       1751414400,
@@ -2842,6 +2842,58 @@
     [
       1756080000,
       336444
+    ],
+    [
+      1756166400,
+      321516
+    ],
+    [
+      1756252800,
+      349313
+    ],
+    [
+      1756339200,
+      406738
+    ],
+    [
+      1756425600,
+      327128
+    ],
+    [
+      1756512000,
+      277124
+    ],
+    [
+      1756598400,
+      277731
+    ],
+    [
+      1756684800,
+      280799
+    ],
+    [
+      1756771200,
+      290838
+    ],
+    [
+      1756857600,
+      319570
+    ],
+    [
+      1756944000,
+      308807
+    ],
+    [
+      1757030400,
+      301268
+    ],
+    [
+      1757116800,
+      315058
+    ],
+    [
+      1757203200,
+      308114
     ]
   ],
   "totalDataChartBreakdown": [
@@ -8499,6 +8551,7 @@
       1751328000,
       {
         "Solana": {
+          "Kamino Liquidity": 7338,
           "Kamino Lend": 282623
         }
       }
@@ -8997,7 +9050,124 @@
           "Kamino Lend": 325782
         }
       }
+    ],
+    [
+      1756166400,
+      {
+        "Solana": {
+          "Kamino Liquidity": 7963,
+          "Kamino Lend": 313553
+        }
+      }
+    ],
+    [
+      1756252800,
+      {
+        "Solana": {
+          "Kamino Liquidity": 8118,
+          "Kamino Lend": 341195
+        }
+      }
+    ],
+    [
+      1756339200,
+      {
+        "Solana": {
+          "Kamino Liquidity": 13903,
+          "Kamino Lend": 392835
+        }
+      }
+    ],
+    [
+      1756425600,
+      {
+        "Solana": {
+          "Kamino Liquidity": 19330,
+          "Kamino Lend": 307798
+        }
+      }
+    ],
+    [
+      1756512000,
+      {
+        "Solana": {
+          "Kamino Liquidity": 8308,
+          "Kamino Lend": 268816
+        }
+      }
+    ],
+    [
+      1756598400,
+      {
+        "Solana": {
+          "Kamino Liquidity": 4743,
+          "Kamino Lend": 272988
+        }
+      }
+    ],
+    [
+      1756684800,
+      {
+        "Solana": {
+          "Kamino Liquidity": 7421,
+          "Kamino Lend": 273378
+        }
+      }
+    ],
+    [
+      1756771200,
+      {
+        "Solana": {
+          "Kamino Liquidity": 7229,
+          "Kamino Lend": 283609
+        }
+      }
+    ],
+    [
+      1756857600,
+      {
+        "Solana": {
+          "Kamino Liquidity": 6514,
+          "Kamino Lend": 313056
+        }
+      }
+    ],
+    [
+      1756944000,
+      {
+        "Solana": {
+          "Kamino Liquidity": 7582,
+          "Kamino Lend": 301225
+        }
+      }
+    ],
+    [
+      1757030400,
+      {
+        "Solana": {
+          "Kamino Liquidity": 8456,
+          "Kamino Lend": 292812
+        }
+      }
+    ],
+    [
+      1757116800,
+      {
+        "Solana": {
+          "Kamino Liquidity": 3007,
+          "Kamino Lend": 312051
+        }
+      }
+    ],
+    [
+      1757203200,
+      {
+        "Solana": {
+          "Kamino Liquidity": 4789,
+          "Kamino Lend": 303325
+        }
+      }
     ]
   ],
-  "change_1d": 0.7
+  "change_1d": -2.2
 }
