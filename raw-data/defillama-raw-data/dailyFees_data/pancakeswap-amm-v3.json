@@ -59,13 +59,15 @@
     "PancakeSwap StableSwap",
     "PancakeSwap AMM V1",
     "PancakeSwap AMM V3",
-    "PancakeSwap Infinity"
+    "PancakeSwap Infinity",
+    "PancakeSwap Prediction",
+    "PancakeSwap Lottery"
   ],
-  "total24h": 461849,
-  "total48hto24h": 406786,
-  "total7d": 3419547,
-  "total30d": 35976929,
-  "totalAllTime": 489032429,
+  "total24h": 505664,
+  "total48hto24h": 534164,
+  "total7d": 3343701,
+  "total30d": 13479281,
+  "totalAllTime": 495961599,
   "totalDataChart": [
     [
       1680307200,
@@ -3228,6 +3230,10 @@
       1252382
     ],
     [
+      1748908800,
+      1349669
+    ],
+    [
       1748995200,
       1698390
     ],
@@ -3569,7 +3575,55 @@
     ],
     [
       1756425600,
-      461849
+      473295
+    ],
+    [
+      1756512000,
+      349658
+    ],
+    [
+      1756598400,
+      330697
+    ],
+    [
+      1756684800,
+      509831
+    ],
+    [
+      1756771200,
+      528504
+    ],
+    [
+      1756857600,
+      440906
+    ],
+    [
+      1756944000,
+      497009
+    ],
+    [
+      1757030400,
+      500781
+    ],
+    [
+      1757116800,
+      397251
+    ],
+    [
+      1757203200,
+      399114
+    ],
+    [
+      1757289600,
+      534164
+    ],
+    [
+      1757376000,
+      574476
+    ],
+    [
+      1757462400,
+      505664
     ]
   ],
   "totalDataChartBreakdown": [
@@ -23874,6 +23928,35 @@
       }
     ],
     [
+      1748908800,
+      {
+        "BSC": {
+          "PancakeSwap AMM V3": 1308422
+        },
+        "Ethereum": {
+          "PancakeSwap AMM V3": 5327
+        },
+        "Polygon zkEVM": {
+          "PancakeSwap AMM V3": 17
+        },
+        "ZKsync Era": {
+          "PancakeSwap AMM V3": 193
+        },
+        "Arbitrum": {
+          "PancakeSwap AMM V3": 16313
+        },
+        "Linea": {
+          "PancakeSwap AMM V3": 147
+        },
+        "Base": {
+          "PancakeSwap AMM V3": 19224
+        },
+        "opBNB": {
+          "PancakeSwap AMM V3": 26
+        }
+      }
+    ],
+    [
       1748995200,
       {
         "BSC": {
@@ -26462,31 +26545,415 @@
           "PancakeSwap AMM V3": 1
         },
         "Solana": {
-          "PancakeSwap AMM V3": 14780
+          "PancakeSwap AMM V3": 15460
         },
         "opBNB": {
-          "PancakeSwap AMM V3": 23
-        },
-        "Ethereum": {
-          "PancakeSwap AMM V3": 5807
-        },
-        "Linea": {
-          "PancakeSwap AMM V3": 414
+          "PancakeSwap AMM V3": 21
         },
         "ZKsync Era": {
-          "PancakeSwap AMM V3": 367
+          "PancakeSwap AMM V3": 281
+        },
+        "Ethereum": {
+          "PancakeSwap AMM V3": 5939
+        },
+        "Linea": {
+          "PancakeSwap AMM V3": 416
         },
         "BSC": {
-          "PancakeSwap AMM V3": 377267
+          "PancakeSwap AMM V3": 387676
         },
         "Arbitrum": {
-          "PancakeSwap AMM V3": 16862
+          "PancakeSwap AMM V3": 16866
         },
         "Base": {
-          "PancakeSwap AMM V3": 46328
+          "PancakeSwap AMM V3": 46635
+        }
+      }
+    ],
+    [
+      1756512000,
+      {
+        "Polygon zkEVM": {
+          "PancakeSwap AMM V3": 1
+        },
+        "Solana": {
+          "PancakeSwap AMM V3": 6451
+        },
+        "ZKsync Era": {
+          "PancakeSwap AMM V3": 101
+        },
+        "opBNB": {
+          "PancakeSwap AMM V3": 8
+        },
+        "Ethereum": {
+          "PancakeSwap AMM V3": 3035
+        },
+        "Linea": {
+          "PancakeSwap AMM V3": 359
+        },
+        "BSC": {
+          "PancakeSwap AMM V3": 287801
+        },
+        "Arbitrum": {
+          "PancakeSwap AMM V3": 30038
+        },
+        "Base": {
+          "PancakeSwap AMM V3": 21864
+        }
+      }
+    ],
+    [
+      1756598400,
+      {
+        "Solana": {
+          "PancakeSwap AMM V3": 5443
+        },
+        "Polygon zkEVM": {
+          "PancakeSwap AMM V3": 0
+        },
+        "Ethereum": {
+          "PancakeSwap AMM V3": 2056
+        },
+        "opBNB": {
+          "PancakeSwap AMM V3": 12
+        },
+        "ZKsync Era": {
+          "PancakeSwap AMM V3": 158
+        },
+        "Linea": {
+          "PancakeSwap AMM V3": 279
+        },
+        "BSC": {
+          "PancakeSwap AMM V3": 293047
+        },
+        "Arbitrum": {
+          "PancakeSwap AMM V3": 8116
+        },
+        "Base": {
+          "PancakeSwap AMM V3": 21586
+        }
+      }
+    ],
+    [
+      1756684800,
+      {
+        "Solana": {
+          "PancakeSwap AMM V3": 8315
+        },
+        "Polygon zkEVM": {
+          "PancakeSwap AMM V3": 0
+        },
+        "opBNB": {
+          "PancakeSwap AMM V3": 14
+        },
+        "Ethereum": {
+          "PancakeSwap AMM V3": 3743
+        },
+        "Linea": {
+          "PancakeSwap AMM V3": 885
+        },
+        "ZKsync Era": {
+          "PancakeSwap AMM V3": 135
+        },
+        "BSC": {
+          "PancakeSwap AMM V3": 451976
+        },
+        "Arbitrum": {
+          "PancakeSwap AMM V3": 9939
+        },
+        "Base": {
+          "PancakeSwap AMM V3": 34824
+        }
+      }
+    ],
+    [
+      1756771200,
+      {
+        "Polygon zkEVM": {
+          "PancakeSwap AMM V3": 1
+        },
+        "Solana": {
+          "PancakeSwap AMM V3": 10344
+        },
+        "ZKsync Era": {
+          "PancakeSwap AMM V3": 111
+        },
+        "opBNB": {
+          "PancakeSwap AMM V3": 14
+        },
+        "Ethereum": {
+          "PancakeSwap AMM V3": 3766
+        },
+        "Linea": {
+          "PancakeSwap AMM V3": 656
+        },
+        "BSC": {
+          "PancakeSwap AMM V3": 456413
+        },
+        "Arbitrum": {
+          "PancakeSwap AMM V3": 15351
+        },
+        "Base": {
+          "PancakeSwap AMM V3": 41848
+        }
+      }
+    ],
+    [
+      1756857600,
+      {
+        "Solana": {
+          "PancakeSwap AMM V3": 8443
+        },
+        "Polygon zkEVM": {
+          "PancakeSwap AMM V3": 1
+        },
+        "ZKsync Era": {
+          "PancakeSwap AMM V3": 74
+        },
+        "opBNB": {
+          "PancakeSwap AMM V3": 19
+        },
+        "Ethereum": {
+          "PancakeSwap AMM V3": 2706
+        },
+        "BSC": {
+          "PancakeSwap AMM V3": 389066
+        },
+        "Linea": {
+          "PancakeSwap AMM V3": 740
+        },
+        "Arbitrum": {
+          "PancakeSwap AMM V3": 9288
+        },
+        "Base": {
+          "PancakeSwap AMM V3": 30569
+        }
+      }
+    ],
+    [
+      1756944000,
+      {
+        "Solana": {
+          "PancakeSwap AMM V3": 8493
+        },
+        "Polygon zkEVM": {
+          "PancakeSwap AMM V3": 1
+        },
+        "ZKsync Era": {
+          "PancakeSwap AMM V3": 82
+        },
+        "opBNB": {
+          "PancakeSwap AMM V3": 19
+        },
+        "Ethereum": {
+          "PancakeSwap AMM V3": 2799
+        },
+        "Linea": {
+          "PancakeSwap AMM V3": 573
+        },
+        "BSC": {
+          "PancakeSwap AMM V3": 439253
+        },
+        "Arbitrum": {
+          "PancakeSwap AMM V3": 14385
+        },
+        "Base": {
+          "PancakeSwap AMM V3": 31404
+        }
+      }
+    ],
+    [
+      1757030400,
+      {
+        "Polygon zkEVM": {
+          "PancakeSwap AMM V3": 2
+        },
+        "Solana": {
+          "PancakeSwap AMM V3": 10906
+        },
+        "ZKsync Era": {
+          "PancakeSwap AMM V3": 283
+        },
+        "opBNB": {
+          "PancakeSwap AMM V3": 15
+        },
+        "Linea": {
+          "PancakeSwap AMM V3": 596
+        },
+        "BSC": {
+          "PancakeSwap AMM V3": 423537
+        },
+        "Ethereum": {
+          "PancakeSwap AMM V3": 3248
+        },
+        "Arbitrum": {
+          "PancakeSwap AMM V3": 17783
+        },
+        "Base": {
+          "PancakeSwap AMM V3": 44411
+        }
+      }
+    ],
+    [
+      1757116800,
+      {
+        "Polygon zkEVM": {
+          "PancakeSwap AMM V3": 1
+        },
+        "Solana": {
+          "PancakeSwap AMM V3": 5376
+        },
+        "ZKsync Era": {
+          "PancakeSwap AMM V3": 63
+        },
+        "opBNB": {
+          "PancakeSwap AMM V3": 27
+        },
+        "Ethereum": {
+          "PancakeSwap AMM V3": 2056
+        },
+        "Linea": {
+          "PancakeSwap AMM V3": 330
+        },
+        "BSC": {
+          "PancakeSwap AMM V3": 351393
+        },
+        "Arbitrum": {
+          "PancakeSwap AMM V3": 10668
+        },
+        "Base": {
+          "PancakeSwap AMM V3": 27337
+        }
+      }
+    ],
+    [
+      1757203200,
+      {
+        "Polygon zkEVM": {
+          "PancakeSwap AMM V3": 1
+        },
+        "Solana": {
+          "PancakeSwap AMM V3": 3797
+        },
+        "ZKsync Era": {
+          "PancakeSwap AMM V3": 86
+        },
+        "opBNB": {
+          "PancakeSwap AMM V3": 6
+        },
+        "Linea": {
+          "PancakeSwap AMM V3": 198
+        },
+        "Ethereum": {
+          "PancakeSwap AMM V3": 979
+        },
+        "BSC": {
+          "PancakeSwap AMM V3": 376181
+        },
+        "Arbitrum": {
+          "PancakeSwap AMM V3": 4173
+        },
+        "Base": {
+          "PancakeSwap AMM V3": 13693
+        }
+      }
+    ],
+    [
+      1757289600,
+      {
+        "Solana": {
+          "PancakeSwap AMM V3": 13819
+        },
+        "Polygon zkEVM": {
+          "PancakeSwap AMM V3": 5
+        },
+        "ZKsync Era": {
+          "PancakeSwap AMM V3": 119
+        },
+        "opBNB": {
+          "PancakeSwap AMM V3": 29
+        },
+        "Linea": {
+          "PancakeSwap AMM V3": 427
+        },
+        "Ethereum": {
+          "PancakeSwap AMM V3": 2284
+        },
+        "BSC": {
+          "PancakeSwap AMM V3": 478800
+        },
+        "Arbitrum": {
+          "PancakeSwap AMM V3": 8061
+        },
+        "Base": {
+          "PancakeSwap AMM V3": 30620
+        }
+      }
+    ],
+    [
+      1757376000,
+      {
+        "Polygon zkEVM": {
+          "PancakeSwap AMM V3": 3
+        },
+        "Solana": {
+          "PancakeSwap AMM V3": 15099
+        },
+        "opBNB": {
+          "PancakeSwap AMM V3": 11
+        },
+        "ZKsync Era": {
+          "PancakeSwap AMM V3": 113
+        },
+        "Ethereum": {
+          "PancakeSwap AMM V3": 2138
+        },
+        "Linea": {
+          "PancakeSwap AMM V3": 236
+        },
+        "BSC": {
+          "PancakeSwap AMM V3": 517164
+        },
+        "Arbitrum": {
+          "PancakeSwap AMM V3": 7766
+        },
+        "Base": {
+          "PancakeSwap AMM V3": 31946
+        }
+      }
+    ],
+    [
+      1757462400,
+      {
+        "Polygon zkEVM": {
+          "PancakeSwap AMM V3": 0
+        },
+        "Solana": {
+          "PancakeSwap AMM V3": 14363
+        },
+        "ZKsync Era": {
+          "PancakeSwap AMM V3": 76
+        },
+        "opBNB": {
+          "PancakeSwap AMM V3": 10
+        },
+        "Ethereum": {
+          "PancakeSwap AMM V3": 1895
+        },
+        "Linea": {
+          "PancakeSwap AMM V3": 215
+        },
+        "BSC": {
+          "PancakeSwap AMM V3": 452212
+        },
+        "Arbitrum": {
+          "PancakeSwap AMM V3": 7530
+        },
+        "Base": {
+          "PancakeSwap AMM V3": 29363
         }
       }
     ]
   ],
-  "change_1d": 13.54
+  "change_1d": -5.34
 }

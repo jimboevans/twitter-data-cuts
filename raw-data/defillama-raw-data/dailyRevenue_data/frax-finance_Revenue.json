@@ -249,11 +249,11 @@
   "defaultChartView": null,
   "slug": "frax-finance",
   "protocolType": "protocol",
-  "total24h": 1781,
-  "total48hto24h": 1420,
-  "total7d": 12273,
-  "total30d": 132393,
-  "totalAllTime": 8820676,
+  "total24h": 709,
+  "total48hto24h": 945,
+  "total7d": 13587,
+  "total30d": 127056,
+  "totalAllTime": 8822154,
   "totalDataChart": [
     [
       1666224000,
@@ -2101,7 +2101,7 @@
     ],
     [
       1743724800,
-      4674
+      4605
     ],
     [
       1743811200,
@@ -2729,7 +2729,15 @@
     ],
     [
       1757289600,
-      277
+      945
+    ],
+    [
+      1757376000,
+      709
+    ],
+    [
+      1757462400,
+      170
     ]
   ],
   "totalDataChartBreakdown": [
@@ -20077,17 +20085,12 @@
       {
         "Ethereum": {
           "Frax": 4579,
-          "Fraxlend": 53,
           "Frax Swap": 0,
           "Frax Ether": 0
         },
         "Arbitrum": {
           "Frax": 26,
-          "Fraxlend": 3,
           "Frax Swap": 0
-        },
-        "Fraxtal": {
-          "Fraxlend": 13
         },
         "Aurora": {
           "Frax Swap": 0
@@ -25072,8 +25075,7 @@
         "Ethereum": {
           "Frax": 2650,
           "Fraxlend": 230,
-          "Frax Swap": 0,
-          "Frax Ether": 0
+          "Frax Swap": 0
         },
         "Arbitrum": {
           "Frax": 0,
@@ -26267,15 +26269,44 @@
       {
         "Arbitrum": {
           "Frax": 15,
-          "Fraxlend": 2
+          "Fraxlend": 2,
+          "Frax Swap": 0
         },
         "Ethereum": {
           "Frax": 2297,
           "Fraxlend": 418,
+          "Frax Swap": 0,
           "Frax Ether": 0
         },
         "Fraxtal": {
           "Fraxlend": 10
+        },
+        "Avalanche": {
+          "Frax Swap": 0
+        },
+        "Harmony": {
+          "Frax Swap": 0
+        },
+        "Fantom": {
+          "Frax Swap": 0
+        },
+        "Moonbeam": {
+          "Frax Swap": 0
+        },
+        "Boba": {
+          "Frax Swap": 0
+        },
+        "Aurora": {
+          "Frax Swap": 0
+        },
+        "BSC": {
+          "Frax Swap": 0
+        },
+        "Polygon": {
+          "Frax Swap": 0
+        },
+        "Moonriver": {
+          "Frax Swap": 0
         }
       }
     ],
@@ -27248,18 +27279,110 @@
     [
       1757289600,
       {
+        "Arbitrum": {
+          "Frax": 0,
+          "Fraxlend": 0,
+          "Frax Swap": 0
+        },
+        "Ethereum": {
+          "Frax": 726,
+          "Fraxlend": 207,
+          "Frax Swap": 0,
+          "Frax Ether": 0
+        },
         "Fraxtal": {
           "Fraxlend": 12
         },
+        "Moonriver": {
+          "Frax Swap": 0
+        },
+        "Boba": {
+          "Frax Swap": 0
+        },
+        "Avalanche": {
+          "Frax Swap": 0
+        },
+        "Moonbeam": {
+          "Frax Swap": 0
+        },
+        "Harmony": {
+          "Frax Swap": 0
+        },
+        "BSC": {
+          "Frax Swap": 0
+        },
+        "Aurora": {
+          "Frax Swap": 0
+        },
+        "Polygon": {
+          "Frax Swap": 0
+        },
+        "Fantom": {
+          "Frax Swap": 0
+        }
+      }
+    ],
+    [
+      1757376000,
+      {
         "Arbitrum": {
-          "Fraxlend": 0
+          "Frax": 0,
+          "Fraxlend": 0,
+          "Frax Swap": 0
         },
         "Ethereum": {
-          "Fraxlend": 265,
+          "Frax": 498,
+          "Fraxlend": 205,
+          "Frax Swap": 0,
           "Frax Ether": 0
+        },
+        "Fraxtal": {
+          "Fraxlend": 6
+        },
+        "Harmony": {
+          "Frax Swap": 0
+        },
+        "Avalanche": {
+          "Frax Swap": 0
+        },
+        "Fantom": {
+          "Frax Swap": 0
+        },
+        "Moonriver": {
+          "Frax Swap": 0
+        },
+        "Aurora": {
+          "Frax Swap": 0
+        },
+        "Boba": {
+          "Frax Swap": 0
+        },
+        "Polygon": {
+          "Frax Swap": 0
+        },
+        "Moonbeam": {
+          "Frax Swap": 0
+        },
+        "BSC": {
+          "Frax Swap": 0
+        }
+      }
+    ],
+    [
+      1757462400,
+      {
+        "Fraxtal": {
+          "Fraxlend": 6
+        },
+        "Ethereum": {
+          "Fraxlend": 164,
+          "Frax Ether": 0
+        },
+        "Arbitrum": {
+          "Fraxlend": 0
         }
       }
     ]
   ],
-  "change_1d": 25.42
+  "change_1d": -24.97
 }

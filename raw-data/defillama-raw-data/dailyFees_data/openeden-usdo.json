@@ -1,0 +1,1541 @@
+{
+  "id": "5995",
+  "name": "OpenEden USDO",
+  "address": null,
+  "symbol": "-",
+  "assetToken": "USDO",
+  "url": "https://openeden.com/usdo",
+  "description": "USDO is collateralized by tokenized U.S. Treasury Bills and money market funds (such as OpenEden\u2019s TBILL), from which USDO\u2019s yield is generated. The reserves serve as the foundation for maintaining a minimum 100% collateralization ratio, meaning every USDO token in circulation is fully backed by equivalent assets",
+  "chain": "Ethereum",
+  "logo": "https://icons.llamao.fi/icons/protocols/openeden-usdo.jpg",
+  "audits": "2",
+  "audit_links": [
+    "https://www.chainsecurity.com/security-audit/openeden-usdoexpress"
+  ],
+  "audit_note": null,
+  "gecko_id": null,
+  "cmcId": null,
+  "tags": [
+    "Other Fixed Income"
+  ],
+  "chains": [
+    "Base",
+    "Ethereum"
+  ],
+  "forkedFrom": [],
+  "module": "openeden-usdo",
+  "twitter": "OpenEden_X",
+  "parentProtocol": "parent#openeden",
+  "tokensExcludedFromParent": {
+    "Ethereum": [
+      "TBILL"
+    ],
+    "Arbitrum": [
+      "TBILL"
+    ],
+    "Ripple": [
+      "TBILL"
+    ],
+    "Polygon": [
+      "TBILL"
+    ],
+    "Base": [
+      "TBILL"
+    ],
+    "BSC": [
+      "TBILL"
+    ]
+  },
+  "listedAt": 1743761401,
+  "category": "RWA",
+  "methodology": {
+    "Fees": "All fees from users mint/redeem USDO, yields and management fees from backing assets.",
+    "UserFees": "Users pay fees to minting/redeeming USDO.",
+    "Revenue": "Mint/redeem USDO fees and 0.3% annual is charged by the Investment Manager.",
+    "ProtocolRevenue": "Mint/redeem USDO fees and 0.3% annual is charged by the Investment Manager.",
+    "SupplySideRevenue": "Backing assets yields collected and distributed to suppliers via USDO token rebasing."
+  },
+  "misrepresentedTokens": false,
+  "defillamaId": "5995",
+  "displayName": "OpenEden USDO",
+  "methodologyURL": "https://github.com/DefiLlama/dimension-adapters/blob/master/fees/openeden-usdo.ts",
+  "versionKey": null,
+  "github": null,
+  "governanceID": null,
+  "treasury": null,
+  "previousNames": null,
+  "hallmarks": null,
+  "defaultChartView": null,
+  "slug": "openeden-usdo",
+  "protocolType": "protocol",
+  "linkedProtocols": [
+    "OpenEden",
+    "OpenEden TBILL",
+    "OpenEden USDO"
+  ],
+  "total24h": 33497,
+  "total48hto24h": 32802,
+  "total7d": 310397,
+  "total30d": 1090188,
+  "totalAllTime": 4139517,
+  "totalDataChart": [
+    [
+      1749168000,
+      31331
+    ],
+    [
+      1749254400,
+      31273
+    ],
+    [
+      1749340800,
+      31183
+    ],
+    [
+      1749427200,
+      32492
+    ],
+    [
+      1749513600,
+      32560
+    ],
+    [
+      1749600000,
+      32467
+    ],
+    [
+      1749686400,
+      32910
+    ],
+    [
+      1749772800,
+      32947
+    ],
+    [
+      1749859200,
+      32951
+    ],
+    [
+      1749945600,
+      33283
+    ],
+    [
+      1750032000,
+      33057
+    ],
+    [
+      1750118400,
+      33484
+    ],
+    [
+      1750204800,
+      33548
+    ],
+    [
+      1750291200,
+      32824
+    ],
+    [
+      1750377600,
+      595625
+    ],
+    [
+      1750464000,
+      34248
+    ],
+    [
+      1750550400,
+      32600
+    ],
+    [
+      1750636800,
+      34939
+    ],
+    [
+      1750723200,
+      32668
+    ],
+    [
+      1750809600,
+      31396
+    ],
+    [
+      1750896000,
+      32579
+    ],
+    [
+      1750982400,
+      31871
+    ],
+    [
+      1751068800,
+      31717
+    ],
+    [
+      1751155200,
+      31773
+    ],
+    [
+      1751241600,
+      32738
+    ],
+    [
+      1751328000,
+      33150
+    ],
+    [
+      1751414400,
+      32334
+    ],
+    [
+      1751500800,
+      32723
+    ],
+    [
+      1751587200,
+      36395
+    ],
+    [
+      1751673600,
+      34120
+    ],
+    [
+      1751760000,
+      33798
+    ],
+    [
+      1751846400,
+      33743
+    ],
+    [
+      1751932800,
+      34678
+    ],
+    [
+      1752019200,
+      33827
+    ],
+    [
+      1752105600,
+      35669
+    ],
+    [
+      1752192000,
+      34475
+    ],
+    [
+      1752278400,
+      34373
+    ],
+    [
+      1752364800,
+      34411
+    ],
+    [
+      1752451200,
+      34380
+    ],
+    [
+      1752537600,
+      34339
+    ],
+    [
+      1752624000,
+      34354
+    ],
+    [
+      1752710400,
+      34258
+    ],
+    [
+      1752796800,
+      34308
+    ],
+    [
+      1752883200,
+      34333
+    ],
+    [
+      1752969600,
+      34357
+    ],
+    [
+      1753056000,
+      34302
+    ],
+    [
+      1753142400,
+      34991
+    ],
+    [
+      1753228800,
+      38138
+    ],
+    [
+      1753315200,
+      35129
+    ],
+    [
+      1753401600,
+      33598
+    ],
+    [
+      1753488000,
+      33449
+    ],
+    [
+      1753574400,
+      33478
+    ],
+    [
+      1753660800,
+      34180
+    ],
+    [
+      1753747200,
+      283260
+    ],
+    [
+      1753833600,
+      36509
+    ],
+    [
+      1753920000,
+      32514
+    ],
+    [
+      1754006400,
+      33085
+    ],
+    [
+      1754092800,
+      32142
+    ],
+    [
+      1754179200,
+      32142
+    ],
+    [
+      1754265600,
+      32162
+    ],
+    [
+      1754352000,
+      32159
+    ],
+    [
+      1754438400,
+      32191
+    ],
+    [
+      1754524800,
+      32152
+    ],
+    [
+      1754611200,
+      31904
+    ],
+    [
+      1754697600,
+      33935
+    ],
+    [
+      1754784000,
+      31923
+    ],
+    [
+      1754870400,
+      31921
+    ],
+    [
+      1754956800,
+      32057
+    ],
+    [
+      1755043200,
+      31982
+    ],
+    [
+      1755129600,
+      33587
+    ],
+    [
+      1755216000,
+      34385
+    ],
+    [
+      1755302400,
+      32973
+    ],
+    [
+      1755388800,
+      32986
+    ],
+    [
+      1755475200,
+      33868
+    ],
+    [
+      1755561600,
+      33697
+    ],
+    [
+      1755648000,
+      33527
+    ],
+    [
+      1755734400,
+      33451
+    ],
+    [
+      1755820800,
+      37296
+    ],
+    [
+      1755907200,
+      34632
+    ],
+    [
+      1755993600,
+      34002
+    ],
+    [
+      1756080000,
+      35414
+    ],
+    [
+      1756166400,
+      33853
+    ],
+    [
+      1756252800,
+      34690
+    ],
+    [
+      1756339200,
+      34772
+    ],
+    [
+      1756425600,
+      33148
+    ],
+    [
+      1756512000,
+      36884
+    ],
+    [
+      1756598400,
+      33028
+    ],
+    [
+      1756684800,
+      34148
+    ],
+    [
+      1756771200,
+      33490
+    ],
+    [
+      1756857600,
+      35438
+    ],
+    [
+      1756944000,
+      34405
+    ],
+    [
+      1757030400,
+      110312
+    ],
+    [
+      1757116800,
+      32253
+    ],
+    [
+      1757203200,
+      32213
+    ],
+    [
+      1757289600,
+      32802
+    ],
+    [
+      1757376000,
+      32974
+    ],
+    [
+      1757462400,
+      33497
+    ]
+  ],
+  "totalDataChartBreakdown": [
+    [
+      1749168000,
+      {
+        "Ethereum": {
+          "OpenEden USDO": 30950
+        },
+        "Base": {
+          "OpenEden USDO": 381
+        }
+      }
+    ],
+    [
+      1749254400,
+      {
+        "Ethereum": {
+          "OpenEden USDO": 30892
+        },
+        "Base": {
+          "OpenEden USDO": 381
+        }
+      }
+    ],
+    [
+      1749340800,
+      {
+        "Ethereum": {
+          "OpenEden USDO": 30803
+        },
+        "Base": {
+          "OpenEden USDO": 380
+        }
+      }
+    ],
+    [
+      1749427200,
+      {
+        "Base": {
+          "OpenEden USDO": 381
+        },
+        "Ethereum": {
+          "OpenEden USDO": 32111
+        }
+      }
+    ],
+    [
+      1749513600,
+      {
+        "Ethereum": {
+          "OpenEden USDO": 32178
+        },
+        "Base": {
+          "OpenEden USDO": 382
+        }
+      }
+    ],
+    [
+      1749600000,
+      {
+        "Ethereum": {
+          "OpenEden USDO": 32086
+        },
+        "Base": {
+          "OpenEden USDO": 381
+        }
+      }
+    ],
+    [
+      1749686400,
+      {
+        "Ethereum": {
+          "OpenEden USDO": 32531
+        },
+        "Base": {
+          "OpenEden USDO": 379
+        }
+      }
+    ],
+    [
+      1749772800,
+      {
+        "Ethereum": {
+          "OpenEden USDO": 32567
+        },
+        "Base": {
+          "OpenEden USDO": 380
+        }
+      }
+    ],
+    [
+      1749859200,
+      {
+        "Ethereum": {
+          "OpenEden USDO": 32571
+        },
+        "Base": {
+          "OpenEden USDO": 380
+        }
+      }
+    ],
+    [
+      1749945600,
+      {
+        "Ethereum": {
+          "OpenEden USDO": 32900
+        },
+        "Base": {
+          "OpenEden USDO": 383
+        }
+      }
+    ],
+    [
+      1750032000,
+      {
+        "Ethereum": {
+          "OpenEden USDO": 32678
+        },
+        "Base": {
+          "OpenEden USDO": 379
+        }
+      }
+    ],
+    [
+      1750118400,
+      {
+        "Ethereum": {
+          "OpenEden USDO": 33107
+        },
+        "Base": {
+          "OpenEden USDO": 377
+        }
+      }
+    ],
+    [
+      1750204800,
+      {
+        "Ethereum": {
+          "OpenEden USDO": 33170
+        },
+        "Base": {
+          "OpenEden USDO": 378
+        }
+      }
+    ],
+    [
+      1750291200,
+      {
+        "Ethereum": {
+          "OpenEden USDO": 32448
+        },
+        "Base": {
+          "OpenEden USDO": 376
+        }
+      }
+    ],
+    [
+      1750377600,
+      {
+        "Ethereum": {
+          "OpenEden USDO": 595249
+        },
+        "Base": {
+          "OpenEden USDO": 376
+        }
+      }
+    ],
+    [
+      1750464000,
+      {
+        "Ethereum": {
+          "OpenEden USDO": 33872
+        },
+        "Base": {
+          "OpenEden USDO": 376
+        }
+      }
+    ],
+    [
+      1750550400,
+      {
+        "Ethereum": {
+          "OpenEden USDO": 32224
+        },
+        "Base": {
+          "OpenEden USDO": 376
+        }
+      }
+    ],
+    [
+      1750636800,
+      {
+        "Ethereum": {
+          "OpenEden USDO": 34562
+        },
+        "Base": {
+          "OpenEden USDO": 377
+        }
+      }
+    ],
+    [
+      1750723200,
+      {
+        "Ethereum": {
+          "OpenEden USDO": 32290
+        },
+        "Base": {
+          "OpenEden USDO": 378
+        }
+      }
+    ],
+    [
+      1750809600,
+      {
+        "Ethereum": {
+          "OpenEden USDO": 31019
+        },
+        "Base": {
+          "OpenEden USDO": 377
+        }
+      }
+    ],
+    [
+      1750896000,
+      {
+        "Ethereum": {
+          "OpenEden USDO": 32202
+        },
+        "Base": {
+          "OpenEden USDO": 377
+        }
+      }
+    ],
+    [
+      1750982400,
+      {
+        "Ethereum": {
+          "OpenEden USDO": 31495
+        },
+        "Base": {
+          "OpenEden USDO": 376
+        }
+      }
+    ],
+    [
+      1751068800,
+      {
+        "Ethereum": {
+          "OpenEden USDO": 31343
+        },
+        "Base": {
+          "OpenEden USDO": 374
+        }
+      }
+    ],
+    [
+      1751155200,
+      {
+        "Ethereum": {
+          "OpenEden USDO": 31399
+        },
+        "Base": {
+          "OpenEden USDO": 374
+        }
+      }
+    ],
+    [
+      1751241600,
+      {
+        "Ethereum": {
+          "OpenEden USDO": 32364
+        },
+        "Base": {
+          "OpenEden USDO": 374
+        }
+      }
+    ],
+    [
+      1751328000,
+      {
+        "Ethereum": {
+          "OpenEden USDO": 32610
+        },
+        "Base": {
+          "OpenEden USDO": 540
+        }
+      }
+    ],
+    [
+      1751414400,
+      {
+        "Ethereum": {
+          "OpenEden USDO": 31914
+        },
+        "Base": {
+          "OpenEden USDO": 420
+        }
+      }
+    ],
+    [
+      1751500800,
+      {
+        "Ethereum": {
+          "OpenEden USDO": 32303
+        },
+        "Base": {
+          "OpenEden USDO": 420
+        }
+      }
+    ],
+    [
+      1751587200,
+      {
+        "Ethereum": {
+          "OpenEden USDO": 35965
+        },
+        "Base": {
+          "OpenEden USDO": 430
+        }
+      }
+    ],
+    [
+      1751673600,
+      {
+        "Ethereum": {
+          "OpenEden USDO": 33729
+        },
+        "Base": {
+          "OpenEden USDO": 391
+        }
+      }
+    ],
+    [
+      1751760000,
+      {
+        "Ethereum": {
+          "OpenEden USDO": 33314
+        },
+        "Base": {
+          "OpenEden USDO": 484
+        }
+      }
+    ],
+    [
+      1751846400,
+      {
+        "Ethereum": {
+          "OpenEden USDO": 33318
+        },
+        "Base": {
+          "OpenEden USDO": 425
+        }
+      }
+    ],
+    [
+      1751932800,
+      {
+        "Ethereum": {
+          "OpenEden USDO": 33644
+        },
+        "Base": {
+          "OpenEden USDO": 1034
+        }
+      }
+    ],
+    [
+      1752019200,
+      {
+        "Ethereum": {
+          "OpenEden USDO": 33375
+        },
+        "Base": {
+          "OpenEden USDO": 452
+        }
+      }
+    ],
+    [
+      1752105600,
+      {
+        "Ethereum": {
+          "OpenEden USDO": 35169
+        },
+        "Base": {
+          "OpenEden USDO": 500
+        }
+      }
+    ],
+    [
+      1752192000,
+      {
+        "Ethereum": {
+          "OpenEden USDO": 33951
+        },
+        "Base": {
+          "OpenEden USDO": 524
+        }
+      }
+    ],
+    [
+      1752278400,
+      {
+        "Ethereum": {
+          "OpenEden USDO": 33954
+        },
+        "Base": {
+          "OpenEden USDO": 419
+        }
+      }
+    ],
+    [
+      1752364800,
+      {
+        "Ethereum": {
+          "OpenEden USDO": 33992
+        },
+        "Base": {
+          "OpenEden USDO": 419
+        }
+      }
+    ],
+    [
+      1752451200,
+      {
+        "Ethereum": {
+          "OpenEden USDO": 33973
+        },
+        "Base": {
+          "OpenEden USDO": 407
+        }
+      }
+    ],
+    [
+      1752537600,
+      {
+        "Ethereum": {
+          "OpenEden USDO": 34164
+        },
+        "Base": {
+          "OpenEden USDO": 175
+        }
+      }
+    ],
+    [
+      1752624000,
+      {
+        "Ethereum": {
+          "OpenEden USDO": 34170
+        },
+        "Base": {
+          "OpenEden USDO": 184
+        }
+      }
+    ],
+    [
+      1752710400,
+      {
+        "Ethereum": {
+          "OpenEden USDO": 34139
+        },
+        "Base": {
+          "OpenEden USDO": 119
+        }
+      }
+    ],
+    [
+      1752796800,
+      {
+        "Ethereum": {
+          "OpenEden USDO": 34189
+        },
+        "Base": {
+          "OpenEden USDO": 119
+        }
+      }
+    ],
+    [
+      1752883200,
+      {
+        "Ethereum": {
+          "OpenEden USDO": 34223
+        },
+        "Base": {
+          "OpenEden USDO": 110
+        }
+      }
+    ],
+    [
+      1752969600,
+      {
+        "Ethereum": {
+          "OpenEden USDO": 34247
+        },
+        "Base": {
+          "OpenEden USDO": 110
+        }
+      }
+    ],
+    [
+      1753056000,
+      {
+        "Ethereum": {
+          "OpenEden USDO": 34193
+        },
+        "Base": {
+          "OpenEden USDO": 109
+        }
+      }
+    ],
+    [
+      1753142400,
+      {
+        "Ethereum": {
+          "OpenEden USDO": 34886
+        },
+        "Base": {
+          "OpenEden USDO": 105
+        }
+      }
+    ],
+    [
+      1753228800,
+      {
+        "Ethereum": {
+          "OpenEden USDO": 38004
+        },
+        "Base": {
+          "OpenEden USDO": 134
+        }
+      }
+    ],
+    [
+      1753315200,
+      {
+        "Ethereum": {
+          "OpenEden USDO": 35029
+        },
+        "Base": {
+          "OpenEden USDO": 100
+        }
+      }
+    ],
+    [
+      1753401600,
+      {
+        "Ethereum": {
+          "OpenEden USDO": 33500
+        },
+        "Base": {
+          "OpenEden USDO": 98
+        }
+      }
+    ],
+    [
+      1753488000,
+      {
+        "Ethereum": {
+          "OpenEden USDO": 33351
+        },
+        "Base": {
+          "OpenEden USDO": 98
+        }
+      }
+    ],
+    [
+      1753574400,
+      {
+        "Ethereum": {
+          "OpenEden USDO": 33385
+        },
+        "Base": {
+          "OpenEden USDO": 93
+        }
+      }
+    ],
+    [
+      1753660800,
+      {
+        "Ethereum": {
+          "OpenEden USDO": 34087
+        },
+        "Base": {
+          "OpenEden USDO": 93
+        }
+      }
+    ],
+    [
+      1753747200,
+      {
+        "Ethereum": {
+          "OpenEden USDO": 283168
+        },
+        "Base": {
+          "OpenEden USDO": 92
+        }
+      }
+    ],
+    [
+      1753833600,
+      {
+        "Ethereum": {
+          "OpenEden USDO": 36417
+        },
+        "Base": {
+          "OpenEden USDO": 92
+        }
+      }
+    ],
+    [
+      1753920000,
+      {
+        "Ethereum": {
+          "OpenEden USDO": 32423
+        },
+        "Base": {
+          "OpenEden USDO": 91
+        }
+      }
+    ],
+    [
+      1754006400,
+      {
+        "Ethereum": {
+          "OpenEden USDO": 32995
+        },
+        "Base": {
+          "OpenEden USDO": 90
+        }
+      }
+    ],
+    [
+      1754092800,
+      {
+        "Ethereum": {
+          "OpenEden USDO": 32053
+        },
+        "Base": {
+          "OpenEden USDO": 89
+        }
+      }
+    ],
+    [
+      1754179200,
+      {
+        "Ethereum": {
+          "OpenEden USDO": 32054
+        },
+        "Base": {
+          "OpenEden USDO": 88
+        }
+      }
+    ],
+    [
+      1754265600,
+      {
+        "Ethereum": {
+          "OpenEden USDO": 32069
+        },
+        "Base": {
+          "OpenEden USDO": 93
+        }
+      }
+    ],
+    [
+      1754352000,
+      {
+        "Ethereum": {
+          "OpenEden USDO": 32072
+        },
+        "Base": {
+          "OpenEden USDO": 87
+        }
+      }
+    ],
+    [
+      1754438400,
+      {
+        "Ethereum": {
+          "OpenEden USDO": 32105
+        },
+        "Base": {
+          "OpenEden USDO": 86
+        }
+      }
+    ],
+    [
+      1754524800,
+      {
+        "Ethereum": {
+          "OpenEden USDO": 32066
+        },
+        "Base": {
+          "OpenEden USDO": 86
+        }
+      }
+    ],
+    [
+      1754611200,
+      {
+        "Ethereum": {
+          "OpenEden USDO": 31818
+        },
+        "Base": {
+          "OpenEden USDO": 86
+        }
+      }
+    ],
+    [
+      1754697600,
+      {
+        "Ethereum": {
+          "OpenEden USDO": 33850
+        },
+        "Base": {
+          "OpenEden USDO": 85
+        }
+      }
+    ],
+    [
+      1754784000,
+      {
+        "Ethereum": {
+          "OpenEden USDO": 31838
+        },
+        "Base": {
+          "OpenEden USDO": 85
+        }
+      }
+    ],
+    [
+      1754870400,
+      {
+        "Ethereum": {
+          "OpenEden USDO": 31836
+        },
+        "Base": {
+          "OpenEden USDO": 85
+        }
+      }
+    ],
+    [
+      1754956800,
+      {
+        "Ethereum": {
+          "OpenEden USDO": 31974
+        },
+        "Base": {
+          "OpenEden USDO": 83
+        }
+      }
+    ],
+    [
+      1755043200,
+      {
+        "Ethereum": {
+          "OpenEden USDO": 31899
+        },
+        "Base": {
+          "OpenEden USDO": 83
+        }
+      }
+    ],
+    [
+      1755129600,
+      {
+        "Ethereum": {
+          "OpenEden USDO": 33506
+        },
+        "Base": {
+          "OpenEden USDO": 81
+        }
+      }
+    ],
+    [
+      1755216000,
+      {
+        "Ethereum": {
+          "OpenEden USDO": 34303
+        },
+        "Base": {
+          "OpenEden USDO": 82
+        }
+      }
+    ],
+    [
+      1755302400,
+      {
+        "Ethereum": {
+          "OpenEden USDO": 32893
+        },
+        "Base": {
+          "OpenEden USDO": 80
+        }
+      }
+    ],
+    [
+      1755388800,
+      {
+        "Ethereum": {
+          "OpenEden USDO": 32907
+        },
+        "Base": {
+          "OpenEden USDO": 79
+        }
+      }
+    ],
+    [
+      1755475200,
+      {
+        "Ethereum": {
+          "OpenEden USDO": 33789
+        },
+        "Base": {
+          "OpenEden USDO": 79
+        }
+      }
+    ],
+    [
+      1755561600,
+      {
+        "Ethereum": {
+          "OpenEden USDO": 33620
+        },
+        "Base": {
+          "OpenEden USDO": 77
+        }
+      }
+    ],
+    [
+      1755648000,
+      {
+        "Ethereum": {
+          "OpenEden USDO": 33451
+        },
+        "Base": {
+          "OpenEden USDO": 76
+        }
+      }
+    ],
+    [
+      1755734400,
+      {
+        "Ethereum": {
+          "OpenEden USDO": 33376
+        },
+        "Base": {
+          "OpenEden USDO": 75
+        }
+      }
+    ],
+    [
+      1755820800,
+      {
+        "Ethereum": {
+          "OpenEden USDO": 37221
+        },
+        "Base": {
+          "OpenEden USDO": 75
+        }
+      }
+    ],
+    [
+      1755907200,
+      {
+        "Ethereum": {
+          "OpenEden USDO": 34557
+        },
+        "Base": {
+          "OpenEden USDO": 75
+        }
+      }
+    ],
+    [
+      1755993600,
+      {
+        "Ethereum": {
+          "OpenEden USDO": 33928
+        },
+        "Base": {
+          "OpenEden USDO": 74
+        }
+      }
+    ],
+    [
+      1756080000,
+      {
+        "Ethereum": {
+          "OpenEden USDO": 35340
+        },
+        "Base": {
+          "OpenEden USDO": 74
+        }
+      }
+    ],
+    [
+      1756166400,
+      {
+        "Ethereum": {
+          "OpenEden USDO": 33779
+        },
+        "Base": {
+          "OpenEden USDO": 74
+        }
+      }
+    ],
+    [
+      1756252800,
+      {
+        "Ethereum": {
+          "OpenEden USDO": 34616
+        },
+        "Base": {
+          "OpenEden USDO": 74
+        }
+      }
+    ],
+    [
+      1756339200,
+      {
+        "Base": {
+          "OpenEden USDO": 73
+        },
+        "Ethereum": {
+          "OpenEden USDO": 34699
+        }
+      }
+    ],
+    [
+      1756425600,
+      {
+        "Ethereum": {
+          "OpenEden USDO": 33075
+        },
+        "Base": {
+          "OpenEden USDO": 73
+        }
+      }
+    ],
+    [
+      1756512000,
+      {
+        "Ethereum": {
+          "OpenEden USDO": 36812
+        },
+        "Base": {
+          "OpenEden USDO": 72
+        }
+      }
+    ],
+    [
+      1756598400,
+      {
+        "Ethereum": {
+          "OpenEden USDO": 32956
+        },
+        "Base": {
+          "OpenEden USDO": 72
+        }
+      }
+    ],
+    [
+      1756684800,
+      {
+        "Ethereum": {
+          "OpenEden USDO": 34077
+        },
+        "Base": {
+          "OpenEden USDO": 71
+        }
+      }
+    ],
+    [
+      1756771200,
+      {
+        "Ethereum": {
+          "OpenEden USDO": 33420
+        },
+        "Base": {
+          "OpenEden USDO": 70
+        }
+      }
+    ],
+    [
+      1756857600,
+      {
+        "Ethereum": {
+          "OpenEden USDO": 35368
+        },
+        "Base": {
+          "OpenEden USDO": 70
+        }
+      }
+    ],
+    [
+      1756944000,
+      {
+        "Base": {
+          "OpenEden USDO": 69
+        },
+        "Ethereum": {
+          "OpenEden USDO": 34336
+        }
+      }
+    ],
+    [
+      1757030400,
+      {
+        "Base": {
+          "OpenEden USDO": 69
+        },
+        "Ethereum": {
+          "OpenEden USDO": 110243
+        }
+      }
+    ],
+    [
+      1757116800,
+      {
+        "Base": {
+          "OpenEden USDO": 68
+        },
+        "Ethereum": {
+          "OpenEden USDO": 32185
+        }
+      }
+    ],
+    [
+      1757203200,
+      {
+        "Base": {
+          "OpenEden USDO": 68
+        },
+        "Ethereum": {
+          "OpenEden USDO": 32145
+        }
+      }
+    ],
+    [
+      1757289600,
+      {
+        "Base": {
+          "OpenEden USDO": 68
+        },
+        "Ethereum": {
+          "OpenEden USDO": 32734
+        }
+      }
+    ],
+    [
+      1757376000,
+      {
+        "Base": {
+          "OpenEden USDO": 68
+        },
+        "Ethereum": {
+          "OpenEden USDO": 32906
+        }
+      }
+    ],
+    [
+      1757462400,
+      {
+        "Base": {
+          "OpenEden USDO": 67
+        },
+        "Ethereum": {
+          "OpenEden USDO": 33430
+        }
+      }
+    ]
+  ],
+  "change_1d": 2.12
+}

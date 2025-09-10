@@ -1,12 +1,12 @@
 {
-    "execution_id": "01K4M2W2HKS4AH6M47S0B31ERZ",
+    "execution_id": "01K4NQAWE4TEWTMSS4QWNG5CWV",
     "query_id": 4078266,
     "is_execution_finished": true,
     "state": "QUERY_STATE_COMPLETED",
-    "submitted_at": "2025-09-08T07:15:29.973308Z",
-    "expires_at": "2025-12-07T07:17:26.305861Z",
-    "execution_started_at": "2025-09-08T07:17:26.124781Z",
-    "execution_ended_at": "2025-09-08T07:17:26.30586Z",
+    "submitted_at": "2025-09-08T22:32:21.189615Z",
+    "expires_at": "2025-12-07T22:32:22.816065Z",
+    "execution_started_at": "2025-09-08T22:32:22.466717Z",
+    "execution_ended_at": "2025-09-08T22:32:22.816063Z",
     "result": {
         "rows": [
             {
@@ -18961,7 +18961,7 @@
             },
             {
                 "product_name": "Axiom Perps",
-                "volume": 469216177,
+                "volume": 476737153,
                 "week": "2025-09-01 00:00:00.000 UTC"
             },
             {
@@ -19081,7 +19081,7 @@
             },
             {
                 "product_name": "Phantom Perps",
-                "volume": 726042190,
+                "volume": 801991709,
                 "week": "2025-09-01 00:00:00.000 UTC"
             },
             {
@@ -19126,7 +19126,7 @@
             },
             {
                 "product_name": "APX Finance",
-                "volume": 387553397,
+                "volume": 683137768,
                 "week": "2025-09-08 00:00:00.000 UTC"
             },
             {
@@ -19151,17 +19151,17 @@
             },
             {
                 "product_name": "Hyperliquid Perps",
-                "volume": 4790835486,
+                "volume": 9348179827,
                 "week": "2025-09-08 00:00:00.000 UTC"
             },
             {
                 "product_name": "Jupiter Perpetual Exchange",
-                "volume": 414991776,
+                "volume": 668041982,
                 "week": "2025-09-08 00:00:00.000 UTC"
             },
             {
                 "product_name": "MYX Finance",
-                "volume": 508391495,
+                "volume": 288460688,
                 "week": "2025-09-08 00:00:00.000 UTC"
             },
             {
@@ -19176,7 +19176,12 @@
             },
             {
                 "product_name": "Satori Perp",
-                "volume": 182773220,
+                "volume": 186700273,
+                "week": "2025-09-08 00:00:00.000 UTC"
+            },
+            {
+                "product_name": "dYdX (V3+V4)",
+                "volume": 296374912,
                 "week": "2025-09-08 00:00:00.000 UTC"
             },
             {
@@ -19196,13 +19201,13 @@
                 "varchar",
                 "double"
             ],
-            "row_count": 3835,
-            "result_set_bytes": 105988,
-            "total_row_count": 3835,
-            "total_result_set_bytes": 105988,
-            "datapoint_count": 11505,
-            "pending_time_millis": 116151,
-            "execution_time_millis": 181
+            "row_count": 3836,
+            "result_set_bytes": 106016,
+            "total_row_count": 3836,
+            "total_result_set_bytes": 106016,
+            "datapoint_count": 11508,
+            "pending_time_millis": 1277,
+            "execution_time_millis": 349
         }
     }
 }

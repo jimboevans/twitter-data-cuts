@@ -1,0 +1,449 @@
+{
+  "id": "296",
+  "name": "Cap cUSD",
+  "address": "0xcCcc62962d17b8914c62D74FfB843d73B2a3cccC",
+  "symbol": "CUSD",
+  "url": "https://cap.app/mint",
+  "description": "Cap is a stablecoin protocol that provides credible financial guarantees via two products: the dollar-denominated cUSD and the yield-bearing stcUSD",
+  "mintRedeemDescription": "Users deposit reserve assets to mint cUSD at oracle value. cUSD's reserve is backed by blue chip stablecoins such as USDC, USDT, pyUSD, BUIDL, and BENJI, i.e. issued by regulated institutions with transparent attestations. It is 1:1 redeemable for any of the available reserve assets.",
+  "onCoinGecko": "false",
+  "gecko_id": "cap-cusd",
+  "cmcId": null,
+  "pegType": "peggedUSD",
+  "pegMechanism": "crypto-backed",
+  "priceSource": "defillama",
+  "auditLinks": "https://docs.cap.app/resources/audits",
+  "twitter": "https://x.com/capmoney_",
+  "wiki": "https://docs.cap.app/",
+  "doublecounted": true,
+  "chainBalances": {
+    "Ethereum": {
+      "tokens": [
+        {
+          "date": 1755216000,
+          "circulating": {
+            "peggedUSD": 82750
+          },
+          "minted": {
+            "peggedUSD": 82750
+          }
+        },
+        {
+          "date": 1755302400,
+          "circulating": {
+            "peggedUSD": 199739
+          },
+          "minted": {
+            "peggedUSD": 199739
+          }
+        },
+        {
+          "date": 1755388800,
+          "circulating": {
+            "peggedUSD": 199749
+          },
+          "minted": {
+            "peggedUSD": 199749
+          }
+        },
+        {
+          "date": 1755475200,
+          "circulating": {
+            "peggedUSD": 299958
+          },
+          "minted": {
+            "peggedUSD": 299958
+          }
+        },
+        {
+          "date": 1755561600,
+          "circulating": {
+            "peggedUSD": 7837074
+          },
+          "minted": {
+            "peggedUSD": 7837074
+          }
+        },
+        {
+          "date": 1755648000,
+          "circulating": {
+            "peggedUSD": 22998279
+          },
+          "minted": {
+            "peggedUSD": 22998279
+          }
+        },
+        {
+          "date": 1755734400,
+          "circulating": {
+            "peggedUSD": 46647134
+          },
+          "minted": {
+            "peggedUSD": 46647134
+          }
+        },
+        {
+          "date": 1755820800,
+          "circulating": {
+            "peggedUSD": 61637414
+          },
+          "minted": {
+            "peggedUSD": 61637414
+          }
+        },
+        {
+          "date": 1755907200,
+          "circulating": {
+            "peggedUSD": 63339951
+          },
+          "minted": {
+            "peggedUSD": 63339951
+          }
+        },
+        {
+          "date": 1755993600,
+          "circulating": {
+            "peggedUSD": 66282784
+          },
+          "minted": {
+            "peggedUSD": 66282784
+          }
+        },
+        {
+          "date": 1756080000,
+          "circulating": {
+            "peggedUSD": 67850184
+          },
+          "minted": {
+            "peggedUSD": 67850184
+          }
+        },
+        {
+          "date": 1756166400,
+          "circulating": {
+            "peggedUSD": 69637967
+          },
+          "minted": {
+            "peggedUSD": 69637967
+          }
+        },
+        {
+          "date": 1756252800,
+          "circulating": {
+            "peggedUSD": 70639064
+          },
+          "minted": {
+            "peggedUSD": 70639064
+          }
+        },
+        {
+          "date": 1756339200,
+          "circulating": {
+            "peggedUSD": 71086560
+          },
+          "minted": {
+            "peggedUSD": 71086560
+          }
+        },
+        {
+          "date": 1756425600,
+          "circulating": {
+            "peggedUSD": 71583222
+          },
+          "minted": {
+            "peggedUSD": 71583222
+          }
+        },
+        {
+          "date": 1756512000,
+          "circulating": {
+            "peggedUSD": 72072873
+          },
+          "minted": {
+            "peggedUSD": 72072873
+          }
+        },
+        {
+          "date": 1756598400,
+          "circulating": {
+            "peggedUSD": 72015329
+          },
+          "minted": {
+            "peggedUSD": 72015329
+          }
+        },
+        {
+          "date": 1756684800,
+          "circulating": {
+            "peggedUSD": 71947330
+          },
+          "minted": {
+            "peggedUSD": 71947330
+          }
+        },
+        {
+          "date": 1756771200,
+          "circulating": {
+            "peggedUSD": 72808075
+          },
+          "minted": {
+            "peggedUSD": 72808075
+          }
+        },
+        {
+          "date": 1756857600,
+          "circulating": {
+            "peggedUSD": 75104522
+          },
+          "minted": {
+            "peggedUSD": 75104522
+          }
+        },
+        {
+          "date": 1756944000,
+          "circulating": {
+            "peggedUSD": 80825198
+          },
+          "minted": {
+            "peggedUSD": 80825198
+          }
+        },
+        {
+          "date": 1757030400,
+          "circulating": {
+            "peggedUSD": 82725980
+          },
+          "minted": {
+            "peggedUSD": 82725980
+          }
+        },
+        {
+          "date": 1757116800,
+          "circulating": {
+            "peggedUSD": 84550143
+          },
+          "minted": {
+            "peggedUSD": 84550143
+          }
+        },
+        {
+          "date": 1757203200,
+          "circulating": {
+            "peggedUSD": 86473078
+          },
+          "minted": {
+            "peggedUSD": 86473078
+          }
+        },
+        {
+          "date": 1757289600,
+          "circulating": {
+            "peggedUSD": 86123503
+          },
+          "minted": {
+            "peggedUSD": 86123503
+          }
+        },
+        {
+          "date": 1757376000,
+          "circulating": {
+            "peggedUSD": 86632012
+          },
+          "minted": {
+            "peggedUSD": 86632012
+          }
+        },
+        {
+          "date": 1757462400,
+          "circulating": {
+            "peggedUSD": 87230218.49635908
+          },
+          "minted": {
+            "peggedUSD": 87230218.49635908
+          },
+          "unreleased": {
+            "peggedUSD": 0
+          },
+          "bridgedTo": {
+            "peggedUSD": 0
+          }
+        }
+      ]
+    }
+  },
+  "currentChainBalances": {
+    "Ethereum": {
+      "peggedUSD": 87438777.98859452
+    }
+  },
+  "price": 1,
+  "tokens": [
+    {
+      "date": 1755216000,
+      "circulating": {
+        "peggedUSD": 82750
+      }
+    },
+    {
+      "date": 1755302400,
+      "circulating": {
+        "peggedUSD": 199739
+      }
+    },
+    {
+      "date": 1755388800,
+      "circulating": {
+        "peggedUSD": 199749
+      }
+    },
+    {
+      "date": 1755475200,
+      "circulating": {
+        "peggedUSD": 299958
+      }
+    },
+    {
+      "date": 1755561600,
+      "circulating": {
+        "peggedUSD": 7837074
+      }
+    },
+    {
+      "date": 1755648000,
+      "circulating": {
+        "peggedUSD": 22998279
+      }
+    },
+    {
+      "date": 1755734400,
+      "circulating": {
+        "peggedUSD": 46647134
+      }
+    },
+    {
+      "date": 1755820800,
+      "circulating": {
+        "peggedUSD": 61637414
+      }
+    },
+    {
+      "date": 1755907200,
+      "circulating": {
+        "peggedUSD": 63339951
+      }
+    },
+    {
+      "date": 1755993600,
+      "circulating": {
+        "peggedUSD": 66282784
+      }
+    },
+    {
+      "date": 1756080000,
+      "circulating": {
+        "peggedUSD": 67850184
+      }
+    },
+    {
+      "date": 1756166400,
+      "circulating": {
+        "peggedUSD": 69637967
+      }
+    },
+    {
+      "date": 1756252800,
+      "circulating": {
+        "peggedUSD": 70639064
+      }
+    },
+    {
+      "date": 1756339200,
+      "circulating": {
+        "peggedUSD": 71086560
+      }
+    },
+    {
+      "date": 1756425600,
+      "circulating": {
+        "peggedUSD": 71583222
+      }
+    },
+    {
+      "date": 1756512000,
+      "circulating": {
+        "peggedUSD": 72072873
+      }
+    },
+    {
+      "date": 1756598400,
+      "circulating": {
+        "peggedUSD": 72015329
+      }
+    },
+    {
+      "date": 1756684800,
+      "circulating": {
+        "peggedUSD": 71947330
+      }
+    },
+    {
+      "date": 1756771200,
+      "circulating": {
+        "peggedUSD": 72808075
+      }
+    },
+    {
+      "date": 1756857600,
+      "circulating": {
+        "peggedUSD": 75104522
+      }
+    },
+    {
+      "date": 1756944000,
+      "circulating": {
+        "peggedUSD": 80825198
+      }
+    },
+    {
+      "date": 1757030400,
+      "circulating": {
+        "peggedUSD": 82725980
+      }
+    },
+    {
+      "date": 1757116800,
+      "circulating": {
+        "peggedUSD": 84550143
+      }
+    },
+    {
+      "date": 1757203200,
+      "circulating": {
+        "peggedUSD": 86473078
+      }
+    },
+    {
+      "date": 1757289600,
+      "circulating": {
+        "peggedUSD": 86123503
+      }
+    },
+    {
+      "date": 1757376000,
+      "circulating": {
+        "peggedUSD": 86632012
+      }
+    },
+    {
+      "date": 1757462400,
+      "circulating": {
+        "peggedUSD": 87230218.49635908
+      },
+      "minted": 0,
+      "unreleased": {
+        "peggedUSD": 0
+      },
+      "bridgedTo": 0
+    }
+  ]
+}

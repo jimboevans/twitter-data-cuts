@@ -163,11 +163,11 @@
   "defaultChartView": null,
   "slug": "gmx",
   "protocolType": "protocol",
-  "total24h": 98489,
-  "total48hto24h": 68832,
-  "total7d": 1251733,
-  "total30d": 6916888,
-  "totalAllTime": 453339009,
+  "total24h": 164321,
+  "total48hto24h": 172710,
+  "total7d": 1104083,
+  "total30d": 7013215,
+  "totalAllTime": 453899726,
   "totalDataChart": [
     [
       1630627200,
@@ -5843,7 +5843,7 @@
     ],
     [
       1753142400,
-      321001
+      320751
     ],
     [
       1753228800,
@@ -5946,6 +5946,10 @@
       164290
     ],
     [
+      1755388800,
+      223984
+    ],
+    [
       1755475200,
       368092
     ],
@@ -6031,7 +6035,15 @@
     ],
     [
       1757289600,
-      48
+      172710
+    ],
+    [
+      1757376000,
+      164321
+    ],
+    [
+      1757462400,
+      0
     ]
   ],
   "totalDataChartBreakdown": [
@@ -23170,11 +23182,9 @@
       1753142400,
       {
         "Arbitrum": {
-          "GMX V1 Perps": 95,
           "GMX V2 Perps": 303476
         },
         "Avalanche": {
-          "GMX V1 Perps": 155,
           "GMX V2 Perps": 15063
         },
         "Solana": {
@@ -23563,6 +23573,20 @@
       }
     ],
     [
+      1755388800,
+      {
+        "Solana": {
+          "GMX V2 Perps": 131
+        },
+        "Avalanche": {
+          "GMX V2 Perps": 13089
+        },
+        "Arbitrum": {
+          "GMX V2 Perps": 210764
+        }
+      }
+    ],
+    [
       1755475200,
       {
         "Arbitrum": {
@@ -23898,13 +23922,45 @@
       1757289600,
       {
         "Avalanche": {
-          "GMX V1 Perps": 19
+          "GMX V1 Perps": 19,
+          "GMX V2 Perps": 17078
         },
         "Arbitrum": {
-          "GMX V1 Perps": 29
+          "GMX V1 Perps": 55,
+          "GMX V2 Perps": 155084
+        },
+        "Solana": {
+          "GMX V2 Perps": 474
+        }
+      }
+    ],
+    [
+      1757376000,
+      {
+        "Arbitrum": {
+          "GMX V1 Perps": 0,
+          "GMX V2 Perps": 146279
+        },
+        "Avalanche": {
+          "GMX V1 Perps": 0,
+          "GMX V2 Perps": 17323
+        },
+        "Solana": {
+          "GMX V2 Perps": 719
+        }
+      }
+    ],
+    [
+      1757462400,
+      {
+        "Avalanche": {
+          "GMX V1 Perps": 0
+        },
+        "Arbitrum": {
+          "GMX V1 Perps": 0
         }
       }
     ]
   ],
-  "change_1d": 43.09
+  "change_1d": -4.86
 }

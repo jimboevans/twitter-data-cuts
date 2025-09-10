@@ -37,11 +37,11 @@
   "defaultChartView": null,
   "slug": "bsc",
   "protocolType": "chain",
-  "total24h": 391205,
-  "total48hto24h": 325675,
-  "total7d": 2714828,
-  "total30d": 11407781,
-  "totalAllTime": 1840616621,
+  "total24h": 454240,
+  "total48hto24h": 579152,
+  "total7d": 2879689,
+  "total30d": 11759197,
+  "totalAllTime": 1841650013,
   "totalDataChart": [
     [
       1598745600,
@@ -7382,6 +7382,14 @@
     [
       1757203200,
       391205
+    ],
+    [
+      1757289600,
+      579152
+    ],
+    [
+      1757376000,
+      454240
     ]
   ],
   "totalDataChartBreakdown": [
@@ -22064,7 +22072,23 @@
           "BSC": 391205
         }
       }
+    ],
+    [
+      1757289600,
+      {
+        "BSC": {
+          "BSC": 579152
+        }
+      }
+    ],
+    [
+      1757376000,
+      {
+        "BSC": {
+          "BSC": 454240
+        }
+      }
     ]
   ],
-  "change_1d": 20.12
+  "change_1d": -21.57
 }

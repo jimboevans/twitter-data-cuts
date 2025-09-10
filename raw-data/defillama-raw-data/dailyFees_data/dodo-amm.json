@@ -59,11 +59,11 @@
     "DODO",
     "DODO AMM"
   ],
-  "total24h": 210446,
-  "total48hto24h": 201994,
-  "total7d": 926620,
-  "total30d": 3892748,
-  "totalAllTime": 40015890,
+  "total24h": 186043,
+  "total48hto24h": 207336,
+  "total7d": 1432013,
+  "total30d": 5662418,
+  "totalAllTime": 42462964,
   "totalDataChart": [
     [
       1669939200,
@@ -4067,7 +4067,55 @@
     ],
     [
       1756425600,
-      210446
+      207551
+    ],
+    [
+      1756512000,
+      207426
+    ],
+    [
+      1756598400,
+      207459
+    ],
+    [
+      1756684800,
+      209579
+    ],
+    [
+      1756771200,
+      207449
+    ],
+    [
+      1756857600,
+      207227
+    ],
+    [
+      1756944000,
+      207911
+    ],
+    [
+      1757030400,
+      207859
+    ],
+    [
+      1757116800,
+      207401
+    ],
+    [
+      1757203200,
+      207754
+    ],
+    [
+      1757289600,
+      207336
+    ],
+    [
+      1757376000,
+      186525
+    ],
+    [
+      1757462400,
+      186043
     ]
   ],
   "totalDataChartBreakdown": [
@@ -26867,26 +26915,302 @@
     [
       1756425600,
       {
+        "Arbitrum": {
+          "DODO AMM": 4361
+        },
+        "Ethereum": {
+          "DODO AMM": 7791
+        },
+        "Boba": {
+          "DODO AMM": 0
+        },
         "Aurora": {
           "DODO AMM": 0
         },
         "Polygon": {
           "DODO AMM": 3219
         },
+        "BSC": {
+          "DODO AMM": 192180
+        }
+      }
+    ],
+    [
+      1756512000,
+      {
+        "Boba": {
+          "DODO AMM": 0
+        },
         "Ethereum": {
           "DODO AMM": 7667
         },
+        "Polygon": {
+          "DODO AMM": 3059
+        },
+        "Aurora": {
+          "DODO AMM": 0
+        },
+        "BSC": {
+          "DODO AMM": 194392
+        },
         "Arbitrum": {
-          "DODO AMM": 4362
+          "DODO AMM": 2308
+        }
+      }
+    ],
+    [
+      1756598400,
+      {
+        "BSC": {
+          "DODO AMM": 194392
+        },
+        "Aurora": {
+          "DODO AMM": 0
+        },
+        "Boba": {
+          "DODO AMM": 0
+        },
+        "Ethereum": {
+          "DODO AMM": 7667
+        },
+        "Polygon": {
+          "DODO AMM": 3308
+        },
+        "Arbitrum": {
+          "DODO AMM": 2092
+        }
+      }
+    ],
+    [
+      1756684800,
+      {
+        "Boba": {
+          "DODO AMM": 0
+        },
+        "Aurora": {
+          "DODO AMM": 0
+        },
+        "Ethereum": {
+          "DODO AMM": 7667
+        },
+        "BSC": {
+          "DODO AMM": 194392
+        },
+        "Polygon": {
+          "DODO AMM": 5379
+        },
+        "Arbitrum": {
+          "DODO AMM": 2141
+        }
+      }
+    ],
+    [
+      1756771200,
+      {
+        "Boba": {
+          "DODO AMM": 0
+        },
+        "Ethereum": {
+          "DODO AMM": 7667
+        },
+        "BSC": {
+          "DODO AMM": 194392
+        },
+        "Aurora": {
+          "DODO AMM": 0
+        },
+        "Polygon": {
+          "DODO AMM": 3264
+        },
+        "Arbitrum": {
+          "DODO AMM": 2126
+        }
+      }
+    ],
+    [
+      1756857600,
+      {
+        "Boba": {
+          "DODO AMM": 0
+        },
+        "Aurora": {
+          "DODO AMM": 0
+        },
+        "BSC": {
+          "DODO AMM": 194392
+        },
+        "Polygon": {
+          "DODO AMM": 3141
+        },
+        "Arbitrum": {
+          "DODO AMM": 2111
+        },
+        "Ethereum": {
+          "DODO AMM": 7583
+        }
+      }
+    ],
+    [
+      1756944000,
+      {
+        "Boba": {
+          "DODO AMM": 0
+        },
+        "Polygon": {
+          "DODO AMM": 3817
+        },
+        "BSC": {
+          "DODO AMM": 194392
+        },
+        "Ethereum": {
+          "DODO AMM": 7583
+        },
+        "Arbitrum": {
+          "DODO AMM": 2119
+        },
+        "Aurora": {
+          "DODO AMM": 0
+        }
+      }
+    ],
+    [
+      1757030400,
+      {
+        "Boba": {
+          "DODO AMM": 0
+        },
+        "Aurora": {
+          "DODO AMM": 0
+        },
+        "Arbitrum": {
+          "DODO AMM": 2141
+        },
+        "BSC": {
+          "DODO AMM": 194392
+        },
+        "Ethereum": {
+          "DODO AMM": 7583
+        },
+        "Polygon": {
+          "DODO AMM": 3743
+        }
+      }
+    ],
+    [
+      1757116800,
+      {
+        "Aurora": {
+          "DODO AMM": 0
         },
         "Boba": {
           "DODO AMM": 0
         },
         "BSC": {
-          "DODO AMM": 195198
+          "DODO AMM": 194392
+        },
+        "Polygon": {
+          "DODO AMM": 3301
+        },
+        "Ethereum": {
+          "DODO AMM": 7583
+        },
+        "Arbitrum": {
+          "DODO AMM": 2125
+        }
+      }
+    ],
+    [
+      1757203200,
+      {
+        "Boba": {
+          "DODO AMM": 0
+        },
+        "Ethereum": {
+          "DODO AMM": 7583
+        },
+        "BSC": {
+          "DODO AMM": 194392
+        },
+        "Aurora": {
+          "DODO AMM": 0
+        },
+        "Polygon": {
+          "DODO AMM": 3672
+        },
+        "Arbitrum": {
+          "DODO AMM": 2107
+        }
+      }
+    ],
+    [
+      1757289600,
+      {
+        "Arbitrum": {
+          "DODO AMM": 2107
+        },
+        "BSC": {
+          "DODO AMM": 194392
+        },
+        "Boba": {
+          "DODO AMM": 0
+        },
+        "Ethereum": {
+          "DODO AMM": 7583
+        },
+        "Aurora": {
+          "DODO AMM": 0
+        },
+        "Polygon": {
+          "DODO AMM": 3254
+        }
+      }
+    ],
+    [
+      1757376000,
+      {
+        "Aurora": {
+          "DODO AMM": 0
+        },
+        "Boba": {
+          "DODO AMM": 0
+        },
+        "BSC": {
+          "DODO AMM": 174808
+        },
+        "Ethereum": {
+          "DODO AMM": 5922
+        },
+        "Polygon": {
+          "DODO AMM": 3727
+        },
+        "Arbitrum": {
+          "DODO AMM": 2068
+        }
+      }
+    ],
+    [
+      1757462400,
+      {
+        "BSC": {
+          "DODO AMM": 174808
+        },
+        "Boba": {
+          "DODO AMM": 0
+        },
+        "Aurora": {
+          "DODO AMM": 0
+        },
+        "Ethereum": {
+          "DODO AMM": 5922
+        },
+        "Arbitrum": {
+          "DODO AMM": 2068
+        },
+        "Polygon": {
+          "DODO AMM": 3245
         }
       }
     ]
   ],
-  "change_1d": 4.18
+  "change_1d": -10.27
 }

@@ -1,0 +1,2759 @@
+{
+  "id": "256",
+  "name": "Resupply USD",
+  "address": "0x4274cd7277c7bb0806bd5fe84b9adae466a8da0a",
+  "symbol": "REUSD",
+  "url": "https://resupply.fi/",
+  "description": "A decentralized stablecoin backed by stablecoin collateral in yield-bearing Curve Lend and Frax Lend markets, designed to maintain a 1:1 USD peg while sharing earned lending fees with borrowers.",
+  "mintRedeemDescription": "Deposit crvUSD or frxUSD into a collateralized vault to mint reUSD (minimum 1,000). The borrow rate is half the market\u2019s lending rate, half the risk-free rate, or 2%, whichever is higher. Repaying reUSD unlocks the original collateral.",
+  "onCoinGecko": "true",
+  "gecko_id": "resupply-usd",
+  "cmcId": null,
+  "pegType": "peggedUSD",
+  "pegMechanism": "crypto-backed",
+  "priceSource": "defillama",
+  "auditLinks": [],
+  "twitter": "https://x.com/ResupplyFi",
+  "wiki": "https://docs.resupply.fi/resupply-protocol/overview",
+  "doublecounted": true,
+  "chainBalances": {
+    "Ethereum": {
+      "tokens": [
+        {
+          "date": 1741910400,
+          "circulating": {
+            "peggedUSD": 1
+          },
+          "minted": {
+            "peggedUSD": 1
+          }
+        },
+        {
+          "date": 1741996800,
+          "circulating": {
+            "peggedUSD": 1
+          },
+          "minted": {
+            "peggedUSD": 1
+          }
+        },
+        {
+          "date": 1742083200,
+          "circulating": {
+            "peggedUSD": 1
+          },
+          "minted": {
+            "peggedUSD": 1
+          }
+        },
+        {
+          "date": 1742169600,
+          "circulating": {
+            "peggedUSD": 1
+          },
+          "minted": {
+            "peggedUSD": 1
+          }
+        },
+        {
+          "date": 1742256000,
+          "circulating": {
+            "peggedUSD": 1
+          },
+          "minted": {
+            "peggedUSD": 1
+          }
+        },
+        {
+          "date": 1742342400,
+          "circulating": {
+            "peggedUSD": 1
+          },
+          "minted": {
+            "peggedUSD": 1
+          }
+        },
+        {
+          "date": 1742428800,
+          "circulating": {
+            "peggedUSD": 1
+          },
+          "minted": {
+            "peggedUSD": 1
+          }
+        },
+        {
+          "date": 1742515200,
+          "circulating": {
+            "peggedUSD": 18000300
+          },
+          "minted": {
+            "peggedUSD": 18000300
+          }
+        },
+        {
+          "date": 1742601600,
+          "circulating": {
+            "peggedUSD": 28972371
+          },
+          "minted": {
+            "peggedUSD": 28972371
+          }
+        },
+        {
+          "date": 1742688000,
+          "circulating": {
+            "peggedUSD": 30581028
+          },
+          "minted": {
+            "peggedUSD": 30581028
+          }
+        },
+        {
+          "date": 1742774400,
+          "circulating": {
+            "peggedUSD": 31931683
+          },
+          "minted": {
+            "peggedUSD": 31931683
+          }
+        },
+        {
+          "date": 1742860800,
+          "circulating": {
+            "peggedUSD": 33371039
+          },
+          "minted": {
+            "peggedUSD": 33371039
+          }
+        },
+        {
+          "date": 1742947200,
+          "circulating": {
+            "peggedUSD": 33933282
+          },
+          "minted": {
+            "peggedUSD": 33933282
+          }
+        },
+        {
+          "date": 1743033600,
+          "circulating": {
+            "peggedUSD": 34222589
+          },
+          "minted": {
+            "peggedUSD": 34222589
+          }
+        },
+        {
+          "date": 1743120000,
+          "circulating": {
+            "peggedUSD": 37501951
+          },
+          "minted": {
+            "peggedUSD": 37501951
+          }
+        },
+        {
+          "date": 1743206400,
+          "circulating": {
+            "peggedUSD": 40055516
+          },
+          "minted": {
+            "peggedUSD": 40055516
+          }
+        },
+        {
+          "date": 1743292800,
+          "circulating": {
+            "peggedUSD": 40827911
+          },
+          "minted": {
+            "peggedUSD": 40827911
+          }
+        },
+        {
+          "date": 1743379200,
+          "circulating": {
+            "peggedUSD": 41452362
+          },
+          "minted": {
+            "peggedUSD": 41452362
+          }
+        },
+        {
+          "date": 1743465600,
+          "circulating": {
+            "peggedUSD": 42156932
+          },
+          "minted": {
+            "peggedUSD": 42156932
+          }
+        },
+        {
+          "date": 1743552000,
+          "circulating": {
+            "peggedUSD": 43439407
+          },
+          "minted": {
+            "peggedUSD": 43439407
+          }
+        },
+        {
+          "date": 1743638400,
+          "circulating": {
+            "peggedUSD": 44657737
+          },
+          "minted": {
+            "peggedUSD": 44657737
+          }
+        },
+        {
+          "date": 1743724800,
+          "circulating": {
+            "peggedUSD": 51132164
+          },
+          "minted": {
+            "peggedUSD": 51132164
+          }
+        },
+        {
+          "date": 1743811200,
+          "circulating": {
+            "peggedUSD": 56569178
+          },
+          "minted": {
+            "peggedUSD": 56569178
+          }
+        },
+        {
+          "date": 1743897600,
+          "circulating": {
+            "peggedUSD": 60018857
+          },
+          "minted": {
+            "peggedUSD": 60018857
+          }
+        },
+        {
+          "date": 1743984000,
+          "circulating": {
+            "peggedUSD": 60067549
+          },
+          "minted": {
+            "peggedUSD": 60067549
+          }
+        },
+        {
+          "date": 1744070400,
+          "circulating": {
+            "peggedUSD": 59844809
+          },
+          "minted": {
+            "peggedUSD": 59844809
+          }
+        },
+        {
+          "date": 1744156800,
+          "circulating": {
+            "peggedUSD": 63522344
+          },
+          "minted": {
+            "peggedUSD": 63522344
+          }
+        },
+        {
+          "date": 1744243200,
+          "circulating": {
+            "peggedUSD": 67285995
+          },
+          "minted": {
+            "peggedUSD": 67285995
+          }
+        },
+        {
+          "date": 1744329600,
+          "circulating": {
+            "peggedUSD": 77855758
+          },
+          "minted": {
+            "peggedUSD": 77855758
+          }
+        },
+        {
+          "date": 1744416000,
+          "circulating": {
+            "peggedUSD": 78858685
+          },
+          "minted": {
+            "peggedUSD": 78858685
+          }
+        },
+        {
+          "date": 1744502400,
+          "circulating": {
+            "peggedUSD": 81733634
+          },
+          "minted": {
+            "peggedUSD": 81733634
+          }
+        },
+        {
+          "date": 1744588800,
+          "circulating": {
+            "peggedUSD": 83975025
+          },
+          "minted": {
+            "peggedUSD": 83975025
+          }
+        },
+        {
+          "date": 1744675200,
+          "circulating": {
+            "peggedUSD": 85243884
+          },
+          "minted": {
+            "peggedUSD": 85243884
+          }
+        },
+        {
+          "date": 1744761600,
+          "circulating": {
+            "peggedUSD": 86271907
+          },
+          "minted": {
+            "peggedUSD": 86271907
+          }
+        },
+        {
+          "date": 1744848000,
+          "circulating": {
+            "peggedUSD": 87540349
+          },
+          "minted": {
+            "peggedUSD": 87540349
+          }
+        },
+        {
+          "date": 1744934400,
+          "circulating": {
+            "peggedUSD": 88752644
+          },
+          "minted": {
+            "peggedUSD": 88752644
+          }
+        },
+        {
+          "date": 1745020800,
+          "circulating": {
+            "peggedUSD": 88854282
+          },
+          "minted": {
+            "peggedUSD": 88854282
+          }
+        },
+        {
+          "date": 1745107200,
+          "circulating": {
+            "peggedUSD": 90431806
+          },
+          "minted": {
+            "peggedUSD": 90431806
+          }
+        },
+        {
+          "date": 1745193600,
+          "circulating": {
+            "peggedUSD": 91682513
+          },
+          "minted": {
+            "peggedUSD": 91682513
+          }
+        },
+        {
+          "date": 1745280000,
+          "circulating": {
+            "peggedUSD": 92932353
+          },
+          "minted": {
+            "peggedUSD": 92932353
+          }
+        },
+        {
+          "date": 1745366400,
+          "circulating": {
+            "peggedUSD": 93716174
+          },
+          "minted": {
+            "peggedUSD": 93716174
+          }
+        },
+        {
+          "date": 1745452800,
+          "circulating": {
+            "peggedUSD": 96404990
+          },
+          "minted": {
+            "peggedUSD": 96404990
+          }
+        },
+        {
+          "date": 1745539200,
+          "circulating": {
+            "peggedUSD": 97939491
+          },
+          "minted": {
+            "peggedUSD": 97939491
+          }
+        },
+        {
+          "date": 1745625600,
+          "circulating": {
+            "peggedUSD": 98536860
+          },
+          "minted": {
+            "peggedUSD": 98536860
+          }
+        },
+        {
+          "date": 1745712000,
+          "circulating": {
+            "peggedUSD": 98363587
+          },
+          "minted": {
+            "peggedUSD": 98363587
+          }
+        },
+        {
+          "date": 1745798400,
+          "circulating": {
+            "peggedUSD": 99637143
+          },
+          "minted": {
+            "peggedUSD": 99637143
+          }
+        },
+        {
+          "date": 1745884800,
+          "circulating": {
+            "peggedUSD": 99934999
+          },
+          "minted": {
+            "peggedUSD": 99934999
+          }
+        },
+        {
+          "date": 1745971200,
+          "circulating": {
+            "peggedUSD": 101154216
+          },
+          "minted": {
+            "peggedUSD": 101154216
+          }
+        },
+        {
+          "date": 1746057600,
+          "circulating": {
+            "peggedUSD": 101995950
+          },
+          "minted": {
+            "peggedUSD": 101995950
+          }
+        },
+        {
+          "date": 1746144000,
+          "circulating": {
+            "peggedUSD": 103982366
+          },
+          "minted": {
+            "peggedUSD": 103982366
+          }
+        },
+        {
+          "date": 1746230400,
+          "circulating": {
+            "peggedUSD": 104715748
+          },
+          "minted": {
+            "peggedUSD": 104715748
+          }
+        },
+        {
+          "date": 1746316800,
+          "circulating": {
+            "peggedUSD": 105986725
+          },
+          "minted": {
+            "peggedUSD": 105986725
+          }
+        },
+        {
+          "date": 1746403200,
+          "circulating": {
+            "peggedUSD": 106757528
+          },
+          "minted": {
+            "peggedUSD": 106757528
+          }
+        },
+        {
+          "date": 1746489600,
+          "circulating": {
+            "peggedUSD": 109487654
+          },
+          "minted": {
+            "peggedUSD": 109487654
+          }
+        },
+        {
+          "date": 1746576000,
+          "circulating": {
+            "peggedUSD": 111557728
+          },
+          "minted": {
+            "peggedUSD": 111557728
+          }
+        },
+        {
+          "date": 1746662400,
+          "circulating": {
+            "peggedUSD": 116147467
+          },
+          "minted": {
+            "peggedUSD": 116147467
+          }
+        },
+        {
+          "date": 1746748800,
+          "circulating": {
+            "peggedUSD": 116106900
+          },
+          "minted": {
+            "peggedUSD": 116106900
+          }
+        },
+        {
+          "date": 1746835200,
+          "circulating": {
+            "peggedUSD": 117048242
+          },
+          "minted": {
+            "peggedUSD": 117048242
+          }
+        },
+        {
+          "date": 1746921600,
+          "circulating": {
+            "peggedUSD": 118618086
+          },
+          "minted": {
+            "peggedUSD": 118618086
+          }
+        },
+        {
+          "date": 1747008000,
+          "circulating": {
+            "peggedUSD": 121487339
+          },
+          "minted": {
+            "peggedUSD": 121487339
+          }
+        },
+        {
+          "date": 1747094400,
+          "circulating": {
+            "peggedUSD": 121516545
+          },
+          "minted": {
+            "peggedUSD": 121516545
+          }
+        },
+        {
+          "date": 1747180800,
+          "circulating": {
+            "peggedUSD": 122242481
+          },
+          "minted": {
+            "peggedUSD": 122242481
+          }
+        },
+        {
+          "date": 1747267200,
+          "circulating": {
+            "peggedUSD": 123062163
+          },
+          "minted": {
+            "peggedUSD": 123062163
+          }
+        },
+        {
+          "date": 1747353600,
+          "circulating": {
+            "peggedUSD": 121325258
+          },
+          "minted": {
+            "peggedUSD": 121325258
+          }
+        },
+        {
+          "date": 1747440000,
+          "circulating": {
+            "peggedUSD": 122639073
+          },
+          "minted": {
+            "peggedUSD": 122639073
+          }
+        },
+        {
+          "date": 1747526400,
+          "circulating": {
+            "peggedUSD": 121592909
+          },
+          "minted": {
+            "peggedUSD": 121592909
+          }
+        },
+        {
+          "date": 1747612800,
+          "circulating": {
+            "peggedUSD": 121289012
+          },
+          "minted": {
+            "peggedUSD": 121289012
+          }
+        },
+        {
+          "date": 1747699200,
+          "circulating": {
+            "peggedUSD": 120461559
+          },
+          "minted": {
+            "peggedUSD": 120461559
+          }
+        },
+        {
+          "date": 1747785600,
+          "circulating": {
+            "peggedUSD": 121099692
+          },
+          "minted": {
+            "peggedUSD": 121099692
+          }
+        },
+        {
+          "date": 1747872000,
+          "circulating": {
+            "peggedUSD": 121182964
+          },
+          "minted": {
+            "peggedUSD": 121182964
+          }
+        },
+        {
+          "date": 1747958400,
+          "circulating": {
+            "peggedUSD": 120893343
+          },
+          "minted": {
+            "peggedUSD": 120893343
+          }
+        },
+        {
+          "date": 1748044800,
+          "circulating": {
+            "peggedUSD": 122298684
+          },
+          "minted": {
+            "peggedUSD": 122298684
+          }
+        },
+        {
+          "date": 1748131200,
+          "circulating": {
+            "peggedUSD": 121892333
+          },
+          "minted": {
+            "peggedUSD": 121892333
+          }
+        },
+        {
+          "date": 1748217600,
+          "circulating": {
+            "peggedUSD": 121868823
+          },
+          "minted": {
+            "peggedUSD": 121868823
+          }
+        },
+        {
+          "date": 1748304000,
+          "circulating": {
+            "peggedUSD": 121971521
+          },
+          "minted": {
+            "peggedUSD": 121971521
+          }
+        },
+        {
+          "date": 1748390400,
+          "circulating": {
+            "peggedUSD": 122312209
+          },
+          "minted": {
+            "peggedUSD": 122312209
+          }
+        },
+        {
+          "date": 1748476800,
+          "circulating": {
+            "peggedUSD": 123842060
+          },
+          "minted": {
+            "peggedUSD": 123842060
+          }
+        },
+        {
+          "date": 1748563200,
+          "circulating": {
+            "peggedUSD": 123855423
+          },
+          "minted": {
+            "peggedUSD": 123855423
+          }
+        },
+        {
+          "date": 1748649600,
+          "circulating": {
+            "peggedUSD": 124245464
+          },
+          "minted": {
+            "peggedUSD": 124245464
+          }
+        },
+        {
+          "date": 1748736000,
+          "circulating": {
+            "peggedUSD": 124610553
+          },
+          "minted": {
+            "peggedUSD": 124610553
+          }
+        },
+        {
+          "date": 1748822400,
+          "circulating": {
+            "peggedUSD": 123397853
+          },
+          "minted": {
+            "peggedUSD": 123397853
+          }
+        },
+        {
+          "date": 1748908800,
+          "circulating": {
+            "peggedUSD": 123897420
+          },
+          "minted": {
+            "peggedUSD": 123897420
+          }
+        },
+        {
+          "date": 1748995200,
+          "circulating": {
+            "peggedUSD": 124833599
+          },
+          "minted": {
+            "peggedUSD": 124833599
+          }
+        },
+        {
+          "date": 1749081600,
+          "circulating": {
+            "peggedUSD": 126141366
+          },
+          "minted": {
+            "peggedUSD": 126141366
+          }
+        },
+        {
+          "date": 1749168000,
+          "circulating": {
+            "peggedUSD": 126151310
+          },
+          "minted": {
+            "peggedUSD": 126151310
+          }
+        },
+        {
+          "date": 1749254400,
+          "circulating": {
+            "peggedUSD": 126134324
+          },
+          "minted": {
+            "peggedUSD": 126134324
+          }
+        },
+        {
+          "date": 1749340800,
+          "circulating": {
+            "peggedUSD": 126395866
+          },
+          "minted": {
+            "peggedUSD": 126395866
+          }
+        },
+        {
+          "date": 1749427200,
+          "circulating": {
+            "peggedUSD": 125948697
+          },
+          "minted": {
+            "peggedUSD": 125948697
+          }
+        },
+        {
+          "date": 1749513600,
+          "circulating": {
+            "peggedUSD": 126447874
+          },
+          "minted": {
+            "peggedUSD": 126447874
+          }
+        },
+        {
+          "date": 1749600000,
+          "circulating": {
+            "peggedUSD": 125632621
+          },
+          "minted": {
+            "peggedUSD": 125632621
+          }
+        },
+        {
+          "date": 1749686400,
+          "circulating": {
+            "peggedUSD": 122820446
+          },
+          "minted": {
+            "peggedUSD": 122820446
+          }
+        },
+        {
+          "date": 1749772800,
+          "circulating": {
+            "peggedUSD": 123266137
+          },
+          "minted": {
+            "peggedUSD": 123266137
+          }
+        },
+        {
+          "date": 1749859200,
+          "circulating": {
+            "peggedUSD": 120353107
+          },
+          "minted": {
+            "peggedUSD": 120353107
+          }
+        },
+        {
+          "date": 1749945600,
+          "circulating": {
+            "peggedUSD": 120469437
+          },
+          "minted": {
+            "peggedUSD": 120469437
+          }
+        },
+        {
+          "date": 1750032000,
+          "circulating": {
+            "peggedUSD": 121208715
+          },
+          "minted": {
+            "peggedUSD": 121208715
+          }
+        },
+        {
+          "date": 1750118400,
+          "circulating": {
+            "peggedUSD": 120201327
+          },
+          "minted": {
+            "peggedUSD": 120201327
+          }
+        },
+        {
+          "date": 1750204800,
+          "circulating": {
+            "peggedUSD": 122426036
+          },
+          "minted": {
+            "peggedUSD": 122426036
+          }
+        },
+        {
+          "date": 1750291200,
+          "circulating": {
+            "peggedUSD": 122714369
+          },
+          "minted": {
+            "peggedUSD": 122714369
+          }
+        },
+        {
+          "date": 1750377600,
+          "circulating": {
+            "peggedUSD": 123034504
+          },
+          "minted": {
+            "peggedUSD": 123034504
+          }
+        },
+        {
+          "date": 1750464000,
+          "circulating": {
+            "peggedUSD": 121941573
+          },
+          "minted": {
+            "peggedUSD": 121941573
+          }
+        },
+        {
+          "date": 1750550400,
+          "circulating": {
+            "peggedUSD": 122412053
+          },
+          "minted": {
+            "peggedUSD": 122412053
+          }
+        },
+        {
+          "date": 1750636800,
+          "circulating": {
+            "peggedUSD": 122017129
+          },
+          "minted": {
+            "peggedUSD": 122017129
+          }
+        },
+        {
+          "date": 1750723200,
+          "circulating": {
+            "peggedUSD": 122057265
+          },
+          "minted": {
+            "peggedUSD": 122057265
+          }
+        },
+        {
+          "date": 1750809600,
+          "circulating": {
+            "peggedUSD": 122231165
+          },
+          "minted": {
+            "peggedUSD": 122231165
+          }
+        },
+        {
+          "date": 1750896000,
+          "circulating": {
+            "peggedUSD": 122032235
+          },
+          "minted": {
+            "peggedUSD": 122032235
+          }
+        },
+        {
+          "date": 1750982400,
+          "circulating": {
+            "peggedUSD": 76973017
+          },
+          "minted": {
+            "peggedUSD": 76973017
+          }
+        },
+        {
+          "date": 1751068800,
+          "circulating": {
+            "peggedUSD": 76422628
+          },
+          "minted": {
+            "peggedUSD": 76422628
+          }
+        },
+        {
+          "date": 1751155200,
+          "circulating": {
+            "peggedUSD": 78480635
+          },
+          "minted": {
+            "peggedUSD": 78480635
+          }
+        },
+        {
+          "date": 1751241600,
+          "circulating": {
+            "peggedUSD": 82008225
+          },
+          "minted": {
+            "peggedUSD": 82008225
+          }
+        },
+        {
+          "date": 1751328000,
+          "circulating": {
+            "peggedUSD": 80969357
+          },
+          "minted": {
+            "peggedUSD": 80969357
+          }
+        },
+        {
+          "date": 1751414400,
+          "circulating": {
+            "peggedUSD": 82811815
+          },
+          "minted": {
+            "peggedUSD": 82811815
+          }
+        },
+        {
+          "date": 1751500800,
+          "circulating": {
+            "peggedUSD": 78487632
+          },
+          "minted": {
+            "peggedUSD": 78487632
+          }
+        },
+        {
+          "date": 1751587200,
+          "circulating": {
+            "peggedUSD": 70356124
+          },
+          "minted": {
+            "peggedUSD": 70356124
+          }
+        },
+        {
+          "date": 1751673600,
+          "circulating": {
+            "peggedUSD": 69947514
+          },
+          "minted": {
+            "peggedUSD": 69947514
+          }
+        },
+        {
+          "date": 1751760000,
+          "circulating": {
+            "peggedUSD": 70154856
+          },
+          "minted": {
+            "peggedUSD": 70154856
+          }
+        },
+        {
+          "date": 1751846400,
+          "circulating": {
+            "peggedUSD": 70340300
+          },
+          "minted": {
+            "peggedUSD": 70340300
+          }
+        },
+        {
+          "date": 1751932800,
+          "circulating": {
+            "peggedUSD": 69957528
+          },
+          "minted": {
+            "peggedUSD": 69957528
+          }
+        },
+        {
+          "date": 1752019200,
+          "circulating": {
+            "peggedUSD": 72049037
+          },
+          "minted": {
+            "peggedUSD": 72049037
+          }
+        },
+        {
+          "date": 1752105600,
+          "circulating": {
+            "peggedUSD": 72099937
+          },
+          "minted": {
+            "peggedUSD": 72099937
+          }
+        },
+        {
+          "date": 1752192000,
+          "circulating": {
+            "peggedUSD": 72563240
+          },
+          "minted": {
+            "peggedUSD": 72563240
+          }
+        },
+        {
+          "date": 1752278400,
+          "circulating": {
+            "peggedUSD": 72765182
+          },
+          "minted": {
+            "peggedUSD": 72765182
+          }
+        },
+        {
+          "date": 1752364800,
+          "circulating": {
+            "peggedUSD": 72948402
+          },
+          "minted": {
+            "peggedUSD": 72948402
+          }
+        },
+        {
+          "date": 1752451200,
+          "circulating": {
+            "peggedUSD": 73559832
+          },
+          "minted": {
+            "peggedUSD": 73559832
+          }
+        },
+        {
+          "date": 1752537600,
+          "circulating": {
+            "peggedUSD": 73969985
+          },
+          "minted": {
+            "peggedUSD": 73969985
+          }
+        },
+        {
+          "date": 1752624000,
+          "circulating": {
+            "peggedUSD": 74854991
+          },
+          "minted": {
+            "peggedUSD": 74854991
+          }
+        },
+        {
+          "date": 1752710400,
+          "circulating": {
+            "peggedUSD": 77207247
+          },
+          "minted": {
+            "peggedUSD": 77207247
+          }
+        },
+        {
+          "date": 1752796800,
+          "circulating": {
+            "peggedUSD": 81737580
+          },
+          "minted": {
+            "peggedUSD": 81737580
+          }
+        },
+        {
+          "date": 1752883200,
+          "circulating": {
+            "peggedUSD": 82951843
+          },
+          "minted": {
+            "peggedUSD": 82951843
+          }
+        },
+        {
+          "date": 1752969600,
+          "circulating": {
+            "peggedUSD": 83775362
+          },
+          "minted": {
+            "peggedUSD": 83775362
+          }
+        },
+        {
+          "date": 1753056000,
+          "circulating": {
+            "peggedUSD": 83894978
+          },
+          "minted": {
+            "peggedUSD": 83894978
+          }
+        },
+        {
+          "date": 1753142400,
+          "circulating": {
+            "peggedUSD": 83922248
+          },
+          "minted": {
+            "peggedUSD": 83922248
+          }
+        },
+        {
+          "date": 1753228800,
+          "circulating": {
+            "peggedUSD": 84414901
+          },
+          "minted": {
+            "peggedUSD": 84414901
+          }
+        },
+        {
+          "date": 1753315200,
+          "circulating": {
+            "peggedUSD": 84942827
+          },
+          "minted": {
+            "peggedUSD": 84942827
+          }
+        },
+        {
+          "date": 1753401600,
+          "circulating": {
+            "peggedUSD": 81211474
+          },
+          "minted": {
+            "peggedUSD": 81211474
+          }
+        },
+        {
+          "date": 1753488000,
+          "circulating": {
+            "peggedUSD": 81034884
+          },
+          "minted": {
+            "peggedUSD": 81034884
+          }
+        },
+        {
+          "date": 1753574400,
+          "circulating": {
+            "peggedUSD": 83305014
+          },
+          "minted": {
+            "peggedUSD": 83305014
+          }
+        },
+        {
+          "date": 1753660800,
+          "circulating": {
+            "peggedUSD": 84124324
+          },
+          "minted": {
+            "peggedUSD": 84124324
+          }
+        },
+        {
+          "date": 1753747200,
+          "circulating": {
+            "peggedUSD": 84074391
+          },
+          "minted": {
+            "peggedUSD": 84074391
+          }
+        },
+        {
+          "date": 1753833600,
+          "circulating": {
+            "peggedUSD": 83975222
+          },
+          "minted": {
+            "peggedUSD": 83975222
+          }
+        },
+        {
+          "date": 1753920000,
+          "circulating": {
+            "peggedUSD": 83938104
+          },
+          "minted": {
+            "peggedUSD": 83938104
+          }
+        },
+        {
+          "date": 1754006400,
+          "circulating": {
+            "peggedUSD": 83687029
+          },
+          "minted": {
+            "peggedUSD": 83687029
+          }
+        },
+        {
+          "date": 1754092800,
+          "circulating": {
+            "peggedUSD": 84367637
+          },
+          "minted": {
+            "peggedUSD": 84367637
+          }
+        },
+        {
+          "date": 1754179200,
+          "circulating": {
+            "peggedUSD": 84077421
+          },
+          "minted": {
+            "peggedUSD": 84077421
+          }
+        },
+        {
+          "date": 1754265600,
+          "circulating": {
+            "peggedUSD": 84258281
+          },
+          "minted": {
+            "peggedUSD": 84258281
+          }
+        },
+        {
+          "date": 1754352000,
+          "circulating": {
+            "peggedUSD": 88251387
+          },
+          "minted": {
+            "peggedUSD": 88251387
+          }
+        },
+        {
+          "date": 1754438400,
+          "circulating": {
+            "peggedUSD": 88329361
+          },
+          "minted": {
+            "peggedUSD": 88329361
+          }
+        },
+        {
+          "date": 1754524800,
+          "circulating": {
+            "peggedUSD": 88291822
+          },
+          "minted": {
+            "peggedUSD": 88291822
+          }
+        },
+        {
+          "date": 1754611200,
+          "circulating": {
+            "peggedUSD": 89586546
+          },
+          "minted": {
+            "peggedUSD": 89586546
+          }
+        },
+        {
+          "date": 1754697600,
+          "circulating": {
+            "peggedUSD": 89402455
+          },
+          "minted": {
+            "peggedUSD": 89402455
+          }
+        },
+        {
+          "date": 1754784000,
+          "circulating": {
+            "peggedUSD": 89825690
+          },
+          "minted": {
+            "peggedUSD": 89825690
+          }
+        },
+        {
+          "date": 1754870400,
+          "circulating": {
+            "peggedUSD": 89741078
+          },
+          "minted": {
+            "peggedUSD": 89741078
+          }
+        },
+        {
+          "date": 1754956800,
+          "circulating": {
+            "peggedUSD": 87803081
+          },
+          "minted": {
+            "peggedUSD": 87803081
+          }
+        },
+        {
+          "date": 1755043200,
+          "circulating": {
+            "peggedUSD": 89541255
+          },
+          "minted": {
+            "peggedUSD": 89541255
+          }
+        },
+        {
+          "date": 1755129600,
+          "circulating": {
+            "peggedUSD": 89759908
+          },
+          "minted": {
+            "peggedUSD": 89759908
+          }
+        },
+        {
+          "date": 1755216000,
+          "circulating": {
+            "peggedUSD": 88862525
+          },
+          "minted": {
+            "peggedUSD": 88862525
+          }
+        },
+        {
+          "date": 1755302400,
+          "circulating": {
+            "peggedUSD": 89939046
+          },
+          "minted": {
+            "peggedUSD": 89939046
+          }
+        },
+        {
+          "date": 1755388800,
+          "circulating": {
+            "peggedUSD": 89464491
+          },
+          "minted": {
+            "peggedUSD": 89464491
+          }
+        },
+        {
+          "date": 1755475200,
+          "circulating": {
+            "peggedUSD": 87982069
+          },
+          "minted": {
+            "peggedUSD": 87982069
+          }
+        },
+        {
+          "date": 1755561600,
+          "circulating": {
+            "peggedUSD": 88564166
+          },
+          "minted": {
+            "peggedUSD": 88564166
+          }
+        },
+        {
+          "date": 1755648000,
+          "circulating": {
+            "peggedUSD": 88057368
+          },
+          "minted": {
+            "peggedUSD": 88057368
+          }
+        },
+        {
+          "date": 1755734400,
+          "circulating": {
+            "peggedUSD": 88340760
+          },
+          "minted": {
+            "peggedUSD": 88340760
+          }
+        },
+        {
+          "date": 1755820800,
+          "circulating": {
+            "peggedUSD": 88073986
+          },
+          "minted": {
+            "peggedUSD": 88073986
+          }
+        },
+        {
+          "date": 1755907200,
+          "circulating": {
+            "peggedUSD": 88548447
+          },
+          "minted": {
+            "peggedUSD": 88548447
+          }
+        },
+        {
+          "date": 1755993600,
+          "circulating": {
+            "peggedUSD": 88557334
+          },
+          "minted": {
+            "peggedUSD": 88557334
+          }
+        },
+        {
+          "date": 1756080000,
+          "circulating": {
+            "peggedUSD": 87343927
+          },
+          "minted": {
+            "peggedUSD": 87343927
+          }
+        },
+        {
+          "date": 1756166400,
+          "circulating": {
+            "peggedUSD": 87311447
+          },
+          "minted": {
+            "peggedUSD": 87311447
+          }
+        },
+        {
+          "date": 1756252800,
+          "circulating": {
+            "peggedUSD": 85307075
+          },
+          "minted": {
+            "peggedUSD": 85307075
+          }
+        },
+        {
+          "date": 1756339200,
+          "circulating": {
+            "peggedUSD": 83725346
+          },
+          "minted": {
+            "peggedUSD": 83725346
+          }
+        },
+        {
+          "date": 1756425600,
+          "circulating": {
+            "peggedUSD": 83668999
+          },
+          "minted": {
+            "peggedUSD": 83668999
+          }
+        },
+        {
+          "date": 1756512000,
+          "circulating": {
+            "peggedUSD": 80078665
+          },
+          "minted": {
+            "peggedUSD": 80078665
+          }
+        },
+        {
+          "date": 1756598400,
+          "circulating": {
+            "peggedUSD": 79635894
+          },
+          "minted": {
+            "peggedUSD": 79635894
+          }
+        },
+        {
+          "date": 1756684800,
+          "circulating": {
+            "peggedUSD": 79269031
+          },
+          "minted": {
+            "peggedUSD": 79269031
+          }
+        },
+        {
+          "date": 1756771200,
+          "circulating": {
+            "peggedUSD": 79328068
+          },
+          "minted": {
+            "peggedUSD": 79328068
+          }
+        },
+        {
+          "date": 1756857600,
+          "circulating": {
+            "peggedUSD": 79032542
+          },
+          "minted": {
+            "peggedUSD": 79032542
+          }
+        },
+        {
+          "date": 1756944000,
+          "circulating": {
+            "peggedUSD": 78317911
+          },
+          "minted": {
+            "peggedUSD": 78317911
+          }
+        },
+        {
+          "date": 1757030400,
+          "circulating": {
+            "peggedUSD": 79970737
+          },
+          "minted": {
+            "peggedUSD": 79970737
+          }
+        },
+        {
+          "date": 1757116800,
+          "circulating": {
+            "peggedUSD": 79870359
+          },
+          "minted": {
+            "peggedUSD": 79870359
+          }
+        },
+        {
+          "date": 1757203200,
+          "circulating": {
+            "peggedUSD": 79439259
+          },
+          "minted": {
+            "peggedUSD": 79439259
+          }
+        },
+        {
+          "date": 1757289600,
+          "circulating": {
+            "peggedUSD": 78189425
+          },
+          "minted": {
+            "peggedUSD": 78189425
+          }
+        },
+        {
+          "date": 1757376000,
+          "circulating": {
+            "peggedUSD": 78578886
+          },
+          "minted": {
+            "peggedUSD": 78578886
+          }
+        },
+        {
+          "date": 1757462400,
+          "circulating": {
+            "peggedUSD": 78532024.52403225
+          },
+          "minted": {
+            "peggedUSD": 78532024.52403225
+          },
+          "unreleased": {
+            "peggedUSD": 0
+          },
+          "bridgedTo": {
+            "peggedUSD": 0
+          }
+        }
+      ]
+    }
+  },
+  "currentChainBalances": {
+    "Ethereum": {
+      "peggedUSD": 78667022.52787915
+    }
+  },
+  "price": 1.001,
+  "tokens": [
+    {
+      "date": 1741910400,
+      "circulating": {
+        "peggedUSD": 1
+      }
+    },
+    {
+      "date": 1741996800,
+      "circulating": {
+        "peggedUSD": 1
+      }
+    },
+    {
+      "date": 1742083200,
+      "circulating": {
+        "peggedUSD": 1
+      }
+    },
+    {
+      "date": 1742169600,
+      "circulating": {
+        "peggedUSD": 1
+      }
+    },
+    {
+      "date": 1742256000,
+      "circulating": {
+        "peggedUSD": 1
+      }
+    },
+    {
+      "date": 1742342400,
+      "circulating": {
+        "peggedUSD": 1
+      }
+    },
+    {
+      "date": 1742428800,
+      "circulating": {
+        "peggedUSD": 1
+      }
+    },
+    {
+      "date": 1742515200,
+      "circulating": {
+        "peggedUSD": 18000300
+      }
+    },
+    {
+      "date": 1742601600,
+      "circulating": {
+        "peggedUSD": 28972371
+      }
+    },
+    {
+      "date": 1742688000,
+      "circulating": {
+        "peggedUSD": 30581028
+      }
+    },
+    {
+      "date": 1742774400,
+      "circulating": {
+        "peggedUSD": 31931683
+      }
+    },
+    {
+      "date": 1742860800,
+      "circulating": {
+        "peggedUSD": 33371039
+      }
+    },
+    {
+      "date": 1742947200,
+      "circulating": {
+        "peggedUSD": 33933282
+      }
+    },
+    {
+      "date": 1743033600,
+      "circulating": {
+        "peggedUSD": 34222589
+      }
+    },
+    {
+      "date": 1743120000,
+      "circulating": {
+        "peggedUSD": 37501951
+      }
+    },
+    {
+      "date": 1743206400,
+      "circulating": {
+        "peggedUSD": 40055516
+      }
+    },
+    {
+      "date": 1743292800,
+      "circulating": {
+        "peggedUSD": 40827911
+      }
+    },
+    {
+      "date": 1743379200,
+      "circulating": {
+        "peggedUSD": 41452362
+      }
+    },
+    {
+      "date": 1743465600,
+      "circulating": {
+        "peggedUSD": 42156932
+      }
+    },
+    {
+      "date": 1743552000,
+      "circulating": {
+        "peggedUSD": 43439407
+      }
+    },
+    {
+      "date": 1743638400,
+      "circulating": {
+        "peggedUSD": 44657737
+      }
+    },
+    {
+      "date": 1743724800,
+      "circulating": {
+        "peggedUSD": 51132164
+      }
+    },
+    {
+      "date": 1743811200,
+      "circulating": {
+        "peggedUSD": 56569178
+      }
+    },
+    {
+      "date": 1743897600,
+      "circulating": {
+        "peggedUSD": 60018857
+      }
+    },
+    {
+      "date": 1743984000,
+      "circulating": {
+        "peggedUSD": 60067549
+      }
+    },
+    {
+      "date": 1744070400,
+      "circulating": {
+        "peggedUSD": 59844809
+      }
+    },
+    {
+      "date": 1744156800,
+      "circulating": {
+        "peggedUSD": 63522344
+      }
+    },
+    {
+      "date": 1744243200,
+      "circulating": {
+        "peggedUSD": 67285995
+      }
+    },
+    {
+      "date": 1744329600,
+      "circulating": {
+        "peggedUSD": 77855758
+      }
+    },
+    {
+      "date": 1744416000,
+      "circulating": {
+        "peggedUSD": 78858685
+      }
+    },
+    {
+      "date": 1744502400,
+      "circulating": {
+        "peggedUSD": 81733634
+      }
+    },
+    {
+      "date": 1744588800,
+      "circulating": {
+        "peggedUSD": 83975025
+      }
+    },
+    {
+      "date": 1744675200,
+      "circulating": {
+        "peggedUSD": 85243884
+      }
+    },
+    {
+      "date": 1744761600,
+      "circulating": {
+        "peggedUSD": 86271907
+      }
+    },
+    {
+      "date": 1744848000,
+      "circulating": {
+        "peggedUSD": 87540349
+      }
+    },
+    {
+      "date": 1744934400,
+      "circulating": {
+        "peggedUSD": 88752644
+      }
+    },
+    {
+      "date": 1745020800,
+      "circulating": {
+        "peggedUSD": 88854282
+      }
+    },
+    {
+      "date": 1745107200,
+      "circulating": {
+        "peggedUSD": 90431806
+      }
+    },
+    {
+      "date": 1745193600,
+      "circulating": {
+        "peggedUSD": 91682513
+      }
+    },
+    {
+      "date": 1745280000,
+      "circulating": {
+        "peggedUSD": 92932353
+      }
+    },
+    {
+      "date": 1745366400,
+      "circulating": {
+        "peggedUSD": 93716174
+      }
+    },
+    {
+      "date": 1745452800,
+      "circulating": {
+        "peggedUSD": 96404990
+      }
+    },
+    {
+      "date": 1745539200,
+      "circulating": {
+        "peggedUSD": 97939491
+      }
+    },
+    {
+      "date": 1745625600,
+      "circulating": {
+        "peggedUSD": 98536860
+      }
+    },
+    {
+      "date": 1745712000,
+      "circulating": {
+        "peggedUSD": 98363587
+      }
+    },
+    {
+      "date": 1745798400,
+      "circulating": {
+        "peggedUSD": 99637143
+      }
+    },
+    {
+      "date": 1745884800,
+      "circulating": {
+        "peggedUSD": 99934999
+      }
+    },
+    {
+      "date": 1745971200,
+      "circulating": {
+        "peggedUSD": 101154216
+      }
+    },
+    {
+      "date": 1746057600,
+      "circulating": {
+        "peggedUSD": 101995950
+      }
+    },
+    {
+      "date": 1746144000,
+      "circulating": {
+        "peggedUSD": 103982366
+      }
+    },
+    {
+      "date": 1746230400,
+      "circulating": {
+        "peggedUSD": 104715748
+      }
+    },
+    {
+      "date": 1746316800,
+      "circulating": {
+        "peggedUSD": 105986725
+      }
+    },
+    {
+      "date": 1746403200,
+      "circulating": {
+        "peggedUSD": 106757528
+      }
+    },
+    {
+      "date": 1746489600,
+      "circulating": {
+        "peggedUSD": 109487654
+      }
+    },
+    {
+      "date": 1746576000,
+      "circulating": {
+        "peggedUSD": 111557728
+      }
+    },
+    {
+      "date": 1746662400,
+      "circulating": {
+        "peggedUSD": 116147467
+      }
+    },
+    {
+      "date": 1746748800,
+      "circulating": {
+        "peggedUSD": 116106900
+      }
+    },
+    {
+      "date": 1746835200,
+      "circulating": {
+        "peggedUSD": 117048242
+      }
+    },
+    {
+      "date": 1746921600,
+      "circulating": {
+        "peggedUSD": 118618086
+      }
+    },
+    {
+      "date": 1747008000,
+      "circulating": {
+        "peggedUSD": 121487339
+      }
+    },
+    {
+      "date": 1747094400,
+      "circulating": {
+        "peggedUSD": 121516545
+      }
+    },
+    {
+      "date": 1747180800,
+      "circulating": {
+        "peggedUSD": 122242481
+      }
+    },
+    {
+      "date": 1747267200,
+      "circulating": {
+        "peggedUSD": 123062163
+      }
+    },
+    {
+      "date": 1747353600,
+      "circulating": {
+        "peggedUSD": 121325258
+      }
+    },
+    {
+      "date": 1747440000,
+      "circulating": {
+        "peggedUSD": 122639073
+      }
+    },
+    {
+      "date": 1747526400,
+      "circulating": {
+        "peggedUSD": 121592909
+      }
+    },
+    {
+      "date": 1747612800,
+      "circulating": {
+        "peggedUSD": 121289012
+      }
+    },
+    {
+      "date": 1747699200,
+      "circulating": {
+        "peggedUSD": 120461559
+      }
+    },
+    {
+      "date": 1747785600,
+      "circulating": {
+        "peggedUSD": 121099692
+      }
+    },
+    {
+      "date": 1747872000,
+      "circulating": {
+        "peggedUSD": 121182964
+      }
+    },
+    {
+      "date": 1747958400,
+      "circulating": {
+        "peggedUSD": 120893343
+      }
+    },
+    {
+      "date": 1748044800,
+      "circulating": {
+        "peggedUSD": 122298684
+      }
+    },
+    {
+      "date": 1748131200,
+      "circulating": {
+        "peggedUSD": 121892333
+      }
+    },
+    {
+      "date": 1748217600,
+      "circulating": {
+        "peggedUSD": 121868823
+      }
+    },
+    {
+      "date": 1748304000,
+      "circulating": {
+        "peggedUSD": 121971521
+      }
+    },
+    {
+      "date": 1748390400,
+      "circulating": {
+        "peggedUSD": 122312209
+      }
+    },
+    {
+      "date": 1748476800,
+      "circulating": {
+        "peggedUSD": 123842060
+      }
+    },
+    {
+      "date": 1748563200,
+      "circulating": {
+        "peggedUSD": 123855423
+      }
+    },
+    {
+      "date": 1748649600,
+      "circulating": {
+        "peggedUSD": 124245464
+      }
+    },
+    {
+      "date": 1748736000,
+      "circulating": {
+        "peggedUSD": 124610553
+      }
+    },
+    {
+      "date": 1748822400,
+      "circulating": {
+        "peggedUSD": 123397853
+      }
+    },
+    {
+      "date": 1748908800,
+      "circulating": {
+        "peggedUSD": 123897420
+      }
+    },
+    {
+      "date": 1748995200,
+      "circulating": {
+        "peggedUSD": 124833599
+      }
+    },
+    {
+      "date": 1749081600,
+      "circulating": {
+        "peggedUSD": 126141366
+      }
+    },
+    {
+      "date": 1749168000,
+      "circulating": {
+        "peggedUSD": 126151310
+      }
+    },
+    {
+      "date": 1749254400,
+      "circulating": {
+        "peggedUSD": 126134324
+      }
+    },
+    {
+      "date": 1749340800,
+      "circulating": {
+        "peggedUSD": 126395866
+      }
+    },
+    {
+      "date": 1749427200,
+      "circulating": {
+        "peggedUSD": 125948697
+      }
+    },
+    {
+      "date": 1749513600,
+      "circulating": {
+        "peggedUSD": 126447874
+      }
+    },
+    {
+      "date": 1749600000,
+      "circulating": {
+        "peggedUSD": 125632621
+      }
+    },
+    {
+      "date": 1749686400,
+      "circulating": {
+        "peggedUSD": 122820446
+      }
+    },
+    {
+      "date": 1749772800,
+      "circulating": {
+        "peggedUSD": 123266137
+      }
+    },
+    {
+      "date": 1749859200,
+      "circulating": {
+        "peggedUSD": 120353107
+      }
+    },
+    {
+      "date": 1749945600,
+      "circulating": {
+        "peggedUSD": 120469437
+      }
+    },
+    {
+      "date": 1750032000,
+      "circulating": {
+        "peggedUSD": 121208715
+      }
+    },
+    {
+      "date": 1750118400,
+      "circulating": {
+        "peggedUSD": 120201327
+      }
+    },
+    {
+      "date": 1750204800,
+      "circulating": {
+        "peggedUSD": 122426036
+      }
+    },
+    {
+      "date": 1750291200,
+      "circulating": {
+        "peggedUSD": 122714369
+      }
+    },
+    {
+      "date": 1750377600,
+      "circulating": {
+        "peggedUSD": 123034504
+      }
+    },
+    {
+      "date": 1750464000,
+      "circulating": {
+        "peggedUSD": 121941573
+      }
+    },
+    {
+      "date": 1750550400,
+      "circulating": {
+        "peggedUSD": 122412053
+      }
+    },
+    {
+      "date": 1750636800,
+      "circulating": {
+        "peggedUSD": 122017129
+      }
+    },
+    {
+      "date": 1750723200,
+      "circulating": {
+        "peggedUSD": 122057265
+      }
+    },
+    {
+      "date": 1750809600,
+      "circulating": {
+        "peggedUSD": 122231165
+      }
+    },
+    {
+      "date": 1750896000,
+      "circulating": {
+        "peggedUSD": 122032235
+      }
+    },
+    {
+      "date": 1750982400,
+      "circulating": {
+        "peggedUSD": 76973017
+      }
+    },
+    {
+      "date": 1751068800,
+      "circulating": {
+        "peggedUSD": 76422628
+      }
+    },
+    {
+      "date": 1751155200,
+      "circulating": {
+        "peggedUSD": 78480635
+      }
+    },
+    {
+      "date": 1751241600,
+      "circulating": {
+        "peggedUSD": 82008225
+      }
+    },
+    {
+      "date": 1751328000,
+      "circulating": {
+        "peggedUSD": 80969357
+      }
+    },
+    {
+      "date": 1751414400,
+      "circulating": {
+        "peggedUSD": 82811815
+      }
+    },
+    {
+      "date": 1751500800,
+      "circulating": {
+        "peggedUSD": 78487632
+      }
+    },
+    {
+      "date": 1751587200,
+      "circulating": {
+        "peggedUSD": 70356124
+      }
+    },
+    {
+      "date": 1751673600,
+      "circulating": {
+        "peggedUSD": 69947514
+      }
+    },
+    {
+      "date": 1751760000,
+      "circulating": {
+        "peggedUSD": 70154856
+      }
+    },
+    {
+      "date": 1751846400,
+      "circulating": {
+        "peggedUSD": 70340300
+      }
+    },
+    {
+      "date": 1751932800,
+      "circulating": {
+        "peggedUSD": 69957528
+      }
+    },
+    {
+      "date": 1752019200,
+      "circulating": {
+        "peggedUSD": 72049037
+      }
+    },
+    {
+      "date": 1752105600,
+      "circulating": {
+        "peggedUSD": 72099937
+      }
+    },
+    {
+      "date": 1752192000,
+      "circulating": {
+        "peggedUSD": 72563240
+      }
+    },
+    {
+      "date": 1752278400,
+      "circulating": {
+        "peggedUSD": 72765182
+      }
+    },
+    {
+      "date": 1752364800,
+      "circulating": {
+        "peggedUSD": 72948402
+      }
+    },
+    {
+      "date": 1752451200,
+      "circulating": {
+        "peggedUSD": 73559832
+      }
+    },
+    {
+      "date": 1752537600,
+      "circulating": {
+        "peggedUSD": 73969985
+      }
+    },
+    {
+      "date": 1752624000,
+      "circulating": {
+        "peggedUSD": 74854991
+      }
+    },
+    {
+      "date": 1752710400,
+      "circulating": {
+        "peggedUSD": 77207247
+      }
+    },
+    {
+      "date": 1752796800,
+      "circulating": {
+        "peggedUSD": 81737580
+      }
+    },
+    {
+      "date": 1752883200,
+      "circulating": {
+        "peggedUSD": 82951843
+      }
+    },
+    {
+      "date": 1752969600,
+      "circulating": {
+        "peggedUSD": 83775362
+      }
+    },
+    {
+      "date": 1753056000,
+      "circulating": {
+        "peggedUSD": 83894978
+      }
+    },
+    {
+      "date": 1753142400,
+      "circulating": {
+        "peggedUSD": 83922248
+      }
+    },
+    {
+      "date": 1753228800,
+      "circulating": {
+        "peggedUSD": 84414901
+      }
+    },
+    {
+      "date": 1753315200,
+      "circulating": {
+        "peggedUSD": 84942827
+      }
+    },
+    {
+      "date": 1753401600,
+      "circulating": {
+        "peggedUSD": 81211474
+      }
+    },
+    {
+      "date": 1753488000,
+      "circulating": {
+        "peggedUSD": 81034884
+      }
+    },
+    {
+      "date": 1753574400,
+      "circulating": {
+        "peggedUSD": 83305014
+      }
+    },
+    {
+      "date": 1753660800,
+      "circulating": {
+        "peggedUSD": 84124324
+      }
+    },
+    {
+      "date": 1753747200,
+      "circulating": {
+        "peggedUSD": 84074391
+      }
+    },
+    {
+      "date": 1753833600,
+      "circulating": {
+        "peggedUSD": 83975222
+      }
+    },
+    {
+      "date": 1753920000,
+      "circulating": {
+        "peggedUSD": 83938104
+      }
+    },
+    {
+      "date": 1754006400,
+      "circulating": {
+        "peggedUSD": 83687029
+      }
+    },
+    {
+      "date": 1754092800,
+      "circulating": {
+        "peggedUSD": 84367637
+      }
+    },
+    {
+      "date": 1754179200,
+      "circulating": {
+        "peggedUSD": 84077421
+      }
+    },
+    {
+      "date": 1754265600,
+      "circulating": {
+        "peggedUSD": 84258281
+      }
+    },
+    {
+      "date": 1754352000,
+      "circulating": {
+        "peggedUSD": 88251387
+      }
+    },
+    {
+      "date": 1754438400,
+      "circulating": {
+        "peggedUSD": 88329361
+      }
+    },
+    {
+      "date": 1754524800,
+      "circulating": {
+        "peggedUSD": 88291822
+      }
+    },
+    {
+      "date": 1754611200,
+      "circulating": {
+        "peggedUSD": 89586546
+      }
+    },
+    {
+      "date": 1754697600,
+      "circulating": {
+        "peggedUSD": 89402455
+      }
+    },
+    {
+      "date": 1754784000,
+      "circulating": {
+        "peggedUSD": 89825690
+      }
+    },
+    {
+      "date": 1754870400,
+      "circulating": {
+        "peggedUSD": 89741078
+      }
+    },
+    {
+      "date": 1754956800,
+      "circulating": {
+        "peggedUSD": 87803081
+      }
+    },
+    {
+      "date": 1755043200,
+      "circulating": {
+        "peggedUSD": 89541255
+      }
+    },
+    {
+      "date": 1755129600,
+      "circulating": {
+        "peggedUSD": 89759908
+      }
+    },
+    {
+      "date": 1755216000,
+      "circulating": {
+        "peggedUSD": 88862525
+      }
+    },
+    {
+      "date": 1755302400,
+      "circulating": {
+        "peggedUSD": 89939046
+      }
+    },
+    {
+      "date": 1755388800,
+      "circulating": {
+        "peggedUSD": 89464491
+      }
+    },
+    {
+      "date": 1755475200,
+      "circulating": {
+        "peggedUSD": 87982069
+      }
+    },
+    {
+      "date": 1755561600,
+      "circulating": {
+        "peggedUSD": 88564166
+      }
+    },
+    {
+      "date": 1755648000,
+      "circulating": {
+        "peggedUSD": 88057368
+      }
+    },
+    {
+      "date": 1755734400,
+      "circulating": {
+        "peggedUSD": 88340760
+      }
+    },
+    {
+      "date": 1755820800,
+      "circulating": {
+        "peggedUSD": 88073986
+      }
+    },
+    {
+      "date": 1755907200,
+      "circulating": {
+        "peggedUSD": 88548447
+      }
+    },
+    {
+      "date": 1755993600,
+      "circulating": {
+        "peggedUSD": 88557334
+      }
+    },
+    {
+      "date": 1756080000,
+      "circulating": {
+        "peggedUSD": 87343927
+      }
+    },
+    {
+      "date": 1756166400,
+      "circulating": {
+        "peggedUSD": 87311447
+      }
+    },
+    {
+      "date": 1756252800,
+      "circulating": {
+        "peggedUSD": 85307075
+      }
+    },
+    {
+      "date": 1756339200,
+      "circulating": {
+        "peggedUSD": 83725346
+      }
+    },
+    {
+      "date": 1756425600,
+      "circulating": {
+        "peggedUSD": 83668999
+      }
+    },
+    {
+      "date": 1756512000,
+      "circulating": {
+        "peggedUSD": 80078665
+      }
+    },
+    {
+      "date": 1756598400,
+      "circulating": {
+        "peggedUSD": 79635894
+      }
+    },
+    {
+      "date": 1756684800,
+      "circulating": {
+        "peggedUSD": 79269031
+      }
+    },
+    {
+      "date": 1756771200,
+      "circulating": {
+        "peggedUSD": 79328068
+      }
+    },
+    {
+      "date": 1756857600,
+      "circulating": {
+        "peggedUSD": 79032542
+      }
+    },
+    {
+      "date": 1756944000,
+      "circulating": {
+        "peggedUSD": 78317911
+      }
+    },
+    {
+      "date": 1757030400,
+      "circulating": {
+        "peggedUSD": 79970737
+      }
+    },
+    {
+      "date": 1757116800,
+      "circulating": {
+        "peggedUSD": 79870359
+      }
+    },
+    {
+      "date": 1757203200,
+      "circulating": {
+        "peggedUSD": 79439259
+      }
+    },
+    {
+      "date": 1757289600,
+      "circulating": {
+        "peggedUSD": 78189425
+      }
+    },
+    {
+      "date": 1757376000,
+      "circulating": {
+        "peggedUSD": 78578886
+      }
+    },
+    {
+      "date": 1757462400,
+      "circulating": {
+        "peggedUSD": 78532024.52403225
+      },
+      "minted": 0,
+      "unreleased": {
+        "peggedUSD": 0
+      },
+      "bridgedTo": 0
+    }
+  ]
+}

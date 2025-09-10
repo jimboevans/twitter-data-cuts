@@ -1,8 +1,8 @@
 {
   "id": "parent#dydx",
   "name": "dYdX",
-  "url": "https://dydx.trade/?ref=DefiLlama",
-  "referralUrl": "https://dydx.trade/?ref=DefiLlama",
+  "url": "https://dydx.trade?ref=LoneHull0UN",
+  "referralUrl": "https://dydx.trade?ref=LoneHull0UN",
   "description": "The most powerful open trading platform for crypto assets. Margin trade, borrow, and lend cryptocurrency.",
   "logo": "https://icons.llama.fi/dydx.jpg",
   "gecko_id": "dydx-chain",
@@ -47,7 +47,7 @@
       "audits": null,
       "description": "The most powerful open trading platform for crypto assets. Margin trade, borrow, and lend cryptocurrency.",
       "address": "0x92d6c1e31e14520e676a687f0a93788b716beff5",
-      "url": "https://dydx.trade/?ref=DefiLlama",
+      "url": "https://dydx.trade?ref=LoneHull0UN",
       "audit_links": [
         "https://docs.dydx.exchange/#independent-audits"
       ],
@@ -86,7 +86,7 @@
       "audits": "0",
       "description": " dYdX Chain Mainnet, a robust blockchain built with the CosmosSDK. This documentation is diligently maintained by the dYdX Operations subDAO to provide a comprehensive resource for validators, developers, and the dYdX community at large.",
       "address": "dydx:ibc/831F0B1BBB1D08A2B75311892876D71565478C532967545476DF4C2D7492E48C",
-      "url": "https://dydx.trade/?ref=DefiLlama",
+      "url": "https://dydx.trade?ref=LoneHull0UN",
       "cmcId": null,
       "id": "4067",
       "parentProtocol": "parent#dydx",
@@ -119,11 +119,11 @@
   "defaultChartView": null,
   "slug": "dydx",
   "protocolType": "protocol",
-  "total24h": 18101,
-  "total48hto24h": 0,
-  "total7d": 259744,
-  "total30d": 1674332,
-  "totalAllTime": 91903575,
+  "total24h": 77701,
+  "total48hto24h": 58929,
+  "total7d": 313152,
+  "total30d": 1708072,
+  "totalAllTime": 92055435,
   "totalDataChart": [
     [
       1699833600,
@@ -2762,8 +2762,20 @@
       50986
     ],
     [
+      1757116800,
+      15230
+    ],
+    [
       1757203200,
       18101
+    ],
+    [
+      1757289600,
+      58929
+    ],
+    [
+      1757376000,
+      77701
     ]
   ],
   "totalDataChartBreakdown": [
@@ -9060,12 +9072,37 @@
       }
     ],
     [
+      1757116800,
+      {
+        "dYdX": {
+          "dYdX V4": 15230
+        }
+      }
+    ],
+    [
       1757203200,
       {
         "dYdX": {
           "dYdX V4": 18101
         }
       }
+    ],
+    [
+      1757289600,
+      {
+        "dYdX": {
+          "dYdX V4": 58929
+        }
+      }
+    ],
+    [
+      1757376000,
+      {
+        "dYdX": {
+          "dYdX V4": 77701
+        }
+      }
     ]
-  ]
+  ],
+  "change_1d": 31.86
 }

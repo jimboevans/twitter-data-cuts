@@ -95,11 +95,11 @@
   "defaultChartView": null,
   "slug": "maple-finance",
   "protocolType": "protocol",
-  "total24h": 1386,
-  "total48hto24h": 1379,
-  "total7d": 127880,
-  "total30d": 661514,
-  "totalAllTime": 4848579,
+  "total24h": 163840,
+  "total48hto24h": 17107,
+  "total7d": 275054,
+  "total30d": 810621,
+  "totalAllTime": 5164646,
   "totalDataChart": [
     [
       1672617600,
@@ -4023,7 +4023,15 @@
     ],
     [
       1757289600,
-      17284
+      17107
+    ],
+    [
+      1757376000,
+      163840
+    ],
+    [
+      1757462400,
+      152404
     ]
   ],
   "totalDataChartBreakdown": [
@@ -11871,10 +11879,26 @@
       1757289600,
       {
         "Ethereum": {
-          "Maple": 17284
+          "Maple": 17107
+        }
+      }
+    ],
+    [
+      1757376000,
+      {
+        "Ethereum": {
+          "Maple": 163840
+        }
+      }
+    ],
+    [
+      1757462400,
+      {
+        "Ethereum": {
+          "Maple": 152404
         }
       }
     ]
   ],
-  "change_1d": 0.51
+  "change_1d": 857.74
 }

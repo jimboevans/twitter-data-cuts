@@ -37,11 +37,11 @@
   "defaultChartView": null,
   "slug": "polygon",
   "protocolType": "chain",
-  "total24h": 8367,
-  "total48hto24h": 9015,
-  "total7d": 85750,
-  "total30d": 309598,
-  "totalAllTime": 91789955,
+  "total24h": 19726,
+  "total48hto24h": 9703,
+  "total7d": 91597,
+  "total30d": 321963,
+  "totalAllTime": 91819384,
   "totalDataChart": [
     [
       1590796800,
@@ -7750,6 +7750,14 @@
     [
       1757203200,
       8367
+    ],
+    [
+      1757289600,
+      9703
+    ],
+    [
+      1757376000,
+      19726
     ]
   ],
   "totalDataChartBreakdown": [
@@ -23168,7 +23176,23 @@
           "Polygon": 8367
         }
       }
+    ],
+    [
+      1757289600,
+      {
+        "Polygon": {
+          "Polygon": 9703
+        }
+      }
+    ],
+    [
+      1757376000,
+      {
+        "Polygon": {
+          "Polygon": 19726
+        }
+      }
     ]
   ],
-  "change_1d": -7.19
+  "change_1d": 103.3
 }

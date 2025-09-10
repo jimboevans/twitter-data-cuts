@@ -237,11 +237,11 @@
   "defaultChartView": null,
   "slug": "jupiter",
   "protocolType": "protocol",
-  "total24h": 736533,
-  "total48hto24h": 2411026,
-  "total7d": 20789498,
-  "total30d": 111372573,
-  "totalAllTime": 1138022900,
+  "total24h": 2868664,
+  "total48hto24h": 2731276,
+  "total7d": 17986210,
+  "total30d": 111589750,
+  "totalAllTime": 1144283931,
   "totalDataChart": [
     [
       1695945600,
@@ -2445,7 +2445,7 @@
     ],
     [
       1743724800,
-      27964
+      690959
     ],
     [
       1743811200,
@@ -2985,7 +2985,7 @@
     ],
     [
       1755388800,
-      2414769
+      2416812
     ],
     [
       1755475200,
@@ -3073,7 +3073,15 @@
     ],
     [
       1757289600,
-      10617
+      2731276
+    ],
+    [
+      1757376000,
+      2868664
+    ],
+    [
+      1757462400,
+      6670
     ]
   ],
   "totalDataChartBreakdown": [
@@ -8409,6 +8417,7 @@
       1743724800,
       {
         "Solana": {
+          "Jupiter Aggregator": 662995,
           "Ape Jupiter": 0,
           "Jupiter DCA": 27964
         }
@@ -10057,7 +10066,8 @@
           "Jupiter Perpetual Exchange": 1717304,
           "Ape Jupiter": 145,
           "Jupiter Staked SOL": 401684,
-          "Jupiter DCA": 6031
+          "Jupiter DCA": 6031,
+          "Jupiter Studio": 2043
         }
       }
     ],
@@ -10338,10 +10348,36 @@
       1757289600,
       {
         "Solana": {
-          "Jupiter DCA": 10617
+          "Jupiter Aggregator": 138136,
+          "Jupiter Perpetual Exchange": 2140545,
+          "Ape Jupiter": 352,
+          "Jupiter Staked SOL": 438418,
+          "Jupiter DCA": 10202,
+          "Jupiter Studio": 3623
+        }
+      }
+    ],
+    [
+      1757376000,
+      {
+        "Solana": {
+          "Jupiter Aggregator": 134995,
+          "Jupiter Perpetual Exchange": 2720334,
+          "Ape Jupiter": 210,
+          "Jupiter Staked SOL": 0,
+          "Jupiter DCA": 7760,
+          "Jupiter Studio": 5365
+        }
+      }
+    ],
+    [
+      1757462400,
+      {
+        "Solana": {
+          "Jupiter DCA": 6670
         }
       }
     ]
   ],
-  "change_1d": -69.45
+  "change_1d": 5.03
 }

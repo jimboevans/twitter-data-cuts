@@ -9,20 +9,20 @@
         "metrics": {
           "activity": {
             "blockTimeMs": null,
-            "txnCount24Hour": 356468408.064,
+            "txnCount24Hour": 340753688.352,
             "activeAddresses24Hour": null,
-            "newContractsDeployed24Hour": 153,
+            "newContractsDeployed24Hour": 220,
             "contractDeployers24Hour": null
           },
           "financial": {
-            "feesTotal24HourUsd": 5183.126299523314,
+            "feesTotal24HourUsd": 4097.378246624921,
             "feeMedian24HourUsd": null,
-            "rolling7dAvgFeeUsd": 10364.555480838155,
-            "avgFeePerTxn24HourUsd": 1.4540212210313852e-05,
+            "rolling7dAvgFeeUsd": 4563.675485712142,
+            "avgFeePerTxn24HourUsd": 1.2024457509003723e-05,
             "feesSupplySide24HourUsd": 0,
-            "expenses24HourUsd": 368041.73162934976,
-            "revenue24HourUsd": 5183.126299523314,
-            "tokenIncentives24HourUsd": 368041.73162934976
+            "expenses24HourUsd": 371499.5084402882,
+            "revenue24HourUsd": 4097.378246624921,
+            "tokenIncentives24HourUsd": 371499.5084402882
           },
           "stablecoin": {
             "mints24HourUsd": null,
@@ -33,8 +33,8 @@
           "ecosystem": {
             "tvl24HourUsd": null,
             "dexVolume24HourUsd": null,
-            "coreCommits24Hour": 2,
-            "activeDevelopers24Hour": 93,
+            "coreCommits24Hour": 67,
+            "activeDevelopers24Hour": 97,
             "ecosystemCommits24Hour": null
           }
         }
@@ -45,34 +45,34 @@
         "slug": "solana",
         "metrics": {
           "activity": {
-            "blockTimeMs": 402.392,
-            "txnCount24Hour": 70869850,
-            "activeAddresses24Hour": 1962751,
+            "blockTimeMs": 401.971,
+            "txnCount24Hour": 82246530,
+            "activeAddresses24Hour": 2740847,
             "newContractsDeployed24Hour": null,
             "contractDeployers24Hour": null
           },
           "financial": {
-            "feesTotal24HourUsd": 958399.3754534132,
+            "feesTotal24HourUsd": 1223362.288221024,
             "feeMedian24HourUsd": null,
-            "rolling7dAvgFeeUsd": 1219727.2049430755,
-            "avgFeePerTxn24HourUsd": 0.0034470344803998,
-            "feesSupplySide24HourUsd": 808561.256732815,
+            "rolling7dAvgFeeUsd": 1180859.1288061847,
+            "avgFeePerTxn24HourUsd": 0.00425527678316,
+            "feesSupplySide24HourUsd": 1060267.963179674,
             "expenses24HourUsd": 0,
-            "revenue24HourUsd": 149838.11872059843,
+            "revenue24HourUsd": 163094.32504134998,
             "tokenIncentives24HourUsd": 0
           },
           "stablecoin": {
             "mints24HourUsd": null,
             "burns24HourUsd": null,
-            "outstandingSupplyUsd": 2535745813.6143513,
-            "transferVolumeUsd": 341140032.5446974
+            "outstandingSupplyUsd": 2594222996.2168427,
+            "transferVolumeUsd": 938678479.648774
           },
           "ecosystem": {
-            "tvl24HourUsd": 22647449144.73577,
-            "dexVolume24HourUsd": 714900712.56302,
-            "coreCommits24Hour": 0,
+            "tvl24HourUsd": 23361465276.086555,
+            "dexVolume24HourUsd": 1445969031.9410155,
+            "coreCommits24Hour": 12,
             "activeDevelopers24Hour": 32,
-            "ecosystemCommits24Hour": 5
+            "ecosystemCommits24Hour": 33
           }
         }
       },
@@ -82,34 +82,34 @@
         "slug": "binance-smart-chain",
         "metrics": {
           "activity": {
-            "blockTimeMs": 750.156,
-            "txnCount24Hour": 11767555,
-            "activeAddresses24Hour": 2132474,
-            "newContractsDeployed24Hour": 26121,
-            "contractDeployers24Hour": 1352
+            "blockTimeMs": 750.176,
+            "txnCount24Hour": 13046742,
+            "activeAddresses24Hour": 2368945,
+            "newContractsDeployed24Hour": 26154,
+            "contractDeployers24Hour": 1494
           },
           "financial": {
-            "feesTotal24HourUsd": 390357.795460731,
-            "feeMedian24HourUsd": 0.009680525043256217,
-            "rolling7dAvgFeeUsd": 386960.499475359,
-            "avgFeePerTxn24HourUsd": 0.033172379093255225,
-            "feesSupplySide24HourUsd": 351488.1738814234,
-            "expenses24HourUsd": 53.29863931399075,
-            "revenue24HourUsd": 39881.19348247085,
+            "feesTotal24HourUsd": 454164.3572795633,
+            "feeMedian24HourUsd": 0.009680051983945859,
+            "rolling7dAvgFeeUsd": 410997.1470342047,
+            "avgFeePerTxn24HourUsd": 0.034810557093837166,
+            "feesSupplySide24HourUsd": 407895.2408268776,
+            "expenses24HourUsd": 53.20400628897477,
+            "revenue24HourUsd": 46634.55855917428,
             "tokenIncentives24HourUsd": 0
           },
           "stablecoin": {
             "mints24HourUsd": null,
             "burns24HourUsd": null,
-            "outstandingSupplyUsd": 9997319.883947678,
-            "transferVolumeUsd": 49196.33895002081
+            "outstandingSupplyUsd": 9995309.924904125,
+            "transferVolumeUsd": 424156.1812949813
           },
           "ecosystem": {
-            "tvl24HourUsd": 6679976158.349379,
-            "dexVolume24HourUsd": 2725128591.468334,
-            "coreCommits24Hour": 0,
+            "tvl24HourUsd": 6663204988.353377,
+            "dexVolume24HourUsd": 2998272857.5275145,
+            "coreCommits24Hour": 1,
             "activeDevelopers24Hour": 102,
-            "ecosystemCommits24Hour": 1
+            "ecosystemCommits24Hour": 47
           }
         }
       },
@@ -120,33 +120,33 @@
         "metrics": {
           "activity": {
             "blockTimeMs": 2000,
-            "txnCount24Hour": 11522937,
-            "activeAddresses24Hour": 1018439,
-            "newContractsDeployed24Hour": 785596,
-            "contractDeployers24Hour": 3473
+            "txnCount24Hour": 11721550,
+            "activeAddresses24Hour": 975241,
+            "newContractsDeployed24Hour": 61523,
+            "contractDeployers24Hour": 3461
           },
           "financial": {
-            "feesTotal24HourUsd": 63902.569579582494,
-            "feeMedian24HourUsd": 0,
-            "rolling7dAvgFeeUsd": 126040.57908915063,
-            "avgFeePerTxn24HourUsd": 0.005545684193151667,
+            "feesTotal24HourUsd": 213778.90848892718,
+            "feeMedian24HourUsd": 0.004309533327629603,
+            "rolling7dAvgFeeUsd": 153241.30178191487,
+            "avgFeePerTxn24HourUsd": 0.018238109165505174,
             "feesSupplySide24HourUsd": 0,
-            "expenses24HourUsd": 135823.54117968277,
-            "revenue24HourUsd": 67993.07854322845,
+            "expenses24HourUsd": 0,
+            "revenue24HourUsd": 216870.43420779228,
             "tokenIncentives24HourUsd": 0
           },
           "stablecoin": {
             "mints24HourUsd": null,
             "burns24HourUsd": null,
             "outstandingSupplyUsd": null,
-            "transferVolumeUsd": 5581115.122441696
+            "transferVolumeUsd": 4796817.227685167
           },
           "ecosystem": {
-            "tvl24HourUsd": 8538133116.279814,
-            "dexVolume24HourUsd": 924285328.7623469,
-            "coreCommits24Hour": 3,
-            "activeDevelopers24Hour": 46,
-            "ecosystemCommits24Hour": 8
+            "tvl24HourUsd": 8581431793.42303,
+            "dexVolume24HourUsd": 1804960158.2736757,
+            "coreCommits24Hour": 12,
+            "activeDevelopers24Hour": 49,
+            "ecosystemCommits24Hour": 84
           }
         }
       },
@@ -157,32 +157,32 @@
         "metrics": {
           "activity": {
             "blockTimeMs": 3000.834,
-            "txnCount24Hour": 8266971,
-            "activeAddresses24Hour": 2467594,
-            "newContractsDeployed24Hour": 4104,
-            "contractDeployers24Hour": 79
+            "txnCount24Hour": 9816948,
+            "activeAddresses24Hour": 2712541,
+            "newContractsDeployed24Hour": 7045,
+            "contractDeployers24Hour": 100
           },
           "financial": {
-            "feesTotal24HourUsd": 11116712.531767122,
-            "feeMedian24HourUsd": 4.47112360685664,
-            "rolling7dAvgFeeUsd": 12596979.837407853,
-            "avgFeePerTxn24HourUsd": 1.3447141077145575,
+            "feesTotal24HourUsd": 15034280.501427704,
+            "feeMedian24HourUsd": 4.523281636786653,
+            "rolling7dAvgFeeUsd": 12553655.115574228,
+            "avgFeePerTxn24HourUsd": 1.531461764025612,
             "feesSupplySide24HourUsd": 0,
-            "expenses24HourUsd": 7088619.038768675,
-            "revenue24HourUsd": 6155069.099887467,
-            "tokenIncentives24HourUsd": 7088619.038768675
+            "expenses24HourUsd": 8298074.429925343,
+            "revenue24HourUsd": 7977716.405236414,
+            "tokenIncentives24HourUsd": 8298074.429925343
           },
           "stablecoin": {
             "mints24HourUsd": null,
             "burns24HourUsd": null,
-            "outstandingSupplyUsd": 82633074941.0418,
-            "transferVolumeUsd": 10066825403.040228
+            "outstandingSupplyUsd": 82631387597.19922,
+            "transferVolumeUsd": 27212525984.805183
           },
           "ecosystem": {
             "tvl24HourUsd": null,
             "dexVolume24HourUsd": null,
             "coreCommits24Hour": 0,
-            "activeDevelopers24Hour": 13,
+            "activeDevelopers24Hour": 14,
             "ecosystemCommits24Hour": 0
           }
         }
@@ -193,21 +193,21 @@
         "slug": "near",
         "metrics": {
           "activity": {
-            "blockTimeMs": 597.632,
-            "txnCount24Hour": 4841480,
-            "activeAddresses24Hour": 3101914,
-            "newContractsDeployed24Hour": 3,
-            "contractDeployers24Hour": 3
+            "blockTimeMs": 596.911,
+            "txnCount24Hour": 4870224,
+            "activeAddresses24Hour": 3116778,
+            "newContractsDeployed24Hour": 4,
+            "contractDeployers24Hour": 4
           },
           "financial": {
-            "feesTotal24HourUsd": 8781.799556499802,
-            "feeMedian24HourUsd": 0.0002546450784037,
-            "rolling7dAvgFeeUsd": 8734.775057004463,
-            "avgFeePerTxn24HourUsd": 0.0018138667425043,
-            "feesSupplySide24HourUsd": 0.5343138526939892,
-            "expenses24HourUsd": 285495.0932036831,
-            "revenue24HourUsd": 8781.265242647109,
-            "tokenIncentives24HourUsd": 285495.0932036831
+            "feesTotal24HourUsd": 9619.603289354289,
+            "feeMedian24HourUsd": 0.0002716885969711,
+            "rolling7dAvgFeeUsd": 8920.573835983027,
+            "avgFeePerTxn24HourUsd": 0.0019751870323324,
+            "feesSupplySide24HourUsd": 61.50959048979301,
+            "expenses24HourUsd": 334199.50886900246,
+            "revenue24HourUsd": 9558.093698864495,
+            "tokenIncentives24HourUsd": 334199.50886900246
           },
           "stablecoin": {
             "mints24HourUsd": null,
@@ -218,8 +218,8 @@
           "ecosystem": {
             "tvl24HourUsd": null,
             "dexVolume24HourUsd": null,
-            "coreCommits24Hour": 5,
-            "activeDevelopers24Hour": 59,
+            "coreCommits24Hour": 18,
+            "activeDevelopers24Hour": 60,
             "ecosystemCommits24Hour": null
           }
         }
@@ -231,19 +231,19 @@
         "metrics": {
           "activity": {
             "blockTimeMs": null,
-            "txnCount24Hour": 3485432,
-            "activeAddresses24Hour": 61125,
+            "txnCount24Hour": 3988817,
+            "activeAddresses24Hour": 82803,
             "newContractsDeployed24Hour": null,
             "contractDeployers24Hour": null
           },
           "financial": {
-            "feesTotal24HourUsd": 3928.6996091197807,
-            "feeMedian24HourUsd": 1.0849456931762198e-05,
-            "rolling7dAvgFeeUsd": 4771.553581470294,
-            "avgFeePerTxn24HourUsd": 0.0011271772363138288,
+            "feesTotal24HourUsd": 3885.1653970738134,
+            "feeMedian24HourUsd": 7.441682381955948e-06,
+            "rolling7dAvgFeeUsd": 3833.862098064242,
+            "avgFeePerTxn24HourUsd": 0.0009740144501675092,
             "feesSupplySide24HourUsd": 0,
             "expenses24HourUsd": 0,
-            "revenue24HourUsd": 3800.667737561751,
+            "revenue24HourUsd": 3789.636313089961,
             "tokenIncentives24HourUsd": 0
           },
           "stablecoin": {
@@ -255,9 +255,9 @@
           "ecosystem": {
             "tvl24HourUsd": null,
             "dexVolume24HourUsd": null,
-            "coreCommits24Hour": 1,
-            "activeDevelopers24Hour": 60,
-            "ecosystemCommits24Hour": 1
+            "coreCommits24Hour": 45,
+            "activeDevelopers24Hour": 65,
+            "ecosystemCommits24Hour": 45
           }
         }
       },
@@ -267,34 +267,34 @@
         "slug": "polygon-pos",
         "metrics": {
           "activity": {
-            "blockTimeMs": 2125.095,
-            "txnCount24Hour": 3129615,
-            "activeAddresses24Hour": 426976,
-            "newContractsDeployed24Hour": 62144,
-            "contractDeployers24Hour": 400
+            "blockTimeMs": 2131.176,
+            "txnCount24Hour": 3752947,
+            "activeAddresses24Hour": 524505,
+            "newContractsDeployed24Hour": 65014,
+            "contractDeployers24Hour": 555
           },
           "financial": {
-            "feesTotal24HourUsd": 8414.918785635375,
-            "feeMedian24HourUsd": 0.0011589712530453214,
-            "rolling7dAvgFeeUsd": 12308.482604185076,
-            "avgFeePerTxn24HourUsd": 0.0026888031868569696,
-            "feesSupplySide24HourUsd": 8419.238564660063,
+            "feesTotal24HourUsd": 19881.94059173569,
+            "feeMedian24HourUsd": 0.0010660921991745387,
+            "rolling7dAvgFeeUsd": 13140.64642860016,
+            "avgFeePerTxn24HourUsd": 0.0052976875484081415,
+            "feesSupplySide24HourUsd": 19914.94319623081,
             "expenses24HourUsd": null,
-            "revenue24HourUsd": 2.1982323457839632e-05,
+            "revenue24HourUsd": 5.438014929223899e-05,
             "tokenIncentives24HourUsd": null
           },
           "stablecoin": {
             "mints24HourUsd": 0,
             "burns24HourUsd": 0,
-            "outstandingSupplyUsd": 577086.5618038657,
-            "transferVolumeUsd": 64909.02643194212
+            "outstandingSupplyUsd": 577866.0865118981,
+            "transferVolumeUsd": 452912.0727323845
           },
           "ecosystem": {
-            "tvl24HourUsd": 2598826735.69919,
-            "dexVolume24HourUsd": 170532217.40594986,
+            "tvl24HourUsd": 2562160766.3520083,
+            "dexVolume24HourUsd": 279096162.89812243,
             "coreCommits24Hour": 0,
             "activeDevelopers24Hour": 0,
-            "ecosystemCommits24Hour": 0
+            "ecosystemCommits24Hour": 4
           }
         }
       },
@@ -304,34 +304,71 @@
         "slug": "arbitrum-one",
         "metrics": {
           "activity": {
-            "blockTimeMs": 249.824,
-            "txnCount24Hour": 2428317,
-            "activeAddresses24Hour": 365628,
-            "newContractsDeployed24Hour": 6133,
-            "contractDeployers24Hour": 372
+            "blockTimeMs": 249.802,
+            "txnCount24Hour": 2552815,
+            "activeAddresses24Hour": 364928,
+            "newContractsDeployed24Hour": 7253,
+            "contractDeployers24Hour": 545
           },
           "financial": {
-            "feesTotal24HourUsd": 12454.184517997208,
-            "feeMedian24HourUsd": 0,
-            "rolling7dAvgFeeUsd": 26309.128959162124,
-            "avgFeePerTxn24HourUsd": 0.0051287309350456336,
+            "feesTotal24HourUsd": 21334.267166830454,
+            "feeMedian24HourUsd": 0.004309533327629603,
+            "rolling7dAvgFeeUsd": 22756.239920918957,
+            "avgFeePerTxn24HourUsd": 0.008357153638955605,
             "feesSupplySide24HourUsd": 0,
             "expenses24HourUsd": 0,
-            "revenue24HourUsd": 17788.548169171303,
+            "revenue24HourUsd": 31472.16610192093,
             "tokenIncentives24HourUsd": 0
           },
           "stablecoin": {
             "mints24HourUsd": 0,
             "burns24HourUsd": 0,
             "outstandingSupplyUsd": 70404.63977299666,
-            "transferVolumeUsd": 5269088.994933198
+            "transferVolumeUsd": 3217157.1692474484
           },
           "ecosystem": {
-            "tvl24HourUsd": 4867512103.766634,
-            "dexVolume24HourUsd": 428975619.81646764,
-            "coreCommits24Hour": 0,
-            "activeDevelopers24Hour": 68,
-            "ecosystemCommits24Hour": 0
+            "tvl24HourUsd": 4996450097.143774,
+            "dexVolume24HourUsd": 1026707374.1112441,
+            "coreCommits24Hour": 25,
+            "activeDevelopers24Hour": 70,
+            "ecosystemCommits24Hour": 28
+          }
+        }
+      },
+      {
+        "id": "60b82a80-8324-4d5f-bfe5-7e756b0023f9",
+        "name": "Avalanche",
+        "slug": "avalanche",
+        "metrics": {
+          "activity": {
+            "blockTimeMs": 1542.389,
+            "txnCount24Hour": 1927305,
+            "activeAddresses24Hour": 54952,
+            "newContractsDeployed24Hour": 4927,
+            "contractDeployers24Hour": 184
+          },
+          "financial": {
+            "feesTotal24HourUsd": 46531.880059574345,
+            "feeMedian24HourUsd": 0.00103729823745917,
+            "rolling7dAvgFeeUsd": 35055.03412728547,
+            "avgFeePerTxn24HourUsd": 0.024143495741241965,
+            "feesSupplySide24HourUsd": 0,
+            "expenses24HourUsd": null,
+            "revenue24HourUsd": 46522.55431686894,
+            "tokenIncentives24HourUsd": null
+          },
+          "stablecoin": {
+            "mints24HourUsd": 0,
+            "burns24HourUsd": 0,
+            "outstandingSupplyUsd": 543385118.3290796,
+            "transferVolumeUsd": 924728487.3892424
+          },
+          "ecosystem": {
+            "tvl24HourUsd": 2698178022.026946,
+            "dexVolume24HourUsd": 385961209.6876564,
+            "coreCommits24Hour": 35,
+            "activeDevelopers24Hour": 63,
+            "ecosystemCommits24Hour": 35
           }
         }
       },
@@ -341,71 +378,34 @@
         "slug": "ethereum",
         "metrics": {
           "activity": {
-            "blockTimeMs": 12065.354,
-            "txnCount24Hour": 1339101,
-            "activeAddresses24Hour": 418900,
-            "newContractsDeployed24Hour": 117520,
-            "contractDeployers24Hour": 1146
+            "blockTimeMs": 12051.89,
+            "txnCount24Hour": 1678636,
+            "activeAddresses24Hour": 557397,
+            "newContractsDeployed24Hour": 26937,
+            "contractDeployers24Hour": 1334
           },
           "financial": {
-            "feesTotal24HourUsd": 484369.07404032943,
-            "feeMedian24HourUsd": 0.09473351429893043,
-            "rolling7dAvgFeeUsd": 1635400.2565207377,
-            "avgFeePerTxn24HourUsd": 0.36171212928698393,
-            "feesSupplySide24HourUsd": 374927.75589356426,
-            "expenses24HourUsd": 11033417.268152382,
-            "revenue24HourUsd": 109781.72822199008,
-            "tokenIncentives24HourUsd": 11033417.268152382
+            "feesTotal24HourUsd": 946998.0735554341,
+            "feeMedian24HourUsd": 0.14652413313940651,
+            "rolling7dAvgFeeUsd": 855167.8969492853,
+            "avgFeePerTxn24HourUsd": 0.5641473634280655,
+            "feesSupplySide24HourUsd": 603939.8949894242,
+            "expenses24HourUsd": 10947872.645141147,
+            "revenue24HourUsd": 342574.7570140073,
+            "tokenIncentives24HourUsd": 10947872.645141147
           },
           "stablecoin": {
-            "mints24HourUsd": 29495467.005355857,
-            "burns24HourUsd": 1165958.7337197596,
-            "outstandingSupplyUsd": 111506424271.90877,
-            "transferVolumeUsd": 10449888220.307755
+            "mints24HourUsd": 214911945.23021248,
+            "burns24HourUsd": 14176625.526355483,
+            "outstandingSupplyUsd": 113537583264.14368,
+            "transferVolumeUsd": 22981720189.208946
           },
           "ecosystem": {
-            "tvl24HourUsd": 165046916915.3276,
-            "dexVolume24HourUsd": 703536865.5683005,
-            "coreCommits24Hour": 8,
-            "activeDevelopers24Hour": 189,
-            "ecosystemCommits24Hour": 157
-          }
-        }
-      },
-      {
-        "id": "6fd334cc-a7da-4ebb-8134-667941574a63",
-        "name": "Celo",
-        "slug": "celo",
-        "metrics": {
-          "activity": {
-            "blockTimeMs": 1000,
-            "txnCount24Hour": 1091818,
-            "activeAddresses24Hour": 640656,
-            "newContractsDeployed24Hour": 518,
-            "contractDeployers24Hour": 14
-          },
-          "financial": {
-            "feesTotal24HourUsd": 624.6418132373205,
-            "feeMedian24HourUsd": 0.0013901307549604,
-            "rolling7dAvgFeeUsd": 828.8426923864902,
-            "avgFeePerTxn24HourUsd": 0.0005721116644324,
-            "feesSupplySide24HourUsd": 0,
-            "expenses24HourUsd": 0,
-            "revenue24HourUsd": 624.6418132373205,
-            "tokenIncentives24HourUsd": 0
-          },
-          "stablecoin": {
-            "mints24HourUsd": null,
-            "burns24HourUsd": null,
-            "outstandingSupplyUsd": 121372698.277797,
-            "transferVolumeUsd": 29155738.111337747
-          },
-          "ecosystem": {
-            "tvl24HourUsd": 21023216.249889817,
-            "dexVolume24HourUsd": null,
-            "coreCommits24Hour": 0,
-            "activeDevelopers24Hour": 35,
-            "ecosystemCommits24Hour": 0
+            "tvl24HourUsd": 165514699743.1237,
+            "dexVolume24HourUsd": 1516834865.8958476,
+            "coreCommits24Hour": 78,
+            "activeDevelopers24Hour": 195,
+            "ecosystemCommits24Hour": 688
           }
         }
       },
@@ -416,107 +416,70 @@
         "metrics": {
           "activity": {
             "blockTimeMs": 2000,
-            "txnCount24Hour": 1057581,
-            "activeAddresses24Hour": 64025,
-            "newContractsDeployed24Hour": 1062887,
-            "contractDeployers24Hour": 204
+            "txnCount24Hour": 1351713,
+            "activeAddresses24Hour": 94729,
+            "newContractsDeployed24Hour": 1864962,
+            "contractDeployers24Hour": 277
           },
           "financial": {
-            "feesTotal24HourUsd": 2454.38172486968,
+            "feesTotal24HourUsd": 11062.671171291726,
             "feeMedian24HourUsd": 0,
-            "rolling7dAvgFeeUsd": 9475.878887879027,
-            "avgFeePerTxn24HourUsd": 0.0023207505854111223,
+            "rolling7dAvgFeeUsd": 10137.571313580087,
+            "avgFeePerTxn24HourUsd": 0.008184186414787551,
             "feesSupplySide24HourUsd": 0,
             "expenses24HourUsd": 0,
-            "revenue24HourUsd": 2665.7420734386133,
+            "revenue24HourUsd": 11427.316387811286,
             "tokenIncentives24HourUsd": 0
           },
           "stablecoin": {
             "mints24HourUsd": null,
             "burns24HourUsd": null,
-            "outstandingSupplyUsd": 17219443.45663768,
-            "transferVolumeUsd": 113287.30692782564
+            "outstandingSupplyUsd": 17176237.225497864,
+            "transferVolumeUsd": 815559.2325780343
           },
           "ecosystem": {
-            "tvl24HourUsd": 482056375.03612286,
-            "dexVolume24HourUsd": 70999955.11304368,
-            "coreCommits24Hour": 3,
-            "activeDevelopers24Hour": 78,
-            "ecosystemCommits24Hour": 4
+            "tvl24HourUsd": 496150237.3945597,
+            "dexVolume24HourUsd": 197477461.74351263,
+            "coreCommits24Hour": 11,
+            "activeDevelopers24Hour": 79,
+            "ecosystemCommits24Hour": 12
           }
         }
       },
       {
-        "id": "2a1d6fb1-467e-4541-9318-fd747997a431",
-        "name": "Starknet",
-        "slug": "starknet",
+        "id": "6fd334cc-a7da-4ebb-8134-667941574a63",
+        "name": "Celo",
+        "slug": "celo",
         "metrics": {
           "activity": {
-            "blockTimeMs": 4892.079,
-            "txnCount24Hour": 935226,
-            "activeAddresses24Hour": 3986,
-            "newContractsDeployed24Hour": null,
-            "contractDeployers24Hour": null
+            "blockTimeMs": 1000,
+            "txnCount24Hour": 1217693,
+            "activeAddresses24Hour": 640467,
+            "newContractsDeployed24Hour": 820,
+            "contractDeployers24Hour": 21
           },
           "financial": {
-            "feesTotal24HourUsd": 3600.426350009854,
-            "feeMedian24HourUsd": 0.0012920447960746515,
-            "rolling7dAvgFeeUsd": 6953.357440170666,
-            "avgFeePerTxn24HourUsd": 0.003849792830834316,
-            "feesSupplySide24HourUsd": null,
-            "expenses24HourUsd": null,
-            "revenue24HourUsd": null,
-            "tokenIncentives24HourUsd": 0
-          },
-          "stablecoin": {
-            "mints24HourUsd": null,
-            "burns24HourUsd": null,
-            "outstandingSupplyUsd": null,
-            "transferVolumeUsd": null
-          },
-          "ecosystem": {
-            "tvl24HourUsd": null,
-            "dexVolume24HourUsd": null,
-            "coreCommits24Hour": 0,
-            "activeDevelopers24Hour": 20,
-            "ecosystemCommits24Hour": null
-          }
-        }
-      },
-      {
-        "id": "60b82a80-8324-4d5f-bfe5-7e756b0023f9",
-        "name": "Avalanche",
-        "slug": "avalanche",
-        "metrics": {
-          "activity": {
-            "blockTimeMs": 1751.627,
-            "txnCount24Hour": 843336,
-            "activeAddresses24Hour": 49715,
-            "newContractsDeployed24Hour": 277530,
-            "contractDeployers24Hour": 150
-          },
-          "financial": {
-            "feesTotal24HourUsd": 7410.614508943929,
-            "feeMedian24HourUsd": 0.00012344223337462497,
-            "rolling7dAvgFeeUsd": 28756.358641318682,
-            "avgFeePerTxn24HourUsd": 0.00878726214574491,
+            "feesTotal24HourUsd": 894.723900652108,
+            "feeMedian24HourUsd": 0.0012754412179671,
+            "rolling7dAvgFeeUsd": 807.1508520393426,
+            "avgFeePerTxn24HourUsd": 0.0007347696838629,
             "feesSupplySide24HourUsd": 0,
-            "expenses24HourUsd": null,
-            "revenue24HourUsd": 7419.149943819575,
-            "tokenIncentives24HourUsd": null
+            "expenses24HourUsd": 0,
+            "revenue24HourUsd": 894.723900652108,
+            "tokenIncentives24HourUsd": 0
           },
           "stablecoin": {
-            "mints24HourUsd": 0,
-            "burns24HourUsd": 0,
-            "outstandingSupplyUsd": 543386684.7094983,
-            "transferVolumeUsd": 491821861.6032107
+            "mints24HourUsd": null,
+            "burns24HourUsd": null,
+            "outstandingSupplyUsd": 121521538.90349396,
+            "transferVolumeUsd": 20520291.34196267
           },
           "ecosystem": {
-            "tvl24HourUsd": 2648684259.351294,
-            "dexVolume24HourUsd": 100416496.19280542,
-            "coreCommits24Hour": 2,
-            "activeDevelopers24Hour": 61,
-            "ecosystemCommits24Hour": 2
+            "tvl24HourUsd": 20817160.276603576,
+            "dexVolume24HourUsd": null,
+            "coreCommits24Hour": 36,
+            "activeDevelopers24Hour": 34,
+            "ecosystemCommits24Hour": 36
           }
         }
       },
@@ -526,20 +489,20 @@
         "slug": "gravityalpha",
         "metrics": {
           "activity": {
-            "blockTimeMs": 294.081,
-            "txnCount24Hour": 815667,
-            "activeAddresses24Hour": 194786,
-            "newContractsDeployed24Hour": 46,
-            "contractDeployers24Hour": 21
+            "blockTimeMs": 308.45,
+            "txnCount24Hour": 943818,
+            "activeAddresses24Hour": 206601,
+            "newContractsDeployed24Hour": 14,
+            "contractDeployers24Hour": 8
           },
           "financial": {
-            "feesTotal24HourUsd": 868.6693328376798,
-            "feeMedian24HourUsd": 0.0014150926152718,
-            "rolling7dAvgFeeUsd": 888.1925246353658,
-            "avgFeePerTxn24HourUsd": 0.001064980356981,
+            "feesTotal24HourUsd": 1151.3470296062,
+            "feeMedian24HourUsd": 0.0014641911368767,
+            "rolling7dAvgFeeUsd": 1019.7315392189155,
+            "avgFeePerTxn24HourUsd": 0.0012198824663295,
             "feesSupplySide24HourUsd": 0,
             "expenses24HourUsd": null,
-            "revenue24HourUsd": 868.6693328376798,
+            "revenue24HourUsd": 1151.3470296062,
             "tokenIncentives24HourUsd": null
           },
           "stablecoin": {
@@ -563,21 +526,21 @@
         "slug": "ronin",
         "metrics": {
           "activity": {
-            "blockTimeMs": 3000.035,
-            "txnCount24Hour": 681481,
-            "activeAddresses24Hour": 263534,
+            "blockTimeMs": 3000.208,
+            "txnCount24Hour": 691329,
+            "activeAddresses24Hour": 276369,
             "newContractsDeployed24Hour": null,
             "contractDeployers24Hour": null
           },
           "financial": {
-            "feesTotal24HourUsd": 1110.1806477788768,
-            "feeMedian24HourUsd": 0.0006691734379859,
-            "rolling7dAvgFeeUsd": 1126.5780369663828,
-            "avgFeePerTxn24HourUsd": 0.0016290705797797,
-            "feesSupplySide24HourUsd": 1053.1857647964164,
-            "expenses24HourUsd": 746.3636488019297,
-            "revenue24HourUsd": 56.994882982460446,
-            "tokenIncentives24HourUsd": 746.3636488019297
+            "feesTotal24HourUsd": 1157.5994119993052,
+            "feeMedian24HourUsd": 0.0007055084973411,
+            "rolling7dAvgFeeUsd": 1149.1901625454539,
+            "avgFeePerTxn24HourUsd": 0.0016744551610004,
+            "feesSupplySide24HourUsd": 1098.419520298377,
+            "expenses24HourUsd": 770.1462749072214,
+            "revenue24HourUsd": 59.17989170092829,
+            "tokenIncentives24HourUsd": 770.1462749072214
           },
           "stablecoin": {
             "mints24HourUsd": null,
@@ -586,7 +549,7 @@
             "transferVolumeUsd": null
           },
           "ecosystem": {
-            "tvl24HourUsd": 26976326.244353674,
+            "tvl24HourUsd": 27493669.620658513,
             "dexVolume24HourUsd": null,
             "coreCommits24Hour": 0,
             "activeDevelopers24Hour": 1,
@@ -600,21 +563,21 @@
         "slug": "bitcoin",
         "metrics": {
           "activity": {
-            "blockTimeMs": 561876.623,
-            "txnCount24Hour": 586276,
-            "activeAddresses24Hour": 396990,
+            "blockTimeMs": 522161.677,
+            "txnCount24Hour": 619514,
+            "activeAddresses24Hour": 511721,
             "newContractsDeployed24Hour": null,
             "contractDeployers24Hour": null
           },
           "financial": {
-            "feesTotal24HourUsd": 359364.7992047325,
-            "feeMedian24HourUsd": 0.05668194724502031,
-            "rolling7dAvgFeeUsd": 601482.1758135044,
-            "avgFeePerTxn24HourUsd": 0.6129618118509584,
-            "feesSupplySide24HourUsd": 358753.7548529793,
-            "expenses24HourUsd": 53395695.6205696,
+            "feesTotal24HourUsd": 514849.9740551673,
+            "feeMedian24HourUsd": 0.1695185885306113,
+            "rolling7dAvgFeeUsd": 512642.80689761136,
+            "avgFeePerTxn24HourUsd": 0.8310546235519574,
+            "feesSupplySide24HourUsd": 516722.19304235815,
+            "expenses24HourUsd": 58413960.42179249,
             "revenue24HourUsd": 0,
-            "tokenIncentives24HourUsd": 53395695.6205696
+            "tokenIncentives24HourUsd": 58413960.42179249
           },
           "stablecoin": {
             "mints24HourUsd": null,
@@ -623,11 +586,48 @@
             "transferVolumeUsd": null
           },
           "ecosystem": {
-            "tvl24HourUsd": 1317578195.3527286,
+            "tvl24HourUsd": 1310426241.2746792,
             "dexVolume24HourUsd": null,
-            "coreCommits24Hour": 0,
+            "coreCommits24Hour": 16,
             "activeDevelopers24Hour": 19,
-            "ecosystemCommits24Hour": 0
+            "ecosystemCommits24Hour": 16
+          }
+        }
+      },
+      {
+        "id": "2a1d6fb1-467e-4541-9318-fd747997a431",
+        "name": "Starknet",
+        "slug": "starknet",
+        "metrics": {
+          "activity": {
+            "blockTimeMs": 4340.936,
+            "txnCount24Hour": 592125,
+            "activeAddresses24Hour": 2988,
+            "newContractsDeployed24Hour": null,
+            "contractDeployers24Hour": null
+          },
+          "financial": {
+            "feesTotal24HourUsd": 5301.54719133065,
+            "feeMedian24HourUsd": 0.001504162544176622,
+            "rolling7dAvgFeeUsd": 3655.2616061153312,
+            "avgFeePerTxn24HourUsd": 0.00895342569783517,
+            "feesSupplySide24HourUsd": null,
+            "expenses24HourUsd": null,
+            "revenue24HourUsd": null,
+            "tokenIncentives24HourUsd": 0
+          },
+          "stablecoin": {
+            "mints24HourUsd": null,
+            "burns24HourUsd": null,
+            "outstandingSupplyUsd": null,
+            "transferVolumeUsd": null
+          },
+          "ecosystem": {
+            "tvl24HourUsd": null,
+            "dexVolume24HourUsd": null,
+            "coreCommits24Hour": 2,
+            "activeDevelopers24Hour": 19,
+            "ecosystemCommits24Hour": null
           }
         }
       },
@@ -638,16 +638,16 @@
         "metrics": {
           "activity": {
             "blockTimeMs": null,
-            "txnCount24Hour": 513917,
-            "activeAddresses24Hour": 8530,
+            "txnCount24Hour": 476193,
+            "activeAddresses24Hour": 8555,
             "newContractsDeployed24Hour": 10,
             "contractDeployers24Hour": 1
           },
           "financial": {
-            "feesTotal24HourUsd": 74.12417151446435,
+            "feesTotal24HourUsd": 74.67379762229294,
             "feeMedian24HourUsd": null,
-            "rolling7dAvgFeeUsd": 75.94439331452,
-            "avgFeePerTxn24HourUsd": 0.0001442337410797159,
+            "rolling7dAvgFeeUsd": 75.01758333953846,
+            "avgFeePerTxn24HourUsd": 0.00015681414389185255,
             "feesSupplySide24HourUsd": null,
             "expenses24HourUsd": null,
             "revenue24HourUsd": null,
@@ -674,21 +674,21 @@
         "slug": "sonic",
         "metrics": {
           "activity": {
-            "blockTimeMs": 890.96,
-            "txnCount24Hour": 169331,
-            "activeAddresses24Hour": 13911,
-            "newContractsDeployed24Hour": 324,
-            "contractDeployers24Hour": 95
+            "blockTimeMs": 757.505,
+            "txnCount24Hour": 238948,
+            "activeAddresses24Hour": 14416,
+            "newContractsDeployed24Hour": 336,
+            "contractDeployers24Hour": 106
           },
           "financial": {
-            "feesTotal24HourUsd": 1263.3955838584898,
-            "feeMedian24HourUsd": 0.0046016994804545,
-            "rolling7dAvgFeeUsd": 1865.0028260867518,
-            "avgFeePerTxn24HourUsd": 0.0074611003529093,
-            "feesSupplySide24HourUsd": 126.33955838584892,
-            "expenses24HourUsd": 92.8660108682015,
-            "revenue24HourUsd": 1137.0560254726408,
-            "tokenIncentives24HourUsd": 92.8660108682015
+            "feesTotal24HourUsd": 1924.8588208119509,
+            "feeMedian24HourUsd": 0.0040304890167745,
+            "rolling7dAvgFeeUsd": 1725.345830878347,
+            "avgFeePerTxn24HourUsd": 0.0080555552706528,
+            "feesSupplySide24HourUsd": 192.4858820811951,
+            "expenses24HourUsd": 128.30265072581034,
+            "revenue24HourUsd": 1732.3729387307558,
+            "tokenIncentives24HourUsd": 128.30265072581034
           },
           "stablecoin": {
             "mints24HourUsd": null,
@@ -697,9 +697,9 @@
             "transferVolumeUsd": null
           },
           "ecosystem": {
-            "tvl24HourUsd": 430922625.7712624,
+            "tvl24HourUsd": 451632449.65246403,
             "dexVolume24HourUsd": null,
-            "coreCommits24Hour": 0,
+            "coreCommits24Hour": 2,
             "activeDevelopers24Hour": 15,
             "ecosystemCommits24Hour": null
           }
@@ -711,21 +711,21 @@
         "slug": "polkadot",
         "metrics": {
           "activity": {
-            "blockTimeMs": 6035.205,
-            "txnCount24Hour": 38081,
-            "activeAddresses24Hour": 3807,
+            "blockTimeMs": 6023.844,
+            "txnCount24Hour": 39152,
+            "activeAddresses24Hour": 4400,
             "newContractsDeployed24Hour": null,
             "contractDeployers24Hour": null
           },
           "financial": {
-            "feesTotal24HourUsd": 740.2748334576941,
-            "feeMedian24HourUsd": 0.064182106290072,
-            "rolling7dAvgFeeUsd": 627.8650089234716,
-            "avgFeePerTxn24HourUsd": 0.019439479883871,
-            "feesSupplySide24HourUsd": 150.30454771526024,
-            "expenses24HourUsd": 1131001.3188826323,
-            "revenue24HourUsd": 589.9702857424338,
-            "tokenIncentives24HourUsd": 1131001.3188826323
+            "feesTotal24HourUsd": 846.534641721094,
+            "feeMedian24HourUsd": 0.066499584981432,
+            "rolling7dAvgFeeUsd": 673.7624767775866,
+            "avgFeePerTxn24HourUsd": 0.0216217470811476,
+            "feesSupplySide24HourUsd": 181.13367558993156,
+            "expenses24HourUsd": 1137363.4597143151,
+            "revenue24HourUsd": 665.4009661311625,
+            "tokenIncentives24HourUsd": 1137363.4597143151
           },
           "stablecoin": {
             "mints24HourUsd": null,
@@ -736,8 +736,8 @@
           "ecosystem": {
             "tvl24HourUsd": null,
             "dexVolume24HourUsd": null,
-            "coreCommits24Hour": 3,
-            "activeDevelopers24Hour": 81,
+            "coreCommits24Hour": 17,
+            "activeDevelopers24Hour": 85,
             "ecosystemCommits24Hour": 0
           }
         }
@@ -748,21 +748,21 @@
         "slug": "kusama",
         "metrics": {
           "activity": {
-            "blockTimeMs": 6084.507,
-            "txnCount24Hour": 33169,
-            "activeAddresses24Hour": 347,
+            "blockTimeMs": 6122.015,
+            "txnCount24Hour": 31571,
+            "activeAddresses24Hour": 414,
             "newContractsDeployed24Hour": null,
             "contractDeployers24Hour": null
           },
           "financial": {
-            "feesTotal24HourUsd": 65.05086215411399,
+            "feesTotal24HourUsd": 55.36484214192028,
             "feeMedian24HourUsd": null,
-            "rolling7dAvgFeeUsd": 66.1875825577832,
-            "avgFeePerTxn24HourUsd": 0.0019611945537735,
-            "feesSupplySide24HourUsd": 13.010172430822797,
-            "expenses24HourUsd": 51213.40075694181,
-            "revenue24HourUsd": 52.04068972329119,
-            "tokenIncentives24HourUsd": 51213.40075694181
+            "rolling7dAvgFeeUsd": 63.21130549272302,
+            "avgFeePerTxn24HourUsd": 0.0017536613392645,
+            "feesSupplySide24HourUsd": 11.072968428384057,
+            "expenses24HourUsd": 51950.76966903588,
+            "revenue24HourUsd": 44.29187371353622,
+            "tokenIncentives24HourUsd": 51950.76966903588
           },
           "stablecoin": {
             "mints24HourUsd": null,
@@ -773,9 +773,9 @@
           "ecosystem": {
             "tvl24HourUsd": null,
             "dexVolume24HourUsd": null,
-            "coreCommits24Hour": 3,
-            "activeDevelopers24Hour": 81,
-            "ecosystemCommits24Hour": 3
+            "coreCommits24Hour": 17,
+            "activeDevelopers24Hour": 85,
+            "ecosystemCommits24Hour": 17
           }
         }
       },
@@ -786,16 +786,16 @@
         "metrics": {
           "activity": {
             "blockTimeMs": null,
-            "txnCount24Hour": 14073,
-            "activeAddresses24Hour": 9796,
-            "newContractsDeployed24Hour": 15,
+            "txnCount24Hour": 15273,
+            "activeAddresses24Hour": 9678,
+            "newContractsDeployed24Hour": 7,
             "contractDeployers24Hour": 1
           },
           "financial": {
-            "feesTotal24HourUsd": 5.929657967825278,
+            "feesTotal24HourUsd": 7.2502631400759086,
             "feeMedian24HourUsd": null,
-            "rolling7dAvgFeeUsd": 9.218263728527555,
-            "avgFeePerTxn24HourUsd": 0.00042134995863179694,
+            "rolling7dAvgFeeUsd": 8.715215490980093,
+            "avgFeePerTxn24HourUsd": 0.00047471113337758844,
             "feesSupplySide24HourUsd": null,
             "expenses24HourUsd": null,
             "revenue24HourUsd": null,
@@ -823,16 +823,16 @@
         "metrics": {
           "activity": {
             "blockTimeMs": null,
-            "txnCount24Hour": 6173,
-            "activeAddresses24Hour": 1152,
-            "newContractsDeployed24Hour": 11,
-            "contractDeployers24Hour": 11
+            "txnCount24Hour": 6600,
+            "activeAddresses24Hour": 1114,
+            "newContractsDeployed24Hour": 23,
+            "contractDeployers24Hour": 17
           },
           "financial": {
-            "feesTotal24HourUsd": 67.36414080420307,
+            "feesTotal24HourUsd": 62.152089651074135,
             "feeMedian24HourUsd": 0,
-            "rolling7dAvgFeeUsd": 77.66184670501923,
-            "avgFeePerTxn24HourUsd": 0.01091270707989682,
+            "rolling7dAvgFeeUsd": 89.62930123303806,
+            "avgFeePerTxn24HourUsd": 0.009416983280465778,
             "feesSupplySide24HourUsd": null,
             "expenses24HourUsd": null,
             "revenue24HourUsd": null,
@@ -860,16 +860,16 @@
         "metrics": {
           "activity": {
             "blockTimeMs": null,
-            "txnCount24Hour": 4432,
-            "activeAddresses24Hour": 52,
-            "newContractsDeployed24Hour": 2353,
+            "txnCount24Hour": 3853,
+            "activeAddresses24Hour": 67,
+            "newContractsDeployed24Hour": 1969,
             "contractDeployers24Hour": 1
           },
           "financial": {
-            "feesTotal24HourUsd": 0.26803735715038723,
+            "feesTotal24HourUsd": 0.4827656818455221,
             "feeMedian24HourUsd": null,
-            "rolling7dAvgFeeUsd": 0.6677597471270554,
-            "avgFeePerTxn24HourUsd": 6.04777430393473e-05,
+            "rolling7dAvgFeeUsd": 0.6242404104733442,
+            "avgFeePerTxn24HourUsd": 0.00012529605031028345,
             "feesSupplySide24HourUsd": null,
             "expenses24HourUsd": null,
             "revenue24HourUsd": null,
@@ -887,43 +887,6 @@
             "coreCommits24Hour": null,
             "activeDevelopers24Hour": null,
             "ecosystemCommits24Hour": null
-          }
-        }
-      },
-      {
-        "id": "25f028e3-06fe-4a57-8eb8-96078f4bee43",
-        "name": "Filecoin",
-        "slug": "filecoin",
-        "metrics": {
-          "activity": {
-            "blockTimeMs": null,
-            "txnCount24Hour": null,
-            "activeAddresses24Hour": null,
-            "newContractsDeployed24Hour": null,
-            "contractDeployers24Hour": null
-          },
-          "financial": {
-            "feesTotal24HourUsd": 0,
-            "feeMedian24HourUsd": null,
-            "rolling7dAvgFeeUsd": 4025.90491537632,
-            "avgFeePerTxn24HourUsd": null,
-            "feesSupplySide24HourUsd": 0,
-            "expenses24HourUsd": 0,
-            "revenue24HourUsd": 0,
-            "tokenIncentives24HourUsd": 0
-          },
-          "stablecoin": {
-            "mints24HourUsd": null,
-            "burns24HourUsd": null,
-            "outstandingSupplyUsd": null,
-            "transferVolumeUsd": null
-          },
-          "ecosystem": {
-            "tvl24HourUsd": null,
-            "dexVolume24HourUsd": null,
-            "coreCommits24Hour": 3,
-            "activeDevelopers24Hour": 39,
-            "ecosystemCommits24Hour": 3
           }
         }
       },
@@ -961,6 +924,43 @@
             "coreCommits24Hour": null,
             "activeDevelopers24Hour": null,
             "ecosystemCommits24Hour": null
+          }
+        }
+      },
+      {
+        "id": "25f028e3-06fe-4a57-8eb8-96078f4bee43",
+        "name": "Filecoin",
+        "slug": "filecoin",
+        "metrics": {
+          "activity": {
+            "blockTimeMs": null,
+            "txnCount24Hour": null,
+            "activeAddresses24Hour": null,
+            "newContractsDeployed24Hour": null,
+            "contractDeployers24Hour": null
+          },
+          "financial": {
+            "feesTotal24HourUsd": 0,
+            "feeMedian24HourUsd": null,
+            "rolling7dAvgFeeUsd": 3952.286573712856,
+            "avgFeePerTxn24HourUsd": null,
+            "feesSupplySide24HourUsd": 0,
+            "expenses24HourUsd": 0,
+            "revenue24HourUsd": 0,
+            "tokenIncentives24HourUsd": 0
+          },
+          "stablecoin": {
+            "mints24HourUsd": null,
+            "burns24HourUsd": null,
+            "outstandingSupplyUsd": null,
+            "transferVolumeUsd": null
+          },
+          "ecosystem": {
+            "tvl24HourUsd": null,
+            "dexVolume24HourUsd": null,
+            "coreCommits24Hour": 9,
+            "activeDevelopers24Hour": 42,
+            "ecosystemCommits24Hour": 9
           }
         }
       }

@@ -1,8 +1,8 @@
 {
   "id": "parent#dydx",
   "name": "dYdX",
-  "url": "https://dydx.trade/?ref=DefiLlama",
-  "referralUrl": "https://dydx.trade/?ref=DefiLlama",
+  "url": "https://dydx.trade?ref=LoneHull0UN",
+  "referralUrl": "https://dydx.trade?ref=LoneHull0UN",
   "description": "The most powerful open trading platform for crypto assets. Margin trade, borrow, and lend cryptocurrency.",
   "logo": "https://icons.llama.fi/dydx.jpg",
   "gecko_id": "dydx-chain",
@@ -20,8 +20,8 @@
   "symbol": "DYDX",
   "address": "0x92d6c1e31e14520e676a687f0a93788b716beff5",
   "currentChainTvls": {
-    "Ethereum": 43292747,
-    "dYdX": 262564479
+    "Ethereum": 43365549,
+    "dYdX": 262787621
   },
   "chainTvls": {
     "Ethereum": {
@@ -7087,8 +7087,16 @@
           "totalLiquidityUSD": 43316327
         },
         {
-          "date": 1757370527,
-          "totalLiquidityUSD": 43292747
+          "date": 1757376000,
+          "totalLiquidityUSD": 43285053
+        },
+        {
+          "date": 1757462400,
+          "totalLiquidityUSD": 43299300
+        },
+        {
+          "date": 1757508767,
+          "totalLiquidityUSD": 43365549
         }
       ],
       "tokensInUsd": [
@@ -18365,12 +18373,30 @@
           }
         },
         {
-          "date": 1757370527,
+          "date": 1757376000,
           "tokens": {
-            "SAI": 457.41969,
-            "WETH": 7498665.96267,
-            "USDC": 34532949.32068,
+            "SAI": 459.44726,
+            "WETH": 7491132.29655,
+            "USDC": 34533052.93994,
+            "DAI": 1260408.62905
+          }
+        },
+        {
+          "date": 1757462400,
+          "tokens": {
+            "SAI": 462.28586,
+            "WETH": 7506147.31166,
+            "USDC": 34532016.74733,
             "DAI": 1260674.6314
+          }
+        },
+        {
+          "date": 1757508767,
+          "tokens": {
+            "SAI": 460.25829,
+            "WETH": 7574944.33213,
+            "USDC": 34529944.36211,
+            "DAI": 1260200.61773
           }
         }
       ],
@@ -29648,7 +29674,25 @@
           }
         },
         {
-          "date": 1757370527,
+          "date": 1757376000,
+          "tokens": {
+            "SAI": 20.2757,
+            "WETH": 1743.90419,
+            "USDC": 34539753.65215,
+            "DAI": 1260674.6314
+          }
+        },
+        {
+          "date": 1757462400,
+          "tokens": {
+            "SAI": 20.2757,
+            "WETH": 1743.90419,
+            "USDC": 34539753.65215,
+            "DAI": 1260674.6314
+          }
+        },
+        {
+          "date": 1757508767,
           "tokens": {
             "SAI": 20.2757,
             "WETH": 1743.90419,
@@ -31805,8 +31849,16 @@
           "totalLiquidityUSD": 262990809
         },
         {
-          "date": 1757370527,
-          "totalLiquidityUSD": 262564479
+          "date": 1757376000,
+          "totalLiquidityUSD": 262540372
+        },
+        {
+          "date": 1757462400,
+          "totalLiquidityUSD": 262688153
+        },
+        {
+          "date": 1757508767,
+          "totalLiquidityUSD": 262787621
         }
       ],
       "tokensInUsd": [
@@ -35027,9 +35079,21 @@
           }
         },
         {
-          "date": 1757370527,
+          "date": 1757376000,
           "tokens": {
-            "USDC": 262564479.39899
+            "USDC": 262540372.17877
+          }
+        },
+        {
+          "date": 1757462400,
+          "tokens": {
+            "USDC": 262688153.84233
+          }
+        },
+        {
+          "date": 1757508767,
+          "tokens": {
+            "USDC": 262787621.20681
           }
         }
       ],
@@ -38251,9 +38315,21 @@
           }
         },
         {
-          "date": 1757370527,
+          "date": 1757376000,
           "tokens": {
-            "USDC": 262615164.12567
+            "USDC": 262597355.80498
+          }
+        },
+        {
+          "date": 1757462400,
+          "tokens": {
+            "USDC": 262740439.18973
+          }
+        },
+        {
+          "date": 1757508767,
+          "tokens": {
+            "USDC": 262862274.09265
           }
         }
       ]
@@ -52449,11 +52525,29 @@
       }
     },
     {
-      "date": 1757370527,
+      "date": 1757376000,
       "tokens": {
         "SAI": 20.2757,
         "WETH": 1743.90419,
-        "USDC": 297154917.77782,
+        "USDC": 297137109.45713,
+        "DAI": 1260674.6314
+      }
+    },
+    {
+      "date": 1757462400,
+      "tokens": {
+        "SAI": 20.2757,
+        "WETH": 1743.90419,
+        "USDC": 297280192.84187996,
+        "DAI": 1260674.6314
+      }
+    },
+    {
+      "date": 1757508767,
+      "tokens": {
+        "SAI": 20.2757,
+        "WETH": 1743.90419,
+        "USDC": 297402027.7448,
         "DAI": 1260674.6314
       }
     }
@@ -66648,12 +66742,30 @@
       }
     },
     {
-      "date": 1757370527,
+      "date": 1757376000,
       "tokens": {
-        "SAI": 457.41969,
-        "WETH": 7498665.96267,
-        "USDC": 297097428.71967,
+        "SAI": 459.44726,
+        "WETH": 7491132.29655,
+        "USDC": 297073425.11871,
+        "DAI": 1260408.62905
+      }
+    },
+    {
+      "date": 1757462400,
+      "tokens": {
+        "SAI": 462.28586,
+        "WETH": 7506147.31166,
+        "USDC": 297220170.58966,
         "DAI": 1260674.6314
+      }
+    },
+    {
+      "date": 1757508767,
+      "tokens": {
+        "SAI": 460.25829,
+        "WETH": 7574944.33213,
+        "USDC": 297317565.56892,
+        "DAI": 1260200.61773
       }
     }
   ],
@@ -73719,8 +73831,16 @@
       "totalLiquidityUSD": 306307136
     },
     {
-      "date": 1757370527,
-      "totalLiquidityUSD": 305857226
+      "date": 1757376000,
+      "totalLiquidityUSD": 305825425
+    },
+    {
+      "date": 1757462400,
+      "totalLiquidityUSD": 305987453
+    },
+    {
+      "date": 1757508767,
+      "totalLiquidityUSD": 306153170
     }
   ],
   "isParentProtocol": true,
@@ -73827,7 +73947,7 @@
       "defillamaId": "144"
     }
   ],
-  "mcap": 485087773.54014987,
+  "mcap": 503164371.2817033,
   "otherProtocols": [
     "dYdX",
     "dYdX V4",

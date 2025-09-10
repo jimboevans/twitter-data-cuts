@@ -11,7 +11,7 @@
   "methodologyURL": "https://github.com/DefiLlama/dimension-adapters/blob/master/fees/ethereum",
   "methodology": {
     "UserFees": "Gas fees paid by users",
-    "Fees": "Total ETH gas fees paid by users",
+    "Fees": "Total ETH gas fees (including base fees and priority fees) paid by users",
     "Revenue": "Amount of ETH base fees that were burned",
     "HoldersRevenue": "Amount of ETH base fees that were burned"
   },
@@ -46,11 +46,11 @@
   "defaultChartView": null,
   "slug": "ethereum",
   "protocolType": "chain",
-  "total24h": 338840,
-  "total48hto24h": 577308,
-  "total7d": 4060904,
-  "total30d": 16293855,
-  "totalAllTime": 12461697599,
+  "total24h": 320092,
+  "total48hto24h": 359083,
+  "total7d": 2058984,
+  "total30d": 17765931,
+  "totalAllTime": 12469872561,
   "totalDataChart": [
     [
       1438300800,
@@ -9441,6 +9441,10 @@
       908269
     ],
     [
+      1748908800,
+      1045052
+    ],
+    [
       1748995200,
       944421
     ],
@@ -9633,10 +9637,6 @@
       982036
     ],
     [
-      1753142400,
-      648160
-    ],
-    [
       1753228800,
       544722
     ],
@@ -9647,6 +9647,10 @@
     [
       1753401600,
       249992
+    ],
+    [
+      1753488000,
+      162773
     ],
     [
       1753574400,
@@ -9782,7 +9786,55 @@
     ],
     [
       1756425600,
-      338840
+      356138
+    ],
+    [
+      1756512000,
+      135357
+    ],
+    [
+      1756598400,
+      137361
+    ],
+    [
+      1756684800,
+      4670479
+    ],
+    [
+      1756771200,
+      275726
+    ],
+    [
+      1756857600,
+      385297
+    ],
+    [
+      1756944000,
+      386321
+    ],
+    [
+      1757030400,
+      307237
+    ],
+    [
+      1757116800,
+      169252
+    ],
+    [
+      1757203200,
+      109774
+    ],
+    [
+      1757289600,
+      359083
+    ],
+    [
+      1757376000,
+      342020
+    ],
+    [
+      1757462400,
+      320092
     ]
   ],
   "totalDataChartBreakdown": [
@@ -28563,6 +28615,14 @@
       }
     ],
     [
+      1748908800,
+      {
+        "Ethereum": {
+          "Ethereum": 1045052
+        }
+      }
+    ],
+    [
       1748995200,
       {
         "Ethereum": {
@@ -28947,14 +29007,6 @@
       }
     ],
     [
-      1753142400,
-      {
-        "Ethereum": {
-          "Ethereum": 648160
-        }
-      }
-    ],
-    [
       1753228800,
       {
         "Ethereum": {
@@ -28975,6 +29027,14 @@
       {
         "Ethereum": {
           "Ethereum": 249992
+        }
+      }
+    ],
+    [
+      1753488000,
+      {
+        "Ethereum": {
+          "Ethereum": 162773
         }
       }
     ],
@@ -29246,10 +29306,106 @@
       1756425600,
       {
         "Ethereum": {
-          "Ethereum": 338840
+          "Ethereum": 356138
+        }
+      }
+    ],
+    [
+      1756512000,
+      {
+        "Ethereum": {
+          "Ethereum": 135357
+        }
+      }
+    ],
+    [
+      1756598400,
+      {
+        "Ethereum": {
+          "Ethereum": 137361
+        }
+      }
+    ],
+    [
+      1756684800,
+      {
+        "Ethereum": {
+          "Ethereum": 4670479
+        }
+      }
+    ],
+    [
+      1756771200,
+      {
+        "Ethereum": {
+          "Ethereum": 275726
+        }
+      }
+    ],
+    [
+      1756857600,
+      {
+        "Ethereum": {
+          "Ethereum": 385297
+        }
+      }
+    ],
+    [
+      1756944000,
+      {
+        "Ethereum": {
+          "Ethereum": 386321
+        }
+      }
+    ],
+    [
+      1757030400,
+      {
+        "Ethereum": {
+          "Ethereum": 307237
+        }
+      }
+    ],
+    [
+      1757116800,
+      {
+        "Ethereum": {
+          "Ethereum": 169252
+        }
+      }
+    ],
+    [
+      1757203200,
+      {
+        "Ethereum": {
+          "Ethereum": 109774
+        }
+      }
+    ],
+    [
+      1757289600,
+      {
+        "Ethereum": {
+          "Ethereum": 359083
+        }
+      }
+    ],
+    [
+      1757376000,
+      {
+        "Ethereum": {
+          "Ethereum": 342020
+        }
+      }
+    ],
+    [
+      1757462400,
+      {
+        "Ethereum": {
+          "Ethereum": 320092
         }
       }
     ]
   ],
-  "change_1d": -41.31
+  "change_1d": -10.86
 }

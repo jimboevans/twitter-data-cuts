@@ -55,11 +55,11 @@
   "defaultChartView": null,
   "slug": "spiko",
   "protocolType": "protocol",
-  "total24h": 2453,
-  "total48hto24h": 2365,
-  "total7d": 16723,
-  "total30d": 67736,
-  "totalAllTime": 619906,
+  "total24h": 2465,
+  "total48hto24h": 2493,
+  "total7d": 17287,
+  "total30d": 72253,
+  "totalAllTime": 649403,
   "totalDataChart": [
     [
       1713657600,
@@ -2044,6 +2044,54 @@
     [
       1756425600,
       2453
+    ],
+    [
+      1756512000,
+      2453
+    ],
+    [
+      1756598400,
+      2453
+    ],
+    [
+      1756684800,
+      2426
+    ],
+    [
+      1756771200,
+      2413
+    ],
+    [
+      1756857600,
+      2405
+    ],
+    [
+      1756944000,
+      2455
+    ],
+    [
+      1757030400,
+      2485
+    ],
+    [
+      1757116800,
+      2485
+    ],
+    [
+      1757203200,
+      2485
+    ],
+    [
+      1757289600,
+      2493
+    ],
+    [
+      1757376000,
+      2479
+    ],
+    [
+      1757462400,
+      2465
     ]
   ],
   "totalDataChartBreakdown": [
@@ -7462,14 +7510,146 @@
     [
       1756425600,
       {
+        "Ethereum": {
+          "Spiko": 537
+        },
         "Polygon": {
           "Spiko": 1916
+        }
+      }
+    ],
+    [
+      1756512000,
+      {
+        "Ethereum": {
+          "Spiko": 537
+        },
+        "Polygon": {
+          "Spiko": 1916
+        }
+      }
+    ],
+    [
+      1756598400,
+      {
+        "Ethereum": {
+          "Spiko": 537
+        },
+        "Polygon": {
+          "Spiko": 1916
+        }
+      }
+    ],
+    [
+      1756684800,
+      {
+        "Ethereum": {
+          "Spiko": 537
+        },
+        "Polygon": {
+          "Spiko": 1889
+        }
+      }
+    ],
+    [
+      1756771200,
+      {
+        "Ethereum": {
+          "Spiko": 536
+        },
+        "Polygon": {
+          "Spiko": 1877
+        }
+      }
+    ],
+    [
+      1756857600,
+      {
+        "Ethereum": {
+          "Spiko": 536
+        },
+        "Polygon": {
+          "Spiko": 1869
+        }
+      }
+    ],
+    [
+      1756944000,
+      {
+        "Polygon": {
+          "Spiko": 1919
+        },
+        "Ethereum": {
+          "Spiko": 536
+        }
+      }
+    ],
+    [
+      1757030400,
+      {
+        "Polygon": {
+          "Spiko": 1948
         },
         "Ethereum": {
           "Spiko": 537
         }
       }
+    ],
+    [
+      1757116800,
+      {
+        "Polygon": {
+          "Spiko": 1948
+        },
+        "Ethereum": {
+          "Spiko": 537
+        }
+      }
+    ],
+    [
+      1757203200,
+      {
+        "Polygon": {
+          "Spiko": 1948
+        },
+        "Ethereum": {
+          "Spiko": 537
+        }
+      }
+    ],
+    [
+      1757289600,
+      {
+        "Polygon": {
+          "Spiko": 1957
+        },
+        "Ethereum": {
+          "Spiko": 536
+        }
+      }
+    ],
+    [
+      1757376000,
+      {
+        "Polygon": {
+          "Spiko": 1943
+        },
+        "Ethereum": {
+          "Spiko": 536
+        }
+      }
+    ],
+    [
+      1757462400,
+      {
+        "Polygon": {
+          "Spiko": 1943
+        },
+        "Ethereum": {
+          "Spiko": 522
+        }
+      }
     ]
   ],
-  "change_1d": 3.72
+  "change_1d": -1.12
 }

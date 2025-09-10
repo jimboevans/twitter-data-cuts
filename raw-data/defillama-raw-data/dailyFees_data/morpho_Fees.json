@@ -7,25 +7,7 @@
   "gecko_id": "morpho",
   "cmcId": null,
   "chains": [
-    "Ethereum",
-    "Base",
-    "Polygon",
-    "Unichain",
-    "Katana",
-    "Arbitrum",
-    "Fraxtal",
-    "Ink",
-    "OP Mainnet",
-    "Scroll",
-    "World Chain",
-    "Mode",
-    "Corn",
-    "Hemi",
-    "Sonic",
-    "Hyperliquid L1",
-    "Soneium",
-    "TAC",
-    "Zircuit"
+    "Ethereum"
   ],
   "twitter": "MorphoLabs",
   "governanceID": [
@@ -112,25 +94,7 @@
       "category": "Lending",
       "logo": "https://icons.llamao.fi/icons/protocols/morpho-blue.png",
       "chains": [
-        "ethereum",
-        "base",
-        "polygon",
-        "unichain",
-        "katana",
-        "arbitrum",
-        "fraxtal",
-        "ink",
-        "optimism",
-        "scroll",
-        "wc",
-        "mode",
-        "corn",
-        "hemi",
-        "sonic",
-        "hyperliquid",
-        "soneium",
-        "tac",
-        "zircuit"
+        "ethereum"
       ],
       "methodologyURL": "https://github.com/DefiLlama/dimension-adapters/blob/master/fees/morpho",
       "methodology": {
@@ -175,11 +139,11 @@
   "defaultChartView": null,
   "slug": "morpho",
   "protocolType": "protocol",
-  "total24h": 779320,
-  "total48hto24h": 779320,
-  "total7d": 5216481,
-  "total30d": 19535060,
-  "totalAllTime": 144087286,
+  "total24h": 579569,
+  "total48hto24h": 524379,
+  "total7d": 3916702,
+  "total30d": 18509804,
+  "totalAllTime": 145588333,
   "totalDataChart": [
     [
       1707955200,
@@ -2451,15 +2415,31 @@
     ],
     [
       1756944000,
-      735556
+      497267
     ],
     [
       1757030400,
-      774739
+      533667
     ],
     [
       1757116800,
-      779320
+      521274
+    ],
+    [
+      1757203200,
+      541203
+    ],
+    [
+      1757289600,
+      524379
+    ],
+    [
+      1757376000,
+      579569
+    ],
+    [
+      1757462400,
+      593303
     ]
   ],
   "totalDataChartBreakdown": [
@@ -11076,189 +11056,59 @@
     [
       1756944000,
       {
-        "Mode": {
-          "Morpho Blue": 0
-        },
-        "Scroll": {
-          "Morpho Blue": 0
-        },
-        "OP Mainnet": {
-          "Morpho Blue": 59
-        },
-        "Ink": {
-          "Morpho Blue": 0
-        },
-        "Fraxtal": {
-          "Morpho Blue": 0
-        },
-        "Hemi": {
-          "Morpho Blue": 0
-        },
-        "Sonic": {
-          "Morpho Blue": 0
-        },
-        "Zircuit": {
-          "Morpho Blue": 0
-        },
-        "Corn": {
-          "Morpho Blue": 42
-        },
-        "Katana": {
-          "Morpho Blue": 4770
-        },
-        "Soneium": {
-          "Morpho Blue": 8
-        },
-        "Unichain": {
-          "Morpho Blue": 5610
-        },
-        "Polygon": {
-          "Morpho Blue": 4241
-        },
-        "World Chain": {
-          "Morpho Blue": 1
-        },
-        "Arbitrum": {
-          "Morpho Blue": 4073
-        },
-        "TAC": {
-          "Morpho Blue": 1
-        },
-        "Hyperliquid L1": {
-          "Morpho Blue": 61491
-        },
         "Ethereum": {
-          "Morpho Blue": 494903
-        },
-        "Base": {
-          "Morpho Blue": 160357
+          "Morpho Blue": 497267
         }
       }
     ],
     [
       1757030400,
       {
-        "Mode": {
-          "Morpho Blue": 0
-        },
-        "Hemi": {
-          "Morpho Blue": 0
-        },
-        "Fraxtal": {
-          "Morpho Blue": 0
-        },
-        "Ink": {
-          "Morpho Blue": 0
-        },
-        "Zircuit": {
-          "Morpho Blue": 0
-        },
-        "Corn": {
-          "Morpho Blue": 24
-        },
-        "Scroll": {
-          "Morpho Blue": 0
-        },
-        "Sonic": {
-          "Morpho Blue": 0
-        },
-        "Katana": {
-          "Morpho Blue": 6693
-        },
-        "OP Mainnet": {
-          "Morpho Blue": 25
-        },
-        "Unichain": {
-          "Morpho Blue": 3547
-        },
-        "Polygon": {
-          "Morpho Blue": 5783
-        },
-        "Soneium": {
-          "Morpho Blue": 8
-        },
-        "Arbitrum": {
-          "Morpho Blue": 5276
-        },
-        "TAC": {
-          "Morpho Blue": 35
-        },
-        "World Chain": {
-          "Morpho Blue": 1
-        },
-        "Hyperliquid L1": {
-          "Morpho Blue": 60778
-        },
         "Ethereum": {
-          "Morpho Blue": 532938
-        },
-        "Base": {
-          "Morpho Blue": 159631
+          "Morpho Blue": 533667
         }
       }
     ],
     [
       1757116800,
       {
-        "Mode": {
-          "Morpho Blue": 0
-        },
-        "Sonic": {
-          "Morpho Blue": 0
-        },
-        "Scroll": {
-          "Morpho Blue": 0
-        },
-        "OP Mainnet": {
-          "Morpho Blue": 49
-        },
-        "Ink": {
-          "Morpho Blue": 0
-        },
-        "Fraxtal": {
-          "Morpho Blue": 0
-        },
-        "Hemi": {
-          "Morpho Blue": 0
-        },
-        "Soneium": {
-          "Morpho Blue": 8
-        },
-        "Corn": {
-          "Morpho Blue": 36
-        },
-        "Zircuit": {
-          "Morpho Blue": 0
-        },
-        "Unichain": {
-          "Morpho Blue": 5762
-        },
-        "Katana": {
-          "Morpho Blue": 4504
-        },
-        "Polygon": {
-          "Morpho Blue": 2731
-        },
-        "Arbitrum": {
-          "Morpho Blue": 5577
-        },
-        "TAC": {
-          "Morpho Blue": 35
-        },
-        "Hyperliquid L1": {
-          "Morpho Blue": 69011
-        },
-        "World Chain": {
-          "Morpho Blue": 1
-        },
         "Ethereum": {
-          "Morpho Blue": 532464
-        },
-        "Base": {
-          "Morpho Blue": 159142
+          "Morpho Blue": 521274
+        }
+      }
+    ],
+    [
+      1757203200,
+      {
+        "Ethereum": {
+          "Morpho Blue": 541203
+        }
+      }
+    ],
+    [
+      1757289600,
+      {
+        "Ethereum": {
+          "Morpho Blue": 524379
+        }
+      }
+    ],
+    [
+      1757376000,
+      {
+        "Ethereum": {
+          "Morpho Blue": 579569
+        }
+      }
+    ],
+    [
+      1757462400,
+      {
+        "Ethereum": {
+          "Morpho Blue": 593303
         }
       }
     ]
   ],
-  "change_1d": 0
+  "change_1d": 10.52
 }

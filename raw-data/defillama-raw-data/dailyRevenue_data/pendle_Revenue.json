@@ -57,11 +57,11 @@
   "defaultChartView": null,
   "slug": "pendle",
   "protocolType": "protocol",
-  "total24h": 50486,
-  "total48hto24h": 66346,
-  "total7d": 473808,
-  "total30d": 5857270,
-  "totalAllTime": 48848827,
+  "total24h": 66470,
+  "total48hto24h": 49073,
+  "total7d": 451564,
+  "total30d": 5813468,
+  "totalAllTime": 48979752,
   "totalDataChart": [
     [
       1688688000,
@@ -2612,6 +2612,10 @@
       26730
     ],
     [
+      1743724800,
+      15382
+    ],
+    [
       1743811200,
       9963
     ],
@@ -3226,6 +3230,14 @@
     [
       1757203200,
       50486
+    ],
+    [
+      1757289600,
+      49073
+    ],
+    [
+      1757376000,
+      66470
     ]
   ],
   "totalDataChartBreakdown": [
@@ -15649,6 +15661,35 @@
       }
     ],
     [
+      1743724800,
+      {
+        "Ethereum": {
+          "Pendle": 14350
+        },
+        "Arbitrum": {
+          "Pendle": 424
+        },
+        "BSC": {
+          "Pendle": 433
+        },
+        "OP Mainnet": {
+          "Pendle": 0
+        },
+        "Mantle": {
+          "Pendle": 2
+        },
+        "Base": {
+          "Pendle": 173
+        },
+        "Sonic": {
+          "Pendle": 0
+        },
+        "Berachain": {
+          "Pendle": 0
+        }
+      }
+    ],
+    [
       1743811200,
       {
         "Ethereum": {
@@ -20008,7 +20049,23 @@
           "Pendle": 50486
         }
       }
+    ],
+    [
+      1757289600,
+      {
+        "Ethereum": {
+          "Pendle": 49073
+        }
+      }
+    ],
+    [
+      1757376000,
+      {
+        "Ethereum": {
+          "Pendle": 66470
+        }
+      }
     ]
   ],
-  "change_1d": -23.9
+  "change_1d": 35.45
 }
